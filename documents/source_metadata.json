@@ -1,0 +1,13 @@
+{
+  "title": null,
+  "publisher": null,
+  "authors": [],
+  "publication_date": null,
+  "download_date": null,
+  "original_url": null,
+  "filename": null,
+  "sha256": null,
+  "pages": null,
+  "language": "es",
+  "notes": "PLACEHOLDER. Do not fill in publisher/organisation acronyms (e.g. 'ADLA') until the authoring entity has been verified directly against the source document's own title page, colophon, or metadata. This file is intentionally left null until the source PDF is placed in data/raw/ and its provenance is confirmed."
+}
