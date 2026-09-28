@@ -1,0 +1,15 @@
+metric,value
+claim_candidates_total,635.0
+factual_candidates,513.0
+evaluative_candidates,122.0
+factual_candidates_verifiable_yes_candidate,295.0
+assessed_total,10.0
+assessed_share_of_factual_candidates_pct,1.56
+assessed_supported,1.0
+assessed_mostly_supported,7.0
+assessed_mixed_or_disputed,0.0
+assessed_misleading_without_context,0.0
+assessed_unsupported,0.0
+assessed_contradicted,0.0
+assessed_not_independently_verifiable,1.0
+assessed_opinion_or_interpretation,1.0

@@ -1,0 +1,2921 @@
+{
+ "nodes": [
+  {
+   "id": "Agencia Nacional de Hidrocarburos",
+   "entity_type": "ORG",
+   "count": 4,
+   "is_public_institution": true,
+   "weighted_degree": 5,
+   "community": 1
+  },
+  {
+   "id": "Fiscalía",
+   "entity_type": "ORG",
+   "count": 5,
+   "is_public_institution": true,
+   "weighted_degree": 8,
+   "community": 6
+  },
+  {
+   "id": "Comfaguajira",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 15,
+   "community": 3
+  },
+  {
+   "id": "UPC",
+   "entity_type": "ORG",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 4,
+   "community": 0
+  },
+  {
+   "id": "DANE",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 2,
+   "community": 14
+  },
+  {
+   "id": "FOMAG",
+   "entity_type": "GPE_LOC",
+   "count": 5,
+   "is_public_institution": false,
+   "weighted_degree": 4,
+   "community": 0
+  },
+  {
+   "id": "Arauca",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 5,
+   "community": 6
+  },
+  {
+   "id": "Norte de Santander",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 11,
+   "community": 6
+  },
+  {
+   "id": "INPEC",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 6,
+   "community": 9
+  },
+  {
+   "id": "Consejo de Estado",
+   "entity_type": "ORG",
+   "count": 10,
+   "is_public_institution": true,
+   "weighted_degree": 9,
+   "community": 0
+  },
+  {
+   "id": "Vichada",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 11,
+   "community": 2
+  },
+  {
+   "id": "Presupuesto General de la Nación",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 4,
+   "community": 4
+  },
+  {
+   "id": "Decreto 0932",
+   "entity_type": "LAW",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 4
+  },
+  {
+   "id": "Corte",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 2,
+   "community": 0
+  },
+  {
+   "id": "Canal del Dique",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 1,
+   "community": 8
+  },
+  {
+   "id": "Ipiales",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 8,
+   "community": 9
+  },
+  {
+   "id": "ACP",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 5,
+   "community": 6
+  },
+  {
+   "id": "Gobierno de la Patria Milagro",
+   "entity_type": "GPE_LOC",
+   "count": 8,
+   "is_public_institution": true,
+   "weighted_degree": 1,
+   "community": 4
+  },
+  {
+   "id": "Grupos Armados Organizados",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 4,
+   "community": 2
+  },
+  {
+   "id": "Ley 2466 de 2025",
+   "entity_type": "LAW",
+   "count": 5,
+   "is_public_institution": false,
+   "weighted_degree": 13,
+   "community": 7
+  },
+  {
+   "id": "Decreto 0905",
+   "entity_type": "LAW",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 15,
+   "community": 3
+  },
+  {
+   "id": "Sistema Electrónico",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 3,
+   "community": 12
+  },
+  {
+   "id": "Agencia Nacional de Infraestructura",
+   "entity_type": "ORG",
+   "count": 5,
+   "is_public_institution": true,
+   "weighted_degree": 2,
+   "community": 13
+  },
+  {
+   "id": "Consejo Directivo",
+   "entity_type": "ORG",
+   "count": 3,
+   "is_public_institution": true,
+   "weighted_degree": 16,
+   "community": 3
+  },
+  {
+   "id": "Prosperidad Social",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 6,
+   "community": 2
+  },
+  {
+   "id": "Casa de la Moneda de Portugal",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 3,
+   "community": 0
+  },
+  {
+   "id": "Autoridad",
+   "entity_type": "ORG",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 1,
+   "community": 16
+  },
+  {
+   "id": "Administración",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 4,
+   "community": 0
+  },
+  {
+   "id": "Tribunal de Santander",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 10,
+   "community": 1
+  },
+  {
+   "id": "SENA",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 2,
+   "community": 4
+  },
+  {
+   "id": "Comfenalco Antioquia",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 15,
+   "community": 3
+  },
+  {
+   "id": "Sistema Educativo Indígena Propio",
+   "entity_type": "ORG",
+   "count": 9,
+   "is_public_institution": false,
+   "weighted_degree": 3,
+   "community": 4
+  },
+  {
+   "id": "Casas Colombia",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 7,
+   "community": 5
+  },
+  {
+   "id": "Decreto 234 de 2026",
+   "entity_type": "LAW",
+   "count": 4,
+   "is_public_institution": false,
+   "weighted_degree": 6,
+   "community": 7
+  },
+  {
+   "id": "Buga",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 8,
+   "community": 9
+  },
+  {
+   "id": "Fiscalía General de la Nación",
+   "entity_type": "ORG",
+   "count": 4,
+   "is_public_institution": true,
+   "weighted_degree": 2,
+   "community": 0
+  },
+  {
+   "id": "APPA",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 18
+  },
+  {
+   "id": "Estado Social de Derecho",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 14
+  },
+  {
+   "id": "Ministerio de Ambiente",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 7,
+   "community": 1
+  },
+  {
+   "id": "Sentencia T-361 de 2017",
+   "entity_type": "LAW",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 10,
+   "community": 1
+  },
+  {
+   "id": "Santurbán",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 10,
+   "community": 1
+  },
+  {
+   "id": "Caribe",
+   "entity_type": "GPE_LOC",
+   "count": 9,
+   "is_public_institution": false,
+   "weighted_degree": 6,
+   "community": 8
+  },
+  {
+   "id": "Decreto número 1072 de 2015",
+   "entity_type": "LAW",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 6,
+   "community": 7
+  },
+  {
+   "id": "Nariño",
+   "entity_type": "GPE_LOC",
+   "count": 6,
+   "is_public_institution": false,
+   "weighted_degree": 21,
+   "community": 2
+  },
+  {
+   "id": "Toronto",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 11,
+   "community": 5
+  },
+  {
+   "id": "Ejecutivo",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 4
+  },
+  {
+   "id": "KBPD",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 1,
+   "community": 1
+  },
+  {
+   "id": "CAMPETROL",
+   "entity_type": "ORG",
+   "count": 9,
+   "is_public_institution": false,
+   "weighted_degree": 8,
+   "community": 1
+  },
+  {
+   "id": "Ministro del Trabajo",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": true,
+   "weighted_degree": 9,
+   "community": 3
+  },
+  {
+   "id": "FONIGUALDAD",
+   "entity_type": "ORG",
+   "count": 3,
+   "is_public_institution": true,
+   "weighted_degree": 3,
+   "community": 0
+  },
+  {
+   "id": "Comfamiliar Atlántico",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 15,
+   "community": 3
+  },
+  {
+   "id": "Fondo Nacional del Turismo",
+   "entity_type": "ORG",
+   "count": 4,
+   "is_public_institution": true,
+   "weighted_degree": 3,
+   "community": 0
+  },
+  {
+   "id": "Ministerio de Hacienda",
+   "entity_type": "GPE_LOC",
+   "count": 4,
+   "is_public_institution": true,
+   "weighted_degree": 4,
+   "community": 0
+  },
+  {
+   "id": "Unidad de Planeación Minero Energética",
+   "entity_type": "ORG",
+   "count": 5,
+   "is_public_institution": true,
+   "weighted_degree": 5,
+   "community": 6
+  },
+  {
+   "id": "Colombia Mayor",
+   "entity_type": "GPE_LOC",
+   "count": 4,
+   "is_public_institution": false,
+   "weighted_degree": 1,
+   "community": 17
+  },
+  {
+   "id": "Procuraduría",
+   "entity_type": "ORG",
+   "count": 14,
+   "is_public_institution": true,
+   "weighted_degree": 10,
+   "community": 0
+  },
+  {
+   "id": "Amazonía",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 5,
+   "community": 1
+  },
+  {
+   "id": "Gobierno Petro",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 1,
+   "community": 8
+  },
+  {
+   "id": "Ministerio de Salud",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 3,
+   "community": 10
+  },
+  {
+   "id": "Superintendencia Nacional de Salud",
+   "entity_type": "ORG",
+   "count": 7,
+   "is_public_institution": true,
+   "weighted_degree": 8,
+   "community": 10
+  },
+  {
+   "id": "Sistema General de Regalías",
+   "entity_type": "GPE_LOC",
+   "count": 10,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 1
+  },
+  {
+   "id": "SUIT",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 11
+  },
+  {
+   "id": "Barranquilla",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 8,
+   "community": 9
+  },
+  {
+   "id": "Fontur",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 1,
+   "community": 0
+  },
+  {
+   "id": "GBTUD",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 1
+  },
+  {
+   "id": "Superintendencia de Industria y Comercio",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 2,
+   "community": 1
+  },
+  {
+   "id": "FURAG",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 1,
+   "community": 11
+  },
+  {
+   "id": "Portugal",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 1,
+   "community": 1
+  },
+  {
+   "id": "Ministerio de Igualdad y Equidad",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 1,
+   "community": 15
+  },
+  {
+   "id": "ELN",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 4,
+   "community": 2
+  },
+  {
+   "id": "Unidad Nacional de Protección",
+   "entity_type": "ORG",
+   "count": 9,
+   "is_public_institution": true,
+   "weighted_degree": 6,
+   "community": 1
+  },
+  {
+   "id": "Congreso",
+   "entity_type": "ORG",
+   "count": 6,
+   "is_public_institution": true,
+   "weighted_degree": 5,
+   "community": 4
+  },
+  {
+   "id": "Gobierno Nacional",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": true,
+   "weighted_degree": 4,
+   "community": 4
+  },
+  {
+   "id": "Fondo DIAN",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 4,
+   "community": 0
+  },
+  {
+   "id": "Libertad",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 1,
+   "community": 16
+  },
+  {
+   "id": "Resolución 0527",
+   "entity_type": "LAW",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 15,
+   "community": 3
+  },
+  {
+   "id": "Contratación Pública",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 3,
+   "community": 12
+  },
+  {
+   "id": "Único Reglamentario del Sector Trabajo",
+   "entity_type": "ORG",
+   "count": 8,
+   "is_public_institution": false,
+   "weighted_degree": 16,
+   "community": 7
+  },
+  {
+   "id": "Superintendencia de Servicios Públicos Domiciliarios",
+   "entity_type": "ORG",
+   "count": 6,
+   "is_public_institution": true,
+   "weighted_degree": 3,
+   "community": 1
+  },
+  {
+   "id": "Montreal",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 11,
+   "community": 5
+  },
+  {
+   "id": "Gerente General",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 1,
+   "community": 0
+  },
+  {
+   "id": "Decreto 1072 de 2015",
+   "entity_type": "LAW",
+   "count": 8,
+   "is_public_institution": false,
+   "weighted_degree": 10,
+   "community": 7
+  },
+  {
+   "id": "Fondo Rotatorio",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 3,
+   "community": 0
+  },
+  {
+   "id": "Air-e",
+   "entity_type": "ORG",
+   "count": 8,
+   "is_public_institution": false,
+   "weighted_degree": 13,
+   "community": 8
+  },
+  {
+   "id": "Función Pública",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 11
+  },
+  {
+   "id": "Autoridad Nacional de Licencias Ambientales",
+   "entity_type": "ORG",
+   "count": 4,
+   "is_public_institution": true,
+   "weighted_degree": 2,
+   "community": 13
+  },
+  {
+   "id": "Sanguino",
+   "entity_type": "PERSON",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 8,
+   "community": 3
+  },
+  {
+   "id": "Valle del Cauca",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 2
+  },
+  {
+   "id": "Equipo Élite",
+   "entity_type": "ORG",
+   "count": 38,
+   "is_public_institution": true,
+   "weighted_degree": 20,
+   "community": 0
+  },
+  {
+   "id": "Contraloría",
+   "entity_type": "ORG",
+   "count": 40,
+   "is_public_institution": true,
+   "weighted_degree": 30,
+   "community": 0
+  },
+  {
+   "id": "Departamento Administrativo de la Presidencia de la República",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 2,
+   "community": 0
+  },
+  {
+   "id": "Decreto 0689",
+   "entity_type": "LAW",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 15,
+   "community": 3
+  },
+  {
+   "id": "SPEC",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 1
+  },
+  {
+   "id": "Ministerio de Vivienda",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": true,
+   "weighted_degree": 2,
+   "community": 0
+  },
+  {
+   "id": "Resolución 863 de 2026",
+   "entity_type": "LAW",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 11,
+   "community": 1
+  },
+  {
+   "id": "Agencia Nacional de Tierras",
+   "entity_type": "ORG",
+   "count": 4,
+   "is_public_institution": true,
+   "weighted_degree": 4,
+   "community": 0
+  },
+  {
+   "id": "Decreto 581 de 2026",
+   "entity_type": "LAW",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 4,
+   "community": 7
+  },
+  {
+   "id": "Ministerio de Minas",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 5,
+   "community": 1
+  },
+  {
+   "id": "Pacífico",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 8
+  },
+  {
+   "id": "Meta",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 5,
+   "community": 6
+  },
+  {
+   "id": "Resolución 992 de 2026",
+   "entity_type": "LAW",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 10,
+   "community": 1
+  },
+  {
+   "id": "Superintendencia de Sociedades",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 3,
+   "community": 1
+  },
+  {
+   "id": "UNGRD",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": true,
+   "weighted_degree": 1,
+   "community": 0
+  },
+  {
+   "id": "Constitución",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 0
+  },
+  {
+   "id": "Santander",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 6,
+   "community": 6
+  },
+  {
+   "id": "Decreto 0649",
+   "entity_type": "LAW",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 8,
+   "community": 3
+  },
+  {
+   "id": "Estado colombiano",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 3,
+   "community": 0
+  },
+  {
+   "id": "Universidad de Antioquia",
+   "entity_type": "ORG",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 1,
+   "community": 0
+  },
+  {
+   "id": "Ley de Garantías",
+   "entity_type": "LAW",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 3,
+   "community": 0
+  },
+  {
+   "id": "Museo de Memoria",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 1,
+   "community": 17
+  },
+  {
+   "id": "Costa Caribe",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 3,
+   "community": 1
+  },
+  {
+   "id": "IDEAM",
+   "entity_type": "ORG",
+   "count": 4,
+   "is_public_institution": true,
+   "weighted_degree": 3,
+   "community": 1
+  },
+  {
+   "id": "Resolución 10142 de 2025",
+   "entity_type": "LAW",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 3,
+   "community": 0
+  },
+  {
+   "id": "Decreto 720 de 2026",
+   "entity_type": "LAW",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 6,
+   "community": 7
+  },
+  {
+   "id": "Berlín",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 8,
+   "community": 5
+  },
+  {
+   "id": "Cauca",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 8,
+   "community": 2
+  },
+  {
+   "id": "Suratá",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 6,
+   "community": 6
+  },
+  {
+   "id": "Empalme Anticorrupción",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 3,
+   "community": 1
+  },
+  {
+   "id": "Defensa Nacional",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 1,
+   "community": 11
+  },
+  {
+   "id": "DIAN",
+   "entity_type": "ORG",
+   "count": 6,
+   "is_public_institution": true,
+   "weighted_degree": 1,
+   "community": 0
+  },
+  {
+   "id": "exploración y producción",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 3,
+   "community": 1
+  },
+  {
+   "id": "Magdalena",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 6,
+   "community": 8
+  },
+  {
+   "id": "Ministerio del Trabajo",
+   "entity_type": "GPE_LOC",
+   "count": 4,
+   "is_public_institution": true,
+   "weighted_degree": 1,
+   "community": 7
+  },
+  {
+   "id": "Santiago de Chile",
+   "entity_type": "GPE_LOC",
+   "count": 4,
+   "is_public_institution": false,
+   "weighted_degree": 12,
+   "community": 5
+  },
+  {
+   "id": "Estado Mayor Central",
+   "entity_type": "GPE_LOC",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 4,
+   "community": 2
+  },
+  {
+   "id": "FonIgualdad",
+   "entity_type": "ORG",
+   "count": 5,
+   "is_public_institution": true,
+   "weighted_degree": 1,
+   "community": 15
+  },
+  {
+   "id": "Colombia",
+   "entity_type": "GPE_LOC",
+   "count": 44,
+   "is_public_institution": false,
+   "weighted_degree": 33,
+   "community": 1
+  },
+  {
+   "id": "Aruba",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 8,
+   "community": 5
+  },
+  {
+   "id": "Guajira",
+   "entity_type": "GPE_LOC",
+   "count": 6,
+   "is_public_institution": false,
+   "weighted_degree": 11,
+   "community": 8
+  },
+  {
+   "id": "Territorios Campesinos Agroalimentarios",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 18
+  },
+  {
+   "id": "Contraloría General",
+   "entity_type": "ORG",
+   "count": 3,
+   "is_public_institution": true,
+   "weighted_degree": 4,
+   "community": 10
+  },
+  {
+   "id": "Itagüí",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 8,
+   "community": 9
+  },
+  {
+   "id": "Contraloría General de la República",
+   "entity_type": "ORG",
+   "count": 15,
+   "is_public_institution": true,
+   "weighted_degree": 12,
+   "community": 0
+  },
+  {
+   "id": "MinCiencias",
+   "entity_type": "ORG",
+   "count": 5,
+   "is_public_institution": true,
+   "weighted_degree": 4,
+   "community": 4
+  },
+  {
+   "id": "Atlántico",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 6,
+   "community": 8
+  },
+  {
+   "id": "Miami",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 11,
+   "community": 5
+  },
+  {
+   "id": "Sector Defensa",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 1,
+   "community": 1
+  },
+  {
+   "id": "USPEC",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 6,
+   "community": 9
+  },
+  {
+   "id": "Fuerza Aeroespacial Colombiana",
+   "entity_type": "ORG",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 2
+  },
+  {
+   "id": "Estudio de Impacto Ambiental",
+   "entity_type": "ORG",
+   "count": 3,
+   "is_public_institution": false,
+   "weighted_degree": 3,
+   "community": 13
+  },
+  {
+   "id": "Guaviare",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 11,
+   "community": 2
+  },
+  {
+   "id": "Nueva York",
+   "entity_type": "GPE_LOC",
+   "count": 4,
+   "is_public_institution": false,
+   "weighted_degree": 12,
+   "community": 5
+  },
+  {
+   "id": "Plataforma de Inteligencia Artificial",
+   "entity_type": "ORG",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 2,
+   "community": 12
+  },
+  {
+   "id": "Procuraduría General de la Nación",
+   "entity_type": "ORG",
+   "count": 10,
+   "is_public_institution": true,
+   "weighted_degree": 4,
+   "community": 0
+  },
+  {
+   "id": "Amazonas",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 11,
+   "community": 2
+  },
+  {
+   "id": "Chocó",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 11,
+   "community": 2
+  },
+  {
+   "id": "Putumayo",
+   "entity_type": "GPE_LOC",
+   "count": 4,
+   "is_public_institution": false,
+   "weighted_degree": 15,
+   "community": 2
+  },
+  {
+   "id": "Sociedad de Activos Especiales",
+   "entity_type": "ORG",
+   "count": 5,
+   "is_public_institution": true,
+   "weighted_degree": 6,
+   "community": 0
+  },
+  {
+   "id": "Fondo de Financiamiento de la Infraestructura Educativa",
+   "entity_type": "ORG",
+   "count": 3,
+   "is_public_institution": true,
+   "weighted_degree": 2,
+   "community": 0
+  },
+  {
+   "id": "Equipos Básicos",
+   "entity_type": "ORG",
+   "count": 5,
+   "is_public_institution": false,
+   "weighted_degree": 5,
+   "community": 10
+  },
+  {
+   "id": "Corte Constitucional",
+   "entity_type": "ORG",
+   "count": 7,
+   "is_public_institution": true,
+   "weighted_degree": 8,
+   "community": 0
+  },
+  {
+   "id": "Estado Crítico",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 3,
+   "community": 0
+  },
+  {
+   "id": "Entidades Promotoras de Salud",
+   "entity_type": "GPE_LOC",
+   "count": 2,
+   "is_public_institution": false,
+   "weighted_degree": 4,
+   "community": 10
+  },
+  {
+   "id": "Fuerza Pública",
+   "entity_type": "ORG",
+   "count": 4,
+   "is_public_institution": false,
+   "weighted_degree": 7,
+   "community": 2
+  }
+ ],
+ "links": [
+  {
+   "source": "Agencia Nacional de Hidrocarburos",
+   "target": "Colombia",
+   "weight": 2
+  },
+  {
+   "source": "Agencia Nacional de Hidrocarburos",
+   "target": "exploración y producción",
+   "weight": 1
+  },
+  {
+   "source": "Agencia Nacional de Hidrocarburos",
+   "target": "CAMPETROL",
+   "weight": 1
+  },
+  {
+   "source": "Agencia Nacional de Hidrocarburos",
+   "target": "Ministerio de Minas",
+   "weight": 1
+  },
+  {
+   "source": "Fiscalía",
+   "target": "Air-e",
+   "weight": 1
+  },
+  {
+   "source": "Fiscalía",
+   "target": "Superintendencia de Servicios Públicos Domiciliarios",
+   "weight": 1
+  },
+  {
+   "source": "Fiscalía",
+   "target": "Norte de Santander",
+   "weight": 2
+  },
+  {
+   "source": "Fiscalía",
+   "target": "Santander",
+   "weight": 2
+  },
+  {
+   "source": "Fiscalía",
+   "target": "Suratá",
+   "weight": 2
+  },
+  {
+   "source": "Comfaguajira",
+   "target": "Comfamiliar Atlántico",
+   "weight": 2
+  },
+  {
+   "source": "Comfaguajira",
+   "target": "Comfenalco Antioquia",
+   "weight": 2
+  },
+  {
+   "source": "Comfaguajira",
+   "target": "Consejo Directivo",
+   "weight": 2
+  },
+  {
+   "source": "Comfaguajira",
+   "target": "Decreto 0689",
+   "weight": 2
+  },
+  {
+   "source": "Comfaguajira",
+   "target": "Decreto 0905",
+   "weight": 2
+  },
+  {
+   "source": "Comfaguajira",
+   "target": "Ministro del Trabajo",
+   "weight": 1
+  },
+  {
+   "source": "Comfaguajira",
+   "target": "Resolución 0527",
+   "weight": 2
+  },
+  {
+   "source": "Comfaguajira",
+   "target": "Sanguino",
+   "weight": 1
+  },
+  {
+   "source": "Comfaguajira",
+   "target": "Decreto 0649",
+   "weight": 1
+  },
+  {
+   "source": "UPC",
+   "target": "Corte Constitucional",
+   "weight": 2
+  },
+  {
+   "source": "UPC",
+   "target": "Contraloría",
+   "weight": 1
+  },
+  {
+   "source": "UPC",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "DANE",
+   "target": "Estado Social de Derecho",
+   "weight": 2
+  },
+  {
+   "source": "FOMAG",
+   "target": "Contraloría",
+   "weight": 4
+  },
+  {
+   "source": "Arauca",
+   "target": "ACP",
+   "weight": 1
+  },
+  {
+   "source": "Arauca",
+   "target": "CAMPETROL",
+   "weight": 1
+  },
+  {
+   "source": "Arauca",
+   "target": "Meta",
+   "weight": 1
+  },
+  {
+   "source": "Arauca",
+   "target": "Norte de Santander",
+   "weight": 1
+  },
+  {
+   "source": "Arauca",
+   "target": "Unidad de Planeación Minero Energética",
+   "weight": 1
+  },
+  {
+   "source": "Norte de Santander",
+   "target": "ACP",
+   "weight": 1
+  },
+  {
+   "source": "Norte de Santander",
+   "target": "CAMPETROL",
+   "weight": 1
+  },
+  {
+   "source": "Norte de Santander",
+   "target": "Meta",
+   "weight": 1
+  },
+  {
+   "source": "Norte de Santander",
+   "target": "Unidad de Planeación Minero Energética",
+   "weight": 1
+  },
+  {
+   "source": "Norte de Santander",
+   "target": "Santander",
+   "weight": 2
+  },
+  {
+   "source": "Norte de Santander",
+   "target": "Suratá",
+   "weight": 2
+  },
+  {
+   "source": "INPEC",
+   "target": "USPEC",
+   "weight": 2
+  },
+  {
+   "source": "INPEC",
+   "target": "Barranquilla",
+   "weight": 1
+  },
+  {
+   "source": "INPEC",
+   "target": "Buga",
+   "weight": 1
+  },
+  {
+   "source": "INPEC",
+   "target": "Ipiales",
+   "weight": 1
+  },
+  {
+   "source": "INPEC",
+   "target": "Itagüí",
+   "weight": 1
+  },
+  {
+   "source": "Consejo de Estado",
+   "target": "Ley de Garantías",
+   "weight": 1
+  },
+  {
+   "source": "Consejo de Estado",
+   "target": "Casa de la Moneda de Portugal",
+   "weight": 2
+  },
+  {
+   "source": "Consejo de Estado",
+   "target": "Equipo Élite",
+   "weight": 2
+  },
+  {
+   "source": "Consejo de Estado",
+   "target": "Corte Constitucional",
+   "weight": 1
+  },
+  {
+   "source": "Consejo de Estado",
+   "target": "Procuraduría",
+   "weight": 1
+  },
+  {
+   "source": "Consejo de Estado",
+   "target": "Contraloría",
+   "weight": 1
+  },
+  {
+   "source": "Consejo de Estado",
+   "target": "Ministerio de Hacienda",
+   "weight": 1
+  },
+  {
+   "source": "Vichada",
+   "target": "Amazonas",
+   "weight": 2
+  },
+  {
+   "source": "Vichada",
+   "target": "Chocó",
+   "weight": 2
+  },
+  {
+   "source": "Vichada",
+   "target": "Guaviare",
+   "weight": 2
+  },
+  {
+   "source": "Vichada",
+   "target": "Nariño",
+   "weight": 2
+  },
+  {
+   "source": "Vichada",
+   "target": "Putumayo",
+   "weight": 2
+  },
+  {
+   "source": "Vichada",
+   "target": "Prosperidad Social",
+   "weight": 1
+  },
+  {
+   "source": "Presupuesto General de la Nación",
+   "target": "Congreso",
+   "weight": 1
+  },
+  {
+   "source": "Presupuesto General de la Nación",
+   "target": "Gobierno Nacional",
+   "weight": 1
+  },
+  {
+   "source": "Presupuesto General de la Nación",
+   "target": "MinCiencias",
+   "weight": 1
+  },
+  {
+   "source": "Presupuesto General de la Nación",
+   "target": "Sistema Educativo Indígena Propio",
+   "weight": 1
+  },
+  {
+   "source": "Decreto 0932",
+   "target": "Sistema Educativo Indígena Propio",
+   "weight": 2
+  },
+  {
+   "source": "Corte",
+   "target": "Constitución",
+   "weight": 1
+  },
+  {
+   "source": "Corte",
+   "target": "Corte Constitucional",
+   "weight": 1
+  },
+  {
+   "source": "Canal del Dique",
+   "target": "Caribe",
+   "weight": 1
+  },
+  {
+   "source": "Ipiales",
+   "target": "Barranquilla",
+   "weight": 2
+  },
+  {
+   "source": "Ipiales",
+   "target": "Buga",
+   "weight": 2
+  },
+  {
+   "source": "Ipiales",
+   "target": "Itagüí",
+   "weight": 2
+  },
+  {
+   "source": "Ipiales",
+   "target": "USPEC",
+   "weight": 1
+  },
+  {
+   "source": "ACP",
+   "target": "CAMPETROL",
+   "weight": 1
+  },
+  {
+   "source": "ACP",
+   "target": "Meta",
+   "weight": 1
+  },
+  {
+   "source": "ACP",
+   "target": "Unidad de Planeación Minero Energética",
+   "weight": 1
+  },
+  {
+   "source": "Gobierno de la Patria Milagro",
+   "target": "Ejecutivo",
+   "weight": 1
+  },
+  {
+   "source": "Grupos Armados Organizados",
+   "target": "Cauca",
+   "weight": 1
+  },
+  {
+   "source": "Grupos Armados Organizados",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Grupos Armados Organizados",
+   "target": "Fuerza Pública",
+   "weight": 1
+  },
+  {
+   "source": "Grupos Armados Organizados",
+   "target": "Nariño",
+   "weight": 1
+  },
+  {
+   "source": "Ley 2466 de 2025",
+   "target": "Ministerio del Trabajo",
+   "weight": 1
+  },
+  {
+   "source": "Ley 2466 de 2025",
+   "target": "Decreto 1072 de 2015",
+   "weight": 2
+  },
+  {
+   "source": "Ley 2466 de 2025",
+   "target": "Decreto 234 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Ley 2466 de 2025",
+   "target": "Único Reglamentario del Sector Trabajo",
+   "weight": 4
+  },
+  {
+   "source": "Ley 2466 de 2025",
+   "target": "Decreto 720 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Ley 2466 de 2025",
+   "target": "Decreto número 1072 de 2015",
+   "weight": 2
+  },
+  {
+   "source": "Decreto 0905",
+   "target": "Comfamiliar Atlántico",
+   "weight": 2
+  },
+  {
+   "source": "Decreto 0905",
+   "target": "Comfenalco Antioquia",
+   "weight": 2
+  },
+  {
+   "source": "Decreto 0905",
+   "target": "Consejo Directivo",
+   "weight": 2
+  },
+  {
+   "source": "Decreto 0905",
+   "target": "Decreto 0689",
+   "weight": 2
+  },
+  {
+   "source": "Decreto 0905",
+   "target": "Ministro del Trabajo",
+   "weight": 1
+  },
+  {
+   "source": "Decreto 0905",
+   "target": "Resolución 0527",
+   "weight": 2
+  },
+  {
+   "source": "Decreto 0905",
+   "target": "Sanguino",
+   "weight": 1
+  },
+  {
+   "source": "Decreto 0905",
+   "target": "Decreto 0649",
+   "weight": 1
+  },
+  {
+   "source": "Sistema Electrónico",
+   "target": "Contratación Pública",
+   "weight": 2
+  },
+  {
+   "source": "Sistema Electrónico",
+   "target": "Plataforma de Inteligencia Artificial",
+   "weight": 1
+  },
+  {
+   "source": "Agencia Nacional de Infraestructura",
+   "target": "Autoridad Nacional de Licencias Ambientales",
+   "weight": 1
+  },
+  {
+   "source": "Agencia Nacional de Infraestructura",
+   "target": "Estudio de Impacto Ambiental",
+   "weight": 1
+  },
+  {
+   "source": "Consejo Directivo",
+   "target": "Comfamiliar Atlántico",
+   "weight": 2
+  },
+  {
+   "source": "Consejo Directivo",
+   "target": "Comfenalco Antioquia",
+   "weight": 2
+  },
+  {
+   "source": "Consejo Directivo",
+   "target": "Decreto 0689",
+   "weight": 2
+  },
+  {
+   "source": "Consejo Directivo",
+   "target": "Ministro del Trabajo",
+   "weight": 1
+  },
+  {
+   "source": "Consejo Directivo",
+   "target": "Resolución 0527",
+   "weight": 2
+  },
+  {
+   "source": "Consejo Directivo",
+   "target": "Sanguino",
+   "weight": 1
+  },
+  {
+   "source": "Consejo Directivo",
+   "target": "Contraloría",
+   "weight": 1
+  },
+  {
+   "source": "Consejo Directivo",
+   "target": "Decreto 0649",
+   "weight": 1
+  },
+  {
+   "source": "Prosperidad Social",
+   "target": "Amazonas",
+   "weight": 1
+  },
+  {
+   "source": "Prosperidad Social",
+   "target": "Chocó",
+   "weight": 1
+  },
+  {
+   "source": "Prosperidad Social",
+   "target": "Guaviare",
+   "weight": 1
+  },
+  {
+   "source": "Prosperidad Social",
+   "target": "Nariño",
+   "weight": 1
+  },
+  {
+   "source": "Prosperidad Social",
+   "target": "Putumayo",
+   "weight": 1
+  },
+  {
+   "source": "Casa de la Moneda de Portugal",
+   "target": "Procuraduría",
+   "weight": 1
+  },
+  {
+   "source": "Autoridad",
+   "target": "Libertad",
+   "weight": 1
+  },
+  {
+   "source": "Administración",
+   "target": "Contraloría",
+   "weight": 1
+  },
+  {
+   "source": "Administración",
+   "target": "Fondo DIAN",
+   "weight": 1
+  },
+  {
+   "source": "Administración",
+   "target": "Procuraduría",
+   "weight": 1
+  },
+  {
+   "source": "Administración",
+   "target": "Equipo Élite",
+   "weight": 1
+  },
+  {
+   "source": "Tribunal de Santander",
+   "target": "Ministerio de Ambiente",
+   "weight": 1
+  },
+  {
+   "source": "Tribunal de Santander",
+   "target": "Resolución 863 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Tribunal de Santander",
+   "target": "Resolución 992 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Tribunal de Santander",
+   "target": "Santurbán",
+   "weight": 2
+  },
+  {
+   "source": "Tribunal de Santander",
+   "target": "Sentencia T-361 de 2017",
+   "weight": 2
+  },
+  {
+   "source": "Tribunal de Santander",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "SENA",
+   "target": "Contraloría",
+   "weight": 1
+  },
+  {
+   "source": "SENA",
+   "target": "Congreso",
+   "weight": 1
+  },
+  {
+   "source": "Comfenalco Antioquia",
+   "target": "Comfamiliar Atlántico",
+   "weight": 2
+  },
+  {
+   "source": "Comfenalco Antioquia",
+   "target": "Decreto 0689",
+   "weight": 2
+  },
+  {
+   "source": "Comfenalco Antioquia",
+   "target": "Ministro del Trabajo",
+   "weight": 1
+  },
+  {
+   "source": "Comfenalco Antioquia",
+   "target": "Resolución 0527",
+   "weight": 2
+  },
+  {
+   "source": "Comfenalco Antioquia",
+   "target": "Sanguino",
+   "weight": 1
+  },
+  {
+   "source": "Comfenalco Antioquia",
+   "target": "Decreto 0649",
+   "weight": 1
+  },
+  {
+   "source": "Casas Colombia",
+   "target": "Aruba",
+   "weight": 1
+  },
+  {
+   "source": "Casas Colombia",
+   "target": "Berlín",
+   "weight": 1
+  },
+  {
+   "source": "Casas Colombia",
+   "target": "Miami",
+   "weight": 1
+  },
+  {
+   "source": "Casas Colombia",
+   "target": "Montreal",
+   "weight": 1
+  },
+  {
+   "source": "Casas Colombia",
+   "target": "Nueva York",
+   "weight": 1
+  },
+  {
+   "source": "Casas Colombia",
+   "target": "Santiago de Chile",
+   "weight": 1
+  },
+  {
+   "source": "Casas Colombia",
+   "target": "Toronto",
+   "weight": 1
+  },
+  {
+   "source": "Decreto 234 de 2026",
+   "target": "Decreto 1072 de 2015",
+   "weight": 2
+  },
+  {
+   "source": "Decreto 234 de 2026",
+   "target": "Único Reglamentario del Sector Trabajo",
+   "weight": 2
+  },
+  {
+   "source": "Buga",
+   "target": "Barranquilla",
+   "weight": 2
+  },
+  {
+   "source": "Buga",
+   "target": "Itagüí",
+   "weight": 2
+  },
+  {
+   "source": "Buga",
+   "target": "USPEC",
+   "weight": 1
+  },
+  {
+   "source": "Fiscalía General de la Nación",
+   "target": "Equipo Élite",
+   "weight": 2
+  },
+  {
+   "source": "APPA",
+   "target": "Territorios Campesinos Agroalimentarios",
+   "weight": 2
+  },
+  {
+   "source": "Ministerio de Ambiente",
+   "target": "Resolución 863 de 2026",
+   "weight": 1
+  },
+  {
+   "source": "Ministerio de Ambiente",
+   "target": "Resolución 992 de 2026",
+   "weight": 1
+  },
+  {
+   "source": "Ministerio de Ambiente",
+   "target": "Santurbán",
+   "weight": 1
+  },
+  {
+   "source": "Ministerio de Ambiente",
+   "target": "Sentencia T-361 de 2017",
+   "weight": 1
+  },
+  {
+   "source": "Ministerio de Ambiente",
+   "target": "Amazonía",
+   "weight": 1
+  },
+  {
+   "source": "Ministerio de Ambiente",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Sentencia T-361 de 2017",
+   "target": "Resolución 863 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Sentencia T-361 de 2017",
+   "target": "Resolución 992 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Sentencia T-361 de 2017",
+   "target": "Santurbán",
+   "weight": 2
+  },
+  {
+   "source": "Sentencia T-361 de 2017",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Santurbán",
+   "target": "Resolución 863 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Santurbán",
+   "target": "Resolución 992 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Santurbán",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Caribe",
+   "target": "Procuraduría",
+   "weight": 1
+  },
+  {
+   "source": "Caribe",
+   "target": "Pacífico",
+   "weight": 1
+  },
+  {
+   "source": "Caribe",
+   "target": "Air-e",
+   "weight": 2
+  },
+  {
+   "source": "Caribe",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Decreto número 1072 de 2015",
+   "target": "Decreto 720 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Decreto número 1072 de 2015",
+   "target": "Único Reglamentario del Sector Trabajo",
+   "weight": 2
+  },
+  {
+   "source": "Nariño",
+   "target": "Cauca",
+   "weight": 2
+  },
+  {
+   "source": "Nariño",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Nariño",
+   "target": "Fuerza Pública",
+   "weight": 1
+  },
+  {
+   "source": "Nariño",
+   "target": "Contraloría",
+   "weight": 1
+  },
+  {
+   "source": "Nariño",
+   "target": "Guajira",
+   "weight": 1
+  },
+  {
+   "source": "Nariño",
+   "target": "Putumayo",
+   "weight": 3
+  },
+  {
+   "source": "Nariño",
+   "target": "Amazonas",
+   "weight": 2
+  },
+  {
+   "source": "Nariño",
+   "target": "Chocó",
+   "weight": 2
+  },
+  {
+   "source": "Nariño",
+   "target": "Guaviare",
+   "weight": 2
+  },
+  {
+   "source": "Nariño",
+   "target": "Valle del Cauca",
+   "weight": 2
+  },
+  {
+   "source": "Toronto",
+   "target": "Miami",
+   "weight": 2
+  },
+  {
+   "source": "Toronto",
+   "target": "Montreal",
+   "weight": 2
+  },
+  {
+   "source": "Toronto",
+   "target": "Nueva York",
+   "weight": 2
+  },
+  {
+   "source": "Toronto",
+   "target": "Santiago de Chile",
+   "weight": 2
+  },
+  {
+   "source": "Toronto",
+   "target": "Aruba",
+   "weight": 1
+  },
+  {
+   "source": "Toronto",
+   "target": "Berlín",
+   "weight": 1
+  },
+  {
+   "source": "Ejecutivo",
+   "target": "Congreso",
+   "weight": 1
+  },
+  {
+   "source": "KBPD",
+   "target": "exploración y producción",
+   "weight": 1
+  },
+  {
+   "source": "CAMPETROL",
+   "target": "Meta",
+   "weight": 1
+  },
+  {
+   "source": "CAMPETROL",
+   "target": "Unidad de Planeación Minero Energética",
+   "weight": 1
+  },
+  {
+   "source": "CAMPETROL",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "CAMPETROL",
+   "target": "Ministerio de Minas",
+   "weight": 1
+  },
+  {
+   "source": "Ministro del Trabajo",
+   "target": "Decreto 0649",
+   "weight": 1
+  },
+  {
+   "source": "Ministro del Trabajo",
+   "target": "Comfamiliar Atlántico",
+   "weight": 1
+  },
+  {
+   "source": "Ministro del Trabajo",
+   "target": "Decreto 0689",
+   "weight": 1
+  },
+  {
+   "source": "Ministro del Trabajo",
+   "target": "Resolución 0527",
+   "weight": 1
+  },
+  {
+   "source": "Ministro del Trabajo",
+   "target": "Sanguino",
+   "weight": 1
+  },
+  {
+   "source": "FONIGUALDAD",
+   "target": "Contraloría General de la República",
+   "weight": 1
+  },
+  {
+   "source": "FONIGUALDAD",
+   "target": "Estado Crítico",
+   "weight": 1
+  },
+  {
+   "source": "FONIGUALDAD",
+   "target": "Equipo Élite",
+   "weight": 1
+  },
+  {
+   "source": "Comfamiliar Atlántico",
+   "target": "Decreto 0689",
+   "weight": 2
+  },
+  {
+   "source": "Comfamiliar Atlántico",
+   "target": "Resolución 0527",
+   "weight": 2
+  },
+  {
+   "source": "Comfamiliar Atlántico",
+   "target": "Sanguino",
+   "weight": 1
+  },
+  {
+   "source": "Comfamiliar Atlántico",
+   "target": "Decreto 0649",
+   "weight": 1
+  },
+  {
+   "source": "Fondo Nacional del Turismo",
+   "target": "Contraloría",
+   "weight": 1
+  },
+  {
+   "source": "Fondo Nacional del Turismo",
+   "target": "Equipo Élite",
+   "weight": 1
+  },
+  {
+   "source": "Fondo Nacional del Turismo",
+   "target": "Fontur",
+   "weight": 1
+  },
+  {
+   "source": "Ministerio de Hacienda",
+   "target": "Contraloría General de la República",
+   "weight": 1
+  },
+  {
+   "source": "Ministerio de Hacienda",
+   "target": "Air-e",
+   "weight": 1
+  },
+  {
+   "source": "Ministerio de Hacienda",
+   "target": "Ministerio de Minas",
+   "weight": 1
+  },
+  {
+   "source": "Unidad de Planeación Minero Energética",
+   "target": "Meta",
+   "weight": 1
+  },
+  {
+   "source": "Colombia Mayor",
+   "target": "Museo de Memoria",
+   "weight": 1
+  },
+  {
+   "source": "Procuraduría",
+   "target": "Contraloría",
+   "weight": 3
+  },
+  {
+   "source": "Procuraduría",
+   "target": "Fondo DIAN",
+   "weight": 1
+  },
+  {
+   "source": "Procuraduría",
+   "target": "Estudio de Impacto Ambiental",
+   "weight": 1
+  },
+  {
+   "source": "Procuraduría",
+   "target": "Sistema General de Regalías",
+   "weight": 1
+  },
+  {
+   "source": "Amazonía",
+   "target": "Pacífico",
+   "weight": 1
+  },
+  {
+   "source": "Amazonía",
+   "target": "Colombia",
+   "weight": 2
+  },
+  {
+   "source": "Amazonía",
+   "target": "IDEAM",
+   "weight": 1
+  },
+  {
+   "source": "Gobierno Petro",
+   "target": "Guajira",
+   "weight": 1
+  },
+  {
+   "source": "Ministerio de Salud",
+   "target": "Equipos Básicos",
+   "weight": 2
+  },
+  {
+   "source": "Ministerio de Salud",
+   "target": "Superintendencia Nacional de Salud",
+   "weight": 1
+  },
+  {
+   "source": "Superintendencia Nacional de Salud",
+   "target": "Equipos Básicos",
+   "weight": 3
+  },
+  {
+   "source": "Superintendencia Nacional de Salud",
+   "target": "Contraloría General",
+   "weight": 2
+  },
+  {
+   "source": "Superintendencia Nacional de Salud",
+   "target": "Entidades Promotoras de Salud",
+   "weight": 2
+  },
+  {
+   "source": "Sistema General de Regalías",
+   "target": "IDEAM",
+   "weight": 1
+  },
+  {
+   "source": "SUIT",
+   "target": "Función Pública",
+   "weight": 1
+  },
+  {
+   "source": "SUIT",
+   "target": "FURAG",
+   "weight": 1
+  },
+  {
+   "source": "Barranquilla",
+   "target": "Itagüí",
+   "weight": 2
+  },
+  {
+   "source": "Barranquilla",
+   "target": "USPEC",
+   "weight": 1
+  },
+  {
+   "source": "GBTUD",
+   "target": "Costa Caribe",
+   "weight": 1
+  },
+  {
+   "source": "GBTUD",
+   "target": "SPEC",
+   "weight": 1
+  },
+  {
+   "source": "Superintendencia de Industria y Comercio",
+   "target": "Superintendencia de Sociedades",
+   "weight": 1
+  },
+  {
+   "source": "Superintendencia de Industria y Comercio",
+   "target": "Unidad Nacional de Protección",
+   "weight": 1
+  },
+  {
+   "source": "Portugal",
+   "target": "Unidad Nacional de Protección",
+   "weight": 1
+  },
+  {
+   "source": "Ministerio de Igualdad y Equidad",
+   "target": "FonIgualdad",
+   "weight": 1
+  },
+  {
+   "source": "ELN",
+   "target": "Estado Mayor Central",
+   "weight": 2
+  },
+  {
+   "source": "ELN",
+   "target": "Fuerza Aeroespacial Colombiana",
+   "weight": 1
+  },
+  {
+   "source": "ELN",
+   "target": "Fuerza Pública",
+   "weight": 1
+  },
+  {
+   "source": "Unidad Nacional de Protección",
+   "target": "Superintendencia de Sociedades",
+   "weight": 1
+  },
+  {
+   "source": "Unidad Nacional de Protección",
+   "target": "Colombia",
+   "weight": 2
+  },
+  {
+   "source": "Unidad Nacional de Protección",
+   "target": "Equipo Élite",
+   "weight": 1
+  },
+  {
+   "source": "Congreso",
+   "target": "Gobierno Nacional",
+   "weight": 1
+  },
+  {
+   "source": "Congreso",
+   "target": "MinCiencias",
+   "weight": 1
+  },
+  {
+   "source": "Gobierno Nacional",
+   "target": "MinCiencias",
+   "weight": 2
+  },
+  {
+   "source": "Fondo DIAN",
+   "target": "Contraloría",
+   "weight": 1
+  },
+  {
+   "source": "Fondo DIAN",
+   "target": "DIAN",
+   "weight": 1
+  },
+  {
+   "source": "Resolución 0527",
+   "target": "Decreto 0689",
+   "weight": 2
+  },
+  {
+   "source": "Resolución 0527",
+   "target": "Sanguino",
+   "weight": 1
+  },
+  {
+   "source": "Resolución 0527",
+   "target": "Decreto 0649",
+   "weight": 1
+  },
+  {
+   "source": "Contratación Pública",
+   "target": "Plataforma de Inteligencia Artificial",
+   "weight": 1
+  },
+  {
+   "source": "Único Reglamentario del Sector Trabajo",
+   "target": "Decreto 1072 de 2015",
+   "weight": 4
+  },
+  {
+   "source": "Único Reglamentario del Sector Trabajo",
+   "target": "Decreto 720 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Único Reglamentario del Sector Trabajo",
+   "target": "Decreto 581 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Superintendencia de Servicios Públicos Domiciliarios",
+   "target": "Air-e",
+   "weight": 1
+  },
+  {
+   "source": "Superintendencia de Servicios Públicos Domiciliarios",
+   "target": "Costa Caribe",
+   "weight": 1
+  },
+  {
+   "source": "Montreal",
+   "target": "Miami",
+   "weight": 2
+  },
+  {
+   "source": "Montreal",
+   "target": "Nueva York",
+   "weight": 2
+  },
+  {
+   "source": "Montreal",
+   "target": "Santiago de Chile",
+   "weight": 2
+  },
+  {
+   "source": "Montreal",
+   "target": "Aruba",
+   "weight": 1
+  },
+  {
+   "source": "Montreal",
+   "target": "Berlín",
+   "weight": 1
+  },
+  {
+   "source": "Gerente General",
+   "target": "Equipo Élite",
+   "weight": 1
+  },
+  {
+   "source": "Decreto 1072 de 2015",
+   "target": "Decreto 581 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Fondo Rotatorio",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Fondo Rotatorio",
+   "target": "Contraloría",
+   "weight": 1
+  },
+  {
+   "source": "Fondo Rotatorio",
+   "target": "Resolución 10142 de 2025",
+   "weight": 1
+  },
+  {
+   "source": "Air-e",
+   "target": "Atlántico",
+   "weight": 2
+  },
+  {
+   "source": "Air-e",
+   "target": "Guajira",
+   "weight": 2
+  },
+  {
+   "source": "Air-e",
+   "target": "Magdalena",
+   "weight": 2
+  },
+  {
+   "source": "Air-e",
+   "target": "Ministerio de Minas",
+   "weight": 1
+  },
+  {
+   "source": "Air-e",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Función Pública",
+   "target": "Defensa Nacional",
+   "weight": 1
+  },
+  {
+   "source": "Autoridad Nacional de Licencias Ambientales",
+   "target": "Estudio de Impacto Ambiental",
+   "weight": 1
+  },
+  {
+   "source": "Sanguino",
+   "target": "Decreto 0689",
+   "weight": 1
+  },
+  {
+   "source": "Equipo Élite",
+   "target": "Departamento Administrativo de la Presidencia de la República",
+   "weight": 1
+  },
+  {
+   "source": "Equipo Élite",
+   "target": "Procuraduría General de la Nación",
+   "weight": 3
+  },
+  {
+   "source": "Equipo Élite",
+   "target": "Agencia Nacional de Tierras",
+   "weight": 1
+  },
+  {
+   "source": "Equipo Élite",
+   "target": "Contraloría General de la República",
+   "weight": 1
+  },
+  {
+   "source": "Equipo Élite",
+   "target": "Sociedad de Activos Especiales",
+   "weight": 2
+  },
+  {
+   "source": "Equipo Élite",
+   "target": "Empalme Anticorrupción",
+   "weight": 1
+  },
+  {
+   "source": "Equipo Élite",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Equipo Élite",
+   "target": "Superintendencia de Sociedades",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría",
+   "target": "Sociedad de Activos Especiales",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría",
+   "target": "Ministerio de Vivienda",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría",
+   "target": "Cauca",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría",
+   "target": "Guajira",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría",
+   "target": "Putumayo",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría",
+   "target": "Estado Crítico",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría",
+   "target": "Universidad de Antioquia",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría",
+   "target": "Colombia",
+   "weight": 2
+  },
+  {
+   "source": "Contraloría",
+   "target": "Fuerza Pública",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría",
+   "target": "Fondo de Financiamiento de la Infraestructura Educativa",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría",
+   "target": "Corte Constitucional",
+   "weight": 2
+  },
+  {
+   "source": "Contraloría",
+   "target": "Resolución 10142 de 2025",
+   "weight": 1
+  },
+  {
+   "source": "Departamento Administrativo de la Presidencia de la República",
+   "target": "Estado colombiano",
+   "weight": 1
+  },
+  {
+   "source": "Decreto 0689",
+   "target": "Decreto 0649",
+   "weight": 1
+  },
+  {
+   "source": "SPEC",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Ministerio de Vivienda",
+   "target": "Contraloría General de la República",
+   "weight": 1
+  },
+  {
+   "source": "Resolución 863 de 2026",
+   "target": "Resolución 992 de 2026",
+   "weight": 2
+  },
+  {
+   "source": "Resolución 863 de 2026",
+   "target": "Corte Constitucional",
+   "weight": 1
+  },
+  {
+   "source": "Resolución 863 de 2026",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Agencia Nacional de Tierras",
+   "target": "Contraloría General de la República",
+   "weight": 1
+  },
+  {
+   "source": "Agencia Nacional de Tierras",
+   "target": "Sociedad de Activos Especiales",
+   "weight": 2
+  },
+  {
+   "source": "Ministerio de Minas",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Resolución 992 de 2026",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "UNGRD",
+   "target": "Contraloría General de la República",
+   "weight": 1
+  },
+  {
+   "source": "Constitución",
+   "target": "Corte Constitucional",
+   "weight": 1
+  },
+  {
+   "source": "Santander",
+   "target": "Suratá",
+   "weight": 2
+  },
+  {
+   "source": "Estado colombiano",
+   "target": "Contraloría General de la República",
+   "weight": 1
+  },
+  {
+   "source": "Estado colombiano",
+   "target": "Ley de Garantías",
+   "weight": 1
+  },
+  {
+   "source": "Ley de Garantías",
+   "target": "Contraloría General de la República",
+   "weight": 1
+  },
+  {
+   "source": "Costa Caribe",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "IDEAM",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Resolución 10142 de 2025",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Berlín",
+   "target": "Aruba",
+   "weight": 2
+  },
+  {
+   "source": "Berlín",
+   "target": "Miami",
+   "weight": 1
+  },
+  {
+   "source": "Berlín",
+   "target": "Nueva York",
+   "weight": 1
+  },
+  {
+   "source": "Berlín",
+   "target": "Santiago de Chile",
+   "weight": 1
+  },
+  {
+   "source": "Cauca",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Cauca",
+   "target": "Fuerza Pública",
+   "weight": 1
+  },
+  {
+   "source": "Cauca",
+   "target": "Guajira",
+   "weight": 1
+  },
+  {
+   "source": "Cauca",
+   "target": "Putumayo",
+   "weight": 1
+  },
+  {
+   "source": "Empalme Anticorrupción",
+   "target": "Colombia",
+   "weight": 2
+  },
+  {
+   "source": "exploración y producción",
+   "target": "Colombia",
+   "weight": 1
+  },
+  {
+   "source": "Magdalena",
+   "target": "Atlántico",
+   "weight": 2
+  },
+  {
+   "source": "Magdalena",
+   "target": "Guajira",
+   "weight": 2
+  },
+  {
+   "source": "Santiago de Chile",
+   "target": "Miami",
+   "weight": 2
+  },
+  {
+   "source": "Santiago de Chile",
+   "target": "Nueva York",
+   "weight": 3
+  },
+  {
+   "source": "Santiago de Chile",
+   "target": "Aruba",
+   "weight": 1
+  },
+  {
+   "source": "Estado Mayor Central",
+   "target": "Fuerza Aeroespacial Colombiana",
+   "weight": 1
+  },
+  {
+   "source": "Estado Mayor Central",
+   "target": "Fuerza Pública",
+   "weight": 1
+  },
+  {
+   "source": "Colombia",
+   "target": "Fuerza Pública",
+   "weight": 1
+  },
+  {
+   "source": "Colombia",
+   "target": "Sector Defensa",
+   "weight": 1
+  },
+  {
+   "source": "Aruba",
+   "target": "Miami",
+   "weight": 1
+  },
+  {
+   "source": "Aruba",
+   "target": "Nueva York",
+   "weight": 1
+  },
+  {
+   "source": "Guajira",
+   "target": "Putumayo",
+   "weight": 1
+  },
+  {
+   "source": "Guajira",
+   "target": "Atlántico",
+   "weight": 2
+  },
+  {
+   "source": "Contraloría General",
+   "target": "Entidades Promotoras de Salud",
+   "weight": 2
+  },
+  {
+   "source": "Itagüí",
+   "target": "USPEC",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría General de la República",
+   "target": "Estado Crítico",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría General de la República",
+   "target": "Fondo de Financiamiento de la Infraestructura Educativa",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría General de la República",
+   "target": "Sociedad de Activos Especiales",
+   "weight": 1
+  },
+  {
+   "source": "Contraloría General de la República",
+   "target": "Procuraduría General de la Nación",
+   "weight": 1
+  },
+  {
+   "source": "Miami",
+   "target": "Nueva York",
+   "weight": 2
+  },
+  {
+   "source": "Guaviare",
+   "target": "Amazonas",
+   "weight": 2
+  },
+  {
+   "source": "Guaviare",
+   "target": "Chocó",
+   "weight": 2
+  },
+  {
+   "source": "Guaviare",
+   "target": "Putumayo",
+   "weight": 2
+  },
+  {
+   "source": "Amazonas",
+   "target": "Chocó",
+   "weight": 2
+  },
+  {
+   "source": "Amazonas",
+   "target": "Putumayo",
+   "weight": 2
+  },
+  {
+   "source": "Chocó",
+   "target": "Putumayo",
+   "weight": 2
+  }
+ ],
+ "n_nodes": 154,
+ "n_edges": 336,
+ "density": 0.0285
+}

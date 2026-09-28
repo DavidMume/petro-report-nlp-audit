@@ -46,6 +46,51 @@ RESEARCH_LOG_PATH = ROOT_DIR / "RESEARCH_LOG.md"
 DEFAULT_LANGUAGE = "es"
 SPACY_MODEL_ES = "es_core_news_lg"
 
+DOCUMENT_ID = "LDV2026"  # "El Libro de la Verdad", see documents/source_metadata.json
+PAGES_JSONL_PATH = INTERIM_DIR / "pages.jsonl"
+PARAGRAPHS_PARQUET_PATH = PROCESSED_DIR / "paragraphs.parquet"
+PARAGRAPHS_CSV_PATH = PROCESSED_DIR / "paragraphs.csv"
+SECTIONS_CSV_PATH = PROCESSED_DIR / "sections.csv"
+
+# --- Document structure --------------------------------------------------------
+# Chapter titles transcribed from the report's own table of contents (p. 3).
+# Chapter start pages are detected automatically from the divider pages.
+CHAPTER_TITLES = {
+    1: "I. Proceso metodológico del empalme",
+    2: "II. Comportamientos críticos nocivos para el Estado",
+    3: "III. Hallazgos en materia de corrupción y balance de acciones",
+    4: "IV. Balance sectorial",
+    5: "V. Principios de Gobierno de la Patria Milagro",
+}
+FRONT_MATTER_LABEL = "0. Preliminares"
+
+# Sector names as printed in chapter IV headings ("Sector <name>"). Needed
+# because some headings run the sector name and the headline together in one
+# text span. Spelling kept exactly as printed (e.g. p. 84 prints "Ambiente y
+# Desarrollo Rural").
+CH4_SECTOR_NAMES = [
+    "Agricultura y desarrollo Rural",
+    "Ambiente y Desarrollo Rural",
+    "Ciencia, Tecnología e Innovación",
+    "Comercio, Industria y Turismo",
+    "Cultura",
+    "Defensa Nacional",
+    "Deporte",
+    "Educación Nacional",
+    "Hacienda y Crédito Público",
+    "Inclusión Social y Reconciliación",
+    "Interior",
+    "Justicia y del Derecho",
+    "Minas y Energía",
+    "Presidencia de la República",
+    "Relaciones Exteriores",
+    "Salud y Protección Social",
+    "Tecnologías de la Información y las Comunicaciones",
+    "Trabajo",
+    "Transporte",
+    "Vivienda, Ciudad y Territorio",
+]
+
 # --- Corpus schema ---------------------------------------------------------
 # Minimum columns preserved for every unit of text extracted from the PDF.
 # Every downstream analytical result must be traceable back to these fields.
@@ -58,6 +103,17 @@ CORPUS_SCHEMA = [
     "raw_text",
     "clean_text",
     "lemma_text",
+]
+# Additional traceability/structure columns written alongside the minimum schema.
+CORPUS_EXTRA_COLUMNS = [
+    "chapter",
+    "level2",
+    "level3",
+    "block_type",
+    "is_ocr",
+    "numbers",
+    "quotes",
+    "n_words",
 ]
 
 # --- Claims schema ---------------------------------------------------------

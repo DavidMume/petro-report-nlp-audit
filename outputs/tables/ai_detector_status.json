@@ -1,0 +1,5 @@
+{
+  "status": "not_run",
+  "reason": "No AI-text detector with convincing Spanish-language validation was available in the execution environment (huggingface.co blocked; no commercial detector APIs used), and the calibration corpora A (human, 2015-2021), B (AI-generated) and C (hybrid) required by methodology §23.5 have not been assembled. Per §23.4-23.6, no detector output is produced.",
+  "next_step": "Assemble corpora A/B/C (see sources/calibration/README.md), then run run_detector_calibration_experiment()."
+}

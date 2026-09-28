@@ -1,0 +1,6 @@
+{
+  "k": 13,
+  "embedding_method": "spaCy core_news_lg averaged static word vectors (fallback)",
+  "bertopic": "not run: ModuleNotFoundError: No module named 'bertopic'",
+  "n_paragraphs_modelled": 667
+}

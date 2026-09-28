@@ -1,0 +1,4658 @@
+{
+ "nodes": [
+  {
+   "id": "proceso",
+   "count": 134,
+   "weighted_degree": 462,
+   "community": 0
+  },
+  {
+   "id": "millón",
+   "count": 218,
+   "weighted_degree": 491,
+   "community": 1
+  },
+  {
+   "id": "público",
+   "count": 142,
+   "weighted_degree": 469,
+   "community": 1
+  },
+  {
+   "id": "equipo",
+   "count": 44,
+   "weighted_degree": 94,
+   "community": 0
+  },
+  {
+   "id": "estado",
+   "count": 9,
+   "weighted_degree": 10,
+   "community": 0
+  },
+  {
+   "id": "recurso",
+   "count": 165,
+   "weighted_degree": 524,
+   "community": 1
+  },
+  {
+   "id": "decisión",
+   "count": 84,
+   "weighted_degree": 267,
+   "community": 0
+  },
+  {
+   "id": "gobierno",
+   "count": 59,
+   "weighted_degree": 148,
+   "community": 1
+  },
+  {
+   "id": "empalme",
+   "count": 59,
+   "weighted_degree": 164,
+   "community": 0
+  },
+  {
+   "id": "entidad",
+   "count": 98,
+   "weighted_degree": 285,
+   "community": 1
+  },
+  {
+   "id": "control",
+   "count": 81,
+   "weighted_degree": 267,
+   "community": 0
+  },
+  {
+   "id": "institucional",
+   "count": 59,
+   "weighted_degree": 168,
+   "community": 0
+  },
+  {
+   "id": "capacidad",
+   "count": 75,
+   "weighted_degree": 203,
+   "community": 1
+  },
+  {
+   "id": "servicio",
+   "count": 82,
+   "weighted_degree": 210,
+   "community": 1
+  },
+  {
+   "id": "contrato",
+   "count": 101,
+   "weighted_degree": 185,
+   "community": 1
+  },
+  {
+   "id": "contractual",
+   "count": 44,
+   "weighted_degree": 135,
+   "community": 0
+  },
+  {
+   "id": "caso",
+   "count": 63,
+   "weighted_degree": 122,
+   "community": 0
+  },
+  {
+   "id": "presentar",
+   "count": 44,
+   "weighted_degree": 129,
+   "community": 0
+  },
+  {
+   "id": "nacional",
+   "count": 35,
+   "weighted_degree": 33,
+   "community": 1
+  },
+  {
+   "id": "general",
+   "count": 7,
+   "weighted_degree": 3,
+   "community": 0
+  },
+  {
+   "id": "información",
+   "count": 54,
+   "weighted_degree": 145,
+   "community": 0
+  },
+  {
+   "id": "técnico",
+   "count": 60,
+   "weighted_degree": 210,
+   "community": 0
+  },
+  {
+   "id": "contratación",
+   "count": 63,
+   "weighted_degree": 154,
+   "community": 1
+  },
+  {
+   "id": "gestión",
+   "count": 53,
+   "weighted_degree": 134,
+   "community": 0
+  },
+  {
+   "id": "fiscal",
+   "count": 63,
+   "weighted_degree": 227,
+   "community": 0
+  },
+  {
+   "id": "proyecto",
+   "count": 109,
+   "weighted_degree": 232,
+   "community": 1
+  },
+  {
+   "id": "ejecución",
+   "count": 79,
+   "weighted_degree": 195,
+   "community": 1
+  },
+  {
+   "id": "actuación",
+   "count": 28,
+   "weighted_degree": 67,
+   "community": 0
+  },
+  {
+   "id": "hallazgo",
+   "count": 59,
+   "weighted_degree": 162,
+   "community": 0
+  },
+  {
+   "id": "sector",
+   "count": 79,
+   "weighted_degree": 168,
+   "community": 0
+  },
+  {
+   "id": "billón",
+   "count": 113,
+   "weighted_degree": 230,
+   "community": 1
+  },
+  {
+   "id": "condición",
+   "count": 35,
+   "weighted_degree": 52,
+   "community": 0
+  },
+  {
+   "id": "frente",
+   "count": 78,
+   "weighted_degree": 172,
+   "community": 1
+  },
+  {
+   "id": "recibir",
+   "count": 56,
+   "weighted_degree": 104,
+   "community": 1
+  },
+  {
+   "id": "autoridad",
+   "count": 32,
+   "weighted_degree": 69,
+   "community": 0
+  },
+  {
+   "id": "relacionado",
+   "count": 31,
+   "weighted_degree": 86,
+   "community": 0
+  },
+  {
+   "id": "administrativo",
+   "count": 47,
+   "weighted_degree": 106,
+   "community": 2
+  },
+  {
+   "id": "disciplinario",
+   "count": 29,
+   "weighted_degree": 99,
+   "community": 0
+  },
+  {
+   "id": "parte",
+   "count": 46,
+   "weighted_degree": 83,
+   "community": 0
+  },
+  {
+   "id": "comprometer",
+   "count": 49,
+   "weighted_degree": 139,
+   "community": 1
+  },
+  {
+   "id": "año",
+   "count": 87,
+   "weighted_degree": 169,
+   "community": 1
+  },
+  {
+   "id": "ejercicio",
+   "count": 25,
+   "weighted_degree": 39,
+   "community": 0
+  },
+  {
+   "id": "riesgo",
+   "count": 72,
+   "weighted_degree": 168,
+   "community": 1
+  },
+  {
+   "id": "nuevo",
+   "count": 69,
+   "weighted_degree": 167,
+   "community": 1
+  },
+  {
+   "id": "programa",
+   "count": 53,
+   "weighted_degree": 88,
+   "community": 1
+  },
+  {
+   "id": "país",
+   "count": 86,
+   "weighted_degree": 163,
+   "community": 1
+  },
+  {
+   "id": "colombiano",
+   "count": 61,
+   "weighted_degree": 135,
+   "community": 1
+  },
+  {
+   "id": "responsabilidad",
+   "count": 29,
+   "weighted_degree": 42,
+   "community": 0
+  },
+  {
+   "id": "resultado",
+   "count": 53,
+   "weighted_degree": 73,
+   "community": 1
+  },
+  {
+   "id": "análisis",
+   "count": 22,
+   "weighted_degree": 23,
+   "community": 0
+  },
+  {
+   "id": "julio",
+   "count": 41,
+   "weighted_degree": 83,
+   "community": 2
+  },
+  {
+   "id": "sistema",
+   "count": 36,
+   "weighted_degree": 67,
+   "community": 1
+  },
+  {
+   "id": "tiempo",
+   "count": 49,
+   "weighted_degree": 101,
+   "community": 1
+  },
+  {
+   "id": "ciudadano",
+   "count": 35,
+   "weighted_degree": 68,
+   "community": 1
+  },
+  {
+   "id": "persona",
+   "count": 37,
+   "weighted_degree": 41,
+   "community": 1
+  },
+  {
+   "id": "valor",
+   "count": 36,
+   "weighted_degree": 62,
+   "community": 1
+  },
+  {
+   "id": "función",
+   "count": 24,
+   "weighted_degree": 45,
+   "community": 1
+  },
+  {
+   "id": "mayor",
+   "count": 38,
+   "weighted_degree": 56,
+   "community": 1
+  },
+  {
+   "id": "exigir",
+   "count": 42,
+   "weighted_degree": 91,
+   "community": 0
+  },
+  {
+   "id": "auditoría",
+   "count": 26,
+   "weighted_degree": 35,
+   "community": 0
+  },
+  {
+   "id": "acción",
+   "count": 17,
+   "weighted_degree": 47,
+   "community": 0
+  },
+  {
+   "id": "desarrollo",
+   "count": 29,
+   "weighted_degree": 49,
+   "community": 1
+  },
+  {
+   "id": "fondo",
+   "count": 24,
+   "weighted_degree": 26,
+   "community": 1
+  },
+  {
+   "id": "comportamiento",
+   "count": 18,
+   "weighted_degree": 35,
+   "community": 0
+  },
+  {
+   "id": "encontrar",
+   "count": 28,
+   "weighted_degree": 38,
+   "community": 0
+  },
+  {
+   "id": "presupuestal",
+   "count": 38,
+   "weighted_degree": 86,
+   "community": 2
+  },
+  {
+   "id": "correspondiente",
+   "count": 18,
+   "weighted_degree": 36,
+   "community": 0
+  },
+  {
+   "id": "bien",
+   "count": 21,
+   "weighted_degree": 24,
+   "community": 1
+  },
+  {
+   "id": "estratégico",
+   "count": 26,
+   "weighted_degree": 50,
+   "community": 1
+  },
+  {
+   "id": "financiero",
+   "count": 44,
+   "weighted_degree": 94,
+   "community": 0
+  },
+  {
+   "id": "mecanismo",
+   "count": 24,
+   "weighted_degree": 43,
+   "community": 0
+  },
+  {
+   "id": "solicitar",
+   "count": 15,
+   "weighted_degree": 33,
+   "community": 0
+  },
+  {
+   "id": "administración",
+   "count": 22,
+   "weighted_degree": 35,
+   "community": 0
+  },
+  {
+   "id": "transparencia",
+   "count": 31,
+   "weighted_degree": 81,
+   "community": 0
+  }
+ ],
+ "links": [
+  {
+   "source": "proceso",
+   "target": "información",
+   "weight": 11
+  },
+  {
+   "source": "proceso",
+   "target": "nuevo",
+   "weight": 13
+  },
+  {
+   "source": "proceso",
+   "target": "parte",
+   "weight": 12
+  },
+  {
+   "source": "proceso",
+   "target": "autoridad",
+   "weight": 4
+  },
+  {
+   "source": "proceso",
+   "target": "hallazgo",
+   "weight": 15
+  },
+  {
+   "source": "proceso",
+   "target": "presupuestal",
+   "weight": 5
+  },
+  {
+   "source": "proceso",
+   "target": "caso",
+   "weight": 7
+  },
+  {
+   "source": "proceso",
+   "target": "entidad",
+   "weight": 12
+  },
+  {
+   "source": "proceso",
+   "target": "gestión",
+   "weight": 6
+  },
+  {
+   "source": "proceso",
+   "target": "presentar",
+   "weight": 9
+  },
+  {
+   "source": "proceso",
+   "target": "ejercicio",
+   "weight": 4
+  },
+  {
+   "source": "proceso",
+   "target": "país",
+   "weight": 5
+  },
+  {
+   "source": "proceso",
+   "target": "sistema",
+   "weight": 3
+  },
+  {
+   "source": "proceso",
+   "target": "técnico",
+   "weight": 18
+  },
+  {
+   "source": "proceso",
+   "target": "análisis",
+   "weight": 4
+  },
+  {
+   "source": "proceso",
+   "target": "institucional",
+   "weight": 11
+  },
+  {
+   "source": "proceso",
+   "target": "administrativo",
+   "weight": 6
+  },
+  {
+   "source": "proceso",
+   "target": "empalme",
+   "weight": 29
+  },
+  {
+   "source": "proceso",
+   "target": "público",
+   "weight": 17
+  },
+  {
+   "source": "proceso",
+   "target": "gobierno",
+   "weight": 7
+  },
+  {
+   "source": "proceso",
+   "target": "mecanismo",
+   "weight": 3
+  },
+  {
+   "source": "proceso",
+   "target": "condición",
+   "weight": 8
+  },
+  {
+   "source": "proceso",
+   "target": "control",
+   "weight": 11
+  },
+  {
+   "source": "proceso",
+   "target": "valor",
+   "weight": 4
+  },
+  {
+   "source": "proceso",
+   "target": "comportamiento",
+   "weight": 6
+  },
+  {
+   "source": "proceso",
+   "target": "equipo",
+   "weight": 10
+  },
+  {
+   "source": "proceso",
+   "target": "riesgo",
+   "weight": 8
+  },
+  {
+   "source": "proceso",
+   "target": "estado",
+   "weight": 3
+  },
+  {
+   "source": "proceso",
+   "target": "recibir",
+   "weight": 5
+  },
+  {
+   "source": "proceso",
+   "target": "bien",
+   "weight": 3
+  },
+  {
+   "source": "proceso",
+   "target": "capacidad",
+   "weight": 5
+  },
+  {
+   "source": "proceso",
+   "target": "decisión",
+   "weight": 10
+  },
+  {
+   "source": "proceso",
+   "target": "recurso",
+   "weight": 18
+  },
+  {
+   "source": "proceso",
+   "target": "servicio",
+   "weight": 5
+  },
+  {
+   "source": "proceso",
+   "target": "actuación",
+   "weight": 9
+  },
+  {
+   "source": "proceso",
+   "target": "contractual",
+   "weight": 15
+  },
+  {
+   "source": "proceso",
+   "target": "estratégico",
+   "weight": 3
+  },
+  {
+   "source": "proceso",
+   "target": "sector",
+   "weight": 4
+  },
+  {
+   "source": "proceso",
+   "target": "tiempo",
+   "weight": 4
+  },
+  {
+   "source": "proceso",
+   "target": "proyecto",
+   "weight": 12
+  },
+  {
+   "source": "proceso",
+   "target": "desarrollo",
+   "weight": 3
+  },
+  {
+   "source": "proceso",
+   "target": "frente",
+   "weight": 4
+  },
+  {
+   "source": "proceso",
+   "target": "mayor",
+   "weight": 4
+  },
+  {
+   "source": "proceso",
+   "target": "relacionado",
+   "weight": 7
+  },
+  {
+   "source": "proceso",
+   "target": "transparencia",
+   "weight": 5
+  },
+  {
+   "source": "proceso",
+   "target": "contrato",
+   "weight": 3
+  },
+  {
+   "source": "proceso",
+   "target": "disciplinario",
+   "weight": 5
+  },
+  {
+   "source": "proceso",
+   "target": "fiscal",
+   "weight": 5
+  },
+  {
+   "source": "proceso",
+   "target": "ejecución",
+   "weight": 7
+  },
+  {
+   "source": "proceso",
+   "target": "comprometer",
+   "weight": 8
+  },
+  {
+   "source": "proceso",
+   "target": "encontrar",
+   "weight": 4
+  },
+  {
+   "source": "proceso",
+   "target": "contratación",
+   "weight": 12
+  },
+  {
+   "source": "proceso",
+   "target": "billón",
+   "weight": 7
+  },
+  {
+   "source": "proceso",
+   "target": "financiero",
+   "weight": 3
+  },
+  {
+   "source": "proceso",
+   "target": "millón",
+   "weight": 13
+  },
+  {
+   "source": "proceso",
+   "target": "administración",
+   "weight": 6
+  },
+  {
+   "source": "proceso",
+   "target": "colombiano",
+   "weight": 4
+  },
+  {
+   "source": "proceso",
+   "target": "resultado",
+   "weight": 3
+  },
+  {
+   "source": "proceso",
+   "target": "julio",
+   "weight": 6
+  },
+  {
+   "source": "proceso",
+   "target": "solicitar",
+   "weight": 5
+  },
+  {
+   "source": "proceso",
+   "target": "acción",
+   "weight": 4
+  },
+  {
+   "source": "millón",
+   "target": "programa",
+   "weight": 18
+  },
+  {
+   "source": "millón",
+   "target": "entidad",
+   "weight": 22
+  },
+  {
+   "source": "millón",
+   "target": "julio",
+   "weight": 9
+  },
+  {
+   "source": "millón",
+   "target": "presupuestal",
+   "weight": 10
+  },
+  {
+   "source": "millón",
+   "target": "ejecución",
+   "weight": 16
+  },
+  {
+   "source": "millón",
+   "target": "decisión",
+   "weight": 5
+  },
+  {
+   "source": "millón",
+   "target": "exigir",
+   "weight": 4
+  },
+  {
+   "source": "millón",
+   "target": "presentar",
+   "weight": 6
+  },
+  {
+   "source": "millón",
+   "target": "proyecto",
+   "weight": 31
+  },
+  {
+   "source": "millón",
+   "target": "recurso",
+   "weight": 17
+  },
+  {
+   "source": "millón",
+   "target": "contrato",
+   "weight": 29
+  },
+  {
+   "source": "millón",
+   "target": "servicio",
+   "weight": 14
+  },
+  {
+   "source": "millón",
+   "target": "país",
+   "weight": 11
+  },
+  {
+   "source": "millón",
+   "target": "comprometer",
+   "weight": 16
+  },
+  {
+   "source": "millón",
+   "target": "gestión",
+   "weight": 3
+  },
+  {
+   "source": "millón",
+   "target": "sistema",
+   "weight": 4
+  },
+  {
+   "source": "millón",
+   "target": "año",
+   "weight": 16
+  },
+  {
+   "source": "millón",
+   "target": "fiscal",
+   "weight": 18
+  },
+  {
+   "source": "millón",
+   "target": "control",
+   "weight": 8
+  },
+  {
+   "source": "millón",
+   "target": "público",
+   "weight": 9
+  },
+  {
+   "source": "millón",
+   "target": "hallazgo",
+   "weight": 14
+  },
+  {
+   "source": "millón",
+   "target": "contratación",
+   "weight": 15
+  },
+  {
+   "source": "millón",
+   "target": "fondo",
+   "weight": 9
+  },
+  {
+   "source": "millón",
+   "target": "billón",
+   "weight": 17
+  },
+  {
+   "source": "millón",
+   "target": "colombiano",
+   "weight": 15
+  },
+  {
+   "source": "millón",
+   "target": "valor",
+   "weight": 15
+  },
+  {
+   "source": "millón",
+   "target": "parte",
+   "weight": 9
+  },
+  {
+   "source": "millón",
+   "target": "caso",
+   "weight": 5
+  },
+  {
+   "source": "millón",
+   "target": "administrativo",
+   "weight": 4
+  },
+  {
+   "source": "millón",
+   "target": "nuevo",
+   "weight": 7
+  },
+  {
+   "source": "millón",
+   "target": "financiero",
+   "weight": 3
+  },
+  {
+   "source": "millón",
+   "target": "frente",
+   "weight": 8
+  },
+  {
+   "source": "millón",
+   "target": "riesgo",
+   "weight": 8
+  },
+  {
+   "source": "millón",
+   "target": "gobierno",
+   "weight": 7
+  },
+  {
+   "source": "millón",
+   "target": "resultado",
+   "weight": 3
+  },
+  {
+   "source": "millón",
+   "target": "auditoría",
+   "weight": 6
+  },
+  {
+   "source": "millón",
+   "target": "contractual",
+   "weight": 4
+  },
+  {
+   "source": "millón",
+   "target": "mayor",
+   "weight": 9
+  },
+  {
+   "source": "millón",
+   "target": "tiempo",
+   "weight": 4
+  },
+  {
+   "source": "millón",
+   "target": "encontrar",
+   "weight": 4
+  },
+  {
+   "source": "millón",
+   "target": "técnico",
+   "weight": 4
+  },
+  {
+   "source": "millón",
+   "target": "nacional",
+   "weight": 4
+  },
+  {
+   "source": "millón",
+   "target": "persona",
+   "weight": 9
+  },
+  {
+   "source": "millón",
+   "target": "desarrollo",
+   "weight": 3
+  },
+  {
+   "source": "millón",
+   "target": "condición",
+   "weight": 4
+  },
+  {
+   "source": "millón",
+   "target": "solicitar",
+   "weight": 5
+  },
+  {
+   "source": "millón",
+   "target": "empalme",
+   "weight": 4
+  },
+  {
+   "source": "millón",
+   "target": "ejercicio",
+   "weight": 3
+  },
+  {
+   "source": "millón",
+   "target": "función",
+   "weight": 3
+  },
+  {
+   "source": "millón",
+   "target": "recibir",
+   "weight": 4
+  },
+  {
+   "source": "millón",
+   "target": "sector",
+   "weight": 3
+  },
+  {
+   "source": "público",
+   "target": "ciudadano",
+   "weight": 13
+  },
+  {
+   "source": "público",
+   "target": "comprometer",
+   "weight": 12
+  },
+  {
+   "source": "público",
+   "target": "decisión",
+   "weight": 12
+  },
+  {
+   "source": "público",
+   "target": "frente",
+   "weight": 10
+  },
+  {
+   "source": "público",
+   "target": "país",
+   "weight": 12
+  },
+  {
+   "source": "público",
+   "target": "recurso",
+   "weight": 44
+  },
+  {
+   "source": "público",
+   "target": "autoridad",
+   "weight": 6
+  },
+  {
+   "source": "público",
+   "target": "institucional",
+   "weight": 9
+  },
+  {
+   "source": "público",
+   "target": "ejercicio",
+   "weight": 3
+  },
+  {
+   "source": "público",
+   "target": "función",
+   "weight": 8
+  },
+  {
+   "source": "público",
+   "target": "gobierno",
+   "weight": 9
+  },
+  {
+   "source": "público",
+   "target": "información",
+   "weight": 12
+  },
+  {
+   "source": "público",
+   "target": "caso",
+   "weight": 9
+  },
+  {
+   "source": "público",
+   "target": "riesgo",
+   "weight": 16
+  },
+  {
+   "source": "público",
+   "target": "exigir",
+   "weight": 8
+  },
+  {
+   "source": "público",
+   "target": "empalme",
+   "weight": 5
+  },
+  {
+   "source": "público",
+   "target": "entidad",
+   "weight": 13
+  },
+  {
+   "source": "público",
+   "target": "mecanismo",
+   "weight": 4
+  },
+  {
+   "source": "público",
+   "target": "valor",
+   "weight": 3
+  },
+  {
+   "source": "público",
+   "target": "contratación",
+   "weight": 11
+  },
+  {
+   "source": "público",
+   "target": "sistema",
+   "weight": 4
+  },
+  {
+   "source": "público",
+   "target": "bien",
+   "weight": 5
+  },
+  {
+   "source": "público",
+   "target": "control",
+   "weight": 15
+  },
+  {
+   "source": "público",
+   "target": "servicio",
+   "weight": 29
+  },
+  {
+   "source": "público",
+   "target": "persona",
+   "weight": 4
+  },
+  {
+   "source": "público",
+   "target": "tiempo",
+   "weight": 3
+  },
+  {
+   "source": "público",
+   "target": "recibir",
+   "weight": 3
+  },
+  {
+   "source": "público",
+   "target": "resultado",
+   "weight": 8
+  },
+  {
+   "source": "público",
+   "target": "condición",
+   "weight": 3
+  },
+  {
+   "source": "público",
+   "target": "gestión",
+   "weight": 10
+  },
+  {
+   "source": "público",
+   "target": "programa",
+   "weight": 3
+  },
+  {
+   "source": "público",
+   "target": "capacidad",
+   "weight": 10
+  },
+  {
+   "source": "público",
+   "target": "desarrollo",
+   "weight": 9
+  },
+  {
+   "source": "público",
+   "target": "mayor",
+   "weight": 6
+  },
+  {
+   "source": "público",
+   "target": "responsabilidad",
+   "weight": 3
+  },
+  {
+   "source": "público",
+   "target": "transparencia",
+   "weight": 9
+  },
+  {
+   "source": "público",
+   "target": "estratégico",
+   "weight": 4
+  },
+  {
+   "source": "público",
+   "target": "fiscal",
+   "weight": 5
+  },
+  {
+   "source": "público",
+   "target": "presupuestal",
+   "weight": 3
+  },
+  {
+   "source": "público",
+   "target": "ejecución",
+   "weight": 6
+  },
+  {
+   "source": "público",
+   "target": "administración",
+   "weight": 5
+  },
+  {
+   "source": "público",
+   "target": "técnico",
+   "weight": 4
+  },
+  {
+   "source": "público",
+   "target": "billón",
+   "weight": 6
+  },
+  {
+   "source": "público",
+   "target": "nacional",
+   "weight": 5
+  },
+  {
+   "source": "público",
+   "target": "administrativo",
+   "weight": 6
+  },
+  {
+   "source": "público",
+   "target": "nuevo",
+   "weight": 6
+  },
+  {
+   "source": "público",
+   "target": "auditoría",
+   "weight": 3
+  },
+  {
+   "source": "público",
+   "target": "año",
+   "weight": 5
+  },
+  {
+   "source": "público",
+   "target": "contrato",
+   "weight": 8
+  },
+  {
+   "source": "público",
+   "target": "contractual",
+   "weight": 3
+  },
+  {
+   "source": "público",
+   "target": "hallazgo",
+   "weight": 6
+  },
+  {
+   "source": "público",
+   "target": "proyecto",
+   "weight": 10
+  },
+  {
+   "source": "público",
+   "target": "colombiano",
+   "weight": 8
+  },
+  {
+   "source": "público",
+   "target": "relacionado",
+   "weight": 4
+  },
+  {
+   "source": "público",
+   "target": "sector",
+   "weight": 3
+  },
+  {
+   "source": "equipo",
+   "target": "ejercicio",
+   "weight": 4
+  },
+  {
+   "source": "equipo",
+   "target": "empalme",
+   "weight": 8
+  },
+  {
+   "source": "equipo",
+   "target": "acción",
+   "weight": 3
+  },
+  {
+   "source": "equipo",
+   "target": "frente",
+   "weight": 3
+  },
+  {
+   "source": "equipo",
+   "target": "hallazgo",
+   "weight": 3
+  },
+  {
+   "source": "equipo",
+   "target": "información",
+   "weight": 3
+  },
+  {
+   "source": "equipo",
+   "target": "técnico",
+   "weight": 8
+  },
+  {
+   "source": "equipo",
+   "target": "control",
+   "weight": 7
+  },
+  {
+   "source": "equipo",
+   "target": "sector",
+   "weight": 11
+  },
+  {
+   "source": "equipo",
+   "target": "comportamiento",
+   "weight": 6
+  },
+  {
+   "source": "equipo",
+   "target": "caso",
+   "weight": 16
+  },
+  {
+   "source": "equipo",
+   "target": "decisión",
+   "weight": 5
+  },
+  {
+   "source": "equipo",
+   "target": "presentar",
+   "weight": 4
+  },
+  {
+   "source": "equipo",
+   "target": "institucional",
+   "weight": 3
+  },
+  {
+   "source": "estado",
+   "target": "recibir",
+   "weight": 4
+  },
+  {
+   "source": "estado",
+   "target": "decisión",
+   "weight": 3
+  },
+  {
+   "source": "recurso",
+   "target": "ciudadano",
+   "weight": 11
+  },
+  {
+   "source": "recurso",
+   "target": "comprometer",
+   "weight": 18
+  },
+  {
+   "source": "recurso",
+   "target": "decisión",
+   "weight": 17
+  },
+  {
+   "source": "recurso",
+   "target": "frente",
+   "weight": 10
+  },
+  {
+   "source": "recurso",
+   "target": "país",
+   "weight": 11
+  },
+  {
+   "source": "recurso",
+   "target": "administrativo",
+   "weight": 5
+  },
+  {
+   "source": "recurso",
+   "target": "información",
+   "weight": 8
+  },
+  {
+   "source": "recurso",
+   "target": "técnico",
+   "weight": 7
+  },
+  {
+   "source": "recurso",
+   "target": "exigir",
+   "weight": 8
+  },
+  {
+   "source": "recurso",
+   "target": "resultado",
+   "weight": 9
+  },
+  {
+   "source": "recurso",
+   "target": "servicio",
+   "weight": 10
+  },
+  {
+   "source": "recurso",
+   "target": "capacidad",
+   "weight": 17
+  },
+  {
+   "source": "recurso",
+   "target": "entidad",
+   "weight": 17
+  },
+  {
+   "source": "recurso",
+   "target": "gestión",
+   "weight": 10
+  },
+  {
+   "source": "recurso",
+   "target": "institucional",
+   "weight": 8
+  },
+  {
+   "source": "recurso",
+   "target": "contratación",
+   "weight": 5
+  },
+  {
+   "source": "recurso",
+   "target": "control",
+   "weight": 16
+  },
+  {
+   "source": "recurso",
+   "target": "estratégico",
+   "weight": 7
+  },
+  {
+   "source": "recurso",
+   "target": "condición",
+   "weight": 3
+  },
+  {
+   "source": "recurso",
+   "target": "gobierno",
+   "weight": 5
+  },
+  {
+   "source": "recurso",
+   "target": "transparencia",
+   "weight": 8
+  },
+  {
+   "source": "recurso",
+   "target": "financiero",
+   "weight": 3
+  },
+  {
+   "source": "recurso",
+   "target": "fiscal",
+   "weight": 7
+  },
+  {
+   "source": "recurso",
+   "target": "presupuestal",
+   "weight": 5
+  },
+  {
+   "source": "recurso",
+   "target": "ejecución",
+   "weight": 18
+  },
+  {
+   "source": "recurso",
+   "target": "mecanismo",
+   "weight": 5
+  },
+  {
+   "source": "recurso",
+   "target": "billón",
+   "weight": 16
+  },
+  {
+   "source": "recurso",
+   "target": "sistema",
+   "weight": 6
+  },
+  {
+   "source": "recurso",
+   "target": "presentar",
+   "weight": 7
+  },
+  {
+   "source": "recurso",
+   "target": "proyecto",
+   "weight": 26
+  },
+  {
+   "source": "recurso",
+   "target": "persona",
+   "weight": 3
+  },
+  {
+   "source": "recurso",
+   "target": "nuevo",
+   "weight": 7
+  },
+  {
+   "source": "recurso",
+   "target": "tiempo",
+   "weight": 6
+  },
+  {
+   "source": "recurso",
+   "target": "nacional",
+   "weight": 5
+  },
+  {
+   "source": "recurso",
+   "target": "riesgo",
+   "weight": 16
+  },
+  {
+   "source": "recurso",
+   "target": "parte",
+   "weight": 5
+  },
+  {
+   "source": "recurso",
+   "target": "contrato",
+   "weight": 7
+  },
+  {
+   "source": "recurso",
+   "target": "disciplinario",
+   "weight": 4
+  },
+  {
+   "source": "recurso",
+   "target": "contractual",
+   "weight": 6
+  },
+  {
+   "source": "recurso",
+   "target": "autoridad",
+   "weight": 5
+  },
+  {
+   "source": "recurso",
+   "target": "hallazgo",
+   "weight": 6
+  },
+  {
+   "source": "recurso",
+   "target": "mayor",
+   "weight": 5
+  },
+  {
+   "source": "recurso",
+   "target": "administración",
+   "weight": 6
+  },
+  {
+   "source": "recurso",
+   "target": "programa",
+   "weight": 10
+  },
+  {
+   "source": "recurso",
+   "target": "año",
+   "weight": 8
+  },
+  {
+   "source": "recurso",
+   "target": "colombiano",
+   "weight": 11
+  },
+  {
+   "source": "recurso",
+   "target": "relacionado",
+   "weight": 8
+  },
+  {
+   "source": "recurso",
+   "target": "desarrollo",
+   "weight": 6
+  },
+  {
+   "source": "recurso",
+   "target": "sector",
+   "weight": 7
+  },
+  {
+   "source": "recurso",
+   "target": "encontrar",
+   "weight": 5
+  },
+  {
+   "source": "recurso",
+   "target": "responsabilidad",
+   "weight": 3
+  },
+  {
+   "source": "recurso",
+   "target": "julio",
+   "weight": 3
+  },
+  {
+   "source": "decisión",
+   "target": "comprometer",
+   "weight": 8
+  },
+  {
+   "source": "decisión",
+   "target": "frente",
+   "weight": 6
+  },
+  {
+   "source": "decisión",
+   "target": "país",
+   "weight": 5
+  },
+  {
+   "source": "decisión",
+   "target": "capacidad",
+   "weight": 10
+  },
+  {
+   "source": "decisión",
+   "target": "condición",
+   "weight": 6
+  },
+  {
+   "source": "decisión",
+   "target": "recibir",
+   "weight": 4
+  },
+  {
+   "source": "decisión",
+   "target": "administración",
+   "weight": 5
+  },
+  {
+   "source": "decisión",
+   "target": "análisis",
+   "weight": 4
+  },
+  {
+   "source": "decisión",
+   "target": "institucional",
+   "weight": 10
+  },
+  {
+   "source": "decisión",
+   "target": "fiscal",
+   "weight": 8
+  },
+  {
+   "source": "decisión",
+   "target": "sector",
+   "weight": 6
+  },
+  {
+   "source": "decisión",
+   "target": "contractual",
+   "weight": 11
+  },
+  {
+   "source": "decisión",
+   "target": "control",
+   "weight": 10
+  },
+  {
+   "source": "decisión",
+   "target": "técnico",
+   "weight": 7
+  },
+  {
+   "source": "decisión",
+   "target": "entidad",
+   "weight": 5
+  },
+  {
+   "source": "decisión",
+   "target": "gestión",
+   "weight": 10
+  },
+  {
+   "source": "decisión",
+   "target": "administrativo",
+   "weight": 7
+  },
+  {
+   "source": "decisión",
+   "target": "contratación",
+   "weight": 4
+  },
+  {
+   "source": "decisión",
+   "target": "riesgo",
+   "weight": 6
+  },
+  {
+   "source": "decisión",
+   "target": "actuación",
+   "weight": 3
+  },
+  {
+   "source": "decisión",
+   "target": "estratégico",
+   "weight": 3
+  },
+  {
+   "source": "decisión",
+   "target": "ejercicio",
+   "weight": 3
+  },
+  {
+   "source": "decisión",
+   "target": "función",
+   "weight": 3
+  },
+  {
+   "source": "decisión",
+   "target": "gobierno",
+   "weight": 6
+  },
+  {
+   "source": "decisión",
+   "target": "transparencia",
+   "weight": 7
+  },
+  {
+   "source": "decisión",
+   "target": "ejecución",
+   "weight": 3
+  },
+  {
+   "source": "decisión",
+   "target": "información",
+   "weight": 3
+  },
+  {
+   "source": "decisión",
+   "target": "tiempo",
+   "weight": 5
+  },
+  {
+   "source": "decisión",
+   "target": "exigir",
+   "weight": 7
+  },
+  {
+   "source": "decisión",
+   "target": "proyecto",
+   "weight": 3
+  },
+  {
+   "source": "decisión",
+   "target": "año",
+   "weight": 3
+  },
+  {
+   "source": "decisión",
+   "target": "nuevo",
+   "weight": 5
+  },
+  {
+   "source": "decisión",
+   "target": "general",
+   "weight": 3
+  },
+  {
+   "source": "decisión",
+   "target": "julio",
+   "weight": 3
+  },
+  {
+   "source": "decisión",
+   "target": "financiero",
+   "weight": 5
+  },
+  {
+   "source": "decisión",
+   "target": "empalme",
+   "weight": 4
+  },
+  {
+   "source": "decisión",
+   "target": "relacionado",
+   "weight": 8
+  },
+  {
+   "source": "decisión",
+   "target": "presupuestal",
+   "weight": 3
+  },
+  {
+   "source": "decisión",
+   "target": "caso",
+   "weight": 3
+  },
+  {
+   "source": "gobierno",
+   "target": "nuevo",
+   "weight": 9
+  },
+  {
+   "source": "gobierno",
+   "target": "empalme",
+   "weight": 5
+  },
+  {
+   "source": "gobierno",
+   "target": "entidad",
+   "weight": 6
+  },
+  {
+   "source": "gobierno",
+   "target": "comprometer",
+   "weight": 7
+  },
+  {
+   "source": "gobierno",
+   "target": "condición",
+   "weight": 3
+  },
+  {
+   "source": "gobierno",
+   "target": "capacidad",
+   "weight": 3
+  },
+  {
+   "source": "gobierno",
+   "target": "contrato",
+   "weight": 3
+  },
+  {
+   "source": "gobierno",
+   "target": "país",
+   "weight": 5
+  },
+  {
+   "source": "gobierno",
+   "target": "recibir",
+   "weight": 4
+  },
+  {
+   "source": "gobierno",
+   "target": "billón",
+   "weight": 10
+  },
+  {
+   "source": "gobierno",
+   "target": "ejecución",
+   "weight": 4
+  },
+  {
+   "source": "gobierno",
+   "target": "financiero",
+   "weight": 4
+  },
+  {
+   "source": "gobierno",
+   "target": "presupuestal",
+   "weight": 3
+  },
+  {
+   "source": "gobierno",
+   "target": "año",
+   "weight": 7
+  },
+  {
+   "source": "gobierno",
+   "target": "control",
+   "weight": 4
+  },
+  {
+   "source": "gobierno",
+   "target": "tiempo",
+   "weight": 4
+  },
+  {
+   "source": "gobierno",
+   "target": "colombiano",
+   "weight": 8
+  },
+  {
+   "source": "gobierno",
+   "target": "administrativo",
+   "weight": 5
+  },
+  {
+   "source": "gobierno",
+   "target": "riesgo",
+   "weight": 5
+  },
+  {
+   "source": "gobierno",
+   "target": "contratación",
+   "weight": 5
+  },
+  {
+   "source": "gobierno",
+   "target": "fondo",
+   "weight": 4
+  },
+  {
+   "source": "gobierno",
+   "target": "técnico",
+   "weight": 3
+  },
+  {
+   "source": "gobierno",
+   "target": "valor",
+   "weight": 3
+  },
+  {
+   "source": "empalme",
+   "target": "ejercicio",
+   "weight": 8
+  },
+  {
+   "source": "empalme",
+   "target": "recibir",
+   "weight": 3
+  },
+  {
+   "source": "empalme",
+   "target": "resultado",
+   "weight": 3
+  },
+  {
+   "source": "empalme",
+   "target": "institucional",
+   "weight": 10
+  },
+  {
+   "source": "empalme",
+   "target": "transparencia",
+   "weight": 3
+  },
+  {
+   "source": "empalme",
+   "target": "entidad",
+   "weight": 4
+  },
+  {
+   "source": "empalme",
+   "target": "información",
+   "weight": 5
+  },
+  {
+   "source": "empalme",
+   "target": "parte",
+   "weight": 6
+  },
+  {
+   "source": "empalme",
+   "target": "auditoría",
+   "weight": 3
+  },
+  {
+   "source": "empalme",
+   "target": "hallazgo",
+   "weight": 8
+  },
+  {
+   "source": "empalme",
+   "target": "valor",
+   "weight": 3
+  },
+  {
+   "source": "empalme",
+   "target": "caso",
+   "weight": 4
+  },
+  {
+   "source": "empalme",
+   "target": "comportamiento",
+   "weight": 6
+  },
+  {
+   "source": "empalme",
+   "target": "riesgo",
+   "weight": 3
+  },
+  {
+   "source": "empalme",
+   "target": "técnico",
+   "weight": 5
+  },
+  {
+   "source": "empalme",
+   "target": "presentar",
+   "weight": 5
+  },
+  {
+   "source": "empalme",
+   "target": "sector",
+   "weight": 4
+  },
+  {
+   "source": "empalme",
+   "target": "actuación",
+   "weight": 5
+  },
+  {
+   "source": "empalme",
+   "target": "billón",
+   "weight": 4
+  },
+  {
+   "source": "empalme",
+   "target": "nuevo",
+   "weight": 4
+  },
+  {
+   "source": "empalme",
+   "target": "acción",
+   "weight": 3
+  },
+  {
+   "source": "empalme",
+   "target": "administración",
+   "weight": 3
+  },
+  {
+   "source": "empalme",
+   "target": "relacionado",
+   "weight": 4
+  },
+  {
+   "source": "empalme",
+   "target": "encontrar",
+   "weight": 3
+  },
+  {
+   "source": "entidad",
+   "target": "control",
+   "weight": 7
+  },
+  {
+   "source": "entidad",
+   "target": "parte",
+   "weight": 7
+  },
+  {
+   "source": "entidad",
+   "target": "gestión",
+   "weight": 8
+  },
+  {
+   "source": "entidad",
+   "target": "hallazgo",
+   "weight": 7
+  },
+  {
+   "source": "entidad",
+   "target": "presentar",
+   "weight": 3
+  },
+  {
+   "source": "entidad",
+   "target": "información",
+   "weight": 9
+  },
+  {
+   "source": "entidad",
+   "target": "riesgo",
+   "weight": 7
+  },
+  {
+   "source": "entidad",
+   "target": "sector",
+   "weight": 9
+  },
+  {
+   "source": "entidad",
+   "target": "análisis",
+   "weight": 4
+  },
+  {
+   "source": "entidad",
+   "target": "exigir",
+   "weight": 4
+  },
+  {
+   "source": "entidad",
+   "target": "institucional",
+   "weight": 10
+  },
+  {
+   "source": "entidad",
+   "target": "recibir",
+   "weight": 7
+  },
+  {
+   "source": "entidad",
+   "target": "persona",
+   "weight": 4
+  },
+  {
+   "source": "entidad",
+   "target": "servicio",
+   "weight": 9
+  },
+  {
+   "source": "entidad",
+   "target": "tiempo",
+   "weight": 6
+  },
+  {
+   "source": "entidad",
+   "target": "estratégico",
+   "weight": 3
+  },
+  {
+   "source": "entidad",
+   "target": "fiscal",
+   "weight": 6
+  },
+  {
+   "source": "entidad",
+   "target": "capacidad",
+   "weight": 7
+  },
+  {
+   "source": "entidad",
+   "target": "ciudadano",
+   "weight": 4
+  },
+  {
+   "source": "entidad",
+   "target": "mayor",
+   "weight": 3
+  },
+  {
+   "source": "entidad",
+   "target": "julio",
+   "weight": 7
+  },
+  {
+   "source": "entidad",
+   "target": "programa",
+   "weight": 4
+  },
+  {
+   "source": "entidad",
+   "target": "administrativo",
+   "weight": 3
+  },
+  {
+   "source": "entidad",
+   "target": "ejecución",
+   "weight": 7
+  },
+  {
+   "source": "entidad",
+   "target": "frente",
+   "weight": 6
+  },
+  {
+   "source": "entidad",
+   "target": "sistema",
+   "weight": 5
+  },
+  {
+   "source": "entidad",
+   "target": "contrato",
+   "weight": 5
+  },
+  {
+   "source": "entidad",
+   "target": "nuevo",
+   "weight": 3
+  },
+  {
+   "source": "entidad",
+   "target": "nacional",
+   "weight": 5
+  },
+  {
+   "source": "entidad",
+   "target": "comprometer",
+   "weight": 4
+  },
+  {
+   "source": "entidad",
+   "target": "año",
+   "weight": 6
+  },
+  {
+   "source": "entidad",
+   "target": "billón",
+   "weight": 8
+  },
+  {
+   "source": "entidad",
+   "target": "financiero",
+   "weight": 7
+  },
+  {
+   "source": "entidad",
+   "target": "proyecto",
+   "weight": 5
+  },
+  {
+   "source": "entidad",
+   "target": "colombiano",
+   "weight": 3
+  },
+  {
+   "source": "entidad",
+   "target": "contratación",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "encontrar",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "parte",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "gestión",
+   "weight": 5
+  },
+  {
+   "source": "control",
+   "target": "riesgo",
+   "weight": 7
+  },
+  {
+   "source": "control",
+   "target": "información",
+   "weight": 7
+  },
+  {
+   "source": "control",
+   "target": "sector",
+   "weight": 3
+  },
+  {
+   "source": "control",
+   "target": "condición",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "institucional",
+   "weight": 7
+  },
+  {
+   "source": "control",
+   "target": "función",
+   "weight": 5
+  },
+  {
+   "source": "control",
+   "target": "capacidad",
+   "weight": 7
+  },
+  {
+   "source": "control",
+   "target": "contractual",
+   "weight": 7
+  },
+  {
+   "source": "control",
+   "target": "técnico",
+   "weight": 6
+  },
+  {
+   "source": "control",
+   "target": "bien",
+   "weight": 3
+  },
+  {
+   "source": "control",
+   "target": "servicio",
+   "weight": 3
+  },
+  {
+   "source": "control",
+   "target": "autoridad",
+   "weight": 5
+  },
+  {
+   "source": "control",
+   "target": "contratación",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "ejercicio",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "mecanismo",
+   "weight": 7
+  },
+  {
+   "source": "control",
+   "target": "responsabilidad",
+   "weight": 3
+  },
+  {
+   "source": "control",
+   "target": "exigir",
+   "weight": 7
+  },
+  {
+   "source": "control",
+   "target": "fiscal",
+   "weight": 13
+  },
+  {
+   "source": "control",
+   "target": "transparencia",
+   "weight": 5
+  },
+  {
+   "source": "control",
+   "target": "nuevo",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "tiempo",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "ejecución",
+   "weight": 5
+  },
+  {
+   "source": "control",
+   "target": "programa",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "ciudadano",
+   "weight": 3
+  },
+  {
+   "source": "control",
+   "target": "contrato",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "disciplinario",
+   "weight": 5
+  },
+  {
+   "source": "control",
+   "target": "hallazgo",
+   "weight": 6
+  },
+  {
+   "source": "control",
+   "target": "presentar",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "comprometer",
+   "weight": 3
+  },
+  {
+   "source": "control",
+   "target": "administración",
+   "weight": 3
+  },
+  {
+   "source": "control",
+   "target": "administrativo",
+   "weight": 3
+  },
+  {
+   "source": "control",
+   "target": "financiero",
+   "weight": 6
+  },
+  {
+   "source": "control",
+   "target": "auditoría",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "frente",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "presupuestal",
+   "weight": 4
+  },
+  {
+   "source": "control",
+   "target": "solicitar",
+   "weight": 3
+  },
+  {
+   "source": "institucional",
+   "target": "autoridad",
+   "weight": 3
+  },
+  {
+   "source": "institucional",
+   "target": "información",
+   "weight": 8
+  },
+  {
+   "source": "institucional",
+   "target": "exigir",
+   "weight": 5
+  },
+  {
+   "source": "institucional",
+   "target": "transparencia",
+   "weight": 4
+  },
+  {
+   "source": "institucional",
+   "target": "ejercicio",
+   "weight": 3
+  },
+  {
+   "source": "institucional",
+   "target": "análisis",
+   "weight": 4
+  },
+  {
+   "source": "institucional",
+   "target": "mecanismo",
+   "weight": 3
+  },
+  {
+   "source": "institucional",
+   "target": "condición",
+   "weight": 4
+  },
+  {
+   "source": "institucional",
+   "target": "capacidad",
+   "weight": 7
+  },
+  {
+   "source": "institucional",
+   "target": "gestión",
+   "weight": 7
+  },
+  {
+   "source": "institucional",
+   "target": "servicio",
+   "weight": 3
+  },
+  {
+   "source": "institucional",
+   "target": "administrativo",
+   "weight": 4
+  },
+  {
+   "source": "institucional",
+   "target": "acción",
+   "weight": 3
+  },
+  {
+   "source": "institucional",
+   "target": "estratégico",
+   "weight": 3
+  },
+  {
+   "source": "institucional",
+   "target": "desarrollo",
+   "weight": 4
+  },
+  {
+   "source": "institucional",
+   "target": "técnico",
+   "weight": 8
+  },
+  {
+   "source": "institucional",
+   "target": "hallazgo",
+   "weight": 4
+  },
+  {
+   "source": "institucional",
+   "target": "sector",
+   "weight": 4
+  },
+  {
+   "source": "institucional",
+   "target": "frente",
+   "weight": 3
+  },
+  {
+   "source": "institucional",
+   "target": "actuación",
+   "weight": 3
+  },
+  {
+   "source": "institucional",
+   "target": "colombiano",
+   "weight": 3
+  },
+  {
+   "source": "institucional",
+   "target": "fiscal",
+   "weight": 4
+  },
+  {
+   "source": "institucional",
+   "target": "relacionado",
+   "weight": 3
+  },
+  {
+   "source": "institucional",
+   "target": "comportamiento",
+   "weight": 3
+  },
+  {
+   "source": "capacidad",
+   "target": "recibir",
+   "weight": 6
+  },
+  {
+   "source": "capacidad",
+   "target": "servicio",
+   "weight": 9
+  },
+  {
+   "source": "capacidad",
+   "target": "contratación",
+   "weight": 7
+  },
+  {
+   "source": "capacidad",
+   "target": "ciudadano",
+   "weight": 5
+  },
+  {
+   "source": "capacidad",
+   "target": "fiscal",
+   "weight": 6
+  },
+  {
+   "source": "capacidad",
+   "target": "sector",
+   "weight": 9
+  },
+  {
+   "source": "capacidad",
+   "target": "contrato",
+   "weight": 6
+  },
+  {
+   "source": "capacidad",
+   "target": "técnico",
+   "weight": 12
+  },
+  {
+   "source": "capacidad",
+   "target": "bien",
+   "weight": 3
+  },
+  {
+   "source": "capacidad",
+   "target": "gestión",
+   "weight": 6
+  },
+  {
+   "source": "capacidad",
+   "target": "función",
+   "weight": 4
+  },
+  {
+   "source": "capacidad",
+   "target": "estratégico",
+   "weight": 5
+  },
+  {
+   "source": "capacidad",
+   "target": "financiero",
+   "weight": 4
+  },
+  {
+   "source": "capacidad",
+   "target": "presupuestal",
+   "weight": 4
+  },
+  {
+   "source": "capacidad",
+   "target": "año",
+   "weight": 6
+  },
+  {
+   "source": "capacidad",
+   "target": "proyecto",
+   "weight": 5
+  },
+  {
+   "source": "capacidad",
+   "target": "país",
+   "weight": 5
+  },
+  {
+   "source": "capacidad",
+   "target": "comprometer",
+   "weight": 7
+  },
+  {
+   "source": "capacidad",
+   "target": "frente",
+   "weight": 5
+  },
+  {
+   "source": "capacidad",
+   "target": "parte",
+   "weight": 3
+  },
+  {
+   "source": "capacidad",
+   "target": "billón",
+   "weight": 3
+  },
+  {
+   "source": "capacidad",
+   "target": "transparencia",
+   "weight": 3
+  },
+  {
+   "source": "capacidad",
+   "target": "ejecución",
+   "weight": 6
+  },
+  {
+   "source": "capacidad",
+   "target": "resultado",
+   "weight": 3
+  },
+  {
+   "source": "capacidad",
+   "target": "colombiano",
+   "weight": 5
+  },
+  {
+   "source": "servicio",
+   "target": "hallazgo",
+   "weight": 3
+  },
+  {
+   "source": "servicio",
+   "target": "contratación",
+   "weight": 10
+  },
+  {
+   "source": "servicio",
+   "target": "contrato",
+   "weight": 14
+  },
+  {
+   "source": "servicio",
+   "target": "técnico",
+   "weight": 4
+  },
+  {
+   "source": "servicio",
+   "target": "bien",
+   "weight": 7
+  },
+  {
+   "source": "servicio",
+   "target": "sistema",
+   "weight": 3
+  },
+  {
+   "source": "servicio",
+   "target": "persona",
+   "weight": 4
+  },
+  {
+   "source": "servicio",
+   "target": "tiempo",
+   "weight": 6
+  },
+  {
+   "source": "servicio",
+   "target": "ciudadano",
+   "weight": 8
+  },
+  {
+   "source": "servicio",
+   "target": "exigir",
+   "weight": 3
+  },
+  {
+   "source": "servicio",
+   "target": "recibir",
+   "weight": 5
+  },
+  {
+   "source": "servicio",
+   "target": "resultado",
+   "weight": 3
+  },
+  {
+   "source": "servicio",
+   "target": "desarrollo",
+   "weight": 3
+  },
+  {
+   "source": "servicio",
+   "target": "billón",
+   "weight": 5
+  },
+  {
+   "source": "servicio",
+   "target": "colombiano",
+   "weight": 5
+  },
+  {
+   "source": "servicio",
+   "target": "país",
+   "weight": 11
+  },
+  {
+   "source": "servicio",
+   "target": "nuevo",
+   "weight": 8
+  },
+  {
+   "source": "servicio",
+   "target": "fiscal",
+   "weight": 4
+  },
+  {
+   "source": "servicio",
+   "target": "frente",
+   "weight": 3
+  },
+  {
+   "source": "servicio",
+   "target": "relacionado",
+   "weight": 5
+  },
+  {
+   "source": "servicio",
+   "target": "financiero",
+   "weight": 5
+  },
+  {
+   "source": "servicio",
+   "target": "función",
+   "weight": 3
+  },
+  {
+   "source": "servicio",
+   "target": "valor",
+   "weight": 3
+  },
+  {
+   "source": "servicio",
+   "target": "año",
+   "weight": 3
+  },
+  {
+   "source": "contrato",
+   "target": "contratación",
+   "weight": 11
+  },
+  {
+   "source": "contrato",
+   "target": "técnico",
+   "weight": 3
+  },
+  {
+   "source": "contrato",
+   "target": "función",
+   "weight": 5
+  },
+  {
+   "source": "contrato",
+   "target": "país",
+   "weight": 3
+  },
+  {
+   "source": "contrato",
+   "target": "comprometer",
+   "weight": 5
+  },
+  {
+   "source": "contrato",
+   "target": "sistema",
+   "weight": 4
+  },
+  {
+   "source": "contrato",
+   "target": "nuevo",
+   "weight": 4
+  },
+  {
+   "source": "contrato",
+   "target": "recibir",
+   "weight": 3
+  },
+  {
+   "source": "contrato",
+   "target": "billón",
+   "weight": 10
+  },
+  {
+   "source": "contrato",
+   "target": "sector",
+   "weight": 5
+  },
+  {
+   "source": "contrato",
+   "target": "valor",
+   "weight": 7
+  },
+  {
+   "source": "contrato",
+   "target": "exigir",
+   "weight": 3
+  },
+  {
+   "source": "contrato",
+   "target": "ejecución",
+   "weight": 8
+  },
+  {
+   "source": "contrato",
+   "target": "información",
+   "weight": 3
+  },
+  {
+   "source": "contrato",
+   "target": "frente",
+   "weight": 3
+  },
+  {
+   "source": "contrato",
+   "target": "riesgo",
+   "weight": 3
+  },
+  {
+   "source": "contrato",
+   "target": "contractual",
+   "weight": 4
+  },
+  {
+   "source": "contrato",
+   "target": "parte",
+   "weight": 4
+  },
+  {
+   "source": "contrato",
+   "target": "año",
+   "weight": 4
+  },
+  {
+   "source": "contrato",
+   "target": "relacionado",
+   "weight": 4
+  },
+  {
+   "source": "contrato",
+   "target": "mayor",
+   "weight": 4
+  },
+  {
+   "source": "contrato",
+   "target": "colombiano",
+   "weight": 3
+  },
+  {
+   "source": "contrato",
+   "target": "nacional",
+   "weight": 3
+  },
+  {
+   "source": "contractual",
+   "target": "financiero",
+   "weight": 4
+  },
+  {
+   "source": "contractual",
+   "target": "gestión",
+   "weight": 7
+  },
+  {
+   "source": "contractual",
+   "target": "presupuestal",
+   "weight": 3
+  },
+  {
+   "source": "contractual",
+   "target": "técnico",
+   "weight": 3
+  },
+  {
+   "source": "contractual",
+   "target": "actuación",
+   "weight": 8
+  },
+  {
+   "source": "contractual",
+   "target": "ejecución",
+   "weight": 6
+  },
+  {
+   "source": "contractual",
+   "target": "información",
+   "weight": 6
+  },
+  {
+   "source": "contractual",
+   "target": "tiempo",
+   "weight": 3
+  },
+  {
+   "source": "contractual",
+   "target": "administrativo",
+   "weight": 5
+  },
+  {
+   "source": "contractual",
+   "target": "contratación",
+   "weight": 3
+  },
+  {
+   "source": "contractual",
+   "target": "disciplinario",
+   "weight": 3
+  },
+  {
+   "source": "contractual",
+   "target": "hallazgo",
+   "weight": 5
+  },
+  {
+   "source": "contractual",
+   "target": "transparencia",
+   "weight": 3
+  },
+  {
+   "source": "contractual",
+   "target": "relacionado",
+   "weight": 3
+  },
+  {
+   "source": "contractual",
+   "target": "julio",
+   "weight": 3
+  },
+  {
+   "source": "contractual",
+   "target": "solicitar",
+   "weight": 7
+  },
+  {
+   "source": "contractual",
+   "target": "encontrar",
+   "weight": 4
+  },
+  {
+   "source": "contractual",
+   "target": "valor",
+   "weight": 3
+  },
+  {
+   "source": "contractual",
+   "target": "acción",
+   "weight": 3
+  },
+  {
+   "source": "contractual",
+   "target": "nuevo",
+   "weight": 3
+  },
+  {
+   "source": "caso",
+   "target": "comportamiento",
+   "weight": 3
+  },
+  {
+   "source": "caso",
+   "target": "riesgo",
+   "weight": 3
+  },
+  {
+   "source": "caso",
+   "target": "gestión",
+   "weight": 6
+  },
+  {
+   "source": "caso",
+   "target": "hallazgo",
+   "weight": 6
+  },
+  {
+   "source": "caso",
+   "target": "presentar",
+   "weight": 5
+  },
+  {
+   "source": "caso",
+   "target": "autoridad",
+   "weight": 4
+  },
+  {
+   "source": "caso",
+   "target": "persona",
+   "weight": 5
+  },
+  {
+   "source": "caso",
+   "target": "resultado",
+   "weight": 4
+  },
+  {
+   "source": "caso",
+   "target": "sector",
+   "weight": 11
+  },
+  {
+   "source": "caso",
+   "target": "administrativo",
+   "weight": 3
+  },
+  {
+   "source": "caso",
+   "target": "disciplinario",
+   "weight": 5
+  },
+  {
+   "source": "caso",
+   "target": "fiscal",
+   "weight": 4
+  },
+  {
+   "source": "caso",
+   "target": "proyecto",
+   "weight": 4
+  },
+  {
+   "source": "caso",
+   "target": "mayor",
+   "weight": 3
+  },
+  {
+   "source": "caso",
+   "target": "actuación",
+   "weight": 9
+  },
+  {
+   "source": "caso",
+   "target": "relacionado",
+   "weight": 3
+  },
+  {
+   "source": "presentar",
+   "target": "gestión",
+   "weight": 3
+  },
+  {
+   "source": "presentar",
+   "target": "hallazgo",
+   "weight": 8
+  },
+  {
+   "source": "presentar",
+   "target": "proyecto",
+   "weight": 7
+  },
+  {
+   "source": "presentar",
+   "target": "ejecución",
+   "weight": 4
+  },
+  {
+   "source": "presentar",
+   "target": "fiscal",
+   "weight": 6
+  },
+  {
+   "source": "presentar",
+   "target": "parte",
+   "weight": 3
+  },
+  {
+   "source": "presentar",
+   "target": "autoridad",
+   "weight": 4
+  },
+  {
+   "source": "presentar",
+   "target": "disciplinario",
+   "weight": 10
+  },
+  {
+   "source": "presentar",
+   "target": "análisis",
+   "weight": 4
+  },
+  {
+   "source": "presentar",
+   "target": "actuación",
+   "weight": 4
+  },
+  {
+   "source": "presentar",
+   "target": "julio",
+   "weight": 7
+  },
+  {
+   "source": "presentar",
+   "target": "correspondiente",
+   "weight": 9
+  },
+  {
+   "source": "presentar",
+   "target": "información",
+   "weight": 3
+  },
+  {
+   "source": "presentar",
+   "target": "nuevo",
+   "weight": 4
+  },
+  {
+   "source": "presentar",
+   "target": "solicitar",
+   "weight": 3
+  },
+  {
+   "source": "presentar",
+   "target": "acción",
+   "weight": 4
+  },
+  {
+   "source": "presentar",
+   "target": "responsabilidad",
+   "weight": 3
+  },
+  {
+   "source": "nacional",
+   "target": "billón",
+   "weight": 3
+  },
+  {
+   "source": "nacional",
+   "target": "frente",
+   "weight": 4
+  },
+  {
+   "source": "nacional",
+   "target": "contratación",
+   "weight": 4
+  },
+  {
+   "source": "información",
+   "target": "parte",
+   "weight": 3
+  },
+  {
+   "source": "información",
+   "target": "ejercicio",
+   "weight": 3
+  },
+  {
+   "source": "información",
+   "target": "función",
+   "weight": 3
+  },
+  {
+   "source": "información",
+   "target": "técnico",
+   "weight": 5
+  },
+  {
+   "source": "información",
+   "target": "riesgo",
+   "weight": 5
+  },
+  {
+   "source": "información",
+   "target": "sector",
+   "weight": 5
+  },
+  {
+   "source": "información",
+   "target": "mecanismo",
+   "weight": 3
+  },
+  {
+   "source": "información",
+   "target": "sistema",
+   "weight": 5
+  },
+  {
+   "source": "información",
+   "target": "análisis",
+   "weight": 3
+  },
+  {
+   "source": "información",
+   "target": "condición",
+   "weight": 4
+  },
+  {
+   "source": "información",
+   "target": "fiscal",
+   "weight": 3
+  },
+  {
+   "source": "información",
+   "target": "ejecución",
+   "weight": 6
+  },
+  {
+   "source": "información",
+   "target": "frente",
+   "weight": 5
+  },
+  {
+   "source": "información",
+   "target": "contratación",
+   "weight": 3
+  },
+  {
+   "source": "información",
+   "target": "disciplinario",
+   "weight": 3
+  },
+  {
+   "source": "información",
+   "target": "transparencia",
+   "weight": 4
+  },
+  {
+   "source": "información",
+   "target": "ciudadano",
+   "weight": 4
+  },
+  {
+   "source": "técnico",
+   "target": "sistema",
+   "weight": 4
+  },
+  {
+   "source": "técnico",
+   "target": "recibir",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "contratación",
+   "weight": 6
+  },
+  {
+   "source": "técnico",
+   "target": "julio",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "ejecución",
+   "weight": 4
+  },
+  {
+   "source": "técnico",
+   "target": "fiscal",
+   "weight": 6
+  },
+  {
+   "source": "técnico",
+   "target": "riesgo",
+   "weight": 5
+  },
+  {
+   "source": "técnico",
+   "target": "tiempo",
+   "weight": 6
+  },
+  {
+   "source": "técnico",
+   "target": "billón",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "país",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "estratégico",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "nuevo",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "comprometer",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "transparencia",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "proyecto",
+   "weight": 7
+  },
+  {
+   "source": "técnico",
+   "target": "encontrar",
+   "weight": 5
+  },
+  {
+   "source": "técnico",
+   "target": "gestión",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "financiero",
+   "weight": 8
+  },
+  {
+   "source": "técnico",
+   "target": "sector",
+   "weight": 4
+  },
+  {
+   "source": "técnico",
+   "target": "exigir",
+   "weight": 4
+  },
+  {
+   "source": "técnico",
+   "target": "mecanismo",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "frente",
+   "weight": 4
+  },
+  {
+   "source": "técnico",
+   "target": "condición",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "presupuestal",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "colombiano",
+   "weight": 4
+  },
+  {
+   "source": "técnico",
+   "target": "administrativo",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "responsabilidad",
+   "weight": 3
+  },
+  {
+   "source": "técnico",
+   "target": "comportamiento",
+   "weight": 4
+  },
+  {
+   "source": "contratación",
+   "target": "julio",
+   "weight": 5
+  },
+  {
+   "source": "contratación",
+   "target": "función",
+   "weight": 4
+  },
+  {
+   "source": "contratación",
+   "target": "administrativo",
+   "weight": 3
+  },
+  {
+   "source": "contratación",
+   "target": "riesgo",
+   "weight": 4
+  },
+  {
+   "source": "contratación",
+   "target": "transparencia",
+   "weight": 3
+  },
+  {
+   "source": "contratación",
+   "target": "billón",
+   "weight": 4
+  },
+  {
+   "source": "contratación",
+   "target": "año",
+   "weight": 6
+  },
+  {
+   "source": "contratación",
+   "target": "sector",
+   "weight": 3
+  },
+  {
+   "source": "contratación",
+   "target": "valor",
+   "weight": 6
+  },
+  {
+   "source": "contratación",
+   "target": "programa",
+   "weight": 3
+  },
+  {
+   "source": "contratación",
+   "target": "solicitar",
+   "weight": 3
+  },
+  {
+   "source": "contratación",
+   "target": "estratégico",
+   "weight": 3
+  },
+  {
+   "source": "contratación",
+   "target": "proyecto",
+   "weight": 3
+  },
+  {
+   "source": "gestión",
+   "target": "hallazgo",
+   "weight": 6
+  },
+  {
+   "source": "gestión",
+   "target": "financiero",
+   "weight": 3
+  },
+  {
+   "source": "gestión",
+   "target": "riesgo",
+   "weight": 5
+  },
+  {
+   "source": "gestión",
+   "target": "sector",
+   "weight": 5
+  },
+  {
+   "source": "gestión",
+   "target": "comprometer",
+   "weight": 3
+  },
+  {
+   "source": "gestión",
+   "target": "administrativo",
+   "weight": 6
+  },
+  {
+   "source": "gestión",
+   "target": "estratégico",
+   "weight": 4
+  },
+  {
+   "source": "gestión",
+   "target": "exigir",
+   "weight": 3
+  },
+  {
+   "source": "gestión",
+   "target": "auditoría",
+   "weight": 3
+  },
+  {
+   "source": "gestión",
+   "target": "fondo",
+   "weight": 3
+  },
+  {
+   "source": "gestión",
+   "target": "frente",
+   "weight": 6
+  },
+  {
+   "source": "gestión",
+   "target": "relacionado",
+   "weight": 3
+  },
+  {
+   "source": "fiscal",
+   "target": "sector",
+   "weight": 5
+  },
+  {
+   "source": "fiscal",
+   "target": "financiero",
+   "weight": 3
+  },
+  {
+   "source": "fiscal",
+   "target": "presupuestal",
+   "weight": 4
+  },
+  {
+   "source": "fiscal",
+   "target": "ejecución",
+   "weight": 7
+  },
+  {
+   "source": "fiscal",
+   "target": "riesgo",
+   "weight": 3
+  },
+  {
+   "source": "fiscal",
+   "target": "tiempo",
+   "weight": 4
+  },
+  {
+   "source": "fiscal",
+   "target": "año",
+   "weight": 4
+  },
+  {
+   "source": "fiscal",
+   "target": "país",
+   "weight": 4
+  },
+  {
+   "source": "fiscal",
+   "target": "transparencia",
+   "weight": 5
+  },
+  {
+   "source": "fiscal",
+   "target": "exigir",
+   "weight": 4
+  },
+  {
+   "source": "fiscal",
+   "target": "nuevo",
+   "weight": 8
+  },
+  {
+   "source": "fiscal",
+   "target": "hallazgo",
+   "weight": 18
+  },
+  {
+   "source": "fiscal",
+   "target": "disciplinario",
+   "weight": 13
+  },
+  {
+   "source": "fiscal",
+   "target": "parte",
+   "weight": 3
+  },
+  {
+   "source": "fiscal",
+   "target": "proyecto",
+   "weight": 7
+  },
+  {
+   "source": "fiscal",
+   "target": "autoridad",
+   "weight": 6
+  },
+  {
+   "source": "fiscal",
+   "target": "billón",
+   "weight": 3
+  },
+  {
+   "source": "fiscal",
+   "target": "administrativo",
+   "weight": 4
+  },
+  {
+   "source": "fiscal",
+   "target": "auditoría",
+   "weight": 6
+  },
+  {
+   "source": "fiscal",
+   "target": "programa",
+   "weight": 5
+  },
+  {
+   "source": "fiscal",
+   "target": "responsabilidad",
+   "weight": 5
+  },
+  {
+   "source": "fiscal",
+   "target": "acción",
+   "weight": 4
+  },
+  {
+   "source": "fiscal",
+   "target": "mecanismo",
+   "weight": 3
+  },
+  {
+   "source": "fiscal",
+   "target": "correspondiente",
+   "weight": 4
+  },
+  {
+   "source": "proyecto",
+   "target": "billón",
+   "weight": 10
+  },
+  {
+   "source": "proyecto",
+   "target": "exigir",
+   "weight": 4
+  },
+  {
+   "source": "proyecto",
+   "target": "año",
+   "weight": 9
+  },
+  {
+   "source": "proyecto",
+   "target": "nuevo",
+   "weight": 11
+  },
+  {
+   "source": "proyecto",
+   "target": "frente",
+   "weight": 7
+  },
+  {
+   "source": "proyecto",
+   "target": "parte",
+   "weight": 5
+  },
+  {
+   "source": "proyecto",
+   "target": "ejecución",
+   "weight": 11
+  },
+  {
+   "source": "proyecto",
+   "target": "hallazgo",
+   "weight": 5
+  },
+  {
+   "source": "proyecto",
+   "target": "valor",
+   "weight": 4
+  },
+  {
+   "source": "proyecto",
+   "target": "comprometer",
+   "weight": 6
+  },
+  {
+   "source": "proyecto",
+   "target": "tiempo",
+   "weight": 6
+  },
+  {
+   "source": "proyecto",
+   "target": "colombiano",
+   "weight": 5
+  },
+  {
+   "source": "proyecto",
+   "target": "riesgo",
+   "weight": 4
+  },
+  {
+   "source": "proyecto",
+   "target": "resultado",
+   "weight": 3
+  },
+  {
+   "source": "proyecto",
+   "target": "estratégico",
+   "weight": 5
+  },
+  {
+   "source": "proyecto",
+   "target": "ciudadano",
+   "weight": 4
+  },
+  {
+   "source": "proyecto",
+   "target": "mayor",
+   "weight": 4
+  },
+  {
+   "source": "proyecto",
+   "target": "encontrar",
+   "weight": 3
+  },
+  {
+   "source": "proyecto",
+   "target": "administrativo",
+   "weight": 3
+  },
+  {
+   "source": "proyecto",
+   "target": "programa",
+   "weight": 3
+  },
+  {
+   "source": "ejecución",
+   "target": "programa",
+   "weight": 5
+  },
+  {
+   "source": "ejecución",
+   "target": "frente",
+   "weight": 5
+  },
+  {
+   "source": "ejecución",
+   "target": "sistema",
+   "weight": 5
+  },
+  {
+   "source": "ejecución",
+   "target": "billón",
+   "weight": 13
+  },
+  {
+   "source": "ejecución",
+   "target": "financiero",
+   "weight": 3
+  },
+  {
+   "source": "ejecución",
+   "target": "presupuestal",
+   "weight": 10
+  },
+  {
+   "source": "ejecución",
+   "target": "país",
+   "weight": 4
+  },
+  {
+   "source": "ejecución",
+   "target": "colombiano",
+   "weight": 3
+  },
+  {
+   "source": "ejecución",
+   "target": "hallazgo",
+   "weight": 3
+  },
+  {
+   "source": "ejecución",
+   "target": "parte",
+   "weight": 3
+  },
+  {
+   "source": "ejecución",
+   "target": "autoridad",
+   "weight": 4
+  },
+  {
+   "source": "ejecución",
+   "target": "julio",
+   "weight": 3
+  },
+  {
+   "source": "ejecución",
+   "target": "recibir",
+   "weight": 3
+  },
+  {
+   "source": "ejecución",
+   "target": "año",
+   "weight": 4
+  },
+  {
+   "source": "ejecución",
+   "target": "sector",
+   "weight": 6
+  },
+  {
+   "source": "ejecución",
+   "target": "valor",
+   "weight": 3
+  },
+  {
+   "source": "actuación",
+   "target": "billón",
+   "weight": 3
+  },
+  {
+   "source": "actuación",
+   "target": "hallazgo",
+   "weight": 3
+  },
+  {
+   "source": "actuación",
+   "target": "acción",
+   "weight": 3
+  },
+  {
+   "source": "actuación",
+   "target": "disciplinario",
+   "weight": 5
+  },
+  {
+   "source": "actuación",
+   "target": "administrativo",
+   "weight": 3
+  },
+  {
+   "source": "actuación",
+   "target": "autoridad",
+   "weight": 3
+  },
+  {
+   "source": "actuación",
+   "target": "relacionado",
+   "weight": 3
+  },
+  {
+   "source": "actuación",
+   "target": "solicitar",
+   "weight": 3
+  },
+  {
+   "source": "hallazgo",
+   "target": "administrativo",
+   "weight": 6
+  },
+  {
+   "source": "hallazgo",
+   "target": "auditoría",
+   "weight": 7
+  },
+  {
+   "source": "hallazgo",
+   "target": "autoridad",
+   "weight": 4
+  },
+  {
+   "source": "hallazgo",
+   "target": "sector",
+   "weight": 3
+  },
+  {
+   "source": "hallazgo",
+   "target": "disciplinario",
+   "weight": 10
+  },
+  {
+   "source": "hallazgo",
+   "target": "nuevo",
+   "weight": 3
+  },
+  {
+   "source": "hallazgo",
+   "target": "relacionado",
+   "weight": 3
+  },
+  {
+   "source": "sector",
+   "target": "comportamiento",
+   "weight": 4
+  },
+  {
+   "source": "sector",
+   "target": "estratégico",
+   "weight": 4
+  },
+  {
+   "source": "sector",
+   "target": "billón",
+   "weight": 8
+  },
+  {
+   "source": "sector",
+   "target": "año",
+   "weight": 5
+  },
+  {
+   "source": "sector",
+   "target": "resultado",
+   "weight": 7
+  },
+  {
+   "source": "sector",
+   "target": "desarrollo",
+   "weight": 3
+  },
+  {
+   "source": "sector",
+   "target": "país",
+   "weight": 4
+  },
+  {
+   "source": "sector",
+   "target": "nuevo",
+   "weight": 3
+  },
+  {
+   "source": "sector",
+   "target": "recibir",
+   "weight": 13
+  },
+  {
+   "source": "sector",
+   "target": "colombiano",
+   "weight": 4
+  },
+  {
+   "source": "sector",
+   "target": "frente",
+   "weight": 3
+  },
+  {
+   "source": "billón",
+   "target": "país",
+   "weight": 8
+  },
+  {
+   "source": "billón",
+   "target": "sistema",
+   "weight": 7
+  },
+  {
+   "source": "billón",
+   "target": "colombiano",
+   "weight": 6
+  },
+  {
+   "source": "billón",
+   "target": "comprometer",
+   "weight": 8
+  },
+  {
+   "source": "billón",
+   "target": "riesgo",
+   "weight": 6
+  },
+  {
+   "source": "billón",
+   "target": "financiero",
+   "weight": 4
+  },
+  {
+   "source": "billón",
+   "target": "frente",
+   "weight": 10
+  },
+  {
+   "source": "billón",
+   "target": "presupuestal",
+   "weight": 5
+  },
+  {
+   "source": "billón",
+   "target": "valor",
+   "weight": 5
+  },
+  {
+   "source": "billón",
+   "target": "año",
+   "weight": 13
+  },
+  {
+   "source": "billón",
+   "target": "resultado",
+   "weight": 3
+  },
+  {
+   "source": "billón",
+   "target": "programa",
+   "weight": 4
+  },
+  {
+   "source": "billón",
+   "target": "julio",
+   "weight": 3
+  },
+  {
+   "source": "billón",
+   "target": "nuevo",
+   "weight": 4
+  },
+  {
+   "source": "billón",
+   "target": "relacionado",
+   "weight": 4
+  },
+  {
+   "source": "billón",
+   "target": "tiempo",
+   "weight": 3
+  },
+  {
+   "source": "billón",
+   "target": "recibir",
+   "weight": 4
+  },
+  {
+   "source": "condición",
+   "target": "persona",
+   "weight": 3
+  },
+  {
+   "source": "condición",
+   "target": "tiempo",
+   "weight": 4
+  },
+  {
+   "source": "condición",
+   "target": "colombiano",
+   "weight": 3
+  },
+  {
+   "source": "frente",
+   "target": "comprometer",
+   "weight": 5
+  },
+  {
+   "source": "frente",
+   "target": "país",
+   "weight": 5
+  },
+  {
+   "source": "frente",
+   "target": "acción",
+   "weight": 3
+  },
+  {
+   "source": "frente",
+   "target": "autoridad",
+   "weight": 3
+  },
+  {
+   "source": "frente",
+   "target": "sistema",
+   "weight": 4
+  },
+  {
+   "source": "frente",
+   "target": "desarrollo",
+   "weight": 3
+  },
+  {
+   "source": "frente",
+   "target": "relacionado",
+   "weight": 3
+  },
+  {
+   "source": "frente",
+   "target": "riesgo",
+   "weight": 4
+  },
+  {
+   "source": "frente",
+   "target": "año",
+   "weight": 6
+  },
+  {
+   "source": "frente",
+   "target": "parte",
+   "weight": 4
+  },
+  {
+   "source": "frente",
+   "target": "financiero",
+   "weight": 3
+  },
+  {
+   "source": "frente",
+   "target": "presupuestal",
+   "weight": 4
+  },
+  {
+   "source": "frente",
+   "target": "colombiano",
+   "weight": 3
+  },
+  {
+   "source": "frente",
+   "target": "programa",
+   "weight": 3
+  },
+  {
+   "source": "frente",
+   "target": "valor",
+   "weight": 3
+  },
+  {
+   "source": "frente",
+   "target": "encontrar",
+   "weight": 3
+  },
+  {
+   "source": "frente",
+   "target": "nuevo",
+   "weight": 4
+  },
+  {
+   "source": "recibir",
+   "target": "resultado",
+   "weight": 5
+  },
+  {
+   "source": "recibir",
+   "target": "ciudadano",
+   "weight": 4
+  },
+  {
+   "source": "recibir",
+   "target": "tiempo",
+   "weight": 4
+  },
+  {
+   "source": "recibir",
+   "target": "nuevo",
+   "weight": 10
+  },
+  {
+   "source": "recibir",
+   "target": "país",
+   "weight": 5
+  },
+  {
+   "source": "recibir",
+   "target": "año",
+   "weight": 5
+  },
+  {
+   "source": "autoridad",
+   "target": "responsabilidad",
+   "weight": 4
+  },
+  {
+   "source": "autoridad",
+   "target": "acción",
+   "weight": 4
+  },
+  {
+   "source": "autoridad",
+   "target": "disciplinario",
+   "weight": 6
+  },
+  {
+   "source": "autoridad",
+   "target": "parte",
+   "weight": 4
+  },
+  {
+   "source": "relacionado",
+   "target": "sistema",
+   "weight": 4
+  },
+  {
+   "source": "relacionado",
+   "target": "nuevo",
+   "weight": 5
+  },
+  {
+   "source": "relacionado",
+   "target": "disciplinario",
+   "weight": 3
+  },
+  {
+   "source": "relacionado",
+   "target": "financiero",
+   "weight": 3
+  },
+  {
+   "source": "relacionado",
+   "target": "mecanismo",
+   "weight": 3
+  },
+  {
+   "source": "relacionado",
+   "target": "encontrar",
+   "weight": 3
+  },
+  {
+   "source": "administrativo",
+   "target": "presupuestal",
+   "weight": 8
+  },
+  {
+   "source": "administrativo",
+   "target": "riesgo",
+   "weight": 4
+  },
+  {
+   "source": "administrativo",
+   "target": "país",
+   "weight": 3
+  },
+  {
+   "source": "administrativo",
+   "target": "disciplinario",
+   "weight": 3
+  },
+  {
+   "source": "administrativo",
+   "target": "nuevo",
+   "weight": 4
+  },
+  {
+   "source": "administrativo",
+   "target": "julio",
+   "weight": 5
+  },
+  {
+   "source": "disciplinario",
+   "target": "acción",
+   "weight": 4
+  },
+  {
+   "source": "disciplinario",
+   "target": "correspondiente",
+   "weight": 11
+  },
+  {
+   "source": "disciplinario",
+   "target": "julio",
+   "weight": 4
+  },
+  {
+   "source": "disciplinario",
+   "target": "responsabilidad",
+   "weight": 5
+  },
+  {
+   "source": "parte",
+   "target": "año",
+   "weight": 5
+  },
+  {
+   "source": "parte",
+   "target": "mecanismo",
+   "weight": 3
+  },
+  {
+   "source": "comprometer",
+   "target": "país",
+   "weight": 5
+  },
+  {
+   "source": "comprometer",
+   "target": "programa",
+   "weight": 4
+  },
+  {
+   "source": "comprometer",
+   "target": "transparencia",
+   "weight": 3
+  },
+  {
+   "source": "comprometer",
+   "target": "colombiano",
+   "weight": 3
+  },
+  {
+   "source": "comprometer",
+   "target": "sistema",
+   "weight": 3
+  },
+  {
+   "source": "comprometer",
+   "target": "año",
+   "weight": 5
+  },
+  {
+   "source": "comprometer",
+   "target": "exigir",
+   "weight": 3
+  },
+  {
+   "source": "año",
+   "target": "colombiano",
+   "weight": 6
+  },
+  {
+   "source": "año",
+   "target": "nuevo",
+   "weight": 3
+  },
+  {
+   "source": "año",
+   "target": "país",
+   "weight": 9
+  },
+  {
+   "source": "año",
+   "target": "tiempo",
+   "weight": 3
+  },
+  {
+   "source": "año",
+   "target": "resultado",
+   "weight": 5
+  },
+  {
+   "source": "año",
+   "target": "julio",
+   "weight": 5
+  },
+  {
+   "source": "año",
+   "target": "mayor",
+   "weight": 4
+  },
+  {
+   "source": "año",
+   "target": "riesgo",
+   "weight": 5
+  },
+  {
+   "source": "año",
+   "target": "financiero",
+   "weight": 4
+  },
+  {
+   "source": "año",
+   "target": "programa",
+   "weight": 5
+  },
+  {
+   "source": "ejercicio",
+   "target": "función",
+   "weight": 4
+  },
+  {
+   "source": "riesgo",
+   "target": "función",
+   "weight": 3
+  },
+  {
+   "source": "riesgo",
+   "target": "administración",
+   "weight": 4
+  },
+  {
+   "source": "riesgo",
+   "target": "colombiano",
+   "weight": 6
+  },
+  {
+   "source": "riesgo",
+   "target": "mayor",
+   "weight": 3
+  },
+  {
+   "source": "riesgo",
+   "target": "sistema",
+   "weight": 3
+  },
+  {
+   "source": "riesgo",
+   "target": "transparencia",
+   "weight": 5
+  },
+  {
+   "source": "riesgo",
+   "target": "nuevo",
+   "weight": 5
+  },
+  {
+   "source": "riesgo",
+   "target": "país",
+   "weight": 7
+  },
+  {
+   "source": "riesgo",
+   "target": "presupuestal",
+   "weight": 5
+  },
+  {
+   "source": "nuevo",
+   "target": "país",
+   "weight": 10
+  },
+  {
+   "source": "nuevo",
+   "target": "persona",
+   "weight": 3
+  },
+  {
+   "source": "nuevo",
+   "target": "tiempo",
+   "weight": 5
+  },
+  {
+   "source": "nuevo",
+   "target": "desarrollo",
+   "weight": 3
+  },
+  {
+   "source": "nuevo",
+   "target": "administración",
+   "weight": 3
+  },
+  {
+   "source": "nuevo",
+   "target": "colombiano",
+   "weight": 3
+  },
+  {
+   "source": "programa",
+   "target": "mayor",
+   "weight": 5
+  },
+  {
+   "source": "programa",
+   "target": "país",
+   "weight": 4
+  },
+  {
+   "source": "programa",
+   "target": "fondo",
+   "weight": 4
+  },
+  {
+   "source": "programa",
+   "target": "julio",
+   "weight": 4
+  },
+  {
+   "source": "país",
+   "target": "ciudadano",
+   "weight": 3
+  },
+  {
+   "source": "país",
+   "target": "colombiano",
+   "weight": 6
+  },
+  {
+   "source": "país",
+   "target": "desarrollo",
+   "weight": 6
+  },
+  {
+   "source": "país",
+   "target": "resultado",
+   "weight": 6
+  },
+  {
+   "source": "país",
+   "target": "fondo",
+   "weight": 3
+  },
+  {
+   "source": "colombiano",
+   "target": "exigir",
+   "weight": 4
+  },
+  {
+   "source": "colombiano",
+   "target": "tiempo",
+   "weight": 3
+  },
+  {
+   "source": "colombiano",
+   "target": "resultado",
+   "weight": 5
+  },
+  {
+   "source": "colombiano",
+   "target": "transparencia",
+   "weight": 3
+  },
+  {
+   "source": "colombiano",
+   "target": "sistema",
+   "weight": 3
+  },
+  {
+   "source": "responsabilidad",
+   "target": "exigir",
+   "weight": 3
+  },
+  {
+   "source": "responsabilidad",
+   "target": "transparencia",
+   "weight": 3
+  },
+  {
+   "source": "responsabilidad",
+   "target": "acción",
+   "weight": 3
+  },
+  {
+   "source": "responsabilidad",
+   "target": "correspondiente",
+   "weight": 4
+  },
+  {
+   "source": "resultado",
+   "target": "ciudadano",
+   "weight": 3
+  },
+  {
+   "source": "julio",
+   "target": "correspondiente",
+   "weight": 5
+  },
+  {
+   "source": "julio",
+   "target": "presupuestal",
+   "weight": 4
+  },
+  {
+   "source": "julio",
+   "target": "solicitar",
+   "weight": 4
+  },
+  {
+   "source": "tiempo",
+   "target": "exigir",
+   "weight": 4
+  },
+  {
+   "source": "tiempo",
+   "target": "persona",
+   "weight": 3
+  },
+  {
+   "source": "tiempo",
+   "target": "ciudadano",
+   "weight": 3
+  },
+  {
+   "source": "tiempo",
+   "target": "financiero",
+   "weight": 5
+  },
+  {
+   "source": "tiempo",
+   "target": "fondo",
+   "weight": 3
+  },
+  {
+   "source": "ciudadano",
+   "target": "mayor",
+   "weight": 3
+  },
+  {
+   "source": "persona",
+   "target": "bien",
+   "weight": 3
+  },
+  {
+   "source": "mayor",
+   "target": "desarrollo",
+   "weight": 3
+  },
+  {
+   "source": "exigir",
+   "target": "transparencia",
+   "weight": 5
+  },
+  {
+   "source": "exigir",
+   "target": "financiero",
+   "weight": 5
+  },
+  {
+   "source": "exigir",
+   "target": "mecanismo",
+   "weight": 3
+  },
+  {
+   "source": "auditoría",
+   "target": "financiero",
+   "weight": 3
+  },
+  {
+   "source": "acción",
+   "target": "correspondiente",
+   "weight": 3
+  },
+  {
+   "source": "acción",
+   "target": "comportamiento",
+   "weight": 3
+  },
+  {
+   "source": "desarrollo",
+   "target": "estratégico",
+   "weight": 3
+  },
+  {
+   "source": "presupuestal",
+   "target": "financiero",
+   "weight": 3
+  },
+  {
+   "source": "financiero",
+   "target": "mecanismo",
+   "weight": 3
+  }
+ ],
+ "n_nodes": 74,
+ "n_edges": 841,
+ "density": 0.3114
+}

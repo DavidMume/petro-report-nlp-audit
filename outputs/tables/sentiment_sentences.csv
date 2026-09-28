@@ -1,0 +1,1671 @@
+sentence_id,page,chapter,level2,lexicon_pos,lexicon_neg,lexicon_polarity,model_score
+P0005-S01,3,0. Preliminares,Contenido,0,0,,0.4986
+P0007-S01,3,0. Preliminares,Contenido,0,0,,0.1928
+P0009-S01,3,0. Preliminares,Contenido,1,0,1.0,0.4377
+P0012-S01,3,0. Preliminares,Contenido,0,0,,0.5838
+P0015-S01,3,0. Preliminares,Contenido,0,0,,0.4595
+P0018-S01,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.4986
+P0019-S01,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.3379
+P0019-S02,5,0. Preliminares,Carta de Presentación A los colombianos:,1,0,1.0,0.0014
+P0020-S01,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.0998
+P0021-S01,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.0003
+P0021-S02,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.0003
+P0022-S01,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.4786
+P0022-S02,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.0
+P0023-S01,5,0. Preliminares,Carta de Presentación A los colombianos:,0,1,-1.0,0.0355
+P0023-S02,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.0
+P0023-S03,5,0. Preliminares,Carta de Presentación A los colombianos:,1,0,1.0,0.0
+P0024-S01,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.047
+P0025-S01,5,0. Preliminares,Carta de Presentación A los colombianos:,0,1,-1.0,0.0026
+P0025-S02,5,0. Preliminares,Carta de Presentación A los colombianos:,1,0,1.0,0.0041
+P0026-S01,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.1229
+P0027-S01,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.0455
+P0027-S02,5,0. Preliminares,Carta de Presentación A los colombianos:,0,1,-1.0,0.0068
+P0028-S01,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.0065
+P0028-S02,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.0212
+P0029-S01,5,0. Preliminares,Carta de Presentación A los colombianos:,0,2,-1.0,0.0
+P0029-S02,5,0. Preliminares,Carta de Presentación A los colombianos:,0,0,,0.0003
+P0032-S01,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.0
+P0033-S01,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.0
+P0034-S01,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.0148
+P0034-S02,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.002
+P0034-S03,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,2,0,1.0,0.0
+P0034-S04,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,1,0,1.0,0.0004
+P0034-S05,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,1,0,1.0,0.04
+P0035-S01,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.0892
+P0036-S01,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.0023
+P0036-S02,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,1,1,0.0,0.0002
+P0036-S03,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,1,-1.0,0.0558
+P0036-S04,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.0
+P0036-S05,6,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.0068
+P0037-S01,7,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,1,0,1.0,0.0001
+P0037-S02,7,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,1,-1.0,0.0
+P0038-S01,7,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.0001
+P0039-S01,7,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,1,0,1.0,0.0002
+P0039-S02,7,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,1,0,1.0,0.0464
+P0039-S03,7,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.0
+P0040-S01,7,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,1,0,1.0,0.0001
+P0040-S02,7,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.0003
+P0040-S03,7,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.0
+P0041-S01,7,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.4979
+P0042-S01,7,0. Preliminares,PRESENTACIÓN DEL LIBRO DE LA VERDAD,0,0,,0.1928
+P0047-S01,8,I. Proceso metodológico del empalme,Portadilla del capítulo,0,0,,0.0709
+P0047-S02,8,I. Proceso metodológico del empalme,Portadilla del capítulo,1,0,1.0,0.0791
+P0047-S03,8,I. Proceso metodológico del empalme,Portadilla del capítulo,0,0,,0.0019
+P0049-S01,9,I. Proceso metodológico del empalme,Introducción del capítulo,0,0,,0.0397
+P0049-S02,9,I. Proceso metodológico del empalme,Introducción del capítulo,0,0,,0.4979
+P0050-S01,9,I. Proceso metodológico del empalme,Introducción del capítulo,0,0,,0.031
+P0050-S02,9,I. Proceso metodológico del empalme,Introducción del capítulo,0,0,,0.0059
+P0050-S03,9,I. Proceso metodológico del empalme,Introducción del capítulo,0,1,-1.0,0.0
+P0050-S04,9,I. Proceso metodológico del empalme,Introducción del capítulo,1,0,1.0,0.0
+P0052-S01,9,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.0703
+P0052-S02,9,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.0001
+P0053-S01,9,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.0001
+P0053-S02,9,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.0023
+P0053-S03,9,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.0001
+P0054-S01,9,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.0203
+P0054-S02,9,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.4642
+P0055-S01,9,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.2331
+P0056-S01,10,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.0059
+P0057-S01,10,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.6814
+P0058-S01,10,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.0022
+P0059-S01,10,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.4837
+P0060-S01,10,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,1,-1.0,0.1775
+P0060-S02,10,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.4979
+P0060-S03,10,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.4197
+P0061-S01,10,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,4,-1.0,0.0083
+P0062-S01,10,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,2,-1.0,0.0003
+P0063-S01,10,I. Proceso metodológico del empalme,Gente: La voluntad ciudadana que sostuvo el empalme,0,0,,0.0056
+P0065-S01,10,I. Proceso metodológico del empalme,Tecnología: La inteligencia artificial como garantía de escala y rigor,0,0,,0.0002
+P0065-S02,10,I. Proceso metodológico del empalme,Tecnología: La inteligencia artificial como garantía de escala y rigor,0,0,,0.9193
+P0066-S01,10,I. Proceso metodológico del empalme,Tecnología: La inteligencia artificial como garantía de escala y rigor,0,0,,0.0359
+P0066-S02,10,I. Proceso metodológico del empalme,Tecnología: La inteligencia artificial como garantía de escala y rigor,0,0,,0.0174
+P0066-S03,10,I. Proceso metodológico del empalme,Tecnología: La inteligencia artificial como garantía de escala y rigor,0,0,,0.0005
+P0067-S01,11,I. Proceso metodológico del empalme,Tecnología: La inteligencia artificial como garantía de escala y rigor,0,0,,0.3553
+P0067-S02,11,I. Proceso metodológico del empalme,Tecnología: La inteligencia artificial como garantía de escala y rigor,0,0,,0.0217
+P0067-S03,11,I. Proceso metodológico del empalme,Tecnología: La inteligencia artificial como garantía de escala y rigor,0,0,,0.8777
+P0069-S01,11,I. Proceso metodológico del empalme,Proceso: La arquitectura metodológica,0,0,,0.0523
+P0069-S02,11,I. Proceso metodológico del empalme,Proceso: La arquitectura metodológica,0,0,,0.0256
+P0070-S01,11,I. Proceso metodológico del empalme,Proceso: La arquitectura metodológica,0,0,,0.0
+P0070-S02,11,I. Proceso metodológico del empalme,Proceso: La arquitectura metodológica,0,0,,0.0662
+P0071-S01,11,I. Proceso metodológico del empalme,Proceso: La arquitectura metodológica,0,0,,0.0025
+P0072-S01,11,I. Proceso metodológico del empalme,Proceso: La arquitectura metodológica,0,0,,0.0186
+P0072-S02,12,I. Proceso metodológico del empalme,Proceso: La arquitectura metodológica,0,0,,0.4979
+P0073-S01,12,I. Proceso metodológico del empalme,Proceso: La arquitectura metodológica,0,0,,0.0
+P0073-S02,12,I. Proceso metodológico del empalme,Proceso: La arquitectura metodológica,0,1,-1.0,0.0
+P0075-S01,12,I. Proceso metodológico del empalme,Notas aclaratorias: Los límites que le dan credibilidad al ejercicio,0,0,,0.01
+P0075-S02,12,I. Proceso metodológico del empalme,Notas aclaratorias: Los límites que le dan credibilidad al ejercicio,0,0,,0.4979
+P0076-S01,12,I. Proceso metodológico del empalme,Notas aclaratorias: Los límites que le dan credibilidad al ejercicio,0,0,,0.0217
+P0077-S01,12,I. Proceso metodológico del empalme,Notas aclaratorias: Los límites que le dan credibilidad al ejercicio,0,0,,0.2239
+P0078-S01,12,I. Proceso metodológico del empalme,Notas aclaratorias: Los límites que le dan credibilidad al ejercicio,0,0,,0.0011
+P0079-S01,12,I. Proceso metodológico del empalme,Notas aclaratorias: Los límites que le dan credibilidad al ejercicio,0,0,,0.0007
+P0080-S01,12,I. Proceso metodológico del empalme,Notas aclaratorias: Los límites que le dan credibilidad al ejercicio,0,0,,0.0376
+P0086-S01,14,II. Comportamientos críticos nocivos para el Estado,Introducción del capítulo,0,1,-1.0,0.0001
+P0087-S01,14,II. Comportamientos críticos nocivos para el Estado,Introducción del capítulo,0,0,,0.0041
+P0087-S02,14,II. Comportamientos críticos nocivos para el Estado,Introducción del capítulo,0,0,,0.0007
+P0087-S03,14,II. Comportamientos críticos nocivos para el Estado,Introducción del capítulo,0,0,,0.1629
+P0088-S01,14,II. Comportamientos críticos nocivos para el Estado,Introducción del capítulo,0,2,-1.0,0.012
+P0088-S02,14,II. Comportamientos críticos nocivos para el Estado,Introducción del capítulo,0,0,,0.0232
+P0088-S03,14,II. Comportamientos críticos nocivos para el Estado,Introducción del capítulo,0,0,,0.006
+P0088-S04,14,II. Comportamientos críticos nocivos para el Estado,Introducción del capítulo,0,0,,0.3176
+P0089-S01,14,II. Comportamientos críticos nocivos para el Estado,Figura 1. Nueve actuaciones que han puesto en riesgo la estabilidad de la función pública,0,0,,0.4979
+P0089-S02,14,II. Comportamientos críticos nocivos para el Estado,Figura 1. Nueve actuaciones que han puesto en riesgo la estabilidad de la función pública,0,1,-1.0,0.0047
+P0092-S01,15,II. Comportamientos críticos nocivos para el Estado,9 comportamientos críticos,0,0,,0.2048
+P0092-S02,15,II. Comportamientos críticos nocivos para el Estado,9 comportamientos críticos,0,2,-1.0,0.0
+P0112-S01,16,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 01: Destrucción del rigor técnico,0,1,-1.0,0.0945
+P0114-S01,16,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 01: Destrucción del rigor técnico,0,0,,0.2216
+P0114-S02,16,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 01: Destrucción del rigor técnico,0,0,,0.0751
+P0116-S01,16,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 01: Destrucción del rigor técnico,0,0,,0.3492
+P0120-S01,17,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 02: Colapso de la capacidad tecnológica,0,0,,0.0469
+P0122-S01,17,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 02: Colapso de la capacidad tecnológica,0,1,-1.0,0.4979
+P0122-S02,17,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 02: Colapso de la capacidad tecnológica,0,1,-1.0,0.0452
+P0122-S03,17,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 02: Colapso de la capacidad tecnológica,0,0,,0.4979
+P0122-S04,17,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 02: Colapso de la capacidad tecnológica,0,0,,0.0267
+P0124-S01,17,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 02: Colapso de la capacidad tecnológica,0,1,-1.0,0.0031
+P0128-S01,18,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 03: Opacidad y distorsión de la información pública,0,0,,0.0021
+P0130-S01,18,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 03: Opacidad y distorsión de la información pública,0,0,,0.2546
+P0130-S02,18,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 03: Opacidad y distorsión de la información pública,0,0,,0.0013
+P0132-S01,18,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 03: Opacidad y distorsión de la información pública,0,0,,0.0182
+P0136-S01,19,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 04: Parálisis operativa,0,0,,0.4799
+P0138-S01,19,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 04: Parálisis operativa,0,1,-1.0,0.111
+P0140-S01,19,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 04: Parálisis operativa,0,0,,0.0425
+P0144-S01,20,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 05: Captura contractual y concentración del poder operativo,0,0,,0.2667
+P0146-S01,20,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 05: Captura contractual y concentración del poder operativo,1,1,0.0,0.0006
+P0148-S01,20,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 05: Captura contractual y concentración del poder operativo,1,0,1.0,0.1609
+P0152-S01,21,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 06: Expansión del riesgo litigioso,1,1,0.0,0.0673
+P0154-S01,21,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 06: Expansión del riesgo litigioso,0,1,-1.0,0.2223
+P0156-S01,21,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 06: Expansión del riesgo litigioso,1,0,1.0,0.0091
+P0160-S01,22,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 07: Pérdida de control territorial frente a economías criminales,2,0,1.0,0.0293
+P0162-S01,22,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 07: Pérdida de control territorial frente a economías criminales,0,0,,0.2448
+P0164-S01,22,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 07: Pérdida de control territorial frente a economías criminales,0,0,,0.3136
+P0168-S01,23,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 08: Fragmentación del Estado y fracaso de la conducción estratégica,1,1,0.0,0.0003
+P0170-S01,23,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 08: Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0444
+P0170-S02,23,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 08: Fragmentación del Estado y fracaso de la conducción estratégica,1,3,-0.5,0.0646
+P0172-S01,23,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 08: Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0
+P0176-S01,24,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 09: Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0615
+P0178-S01,24,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 09: Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.3905
+P0180-S01,24,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 09: Capacidad fiscal restringida (comportamiento transversal),2,0,1.0,0.0
+P0181-S01,24,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 09: Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0857
+P0181-S02,24,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 09: Capacidad fiscal restringida (comportamiento transversal),1,3,-0.5,0.0521
+P0181-S03,24,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 09: Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.0
+P0184-S01,25,II. Comportamientos críticos nocivos para el Estado,Figura 2. Top 10 de casos que pusieron en riesgo la gestión pública,0,0,,0.4979
+P0184-S02,25,II. Comportamientos críticos nocivos para el Estado,Figura 2. Top 10 de casos que pusieron en riesgo la gestión pública,0,1,-1.0,0.0119
+P0186-S01,26,II. Comportamientos críticos nocivos para el Estado,Figura 2. Top 10 de casos que pusieron en riesgo la gestión pública,0,0,,0.0518
+P0188-S01,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0278
+P0190-S01,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0829
+P0191-S01,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0814
+P0192-S01,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0166
+P0193-S01,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.4071
+P0194-S01,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.4979
+P0194-S02,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0011
+P0195-S01,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.5146
+P0195-S02,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.2248
+P0195-S03,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0055
+P0195-S04,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0037
+P0195-S05,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0399
+P0195-S06,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0
+P0196-S01,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.4518
+P0196-S02,26,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0007
+P0197-S01,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.083
+P0198-S01,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0155
+P0198-S02,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0
+P0200-S01,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,1,1,0.0,0.3851
+P0201-S01,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0021
+P0201-S02,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0
+P0201-S03,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0014
+P0201-S04,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0008
+P0201-S05,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0
+P0201-S06,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.002
+P0202-S01,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,1,-1.0,0.0001
+P0202-S02,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,1,0,1.0,0.0
+P0204-S01,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0386
+P0205-S01,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0472
+P0205-S02,27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,1,0,1.0,0.0
+P0206-S01,28,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0
+P0207-S01,28,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,1,0,1.0,0.0083
+P0207-S02,28,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0009
+P0207-S03,28,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,1,-1.0,0.0
+P0208-S01,28,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0018
+P0208-S02,28,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,1,-1.0,0.0229
+P0208-S03,28,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0023
+P0208-S04,28,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,2,1,0.3333333333333333,0.6935
+P0210-S01,28,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.5263
+P0211-S01,28,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,2,0,1.0,0.0
+P0211-S02,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,0,0,,0.0
+P0212-S01,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,2,0,1.0,0.0
+P0214-S01,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.0051
+P0215-S01,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.4979
+P0217-S01,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.4979
+P0217-S02,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.0029
+P0218-S01,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.0001
+P0218-S02,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,1,-1.0,0.0001
+P0219-S01,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,1,-1.0,0.0
+P0219-S02,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,1,0,1.0,0.0421
+P0219-S03,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,1,0,1.0,0.009
+P0220-S01,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.0668
+P0220-S02,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.0034
+P0220-S03,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.0093
+P0220-S04,29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.0
+P0220-S05,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,1,-1.0,0.006
+P0222-S01,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.1532
+P0223-S01,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.0463
+P0223-S02,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,1,2,-0.3333333333333333,0.5382
+P0224-S01,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,1,0,1.0,0.0057
+P0224-S02,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.0095
+P0224-S03,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.0025
+P0224-S04,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,3,1,0.5,0.0
+P0226-S01,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,2,-1.0,0.0766
+P0227-S01,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.5503
+P0228-S01,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,1,-1.0,0.4613
+P0228-S02,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.0353
+P0228-S03,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.0025
+P0228-S04,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,0,,0.9165
+P0228-S05,30,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,2,-1.0,0.0011
+P0229-S01,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,1,-1.0,0.0186
+P0229-S02,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,0,1,-1.0,0.1632
+P0229-S03,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,1,0,1.0,0.0006
+P0231-S01,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0188
+P0232-S01,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.8316
+P0234-S01,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0235-S01,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0103
+P0235-S02,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0236-S01,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0074
+P0237-S01,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0237-S02,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0237-S03,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,1,0,1.0,0.0035
+P0238-S01,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,1,-1.0,0.0011
+P0238-S02,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0238-S03,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0509
+P0238-S04,31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,3,-1.0,0.0003
+P0238-S05,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.1838
+P0240-S01,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,1,-1.0,0.0004
+P0241-S01,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,2,-1.0,0.0951
+P0241-S02,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,1,-1.0,0.0044
+P0241-S03,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.001
+P0241-S04,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,1,-1.0,0.0043
+P0242-S01,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,1,-1.0,0.041
+P0242-S02,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,1,-1.0,0.0
+P0243-S01,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,1,-1.0,0.0047
+P0243-S02,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,1,0,1.0,0.0016
+P0244-S01,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,1,-1.0,0.0
+P0246-S01,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.45
+P0247-S01,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0247-S02,32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.012
+P0247-S03,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0019
+P0247-S04,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.011
+P0247-S05,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.9022
+P0248-S01,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0002
+P0248-S02,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0248-S03,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0029
+P0248-S04,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0122
+P0250-S01,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0071
+P0251-S01,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0251-S02,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0017
+P0252-S01,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0559
+P0253-S01,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.9915
+P0253-S02,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.1357
+P0254-S01,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0006
+P0255-S01,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0428
+P0255-S02,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0015
+P0255-S03,33,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0094
+P0255-S04,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0257-S01,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0095
+P0258-S01,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.1797
+P0259-S01,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0008
+P0259-S02,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0260-S01,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,1,1,0.0,0.0373
+P0261-S01,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0086
+P0261-S02,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0263-S01,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0053
+P0264-S01,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.2345
+P0264-S02,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.9203
+P0265-S01,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0007
+P0265-S02,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0042
+P0266-S01,34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0267-S01,35,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,1,0,1.0,0.0008
+P0267-S02,35,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0225
+P0268-S01,35,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0
+P0269-S01,35,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,1,2,-0.3333333333333333,0.4885
+P0269-S02,35,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,0,0,,0.0061
+P0271-S01,35,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0263
+P0272-S01,35,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.9086
+P0274-S01,35,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.286
+P0275-S01,35,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0005
+P0275-S02,35,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.3651
+P0275-S03,35,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.1486
+P0276-S01,35,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0551
+P0277-S01,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0017
+P0277-S02,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.0
+P0278-S01,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1,0,1.0,0.0001
+P0279-S01,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0280-S01,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0281-S01,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0027
+P0281-S02,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0045
+P0282-S01,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0003
+P0284-S01,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.4979
+P0284-S02,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.0034
+P0285-S01,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1,1,0.0,0.0
+P0286-S01,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.0001
+P0286-S02,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0035
+P0286-S03,36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.2381
+P0287-S01,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0287-S02,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.4631
+P0287-S03,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.6587
+P0288-S01,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.0
+P0289-S01,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.043
+P0289-S02,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0289-S03,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0289-S04,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0289-S05,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0290-S01,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0290-S02,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0290-S03,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0485
+P0292-S01,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0095
+P0293-S01,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.9216
+P0293-S02,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.004
+P0293-S03,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.9318
+P0294-S01,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.3953
+P0294-S02,37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1,0,1.0,0.105
+P0294-S03,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1,0,1.0,0.308
+P0295-S01,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.2706
+P0295-S02,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.0834
+P0295-S03,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.4658
+P0295-S04,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0453
+P0295-S05,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.2483
+P0297-S01,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0382
+P0298-S01,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.2212
+P0298-S02,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0133
+P0299-S01,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.266
+P0299-S02,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.0005
+P0299-S03,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1,0,1.0,0.0918
+P0300-S01,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1,0,1.0,0.0
+P0300-S02,38,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.001
+P0301-S01,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.0076
+P0302-S01,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0212
+P0303-S01,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0541
+P0304-S01,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0752
+P0304-S02,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0324
+P0306-S01,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0307-S01,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0307-S02,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0012
+P0308-S01,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.028
+P0309-S01,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.6678
+P0309-S02,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0001
+P0309-S03,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0602
+P0310-S01,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.5537
+P0310-S02,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0018
+P0311-S01,39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.1277
+P0312-S01,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0008
+P0312-S02,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0312-S03,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0205
+P0313-S01,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.002
+P0315-S01,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0004
+P0316-S01,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.1514
+P0316-S02,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0316-S03,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.271
+P0317-S01,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1,0,1.0,0.0001
+P0318-S01,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.6539
+P0318-S02,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0318-S03,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.001
+P0319-S01,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.4781
+P0321-S01,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.228
+P0322-S01,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0004
+P0323-S01,40,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0027
+P0323-S02,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.004
+P0324-S01,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.4979
+P0324-S02,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.255
+P0325-S01,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0002
+P0325-S02,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0325-S03,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0315
+P0327-S01,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0075
+P0328-S01,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0861
+P0328-S02,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0328-S03,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.0002
+P0328-S04,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1,0,1.0,0.0008
+P0329-S01,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,2,-1.0,0.0767
+P0329-S02,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1,0,1.0,0.0
+P0329-S03,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0274
+P0330-S01,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0001
+P0331-S01,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.5161
+P0331-S02,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0298
+P0331-S03,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0064
+P0331-S04,41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,2,-1.0,0.9479
+P0333-S01,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0764
+P0334-S01,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0517
+P0334-S02,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0014
+P0335-S01,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.0001
+P0336-S01,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0045
+P0336-S02,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.427
+P0337-S01,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.108
+P0337-S02,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0098
+P0338-S01,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0338-S02,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1,0,1.0,0.0125
+P0339-S01,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,2,-1.0,0.0
+P0339-S02,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0341-S01,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0082
+P0342-S01,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0003
+P0342-S02,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.5927
+P0342-S03,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0343-S01,42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0026
+P0343-S02,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1,0,1.0,0.0036
+P0344-S01,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0015
+P0345-S01,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0001
+P0347-S01,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.0591
+P0348-S01,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,3,-1.0,0.0002
+P0348-S02,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.189
+P0348-S03,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0357
+P0349-S01,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.2875
+P0349-S02,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,2,0,1.0,0.1625
+P0350-S01,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0004
+P0350-S02,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0276
+P0350-S03,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0
+P0351-S01,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,2,-1.0,0.0052
+P0351-S02,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.0366
+P0353-S01,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.1512
+P0354-S01,43,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0037
+P0354-S02,44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.2415
+P0354-S03,44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0926
+P0355-S01,44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1,0,1.0,0.0
+P0355-S02,44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,2,0,1.0,0.3639
+P0355-S03,44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.0014
+P0355-S04,44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.1078
+P0356-S01,44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,1,-1.0,0.0019
+P0356-S02,44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,0,0,,0.3005
+P0358-S01,44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0052
+P0360-S01,44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,1,0,1.0,0.0286
+P0361-S01,44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,1,0,1.0,0.0
+P0361-S02,44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0046
+P0362-S01,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.026
+P0362-S02,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0059
+P0362-S03,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,2,-1.0,0.4747
+P0362-S04,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,1,-1.0,0.0
+P0363-S01,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,1,1,0.0,0.0
+P0363-S02,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0109
+P0365-S01,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0999
+P0366-S01,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,1,0,1.0,0.0134
+P0366-S02,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0023
+P0366-S03,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,1,-1.0,0.0481
+P0367-S01,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,1,-1.0,0.0
+P0367-S02,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0
+P0367-S03,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0049
+P0369-S01,45,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0191
+P0370-S01,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0148
+P0370-S02,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0383
+P0371-S01,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0002
+P0371-S02,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0
+P0371-S03,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0108
+P0371-S04,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0612
+P0373-S01,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.852
+P0374-S01,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0277
+P0374-S02,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.7917
+P0375-S01,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0633
+P0375-S02,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0
+P0376-S01,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,1,0,1.0,0.0009
+P0378-S01,46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.1215
+P0379-S01,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0018
+P0380-S01,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0008
+P0380-S02,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,1,0,1.0,0.0
+P0381-S01,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,1,-1.0,0.0967
+P0381-S02,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0017
+P0381-S03,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0607
+P0383-S01,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.9358
+P0384-S01,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0339
+P0384-S02,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0
+P0384-S03,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0003
+P0385-S01,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,2,0,1.0,0.0003
+P0385-S02,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0054
+P0385-S03,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,2,-1.0,0.0
+P0387-S01,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.8273
+P0388-S01,47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0134
+P0388-S02,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.2148
+P0388-S03,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0186
+P0389-S01,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,1,-1.0,0.0727
+P0389-S02,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0332
+P0389-S03,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.1787
+P0389-S04,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0
+P0389-S05,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,1,0,1.0,0.0002
+P0391-S01,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.1347
+P0392-S01,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.2265
+P0392-S02,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0035
+P0393-S01,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.2302
+P0393-S02,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0216
+P0393-S03,48,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,1,0,1.0,0.0078
+P0395-S01,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.4311
+P0396-S01,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0058
+P0396-S02,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0091
+P0397-S01,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0003
+P0397-S02,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.012
+P0397-S03,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0
+P0397-S04,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0014
+P0399-S01,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.2852
+P0400-S01,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0224
+P0401-S01,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0999
+P0402-S01,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0001
+P0402-S02,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0036
+P0402-S03,49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,0,0,,0.0045
+P0404-S01,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.2058
+P0405-S01,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.4979
+P0405-S02,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.4979
+P0407-S01,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0371
+P0408-S01,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0053
+P0408-S02,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.0
+P0408-S03,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0
+P0408-S04,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0407
+P0408-S05,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.0084
+P0409-S01,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0002
+P0409-S02,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0008
+P0410-S01,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0
+P0410-S02,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0
+P0412-S01,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.9409
+P0413-S01,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0002
+P0413-S02,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,2,0,1.0,0.0006
+P0413-S03,50,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.3545
+P0414-S01,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.3375
+P0414-S02,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.7813
+P0414-S03,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0001
+P0416-S01,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.9373
+P0417-S01,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0271
+P0417-S02,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0186
+P0417-S03,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,1,0,1.0,0.1144
+P0418-S01,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.2104
+P0418-S02,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.003
+P0418-S03,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,2,1,0.3333333333333333,0.0002
+P0420-S01,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.3941
+P0420-S02,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.0572
+P0421-S01,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.0
+P0421-S02,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.014
+P0422-S01,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0016
+P0422-S02,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.4255
+P0422-S03,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.4231
+P0422-S04,51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.0
+P0422-S05,52,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.5888
+P0422-S06,52,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.2177
+P0423-S01,52,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,2,-1.0,0.0
+P0424-S01,52,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.0952
+P0425-S01,52,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,2,-1.0,0.0
+P0425-S02,52,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0638
+P0425-S03,52,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,3,-1.0,0.0006
+P0427-S01,52,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0007
+P0428-S01,52,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0
+P0429-S01,52,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0
+P0429-S02,52,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0
+P0430-S01,52,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0
+P0431-S01,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.0
+P0431-S02,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0
+P0432-S01,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.3676
+P0432-S02,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0
+P0433-S01,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0011
+P0433-S02,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0003
+P0433-S03,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.0
+P0434-S01,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.3214
+P0435-S01,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0001
+P0435-S02,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.0001
+P0435-S03,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0
+P0437-S01,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.4147
+P0438-S01,53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0001
+P0438-S02,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.1099
+P0439-S01,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.0128
+P0439-S02,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,0,,0.0192
+P0439-S03,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,0,1,-1.0,0.0001
+P0441-S01,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0543
+P0443-S01,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.159
+P0444-S01,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,1,-1.0,0.1715
+P0444-S02,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,1,-1.0,0.0
+P0444-S03,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0375
+P0444-S04,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0075
+P0445-S01,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,2,0,1.0,0.0252
+P0445-S02,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,1,-1.0,0.4604
+P0445-S03,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,1,-1.0,0.0
+P0445-S04,54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,1,-1.0,0.0001
+P0447-S01,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0093
+P0448-S01,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.8997
+P0448-S02,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,1,-1.0,0.0068
+P0448-S03,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0414
+P0448-S04,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0009
+P0449-S01,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,1,-1.0,0.0082
+P0449-S02,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0002
+P0449-S03,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0006
+P0449-S04,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.323
+P0450-S01,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0557
+P0450-S02,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0008
+P0450-S03,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,1,-1.0,0.0139
+P0450-S04,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0243
+P0450-S05,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,1,-1.0,0.0025
+P0452-S01,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0114
+P0453-S01,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0021
+P0453-S02,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0155
+P0453-S03,55,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0042
+P0454-S01,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.1805
+P0454-S02,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0074
+P0455-S01,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0008
+P0455-S02,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0121
+P0455-S03,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0167
+P0456-S01,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,0,1.0,0.3168
+P0456-S02,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0001
+P0456-S03,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,1,0.0,0.0
+P0456-S04,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.347
+P0458-S01,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.4377
+P0459-S01,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,0,,0.0
+P0459-S02,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,1,-1.0,0.4762
+P0460-S01,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,0,1.0,0.0035
+P0460-S02,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,2,-1.0,0.0011
+P0461-S01,56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,0,1,-1.0,0.0011
+P0463-S01,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0185
+P0465-S01,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0026
+P0466-S01,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0135
+P0466-S02,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.6644
+P0466-S03,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0102
+P0466-S04,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.2594
+P0466-S05,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0511
+P0466-S06,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0039
+P0467-S01,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0091
+P0467-S02,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.1122
+P0467-S03,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.3655
+P0467-S04,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0106
+P0468-S01,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0
+P0468-S02,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0006
+P0468-S03,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0072
+P0468-S04,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.119
+P0468-S05,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0074
+P0468-S06,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.4979
+P0468-S07,57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.3873
+P0469-S01,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.9576
+P0471-S01,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,1,-1.0,0.0045
+P0472-S01,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,1,-1.0,0.022
+P0472-S02,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0051
+P0472-S03,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.2826
+P0472-S04,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0244
+P0472-S05,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.4738
+P0472-S06,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,1,-1.0,0.319
+P0472-S07,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.4979
+P0472-S08,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.1511
+P0472-S09,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.4979
+P0472-S10,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,0,1.0,0.0
+P0473-S01,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0001
+P0473-S02,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,2,-1.0,0.0006
+P0473-S03,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,1,-1.0,0.2553
+P0473-S04,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,1,-1.0,0.5238
+P0475-S01,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.4613
+P0475-S02,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.013
+P0476-S01,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0
+P0476-S02,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,1,-1.0,0.0
+P0477-S01,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0
+P0478-S01,58,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,0,1.0,0.0022
+P0478-S02,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,1,-1.0,0.0003
+P0478-S03,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,1,-1.0,0.012
+P0479-S01,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0003
+P0479-S02,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,1,0.0,0.0487
+P0479-S03,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,1,-1.0,0.145
+P0481-S01,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.1143
+P0482-S01,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,0,1.0,0.0442
+P0483-S01,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.7428
+P0484-S01,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.2828
+P0484-S02,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0022
+P0485-S01,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.005
+P0485-S02,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0002
+P0487-S01,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0698
+P0488-S01,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.129
+P0488-S02,59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0104
+P0488-S03,60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,1,-1.0,0.0098
+P0489-S01,60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0001
+P0489-S02,60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0
+P0491-S01,60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.1173
+P0492-S01,60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0
+P0493-S01,60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0137
+P0493-S02,60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0
+P0494-S01,60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.2544
+P0494-S02,60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0705
+P0495-S01,60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0049
+P0496-S01,60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.585
+P0497-S01,60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,1,0.0,0.0057
+P0499-S01,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.4926
+P0500-S01,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0556
+P0500-S02,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0
+P0500-S03,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0335
+P0500-S04,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,0,1.0,0.0001
+P0500-S05,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0016
+P0501-S01,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.017
+P0501-S02,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0759
+P0501-S03,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0001
+P0501-S04,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0189
+P0501-S05,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0025
+P0501-S06,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0151
+P0502-S01,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,0,0,,0.0055
+P0503-S01,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,0,1.0,0.0022
+P0503-S02,61,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,2,1,0.3333333333333333,0.0059
+P0505-S01,62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0051
+P0507-S01,62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.2004
+P0508-S01,62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.184
+P0508-S02,62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0007
+P0508-S03,62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.2455
+P0508-S04,62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0
+P0509-S01,62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0073
+P0509-S02,62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,0,1.0,0.0044
+P0509-S03,62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),3,1,0.5,0.0
+P0511-S01,62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.4173
+P0512-S01,62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.8808
+P0512-S02,62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.0
+P0513-S01,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0
+P0513-S02,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.9486
+P0513-S03,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0
+P0515-S01,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.0046
+P0516-S01,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0037
+P0516-S02,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.0
+P0516-S03,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0121
+P0517-S01,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0411
+P0518-S01,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.0003
+P0518-S02,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.0001
+P0518-S03,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.0007
+P0518-S04,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.4661
+P0519-S01,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,0,1.0,0.1169
+P0519-S02,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0
+P0521-S01,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.9522
+P0522-S01,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0
+P0522-S02,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.2924
+P0522-S03,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0806
+P0522-S04,63,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0001
+P0523-S01,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,0,1.0,0.0246
+P0523-S02,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.0001
+P0523-S03,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.012
+P0525-S01,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.4048
+P0526-S01,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0006
+P0526-S02,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.2814
+P0526-S03,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0023
+P0527-S01,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0056
+P0528-S01,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0091
+P0530-S01,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.4257
+P0530-S02,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.4979
+P0531-S01,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0493
+P0531-S02,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.001
+P0532-S01,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,0,1.0,0.7845
+P0532-S02,64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.0
+P0533-S01,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0312
+P0533-S02,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),3,0,1.0,0.0008
+P0534-S01,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0007
+P0536-S01,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0402
+P0537-S01,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0384
+P0538-S01,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.4088
+P0538-S02,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0019
+P0538-S03,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.5886
+P0539-S01,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.1029
+P0539-S02,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.5641
+P0539-S03,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.261
+P0540-S01,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0014
+P0540-S02,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,0,,0.0
+P0540-S03,65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),0,1,-1.0,0.1514
+P0546-S01,67,III. Hallazgos en materia de corrupción y balance de acciones,Introducción del capítulo,0,0,,0.0019
+P0546-S02,67,III. Hallazgos en materia de corrupción y balance de acciones,Introducción del capítulo,0,0,,0.0005
+P0547-S01,67,III. Hallazgos en materia de corrupción y balance de acciones,Introducción del capítulo,0,0,,0.0095
+P0548-S01,67,III. Hallazgos en materia de corrupción y balance de acciones,Introducción del capítulo,0,0,,0.0802
+P0548-S02,67,III. Hallazgos en materia de corrupción y balance de acciones,Introducción del capítulo,0,0,,0.0167
+P0549-S01,67,III. Hallazgos en materia de corrupción y balance de acciones,Introducción del capítulo,0,0,,0.0242
+P0549-S02,67,III. Hallazgos en materia de corrupción y balance de acciones,Introducción del capítulo,1,0,1.0,0.0011
+P0551-S01,67,III. Hallazgos en materia de corrupción y balance de acciones,Caso 1. ESSMAR E.S.P.,0,0,,0.0084
+P0552-S01,67,III. Hallazgos en materia de corrupción y balance de acciones,Caso 1. ESSMAR E.S.P.,0,0,,0.9666
+P0552-S02,67,III. Hallazgos en materia de corrupción y balance de acciones,Caso 1. ESSMAR E.S.P.,0,0,,0.0
+P0553-S01,68,III. Hallazgos en materia de corrupción y balance de acciones,Caso 1. ESSMAR E.S.P.,0,0,,0.0077
+P0554-S01,68,III. Hallazgos en materia de corrupción y balance de acciones,Caso 1. ESSMAR E.S.P.,0,0,,0.015
+P0554-S02,68,III. Hallazgos en materia de corrupción y balance de acciones,Caso 1. ESSMAR E.S.P.,0,0,,0.0002
+P0555-S01,68,III. Hallazgos en materia de corrupción y balance de acciones,Caso 1. ESSMAR E.S.P.,0,0,,0.0912
+P0555-S02,68,III. Hallazgos en materia de corrupción y balance de acciones,Caso 1. ESSMAR E.S.P.,0,0,,0.0015
+P0555-S03,68,III. Hallazgos en materia de corrupción y balance de acciones,Caso 1. ESSMAR E.S.P.,0,0,,0.0002
+P0557-S01,68,III. Hallazgos en materia de corrupción y balance de acciones,Caso 2. DAPRE,0,0,,0.4626
+P0558-S01,68,III. Hallazgos en materia de corrupción y balance de acciones,Caso 2. DAPRE,0,0,,0.0547
+P0558-S02,68,III. Hallazgos en materia de corrupción y balance de acciones,Caso 2. DAPRE,0,0,,0.0004
+P0559-S01,68,III. Hallazgos en materia de corrupción y balance de acciones,Caso 2. DAPRE,0,0,,0.0
+P0560-S01,68,III. Hallazgos en materia de corrupción y balance de acciones,Caso 2. DAPRE,0,0,,0.0
+P0562-S01,69,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 3. OCAD de ciencia, tecnología e innovación",0,0,,0.7664
+P0563-S01,69,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 3. OCAD de ciencia, tecnología e innovación",0,0,,0.0469
+P0563-S02,69,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 3. OCAD de ciencia, tecnología e innovación",0,0,,0.0009
+P0563-S03,69,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 3. OCAD de ciencia, tecnología e innovación",0,0,,0.0001
+P0564-S01,69,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 3. OCAD de ciencia, tecnología e innovación",0,0,,0.0001
+P0565-S01,69,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 3. OCAD de ciencia, tecnología e innovación",0,0,,0.0499
+P0566-S01,69,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 3. OCAD de ciencia, tecnología e innovación",0,0,,0.0
+P0566-S02,69,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 3. OCAD de ciencia, tecnología e innovación",1,0,1.0,0.008
+P0566-S03,69,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 3. OCAD de ciencia, tecnología e innovación",0,0,,0.0039
+P0568-S01,69,III. Hallazgos en materia de corrupción y balance de acciones,Caso 4. CENIT,0,0,,0.3729
+P0569-S01,69,III. Hallazgos en materia de corrupción y balance de acciones,Caso 4. CENIT,0,0,,0.0184
+P0569-S02,69,III. Hallazgos en materia de corrupción y balance de acciones,Caso 4. CENIT,0,0,,0.3812
+P0570-S01,69,III. Hallazgos en materia de corrupción y balance de acciones,Caso 4. CENIT,0,0,,0.121
+P0570-S02,69,III. Hallazgos en materia de corrupción y balance de acciones,Caso 4. CENIT,0,0,,0.0001
+P0570-S03,69,III. Hallazgos en materia de corrupción y balance de acciones,Caso 4. CENIT,1,0,1.0,0.101
+P0570-S04,69,III. Hallazgos en materia de corrupción y balance de acciones,Caso 4. CENIT,0,0,,0.0012
+P0571-S01,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 4. CENIT,0,0,,0.2529
+P0572-S01,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 4. CENIT,0,0,,0.0
+P0573-S01,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 4. CENIT,0,0,,0.0035
+P0573-S02,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 4. CENIT,0,0,,0.0001
+P0575-S01,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 5. FENOGE,0,0,,0.4029
+P0576-S01,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 5. FENOGE,1,0,1.0,0.0235
+P0576-S02,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 5. FENOGE,0,0,,0.0701
+P0577-S01,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 5. FENOGE,0,0,,0.0324
+P0577-S02,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 5. FENOGE,0,0,,0.0
+P0577-S03,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 5. FENOGE,0,0,,0.0005
+P0578-S01,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 5. FENOGE,0,0,,0.001
+P0578-S02,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 5. FENOGE,0,0,,0.0002
+P0579-S01,70,III. Hallazgos en materia de corrupción y balance de acciones,Caso 5. FENOGE,0,0,,0.0
+P0581-S01,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 6. Electrohuila,0,0,,0.0325
+P0582-S01,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 6. Electrohuila,0,0,,0.0002
+P0582-S02,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 6. Electrohuila,0,0,,0.0396
+P0583-S01,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 6. Electrohuila,0,0,,0.047
+P0583-S02,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 6. Electrohuila,0,0,,0.0001
+P0584-S01,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 6. Electrohuila,1,0,1.0,0.329
+P0584-S02,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 6. Electrohuila,0,0,,0.0025
+P0585-S01,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 6. Electrohuila,0,0,,0.0004
+P0586-S01,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 6. Electrohuila,0,0,,0.0001
+P0588-S01,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 7. Páramo de Santurbán,0,0,,0.2299
+P0589-S01,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 7. Páramo de Santurbán,0,1,-1.0,0.2977
+P0589-S02,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 7. Páramo de Santurbán,0,0,,0.0001
+P0590-S01,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 7. Páramo de Santurbán,0,1,-1.0,0.0
+P0590-S02,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 7. Páramo de Santurbán,0,1,-1.0,0.0124
+P0591-S01,71,III. Hallazgos en materia de corrupción y balance de acciones,Caso 7. Páramo de Santurbán,1,0,1.0,0.0039
+P0592-S01,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 7. Páramo de Santurbán,0,0,,0.1077
+P0594-S01,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 8. Reforma agraria,0,0,,0.006
+P0595-S01,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 8. Reforma agraria,0,0,,0.2362
+P0595-S02,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 8. Reforma agraria,0,0,,0.0002
+P0596-S01,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 8. Reforma agraria,0,0,,0.0003
+P0596-S02,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 8. Reforma agraria,0,0,,0.023
+P0596-S03,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 8. Reforma agraria,0,0,,0.065
+P0596-S04,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 8. Reforma agraria,0,0,,0.0039
+P0597-S01,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 8. Reforma agraria,0,0,,0.0018
+P0597-S02,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 8. Reforma agraria,1,0,1.0,0.0023
+P0599-S01,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 9. Caminos comunitarios para la paz,0,0,,0.2096
+P0600-S01,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 9. Caminos comunitarios para la paz,0,0,,0.0812
+P0600-S02,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 9. Caminos comunitarios para la paz,0,0,,0.0009
+P0601-S01,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 9. Caminos comunitarios para la paz,0,0,,0.2208
+P0601-S02,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 9. Caminos comunitarios para la paz,1,0,1.0,0.0005
+P0601-S03,72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 9. Caminos comunitarios para la paz,1,0,1.0,0.0002
+P0602-S01,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 9. Caminos comunitarios para la paz,0,1,-1.0,0.0125
+P0604-S01,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 10. Servicios de ciberseguridad,0,0,,0.2875
+P0605-S01,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 10. Servicios de ciberseguridad,1,0,1.0,0.6734
+P0605-S02,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 10. Servicios de ciberseguridad,0,0,,0.0012
+P0606-S01,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 10. Servicios de ciberseguridad,0,0,,0.0118
+P0606-S02,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 10. Servicios de ciberseguridad,0,0,,0.0
+P0607-S01,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 10. Servicios de ciberseguridad,0,0,,0.02
+P0608-S01,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 10. Servicios de ciberseguridad,0,0,,0.4658
+P0608-S02,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 10. Servicios de ciberseguridad,1,0,1.0,0.0134
+P0610-S01,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 11. Unidad Nacional de Protección (UNP),0,0,,0.2079
+P0611-S01,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 11. Unidad Nacional de Protección (UNP),0,0,,0.5101
+P0611-S02,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 11. Unidad Nacional de Protección (UNP),2,0,1.0,0.0026
+P0612-S01,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 11. Unidad Nacional de Protección (UNP),0,0,,0.1601
+P0612-S02,73,III. Hallazgos en materia de corrupción y balance de acciones,Caso 11. Unidad Nacional de Protección (UNP),0,0,,0.0041
+P0613-S01,74,III. Hallazgos en materia de corrupción y balance de acciones,Caso 11. Unidad Nacional de Protección (UNP),0,0,,0.0151
+P0614-S01,74,III. Hallazgos en materia de corrupción y balance de acciones,Caso 11. Unidad Nacional de Protección (UNP),0,0,,0.3446
+P0614-S02,74,III. Hallazgos en materia de corrupción y balance de acciones,Caso 11. Unidad Nacional de Protección (UNP),0,0,,0.0002
+P0616-S01,74,III. Hallazgos en materia de corrupción y balance de acciones,Caso 12. FONTUR,0,0,,0.0664
+P0617-S01,74,III. Hallazgos en materia de corrupción y balance de acciones,Caso 12. FONTUR,0,0,,0.0032
+P0617-S02,74,III. Hallazgos en materia de corrupción y balance de acciones,Caso 12. FONTUR,0,0,,0.0658
+P0618-S01,74,III. Hallazgos en materia de corrupción y balance de acciones,Caso 12. FONTUR,0,0,,0.1386
+P0618-S02,74,III. Hallazgos en materia de corrupción y balance de acciones,Caso 12. FONTUR,0,0,,0.0003
+P0619-S01,74,III. Hallazgos en materia de corrupción y balance de acciones,Caso 12. FONTUR,0,0,,0.0063
+P0621-S01,74,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 13. Acuerdo marco para el suministro, adquisición y dispensación de medicamentos II — $3 billones en juego",1,0,1.0,0.2273
+P0622-S01,74,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 13. Acuerdo marco para el suministro, adquisición y dispensación de medicamentos II — $3 billones en juego",0,0,,0.0208
+P0623-S01,74,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 13. Acuerdo marco para el suministro, adquisición y dispensación de medicamentos II — $3 billones en juego",1,0,1.0,0.0082
+P0625-S01,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 14. CODALTEC,0,0,,0.045
+P0626-S01,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 14. CODALTEC,1,0,1.0,0.2633
+P0626-S02,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 14. CODALTEC,0,0,,0.0596
+P0627-S01,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 14. CODALTEC,0,0,,0.0193
+P0628-S01,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 14. CODALTEC,0,0,,0.0003
+P0630-S01,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 15. C.I. MEPRECOL S.A.S.,0,0,,0.0234
+P0631-S01,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 15. C.I. MEPRECOL S.A.S.,0,0,,0.4559
+P0631-S02,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 15. C.I. MEPRECOL S.A.S.,0,1,-1.0,0.0008
+P0632-S01,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 15. C.I. MEPRECOL S.A.S.,0,0,,0.012
+P0632-S02,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 15. C.I. MEPRECOL S.A.S.,1,0,1.0,0.0001
+P0632-S03,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 15. C.I. MEPRECOL S.A.S.,0,0,,0.3184
+P0633-S01,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 15. C.I. MEPRECOL S.A.S.,0,0,,0.0023
+P0634-S01,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 15. C.I. MEPRECOL S.A.S.,1,0,1.0,0.1488
+P0634-S02,75,III. Hallazgos en materia de corrupción y balance de acciones,Caso 15. C.I. MEPRECOL S.A.S.,1,1,0.0,0.0842
+P0636-S01,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 16. Canal Trece,0,0,,0.4018
+P0637-S01,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 16. Canal Trece,0,0,,0.1618
+P0638-S01,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 16. Canal Trece,0,0,,0.0634
+P0638-S02,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 16. Canal Trece,0,0,,0.0848
+P0639-S01,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 16. Canal Trece,0,0,,0.0089
+P0639-S02,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 16. Canal Trece,0,0,,0.0021
+P0639-S03,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 16. Canal Trece,0,1,-1.0,0.0051
+P0640-S01,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 16. Canal Trece,0,0,,0.0372
+P0641-S01,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 16. Canal Trece,0,0,,0.0073
+P0641-S02,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 16. Canal Trece,0,0,,0.0
+P0643-S01,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 17. ICBF,0,0,,0.1255
+P0643-S02,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 17. ICBF,0,0,,0.5136
+P0644-S01,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 17. ICBF,0,0,,0.416
+P0644-S02,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 17. ICBF,0,0,,0.0302
+P0645-S01,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 17. ICBF,0,0,,0.0004
+P0645-S02,76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 17. ICBF,0,0,,0.0023
+P0646-S01,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 17. ICBF,0,0,,0.0
+P0647-S01,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 17. ICBF,2,0,1.0,0.0648
+P0647-S02,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 17. ICBF,0,0,,0.0004
+P0649-S01,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 18. Agencia Nacional de Defensa Jurídica del Estado (ANDJE) — 48 procesos contractuales bajo vigilancia,0,0,,0.296
+P0649-S02,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 18. Agencia Nacional de Defensa Jurídica del Estado (ANDJE) — 48 procesos contractuales bajo vigilancia,0,0,,0.0199
+P0650-S01,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 18. Agencia Nacional de Defensa Jurídica del Estado (ANDJE) — 48 procesos contractuales bajo vigilancia,0,0,,0.0002
+P0652-S01,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 19. Hospital San Juan de Dios,0,0,,0.0117
+P0653-S01,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 19. Hospital San Juan de Dios,0,0,,0.2921
+P0653-S02,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 19. Hospital San Juan de Dios,0,0,,0.803
+P0654-S01,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 19. Hospital San Juan de Dios,0,0,,0.1017
+P0654-S02,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 19. Hospital San Juan de Dios,0,0,,0.3878
+P0655-S01,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 19. Hospital San Juan de Dios,0,0,,0.0019
+P0657-S01,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 20. Cancillería,0,0,,0.7629
+P0658-S01,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 20. Cancillería,0,0,,0.3586
+P0658-S02,77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 20. Cancillería,0,0,,0.1465
+P0659-S01,78,III. Hallazgos en materia de corrupción y balance de acciones,Caso 20. Cancillería,0,1,-1.0,0.0
+P0660-S01,78,III. Hallazgos en materia de corrupción y balance de acciones,Caso 20. Cancillería,0,0,,0.0
+P0662-S01,78,III. Hallazgos en materia de corrupción y balance de acciones,Caso 21. ASOMUFFAA,0,0,,0.1302
+P0663-S01,78,III. Hallazgos en materia de corrupción y balance de acciones,Caso 21. ASOMUFFAA,0,1,-1.0,0.0001
+P0663-S02,78,III. Hallazgos en materia de corrupción y balance de acciones,Caso 21. ASOMUFFAA,0,0,,0.0007
+P0664-S01,78,III. Hallazgos en materia de corrupción y balance de acciones,Caso 21. ASOMUFFAA,0,0,,0.0036
+P0664-S02,78,III. Hallazgos en materia de corrupción y balance de acciones,Caso 21. ASOMUFFAA,0,0,,0.0011
+P0665-S01,78,III. Hallazgos en materia de corrupción y balance de acciones,Caso 21. ASOMUFFAA,0,0,,0.0128
+P0667-S01,78,III. Hallazgos en materia de corrupción y balance de acciones,Caso 22. FONIGUALDAD,0,0,,0.2058
+P0668-S01,78,III. Hallazgos en materia de corrupción y balance de acciones,Caso 22. FONIGUALDAD,0,0,,0.634
+P0668-S02,78,III. Hallazgos en materia de corrupción y balance de acciones,Caso 22. FONIGUALDAD,0,0,,0.0035
+P0669-S01,79,III. Hallazgos en materia de corrupción y balance de acciones,Caso 22. FONIGUALDAD,0,0,,0.0739
+P0669-S02,79,III. Hallazgos en materia de corrupción y balance de acciones,Caso 22. FONIGUALDAD,0,0,,0.0467
+P0670-S01,79,III. Hallazgos en materia de corrupción y balance de acciones,Caso 22. FONIGUALDAD,0,0,,0.0035
+P0672-S01,79,III. Hallazgos en materia de corrupción y balance de acciones,Caso 23. Agencia de Desarrollo Rural (ADR),0,0,,0.1256
+P0673-S01,79,III. Hallazgos en materia de corrupción y balance de acciones,Caso 23. Agencia de Desarrollo Rural (ADR),0,0,,0.0002
+P0673-S02,79,III. Hallazgos en materia de corrupción y balance de acciones,Caso 23. Agencia de Desarrollo Rural (ADR),0,0,,0.0
+P0674-S01,79,III. Hallazgos en materia de corrupción y balance de acciones,Caso 23. Agencia de Desarrollo Rural (ADR),0,0,,0.2026
+P0675-S01,79,III. Hallazgos en materia de corrupción y balance de acciones,Caso 23. Agencia de Desarrollo Rural (ADR),0,0,,0.0102
+P0680-S01,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0431
+P0680-S02,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.152
+P0680-S03,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0454
+P0681-S01,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0
+P0681-S02,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0086
+P0681-S03,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0006
+P0682-S01,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0064
+P0682-S02,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,1,0,1.0,0.0012
+P0682-S03,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0
+P0682-S04,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.2655
+P0683-S01,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0023
+P0683-S02,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.004
+P0683-S03,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0093
+P0683-S04,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,1,2,-0.3333333333333333,0.0179
+P0684-S01,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0146
+P0684-S02,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0397
+P0684-S03,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,1,0,1.0,0.0033
+P0685-S01,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0336
+P0685-S02,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0756
+P0685-S03,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.4613
+P0688-S01,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.4979
+P0689-S01,81,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.1688
+P0689-S02,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0052
+P0689-S03,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.1674
+P0689-S04,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0218
+P0690-S01,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.008
+P0690-S02,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.1994
+P0691-S01,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.6826
+P0691-S02,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0497
+P0691-S03,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.2668
+P0692-S01,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0066
+P0692-S02,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0
+P0692-S03,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,1,0,1.0,0.0
+P0693-S01,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0168
+P0693-S02,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,1,0,1.0,0.1395
+P0693-S03,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0001
+P0693-S04,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,1,3,-0.5,0.1732
+P0694-S01,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0
+P0695-S01,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0836
+P0695-S02,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,1,0,1.0,0.0424
+P0695-S03,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0699
+P0695-S04,82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,2,0,1.0,0.003
+P0696-S01,83,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,1,0,1.0,0.3604
+P0696-S02,83,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,1,-1.0,0.0466
+P0696-S03,83,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0802
+P0697-S01,83,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.0004
+P0698-S01,83,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,3,1,0.5,0.0
+P0698-S02,83,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,0,0,,0.1322
+P0699-S01,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0069
+P0699-S02,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0
+P0699-S03,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0184
+P0700-S01,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0142
+P0700-S02,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0352
+P0700-S03,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.1304
+P0701-S01,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0
+P0701-S02,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0169
+P0701-S03,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0
+P0702-S01,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0344
+P0702-S02,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0234
+P0702-S03,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0
+P0702-S04,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.185
+P0703-S01,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0002
+P0703-S02,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0069
+P0704-S01,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.4894
+P0704-S02,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0004
+P0704-S03,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0047
+P0704-S04,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,1,-1.0,0.0
+P0705-S01,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.034
+P0705-S02,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.009
+P0708-S01,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.4979
+P0709-S01,84,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,1,0,1.0,0.0
+P0710-S01,85,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0001
+P0710-S02,85,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0
+P0711-S01,85,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0189
+P0711-S02,85,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,1,-1.0,0.0029
+P0711-S03,85,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,0,0,,0.0017
+P0712-S01,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,1,-1.0,0.2661
+P0712-S02,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.1415
+P0712-S03,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0001
+P0713-S01,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0713
+P0713-S02,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,1,-1.0,0.0026
+P0713-S03,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0934
+P0714-S01,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0204
+P0714-S02,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0013
+P0714-S03,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.106
+P0714-S04,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",1,0,1.0,0.0532
+P0714-S05,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0003
+P0715-S01,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0002
+P0715-S02,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",1,0,1.0,0.0329
+P0715-S03,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0007
+P0716-S01,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0025
+P0718-S01,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.4979
+P0719-S01,86,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0038
+P0720-S01,87,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,1,-1.0,0.0146
+P0720-S02,87,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.1935
+P0720-S03,87,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0151
+P0720-S04,87,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,1,-1.0,0.0
+P0721-S01,87,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,1,-1.0,0.0
+P0721-S02,87,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0029
+P0722-S01,87,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",0,0,,0.0
+P0723-S01,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.2047
+P0724-S01,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0054
+P0725-S01,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.5293
+P0726-S01,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",1,0,1.0,0.0061
+P0726-S02,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0017
+P0727-S01,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0028
+P0727-S02,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.1112
+P0727-S03,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,1,-1.0,0.0053
+P0727-S04,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.137
+P0727-S05,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.8304
+P0727-S06,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.447
+P0727-S07,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,1,-1.0,0.0326
+P0728-S01,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0002
+P0728-S02,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.2194
+P0728-S03,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.1217
+P0729-S01,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0111
+P0729-S02,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0556
+P0729-S03,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0
+P0729-S04,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0002
+P0729-S05,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,1,-1.0,0.3834
+P0730-S01,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0094
+P0730-S02,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.3952
+P0733-S01,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.4979
+P0734-S01,88,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.3511
+P0735-S01,89,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",1,0,1.0,0.0001
+P0735-S02,89,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0
+P0735-S03,89,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0652
+P0736-S01,89,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0044
+P0736-S02,89,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.1841
+P0736-S03,89,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0482
+P0736-S04,89,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0023
+P0737-S01,89,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.1264
+P0737-S02,89,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0905
+P0737-S03,89,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0013
+P0738-S01,89,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",1,0,1.0,0.086
+P0738-S02,89,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",0,0,,0.0051
+P0739-S01,90,IV. Balance sectorial,Sector Cultura,0,0,,0.4574
+P0739-S02,90,IV. Balance sectorial,Sector Cultura,0,0,,0.4503
+P0739-S03,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0026
+P0739-S04,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0022
+P0740-S01,90,IV. Balance sectorial,Sector Cultura,0,0,,0.001
+P0740-S02,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0137
+P0740-S03,90,IV. Balance sectorial,Sector Cultura,0,0,,0.002
+P0741-S01,90,IV. Balance sectorial,Sector Cultura,0,0,,0.1266
+P0741-S02,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0
+P0742-S01,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0202
+P0742-S02,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0234
+P0742-S03,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0031
+P0743-S01,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0188
+P0743-S02,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0008
+P0743-S03,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0
+P0744-S01,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0
+P0745-S01,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0
+P0748-S01,90,IV. Balance sectorial,Sector Cultura,0,0,,0.4979
+P0749-S01,90,IV. Balance sectorial,Sector Cultura,0,0,,0.0482
+P0749-S02,91,IV. Balance sectorial,Sector Cultura,0,0,,0.0012
+P0749-S03,91,IV. Balance sectorial,Sector Cultura,0,0,,0.0007
+P0749-S04,91,IV. Balance sectorial,Sector Cultura,0,0,,0.0645
+P0749-S05,91,IV. Balance sectorial,Sector Cultura,0,0,,0.0003
+P0749-S06,91,IV. Balance sectorial,Sector Cultura,0,0,,0.0
+P0750-S01,91,IV. Balance sectorial,Sector Cultura,0,0,,0.9802
+P0750-S02,91,IV. Balance sectorial,Sector Cultura,0,0,,0.0106
+P0751-S01,91,IV. Balance sectorial,Sector Cultura,0,0,,0.0081
+P0751-S02,91,IV. Balance sectorial,Sector Cultura,0,0,,0.0037
+P0751-S03,91,IV. Balance sectorial,Sector Cultura,0,0,,0.155
+P0752-S01,91,IV. Balance sectorial,Sector Cultura,0,0,,0.0001
+P0752-S02,91,IV. Balance sectorial,Sector Cultura,0,0,,0.0
+P0753-S01,91,IV. Balance sectorial,Sector Cultura,0,0,,0.0011
+P0753-S02,91,IV. Balance sectorial,Sector Cultura,0,0,,0.0
+P0754-S01,92,IV. Balance sectorial,Sector Defensa Nacional,1,0,1.0,0.0
+P0754-S02,92,IV. Balance sectorial,Sector Defensa Nacional,0,1,-1.0,0.0079
+P0754-S03,92,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0
+P0755-S01,92,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0007
+P0756-S01,92,IV. Balance sectorial,Sector Defensa Nacional,0,1,-1.0,0.0
+P0757-S01,92,IV. Balance sectorial,Sector Defensa Nacional,0,1,-1.0,0.006
+P0757-S02,92,IV. Balance sectorial,Sector Defensa Nacional,0,1,-1.0,0.0148
+P0757-S03,92,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0002
+P0758-S01,92,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0002
+P0758-S02,92,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0001
+P0758-S03,92,IV. Balance sectorial,Sector Defensa Nacional,0,1,-1.0,0.0
+P0761-S01,92,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.6903
+P0762-S01,92,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.1181
+P0763-S01,93,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0032
+P0764-S01,93,IV. Balance sectorial,Sector Defensa Nacional,1,1,0.0,0.0013
+P0764-S02,93,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0028
+P0764-S03,93,IV. Balance sectorial,Sector Defensa Nacional,0,2,-1.0,0.0108
+P0765-S01,93,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.2409
+P0765-S02,93,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0257
+P0765-S03,93,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0
+P0765-S04,93,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0
+P0766-S01,93,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0038
+P0766-S02,93,IV. Balance sectorial,Sector Defensa Nacional,1,0,1.0,0.0003
+P0766-S03,93,IV. Balance sectorial,Sector Defensa Nacional,3,0,1.0,0.0
+P0767-S01,93,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0
+P0767-S02,93,IV. Balance sectorial,Sector Defensa Nacional,1,0,1.0,0.0
+P0767-S03,94,IV. Balance sectorial,Sector Defensa Nacional,0,0,,0.0038
+P0767-S04,94,IV. Balance sectorial,Sector Defensa Nacional,2,0,1.0,0.0073
+P0768-S01,95,IV. Balance sectorial,Sector Deporte,0,0,,0.0034
+P0769-S01,95,IV. Balance sectorial,Sector Deporte,0,0,,0.0062
+P0769-S02,95,IV. Balance sectorial,Sector Deporte,0,0,,0.0
+P0770-S01,95,IV. Balance sectorial,Sector Deporte,0,0,,0.0
+P0770-S02,95,IV. Balance sectorial,Sector Deporte,0,1,-1.0,0.8863
+P0771-S01,95,IV. Balance sectorial,Sector Deporte,0,0,,0.0029
+P0772-S01,95,IV. Balance sectorial,Sector Deporte,0,0,,0.633
+P0772-S02,95,IV. Balance sectorial,Sector Deporte,0,0,,0.0039
+P0772-S03,95,IV. Balance sectorial,Sector Deporte,0,0,,0.0001
+P0772-S04,95,IV. Balance sectorial,Sector Deporte,0,0,,0.6217
+P0772-S05,95,IV. Balance sectorial,Sector Deporte,0,0,,0.0261
+P0773-S01,95,IV. Balance sectorial,Sector Deporte,0,1,-1.0,0.629
+P0773-S02,95,IV. Balance sectorial,Sector Deporte,0,0,,0.9993
+P0773-S03,95,IV. Balance sectorial,Sector Deporte,0,0,,0.0
+P0773-S04,95,IV. Balance sectorial,Sector Deporte,0,0,,0.0002
+P0774-S01,95,IV. Balance sectorial,Sector Deporte,0,0,,0.0
+P0774-S02,95,IV. Balance sectorial,Sector Deporte,0,0,,0.1885
+P0776-S01,95,IV. Balance sectorial,Sector Deporte,0,0,,0.4979
+P0777-S01,95,IV. Balance sectorial,Sector Deporte,0,0,,0.3431
+P0777-S02,96,IV. Balance sectorial,Sector Deporte,0,0,,0.3878
+P0778-S01,96,IV. Balance sectorial,Sector Deporte,0,0,,0.0016
+P0778-S02,96,IV. Balance sectorial,Sector Deporte,0,0,,0.9146
+P0778-S03,96,IV. Balance sectorial,Sector Deporte,0,0,,0.0
+P0778-S04,96,IV. Balance sectorial,Sector Deporte,0,1,-1.0,0.9998
+P0779-S01,96,IV. Balance sectorial,Sector Deporte,0,0,,0.9704
+P0779-S02,96,IV. Balance sectorial,Sector Deporte,0,0,,0.0004
+P0779-S03,96,IV. Balance sectorial,Sector Deporte,0,0,,0.0111
+P0779-S04,96,IV. Balance sectorial,Sector Deporte,0,0,,0.0
+P0779-S05,96,IV. Balance sectorial,Sector Deporte,0,0,,0.0001
+P0780-S01,96,IV. Balance sectorial,Sector Deporte,0,0,,0.0
+P0780-S02,96,IV. Balance sectorial,Sector Deporte,0,0,,0.0002
+P0781-S01,96,IV. Balance sectorial,Sector Deporte,0,0,,0.0037
+P0781-S02,96,IV. Balance sectorial,Sector Deporte,1,0,1.0,0.0
+P0781-S03,96,IV. Balance sectorial,Sector Deporte,0,0,,0.259
+P0782-S01,96,IV. Balance sectorial,Sector Deporte,0,0,,0.035
+P0782-S02,96,IV. Balance sectorial,Sector Deporte,0,0,,0.2917
+P0782-S03,96,IV. Balance sectorial,Sector Deporte,0,0,,0.0
+P0783-S01,97,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0003
+P0784-S01,97,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0001
+P0784-S02,97,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0948
+P0784-S03,97,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0017
+P0785-S01,97,IV. Balance sectorial,Sector Educación Nacional,1,0,1.0,0.1992
+P0786-S01,97,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0027
+P0787-S01,97,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0
+P0787-S02,97,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0
+P0787-S03,97,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.2382
+P0787-S04,97,IV. Balance sectorial,Sector Educación Nacional,1,0,1.0,0.4218
+P0788-S01,97,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0001
+P0788-S02,97,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.7499
+P0790-S01,97,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.4979
+P0791-S01,97,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0623
+P0791-S02,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0
+P0791-S03,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.394
+P0792-S01,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.1289
+P0793-S01,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0
+P0794-S01,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0041
+P0794-S02,98,IV. Balance sectorial,Sector Educación Nacional,0,1,-1.0,0.0007
+P0794-S03,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.1147
+P0794-S04,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0131
+P0794-S05,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0002
+P0795-S01,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.577
+P0795-S02,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0003
+P0795-S03,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0001
+P0796-S01,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0252
+P0796-S02,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.8732
+P0796-S03,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.009
+P0797-S01,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.037
+P0797-S02,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0
+P0798-S01,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0479
+P0798-S02,98,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.806
+P0798-S03,99,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0342
+P0798-S04,99,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0
+P0798-S05,99,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0259
+P0799-S01,99,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0631
+P0799-S02,99,IV. Balance sectorial,Sector Educación Nacional,2,1,0.3333333333333333,0.0
+P0799-S03,99,IV. Balance sectorial,Sector Educación Nacional,0,0,,0.0
+P0800-S01,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,1,-1.0,0.0894
+P0800-S02,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.0192
+P0801-S01,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.203
+P0801-S02,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,1,-1.0,0.3586
+P0801-S03,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.0087
+P0802-S01,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,1,-1.0,0.629
+P0802-S02,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,2,-1.0,0.0
+P0803-S01,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.0024
+P0803-S02,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,1,-1.0,0.0771
+P0803-S03,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.5991
+P0804-S01,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.5588
+P0804-S02,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.0026
+P0804-S03,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,1,0,1.0,0.0
+P0804-S04,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.041
+P0805-S01,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,1,-1.0,0.3115
+P0805-S02,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,1,-1.0,0.0002
+P0808-S01,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.4979
+P0809-S01,100,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.1325
+P0809-S02,101,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,1,-1.0,0.0274
+P0809-S03,101,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.1874
+P0810-S01,101,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.0023
+P0810-S02,101,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,1,-1.0,0.006
+P0810-S03,101,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,1,-1.0,0.0
+P0811-S01,101,IV. Balance sectorial,Sector Hacienda y Crédito Público,1,0,1.0,0.4082
+P0811-S02,101,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.057
+P0812-S01,101,IV. Balance sectorial,Sector Hacienda y Crédito Público,1,0,1.0,0.0001
+P0813-S01,101,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.0001
+P0813-S02,101,IV. Balance sectorial,Sector Hacienda y Crédito Público,0,0,,0.164
+P0814-S01,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0117
+P0814-S02,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0086
+P0814-S03,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.2896
+P0814-S04,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0676
+P0815-S01,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0
+P0815-S02,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0725
+P0816-S01,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0018
+P0816-S02,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.2697
+P0816-S03,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0144
+P0816-S04,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0013
+P0817-S01,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,1,-1.0,0.001
+P0817-S02,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.1005
+P0817-S03,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0
+P0818-S01,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0178
+P0818-S02,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0366
+P0818-S03,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.5739
+P0818-S04,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0035
+P0818-S05,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.004
+P0819-S01,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.1585
+P0822-S01,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.4979
+P0823-S01,102,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0009
+P0823-S02,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0076
+P0824-S01,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.091
+P0824-S02,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0412
+P0824-S03,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0008
+P0825-S01,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0007
+P0826-S01,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0295
+P0826-S02,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0096
+P0826-S03,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0099
+P0826-S04,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0612
+P0827-S01,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0002
+P0828-S01,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.005
+P0829-S01,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.9922
+P0829-S02,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0778
+P0830-S01,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.006
+P0830-S02,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.3472
+P0831-S01,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0
+P0831-S02,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,1,0,1.0,0.006
+P0831-S03,103,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,0,0,,0.0079
+P0832-S01,104,IV. Balance sectorial,Sector Interior,0,0,,0.0068
+P0832-S02,104,IV. Balance sectorial,Sector Interior,0,0,,0.0014
+P0832-S03,104,IV. Balance sectorial,Sector Interior,0,0,,0.0001
+P0833-S01,104,IV. Balance sectorial,Sector Interior,0,0,,0.0298
+P0833-S02,104,IV. Balance sectorial,Sector Interior,0,0,,0.005
+P0833-S03,104,IV. Balance sectorial,Sector Interior,0,0,,0.0023
+P0833-S04,104,IV. Balance sectorial,Sector Interior,0,0,,0.0009
+P0834-S01,104,IV. Balance sectorial,Sector Interior,0,0,,0.006
+P0834-S02,104,IV. Balance sectorial,Sector Interior,0,0,,0.1421
+P0834-S03,104,IV. Balance sectorial,Sector Interior,0,0,,0.1128
+P0834-S04,104,IV. Balance sectorial,Sector Interior,0,0,,0.0865
+P0835-S01,104,IV. Balance sectorial,Sector Interior,0,0,,0.0233
+P0835-S02,104,IV. Balance sectorial,Sector Interior,0,0,,0.0084
+P0835-S03,104,IV. Balance sectorial,Sector Interior,0,1,-1.0,0.0259
+P0838-S01,104,IV. Balance sectorial,Sector Interior,0,0,,0.4979
+P0839-S01,104,IV. Balance sectorial,Sector Interior,0,1,-1.0,0.0008
+P0839-S02,105,IV. Balance sectorial,Sector Interior,0,0,,0.0
+P0840-S01,105,IV. Balance sectorial,Sector Interior,1,0,1.0,0.0546
+P0840-S02,105,IV. Balance sectorial,Sector Interior,1,0,1.0,0.0
+P0841-S01,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0138
+P0842-S01,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.006
+P0843-S01,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.01
+P0843-S02,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0262
+P0843-S03,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0012
+P0843-S04,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.4979
+P0844-S01,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.414
+P0845-S01,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,1,-1.0,0.0006
+P0845-S02,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0001
+P0845-S03,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0454
+P0845-S04,106,IV. Balance sectorial,Sector Justicia y del Derecho,1,0,1.0,0.0048
+P0845-S05,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,1,-1.0,0.1071
+P0846-S01,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0191
+P0846-S02,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0399
+P0847-S01,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.1206
+P0847-S02,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0045
+P0847-S03,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.3485
+P0847-S04,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0102
+P0847-S05,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0011
+P0848-S01,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.188
+P0848-S02,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,1,-1.0,0.0321
+P0848-S03,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0
+P0851-S01,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.4979
+P0852-S01,106,IV. Balance sectorial,Sector Justicia y del Derecho,0,1,-1.0,0.3204
+P0852-S02,107,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0042
+P0852-S03,107,IV. Balance sectorial,Sector Justicia y del Derecho,0,1,-1.0,0.6345
+P0853-S01,107,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0019
+P0853-S02,107,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0209
+P0854-S01,107,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.4089
+P0855-S01,107,IV. Balance sectorial,Sector Justicia y del Derecho,0,2,-1.0,0.0001
+P0855-S02,107,IV. Balance sectorial,Sector Justicia y del Derecho,0,0,,0.0
+P0858-S01,108,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.4979
+P0859-S01,108,IV. Balance sectorial,Sector Minas y Energía,1,0,1.0,0.0002
+P0859-S02,108,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0305
+P0860-S01,108,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0004
+P0860-S02,108,IV. Balance sectorial,Sector Minas y Energía,1,0,1.0,0.0023
+P0861-S01,108,IV. Balance sectorial,Sector Minas y Energía,1,3,-0.5,0.0006
+P0861-S02,108,IV. Balance sectorial,Sector Minas y Energía,1,0,1.0,0.0001
+P0862-S01,108,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0065
+P0862-S02,108,IV. Balance sectorial,Sector Minas y Energía,1,0,1.0,0.0058
+P0863-S01,108,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0924
+P0864-S01,108,IV. Balance sectorial,Sector Minas y Energía,0,1,-1.0,0.189
+P0865-S01,108,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0155
+P0866-S01,108,IV. Balance sectorial,Sector Minas y Energía,0,1,-1.0,0.0212
+P0867-S01,108,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0338
+P0868-S01,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0036
+P0869-S01,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.4979
+P0869-S02,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.4873
+P0869-S03,109,IV. Balance sectorial,Sector Minas y Energía,0,3,-1.0,0.0004
+P0869-S04,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0001
+P0869-S05,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.082
+P0870-S01,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0081
+P0870-S02,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0508
+P0870-S03,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0017
+P0871-S01,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.2501
+P0871-S02,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0
+P0871-S03,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0
+P0871-S04,109,IV. Balance sectorial,Sector Minas y Energía,0,1,-1.0,0.0027
+P0871-S05,109,IV. Balance sectorial,Sector Minas y Energía,0,1,-1.0,0.0
+P0872-S01,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0127
+P0872-S02,109,IV. Balance sectorial,Sector Minas y Energía,0,1,-1.0,0.1865
+P0872-S03,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.2144
+P0873-S01,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0486
+P0873-S02,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.6127
+P0873-S03,109,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0054
+P0874-S01,110,IV. Balance sectorial,Sector Minas y Energía,0,1,-1.0,0.3068
+P0874-S02,110,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0014
+P0875-S01,110,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0766
+P0875-S02,110,IV. Balance sectorial,Sector Minas y Energía,1,1,0.0,0.0006
+P0875-S03,110,IV. Balance sectorial,Sector Minas y Energía,0,2,-1.0,0.0011
+P0876-S01,110,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0129
+P0876-S02,110,IV. Balance sectorial,Sector Minas y Energía,0,1,-1.0,0.0069
+P0876-S03,110,IV. Balance sectorial,Sector Minas y Energía,3,0,1.0,0.0119
+P0877-S01,110,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0001
+P0877-S02,110,IV. Balance sectorial,Sector Minas y Energía,1,0,1.0,0.0027
+P0878-S01,110,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0397
+P0879-S01,110,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0374
+P0880-S01,110,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.3481
+P0881-S01,110,IV. Balance sectorial,Sector Minas y Energía,1,0,1.0,0.3644
+P0882-S01,110,IV. Balance sectorial,Sector Minas y Energía,1,0,1.0,0.017
+P0883-S01,110,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.2379
+P0883-S02,110,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.169
+P0883-S03,110,IV. Balance sectorial,Sector Minas y Energía,1,0,1.0,0.8783
+P0884-S01,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0035
+P0884-S02,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0008
+P0885-S01,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.2499
+P0886-S01,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0
+P0886-S02,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0027
+P0887-S01,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0233
+P0887-S02,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.1111
+P0887-S03,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.3162
+P0888-S01,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0004
+P0889-S01,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0581
+P0890-S01,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0645
+P0890-S02,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0001
+P0891-S01,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0397
+P0892-S01,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0194
+P0893-S01,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.1779
+P0894-S01,111,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0332
+P0894-S02,111,IV. Balance sectorial,Sector Minas y Energía,0,1,-1.0,0.5025
+P0895-S01,111,IV. Balance sectorial,Sector Minas y Energía,1,0,1.0,0.0001
+P0896-S01,112,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0542
+P0896-S02,112,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0011
+P0897-S01,112,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.1994
+P0897-S02,112,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0002
+P0897-S03,112,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.1365
+P0898-S01,112,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0031
+P0898-S02,112,IV. Balance sectorial,Sector Minas y Energía,0,1,-1.0,0.0
+P0898-S03,112,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0051
+P0898-S04,112,IV. Balance sectorial,Sector Minas y Energía,2,1,0.3333333333333333,0.2391
+P0899-S01,112,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0037
+P0899-S02,112,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0422
+P0900-S01,112,IV. Balance sectorial,Sector Minas y Energía,0,0,,0.0953
+P0903-S01,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.6025
+P0904-S01,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.1693
+P0905-S01,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0568
+P0905-S02,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.3668
+P0905-S03,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.9627
+P0905-S04,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0001
+P0906-S01,113,IV. Balance sectorial,Sector Presidencia de la República,0,1,-1.0,0.0002
+P0907-S01,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0025
+P0907-S02,113,IV. Balance sectorial,Sector Presidencia de la República,1,1,0.0,0.0
+P0908-S01,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.002
+P0908-S02,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0017
+P0908-S03,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0108
+P0909-S01,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0017
+P0910-S01,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0004
+P0910-S02,113,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0043
+P0910-S03,114,IV. Balance sectorial,Sector Presidencia de la República,1,0,1.0,0.0002
+P0911-S01,114,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.8919
+P0911-S02,114,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0004
+P0911-S03,114,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0096
+P0912-S01,114,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.1442
+P0912-S02,114,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0002
+P0913-S01,114,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.3793
+P0913-S02,114,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0277
+P0914-S01,114,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0
+P0914-S02,114,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0969
+P0914-S03,114,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.0005
+P0915-S01,114,IV. Balance sectorial,Sector Presidencia de la República,2,0,1.0,0.0
+P0916-S01,114,IV. Balance sectorial,Sector Presidencia de la República,0,0,,0.8162
+P0916-S02,114,IV. Balance sectorial,Sector Presidencia de la República,0,1,-1.0,0.0
+P0916-S03,114,IV. Balance sectorial,Sector Presidencia de la República,1,0,1.0,0.441
+P0917-S01,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.0005
+P0918-S01,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.0001
+P0918-S02,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.0005
+P0919-S01,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.0489
+P0919-S02,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,2,-1.0,0.0006
+P0919-S03,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.0182
+P0919-S04,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.074
+P0920-S01,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.1847
+P0920-S02,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.0005
+P0920-S03,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.0012
+P0920-S04,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.0
+P0920-S05,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.0
+P0921-S01,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,1,-1.0,0.4623
+P0921-S02,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.011
+P0921-S03,115,IV. Balance sectorial,Sector Relaciones Exteriores,1,0,1.0,0.0142
+P0921-S04,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.5136
+P0924-S01,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.4979
+P0925-S01,115,IV. Balance sectorial,Sector Relaciones Exteriores,0,1,-1.0,0.0005
+P0926-S01,116,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.6013
+P0926-S02,116,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.4368
+P0926-S03,116,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.3558
+P0926-S04,116,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.0014
+P0927-S01,116,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.4129
+P0927-S02,116,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.003
+P0928-S01,116,IV. Balance sectorial,Sector Relaciones Exteriores,0,1,-1.0,0.1742
+P0928-S02,116,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.001
+P0929-S01,116,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.0255
+P0929-S02,116,IV. Balance sectorial,Sector Relaciones Exteriores,1,0,1.0,0.0
+P0929-S03,116,IV. Balance sectorial,Sector Relaciones Exteriores,0,0,,0.107
+P0930-S01,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.299
+P0930-S02,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0096
+P0931-S01,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.1514
+P0931-S02,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0
+P0931-S03,117,IV. Balance sectorial,Sector Salud y Protección Social,1,0,1.0,0.0
+P0932-S01,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.6539
+P0932-S02,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0
+P0932-S03,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.001
+P0933-S01,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0
+P0934-S01,117,IV. Balance sectorial,Sector Salud y Protección Social,0,2,-1.0,0.1325
+P0934-S02,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0001
+P0934-S03,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0204
+P0935-S01,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.1417
+P0935-S02,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.1077
+P0935-S03,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0004
+P0938-S01,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.4979
+P0939-S01,117,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0019
+P0939-S02,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0137
+P0939-S03,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0088
+P0940-S01,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0
+P0941-S01,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0025
+P0941-S02,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0
+P0941-S03,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0014
+P0941-S04,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0007
+P0941-S05,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0
+P0941-S06,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.002
+P0942-S01,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0
+P0942-S02,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0017
+P0943-S01,118,IV. Balance sectorial,Sector Salud y Protección Social,0,1,-1.0,0.1652
+P0943-S02,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.0014
+P0943-S03,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.017
+P0943-S04,118,IV. Balance sectorial,Sector Salud y Protección Social,0,2,-1.0,0.036
+P0943-S05,118,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.2707
+P0944-S01,119,IV. Balance sectorial,Sector Salud y Protección Social,0,0,,0.4336
+P0944-S02,119,IV. Balance sectorial,Sector Salud y Protección Social,1,0,1.0,0.0016
+P0944-S03,119,IV. Balance sectorial,Sector Salud y Protección Social,0,1,-1.0,0.0079
+P0945-S01,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0029
+P0945-S02,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,1,0,1.0,0.0061
+P0946-S01,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0592
+P0946-S02,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0322
+P0946-S03,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0894
+P0947-S01,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,1,0,1.0,0.0
+P0948-S01,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0369
+P0948-S02,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0086
+P0949-S01,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,1,0,1.0,0.2875
+P0950-S01,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0002
+P0950-S02,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.2683
+P0950-S03,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,1,0,1.0,0.0466
+P0950-S04,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0656
+P0951-S01,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,2,0,1.0,0.3507
+P0951-S02,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.2192
+P0954-S01,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,1,-1.0,0.4979
+P0955-S01,120,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,1,0,1.0,0.0075
+P0956-S01,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,1,0,1.0,0.0022
+P0957-S01,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,1,0,1.0,0.0048
+P0958-S01,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0
+P0959-S01,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0071
+P0959-S02,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,1,0,1.0,0.0065
+P0960-S01,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.4418
+P0960-S02,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.1451
+P0961-S01,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.3363
+P0961-S02,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,2,1,0.3333333333333333,0.0
+P0961-S03,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0272
+P0961-S04,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0
+P0962-S01,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.038
+P0962-S02,121,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0111
+P0963-S01,122,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.0174
+P0963-S02,122,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.2015
+P0963-S03,122,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.1684
+P0964-S01,122,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,2,-1.0,0.0032
+P0964-S02,122,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,0.1758
+P0965-S01,122,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,1,0,1.0,0.0359
+P0965-S02,122,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,1,0,1.0,0.6472
+P0966-S01,122,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,0,0,,1.0
+P0966-S02,122,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,1,0,1.0,0.0099
+P0969-S01,123,IV. Balance sectorial,Sector Trabajo,0,0,,0.4979
+P0970-S01,123,IV. Balance sectorial,Sector Trabajo,0,0,,0.0
+P0971-S01,123,IV. Balance sectorial,Sector Trabajo,0,0,,0.0
+P0971-S02,123,IV. Balance sectorial,Sector Trabajo,0,0,,0.0
+P0972-S01,123,IV. Balance sectorial,Sector Trabajo,0,0,,0.0
+P0973-S01,123,IV. Balance sectorial,Sector Trabajo,0,1,-1.0,0.0
+P0973-S02,123,IV. Balance sectorial,Sector Trabajo,0,0,,0.0
+P0974-S01,123,IV. Balance sectorial,Sector Trabajo,0,0,,0.3676
+P0975-S01,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0
+P0976-S01,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0681
+P0976-S02,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0166
+P0976-S03,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.228
+P0976-S04,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0
+P0976-S05,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.2706
+P0976-S06,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0063
+P0977-S01,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0679
+P0977-S02,124,IV. Balance sectorial,Sector Trabajo,0,1,-1.0,0.0
+P0978-S01,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0014
+P0978-S02,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0001
+P0979-S01,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0552
+P0980-S01,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.2594
+P0980-S02,124,IV. Balance sectorial,Sector Trabajo,1,0,1.0,0.0003
+P0980-S03,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0013
+P0980-S04,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0236
+P0981-S01,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0078
+P0981-S02,124,IV. Balance sectorial,Sector Trabajo,1,0,1.0,0.0639
+P0982-S01,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.0001
+P0982-S02,124,IV. Balance sectorial,Sector Trabajo,0,0,,0.21
+P0982-S03,125,IV. Balance sectorial,Sector Trabajo,0,0,,0.0242
+P0983-S01,125,IV. Balance sectorial,Sector Trabajo,0,0,,0.9404
+P0983-S02,125,IV. Balance sectorial,Sector Trabajo,0,0,,0.0001
+P0983-S03,125,IV. Balance sectorial,Sector Trabajo,0,0,,0.0096
+P0984-S01,126,IV. Balance sectorial,Sector Transporte,1,0,1.0,0.2974
+P0984-S02,126,IV. Balance sectorial,Sector Transporte,0,0,,0.0027
+P0985-S01,126,IV. Balance sectorial,Sector Transporte,0,0,,0.5043
+P0985-S02,126,IV. Balance sectorial,Sector Transporte,0,0,,0.0597
+P0985-S03,126,IV. Balance sectorial,Sector Transporte,0,0,,0.3439
+P0985-S04,126,IV. Balance sectorial,Sector Transporte,0,0,,0.043
+P0986-S01,126,IV. Balance sectorial,Sector Transporte,0,0,,0.0001
+P0986-S02,126,IV. Balance sectorial,Sector Transporte,0,0,,0.0214
+P0986-S03,126,IV. Balance sectorial,Sector Transporte,0,0,,0.0496
+P0987-S01,126,IV. Balance sectorial,Sector Transporte,1,1,0.0,0.499
+P0987-S02,126,IV. Balance sectorial,Sector Transporte,0,0,,0.069
+P0987-S03,126,IV. Balance sectorial,Sector Transporte,1,0,1.0,0.031
+P0988-S01,126,IV. Balance sectorial,Sector Transporte,0,0,,0.0002
+P0988-S02,126,IV. Balance sectorial,Sector Transporte,1,0,1.0,0.0605
+P0989-S01,126,IV. Balance sectorial,Sector Transporte,1,0,1.0,0.0008
+P0989-S02,126,IV. Balance sectorial,Sector Transporte,0,0,,0.0023
+P0989-S03,126,IV. Balance sectorial,Sector Transporte,1,0,1.0,0.0063
+P0990-S01,126,IV. Balance sectorial,Sector Transporte,0,0,,0.9405
+P0990-S02,126,IV. Balance sectorial,Sector Transporte,1,0,1.0,0.6196
+P0990-S03,126,IV. Balance sectorial,Sector Transporte,1,0,1.0,0.9999
+P0993-S01,126,IV. Balance sectorial,Sector Transporte,0,0,,0.4979
+P0994-S01,126,IV. Balance sectorial,Sector Transporte,0,0,,0.0018
+P0995-S01,127,IV. Balance sectorial,Sector Transporte,0,0,,0.0
+P0995-S02,127,IV. Balance sectorial,Sector Transporte,0,0,,0.001
+P0996-S01,127,IV. Balance sectorial,Sector Transporte,1,0,1.0,0.0013
+P0997-S01,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.0007
+P0997-S02,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",1,0,1.0,0.0003
+P0998-S01,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.0169
+P0999-S01,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.0063
+P0999-S02,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.0116
+P0999-S03,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",1,0,1.0,0.0047
+P0999-S04,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.0
+P1000-S01,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.0324
+P1000-S02,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.2679
+P1000-S03,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.3373
+P1001-S01,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.0001
+P1001-S02,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",1,0,1.0,0.0
+P1002-S01,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.6388
+P1003-S01,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.2742
+P1006-S01,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.4979
+P1007-S01,128,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",2,0,1.0,0.4723
+P1007-S02,129,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",1,0,1.0,0.0084
+P1008-S01,129,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.0287
+P1009-S01,129,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.0275
+P1009-S02,129,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",1,0,1.0,0.0
+P1009-S03,129,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",1,0,1.0,0.0
+P1010-S01,129,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.1685
+P1010-S02,129,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",2,0,1.0,0.1355
+P1010-S03,129,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",1,0,1.0,0.0
+P1011-S01,129,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",1,0,1.0,0.0
+P1012-S01,129,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.3097
+P1012-S02,129,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.0041
+P1012-S03,129,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",3,0,1.0,0.0001
+P1013-S01,130,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",1,0,1.0,0.0025
+P1013-S02,130,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.4979
+P1013-S03,130,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.2135
+P1014-S01,130,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.0013
+P1014-S02,130,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",1,0,1.0,0.0239
+P1015-S01,130,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",1,0,1.0,0.0001
+P1016-S01,130,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",0,0,,0.121
+P1022-S01,132,V. Principios de Gobierno de la Patria Milagro,Introducción del capítulo,0,2,-1.0,0.0
+P1022-S02,132,V. Principios de Gobierno de la Patria Milagro,Introducción del capítulo,0,0,,0.0484
+P1022-S03,132,V. Principios de Gobierno de la Patria Milagro,Introducción del capítulo,0,0,,0.1427
+P1023-S01,132,V. Principios de Gobierno de la Patria Milagro,Introducción del capítulo,0,0,,0.0019
+P1023-S02,132,V. Principios de Gobierno de la Patria Milagro,Introducción del capítulo,0,0,,0.0008
+P1023-S03,132,V. Principios de Gobierno de la Patria Milagro,Introducción del capítulo,0,1,-1.0,0.0001
+P1025-S01,132,V. Principios de Gobierno de la Patria Milagro,De los valores presidenciales a los principios de gobierno,0,0,,0.0434
+P1025-S02,132,V. Principios de Gobierno de la Patria Milagro,De los valores presidenciales a los principios de gobierno,1,1,0.0,0.0026
+P1026-S01,132,V. Principios de Gobierno de la Patria Milagro,De los valores presidenciales a los principios de gobierno,4,1,0.6,0.0
+P1027-S01,132,V. Principios de Gobierno de la Patria Milagro,De los valores presidenciales a los principios de gobierno,3,0,1.0,0.0021
+P1031-S01,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,1,-1.0,0.0954
+P1032-S01,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,1,1,0.0,0.9133
+P1033-S01,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.0206
+P1033-S02,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,1,0,1.0,0.0035
+P1034-S01,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,1,1,0.0,0.8067
+P1035-S01,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.0003
+P1035-S02,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.0482
+P1036-S01,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,1,-1.0,0.9309
+P1037-S01,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.6735
+P1037-S02,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.0099
+P1038-S01,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,1,1,0.0,0.8596
+P1039-S01,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.0767
+P1040-S01,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,1,-1.0,0.9133
+P1041-S01,133,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.0004
+P1042-S01,134,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.5825
+P1042-S02,134,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,1,-1.0,0.8703
+P1043-S01,134,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.0056
+P1044-S01,134,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,1,-1.0,0.8669
+P1045-S01,134,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.0
+P1046-S01,134,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.5545
+P1047-S01,134,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.0
+P1047-S02,134,V. Principios de Gobierno de la Patria Milagro,Los principios rectores frente a los comportamientos críticos,0,0,,0.0654
+P1049-S01,134,V. Principios de Gobierno de la Patria Milagro,Síntesis: un gobierno que corrige desde sus principios,0,0,,0.1396
+P1050-S01,134,V. Principios de Gobierno de la Patria Milagro,Síntesis: un gobierno que corrige desde sus principios,0,1,-1.0,0.0019
+P1050-S02,134,V. Principios de Gobierno de la Patria Milagro,Síntesis: un gobierno que corrige desde sus principios,1,0,1.0,0.3066
+P1050-S03,134,V. Principios de Gobierno de la Patria Milagro,Síntesis: un gobierno que corrige desde sus principios,1,0,1.0,0.3146
+P1050-S04,134,V. Principios de Gobierno de la Patria Milagro,Síntesis: un gobierno que corrige desde sus principios,0,0,,0.0964
+P1050-S05,134,V. Principios de Gobierno de la Patria Milagro,Síntesis: un gobierno que corrige desde sus principios,0,0,,0.3391
+P1051-S01,134,V. Principios de Gobierno de la Patria Milagro,Síntesis: un gobierno que corrige desde sus principios,1,0,1.0,0.2431
+P1051-S02,134,V. Principios de Gobierno de la Patria Milagro,Síntesis: un gobierno que corrige desde sus principios,0,1,-1.0,0.0519
+P1051-S03,134,V. Principios de Gobierno de la Patria Milagro,Síntesis: un gobierno que corrige desde sus principios,0,0,,0.3812
+P1051-S04,134,V. Principios de Gobierno de la Patria Milagro,Síntesis: un gobierno que corrige desde sus principios,0,0,,0.2431
+P1051-S05,134,V. Principios de Gobierno de la Patria Milagro,Síntesis: un gobierno que corrige desde sus principios,0,0,,0.1223
+P1052-S01,134,V. Principios de Gobierno de la Patria Milagro,Síntesis: un gobierno que corrige desde sus principios,1,0,1.0,0.0
+P1054-S01,135,V. Principios de Gobierno de la Patria Milagro,Firmas,0,0,,0.4986
+P1054-S02,135,V. Principios de Gobierno de la Patria Milagro,Firmas,0,0,,0.4613
+P1056-S01,135,V. Principios de Gobierno de la Patria Milagro,Firmas,0,0,,0.462

@@ -1,0 +1,1787 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d2" for="node" attr.name="is_public_institution" attr.type="boolean" />
+  <key id="d1" for="node" attr.name="count" attr.type="long" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Agencia Nacional de Hidrocarburos">
+      <data key="d0">ORG</data>
+      <data key="d1">4</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Fiscalía">
+      <data key="d0">ORG</data>
+      <data key="d1">5</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Comfaguajira">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="UPC">
+      <data key="d0">ORG</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="DANE">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="FOMAG">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">5</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Arauca">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Norte de Santander">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="INPEC">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Consejo de Estado">
+      <data key="d0">ORG</data>
+      <data key="d1">10</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Vichada">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Presupuesto General de la Nación">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Decreto 0932">
+      <data key="d0">LAW</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Corte">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Canal del Dique">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Ipiales">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="ACP">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Gobierno de la Patria Milagro">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">8</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Grupos Armados Organizados">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Ley 2466 de 2025">
+      <data key="d0">LAW</data>
+      <data key="d1">5</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Decreto 0905">
+      <data key="d0">LAW</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Sistema Electrónico">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Agencia Nacional de Infraestructura">
+      <data key="d0">ORG</data>
+      <data key="d1">5</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Consejo Directivo">
+      <data key="d0">ORG</data>
+      <data key="d1">3</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Prosperidad Social">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Casa de la Moneda de Portugal">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Autoridad">
+      <data key="d0">ORG</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Administración">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Tribunal de Santander">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="SENA">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Comfenalco Antioquia">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Sistema Educativo Indígena Propio">
+      <data key="d0">ORG</data>
+      <data key="d1">9</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Casas Colombia">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Decreto 234 de 2026">
+      <data key="d0">LAW</data>
+      <data key="d1">4</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Buga">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Fiscalía General de la Nación">
+      <data key="d0">ORG</data>
+      <data key="d1">4</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="APPA">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Estado Social de Derecho">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Ministerio de Ambiente">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Sentencia T-361 de 2017">
+      <data key="d0">LAW</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Santurbán">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Caribe">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">9</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Decreto número 1072 de 2015">
+      <data key="d0">LAW</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Nariño">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">6</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Toronto">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Ejecutivo">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="KBPD">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="CAMPETROL">
+      <data key="d0">ORG</data>
+      <data key="d1">9</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Ministro del Trabajo">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="FONIGUALDAD">
+      <data key="d0">ORG</data>
+      <data key="d1">3</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Comfamiliar Atlántico">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Fondo Nacional del Turismo">
+      <data key="d0">ORG</data>
+      <data key="d1">4</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Ministerio de Hacienda">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">4</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Unidad de Planeación Minero Energética">
+      <data key="d0">ORG</data>
+      <data key="d1">5</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Colombia Mayor">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">4</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Procuraduría">
+      <data key="d0">ORG</data>
+      <data key="d1">14</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Amazonía">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Gobierno Petro">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Ministerio de Salud">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Superintendencia Nacional de Salud">
+      <data key="d0">ORG</data>
+      <data key="d1">7</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Sistema General de Regalías">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">10</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="SUIT">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Barranquilla">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Fontur">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="GBTUD">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Superintendencia de Industria y Comercio">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="FURAG">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Portugal">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Ministerio de Igualdad y Equidad">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="ELN">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Unidad Nacional de Protección">
+      <data key="d0">ORG</data>
+      <data key="d1">9</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Congreso">
+      <data key="d0">ORG</data>
+      <data key="d1">6</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Gobierno Nacional">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Fondo DIAN">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Libertad">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Resolución 0527">
+      <data key="d0">LAW</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Contratación Pública">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Único Reglamentario del Sector Trabajo">
+      <data key="d0">ORG</data>
+      <data key="d1">8</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Superintendencia de Servicios Públicos Domiciliarios">
+      <data key="d0">ORG</data>
+      <data key="d1">6</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Montreal">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Gerente General">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Decreto 1072 de 2015">
+      <data key="d0">LAW</data>
+      <data key="d1">8</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Fondo Rotatorio">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Air-e">
+      <data key="d0">ORG</data>
+      <data key="d1">8</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Función Pública">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Autoridad Nacional de Licencias Ambientales">
+      <data key="d0">ORG</data>
+      <data key="d1">4</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Sanguino">
+      <data key="d0">PERSON</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Valle del Cauca">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Equipo Élite">
+      <data key="d0">ORG</data>
+      <data key="d1">38</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Contraloría">
+      <data key="d0">ORG</data>
+      <data key="d1">40</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Departamento Administrativo de la Presidencia de la República">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Decreto 0689">
+      <data key="d0">LAW</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="SPEC">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Ministerio de Vivienda">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Resolución 863 de 2026">
+      <data key="d0">LAW</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Agencia Nacional de Tierras">
+      <data key="d0">ORG</data>
+      <data key="d1">4</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Decreto 581 de 2026">
+      <data key="d0">LAW</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Ministerio de Minas">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Pacífico">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Meta">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Resolución 992 de 2026">
+      <data key="d0">LAW</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Superintendencia de Sociedades">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="UNGRD">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Constitución">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Santander">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Decreto 0649">
+      <data key="d0">LAW</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Estado colombiano">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Universidad de Antioquia">
+      <data key="d0">ORG</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Ley de Garantías">
+      <data key="d0">LAW</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Museo de Memoria">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Costa Caribe">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="IDEAM">
+      <data key="d0">ORG</data>
+      <data key="d1">4</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Resolución 10142 de 2025">
+      <data key="d0">LAW</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Decreto 720 de 2026">
+      <data key="d0">LAW</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Berlín">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Cauca">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Suratá">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Empalme Anticorrupción">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Defensa Nacional">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="DIAN">
+      <data key="d0">ORG</data>
+      <data key="d1">6</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="exploración y producción">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Magdalena">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Ministerio del Trabajo">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">4</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Santiago de Chile">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">4</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Estado Mayor Central">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="FonIgualdad">
+      <data key="d0">ORG</data>
+      <data key="d1">5</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Colombia">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">44</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Aruba">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Guajira">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">6</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Territorios Campesinos Agroalimentarios">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Contraloría General">
+      <data key="d0">ORG</data>
+      <data key="d1">3</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Itagüí">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Contraloría General de la República">
+      <data key="d0">ORG</data>
+      <data key="d1">15</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="MinCiencias">
+      <data key="d0">ORG</data>
+      <data key="d1">5</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Atlántico">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Miami">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Sector Defensa">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="USPEC">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Fuerza Aeroespacial Colombiana">
+      <data key="d0">ORG</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Estudio de Impacto Ambiental">
+      <data key="d0">ORG</data>
+      <data key="d1">3</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Guaviare">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Nueva York">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">4</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Plataforma de Inteligencia Artificial">
+      <data key="d0">ORG</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Procuraduría General de la Nación">
+      <data key="d0">ORG</data>
+      <data key="d1">10</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Amazonas">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Chocó">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Putumayo">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">4</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Sociedad de Activos Especiales">
+      <data key="d0">ORG</data>
+      <data key="d1">5</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Fondo de Financiamiento de la Infraestructura Educativa">
+      <data key="d0">ORG</data>
+      <data key="d1">3</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Equipos Básicos">
+      <data key="d0">ORG</data>
+      <data key="d1">5</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Corte Constitucional">
+      <data key="d0">ORG</data>
+      <data key="d1">7</data>
+      <data key="d2">True</data>
+    </node>
+    <node id="Estado Crítico">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Entidades Promotoras de Salud">
+      <data key="d0">GPE_LOC</data>
+      <data key="d1">2</data>
+      <data key="d2">False</data>
+    </node>
+    <node id="Fuerza Pública">
+      <data key="d0">ORG</data>
+      <data key="d1">4</data>
+      <data key="d2">False</data>
+    </node>
+    <edge source="Agencia Nacional de Hidrocarburos" target="Colombia">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Agencia Nacional de Hidrocarburos" target="exploración y producción">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agencia Nacional de Hidrocarburos" target="CAMPETROL">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agencia Nacional de Hidrocarburos" target="Ministerio de Minas">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fiscalía" target="Air-e">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fiscalía" target="Superintendencia de Servicios Públicos Domiciliarios">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fiscalía" target="Norte de Santander">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Fiscalía" target="Santander">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Fiscalía" target="Suratá">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Comfaguajira" target="Comfamiliar Atlántico">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Comfaguajira" target="Comfenalco Antioquia">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Comfaguajira" target="Consejo Directivo">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Comfaguajira" target="Decreto 0689">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Comfaguajira" target="Decreto 0905">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Comfaguajira" target="Ministro del Trabajo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Comfaguajira" target="Resolución 0527">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Comfaguajira" target="Sanguino">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Comfaguajira" target="Decreto 0649">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="UPC" target="Corte Constitucional">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="UPC" target="Contraloría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="UPC" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="DANE" target="Estado Social de Derecho">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="FOMAG" target="Contraloría">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Arauca" target="ACP">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arauca" target="CAMPETROL">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arauca" target="Meta">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arauca" target="Norte de Santander">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Arauca" target="Unidad de Planeación Minero Energética">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Norte de Santander" target="ACP">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Norte de Santander" target="CAMPETROL">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Norte de Santander" target="Meta">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Norte de Santander" target="Unidad de Planeación Minero Energética">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Norte de Santander" target="Santander">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Norte de Santander" target="Suratá">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="INPEC" target="USPEC">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="INPEC" target="Barranquilla">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="INPEC" target="Buga">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="INPEC" target="Ipiales">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="INPEC" target="Itagüí">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Consejo de Estado" target="Ley de Garantías">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Consejo de Estado" target="Casa de la Moneda de Portugal">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Consejo de Estado" target="Equipo Élite">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Consejo de Estado" target="Corte Constitucional">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Consejo de Estado" target="Procuraduría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Consejo de Estado" target="Contraloría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Consejo de Estado" target="Ministerio de Hacienda">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Vichada" target="Amazonas">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Vichada" target="Chocó">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Vichada" target="Guaviare">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Vichada" target="Nariño">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Vichada" target="Putumayo">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Vichada" target="Prosperidad Social">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Presupuesto General de la Nación" target="Congreso">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Presupuesto General de la Nación" target="Gobierno Nacional">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Presupuesto General de la Nación" target="MinCiencias">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Presupuesto General de la Nación" target="Sistema Educativo Indígena Propio">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Decreto 0932" target="Sistema Educativo Indígena Propio">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Corte" target="Constitución">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Corte" target="Corte Constitucional">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Canal del Dique" target="Caribe">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ipiales" target="Barranquilla">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Ipiales" target="Buga">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Ipiales" target="Itagüí">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Ipiales" target="USPEC">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ACP" target="CAMPETROL">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ACP" target="Meta">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ACP" target="Unidad de Planeación Minero Energética">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gobierno de la Patria Milagro" target="Ejecutivo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Grupos Armados Organizados" target="Cauca">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Grupos Armados Organizados" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Grupos Armados Organizados" target="Fuerza Pública">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Grupos Armados Organizados" target="Nariño">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ley 2466 de 2025" target="Ministerio del Trabajo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ley 2466 de 2025" target="Decreto 1072 de 2015">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Ley 2466 de 2025" target="Decreto 234 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Ley 2466 de 2025" target="Único Reglamentario del Sector Trabajo">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Ley 2466 de 2025" target="Decreto 720 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Ley 2466 de 2025" target="Decreto número 1072 de 2015">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Decreto 0905" target="Comfamiliar Atlántico">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Decreto 0905" target="Comfenalco Antioquia">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Decreto 0905" target="Consejo Directivo">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Decreto 0905" target="Decreto 0689">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Decreto 0905" target="Ministro del Trabajo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Decreto 0905" target="Resolución 0527">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Decreto 0905" target="Sanguino">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Decreto 0905" target="Decreto 0649">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sistema Electrónico" target="Contratación Pública">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Sistema Electrónico" target="Plataforma de Inteligencia Artificial">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agencia Nacional de Infraestructura" target="Autoridad Nacional de Licencias Ambientales">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agencia Nacional de Infraestructura" target="Estudio de Impacto Ambiental">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Consejo Directivo" target="Comfamiliar Atlántico">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Consejo Directivo" target="Comfenalco Antioquia">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Consejo Directivo" target="Decreto 0689">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Consejo Directivo" target="Ministro del Trabajo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Consejo Directivo" target="Resolución 0527">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Consejo Directivo" target="Sanguino">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Consejo Directivo" target="Contraloría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Consejo Directivo" target="Decreto 0649">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Prosperidad Social" target="Amazonas">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Prosperidad Social" target="Chocó">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Prosperidad Social" target="Guaviare">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Prosperidad Social" target="Nariño">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Prosperidad Social" target="Putumayo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Casa de la Moneda de Portugal" target="Procuraduría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Autoridad" target="Libertad">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Administración" target="Contraloría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Administración" target="Fondo DIAN">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Administración" target="Procuraduría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Administración" target="Equipo Élite">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tribunal de Santander" target="Ministerio de Ambiente">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Tribunal de Santander" target="Resolución 863 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Tribunal de Santander" target="Resolución 992 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Tribunal de Santander" target="Santurbán">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Tribunal de Santander" target="Sentencia T-361 de 2017">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Tribunal de Santander" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SENA" target="Contraloría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SENA" target="Congreso">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Comfenalco Antioquia" target="Comfamiliar Atlántico">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Comfenalco Antioquia" target="Decreto 0689">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Comfenalco Antioquia" target="Ministro del Trabajo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Comfenalco Antioquia" target="Resolución 0527">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Comfenalco Antioquia" target="Sanguino">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Comfenalco Antioquia" target="Decreto 0649">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Casas Colombia" target="Aruba">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Casas Colombia" target="Berlín">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Casas Colombia" target="Miami">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Casas Colombia" target="Montreal">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Casas Colombia" target="Nueva York">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Casas Colombia" target="Santiago de Chile">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Casas Colombia" target="Toronto">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Decreto 234 de 2026" target="Decreto 1072 de 2015">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Decreto 234 de 2026" target="Único Reglamentario del Sector Trabajo">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Buga" target="Barranquilla">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Buga" target="Itagüí">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Buga" target="USPEC">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fiscalía General de la Nación" target="Equipo Élite">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="APPA" target="Territorios Campesinos Agroalimentarios">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Ministerio de Ambiente" target="Resolución 863 de 2026">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministerio de Ambiente" target="Resolución 992 de 2026">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministerio de Ambiente" target="Santurbán">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministerio de Ambiente" target="Sentencia T-361 de 2017">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministerio de Ambiente" target="Amazonía">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministerio de Ambiente" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sentencia T-361 de 2017" target="Resolución 863 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Sentencia T-361 de 2017" target="Resolución 992 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Sentencia T-361 de 2017" target="Santurbán">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Sentencia T-361 de 2017" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Santurbán" target="Resolución 863 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Santurbán" target="Resolución 992 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Santurbán" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Caribe" target="Procuraduría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Caribe" target="Pacífico">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Caribe" target="Air-e">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Caribe" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Decreto número 1072 de 2015" target="Decreto 720 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Decreto número 1072 de 2015" target="Único Reglamentario del Sector Trabajo">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Nariño" target="Cauca">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Nariño" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nariño" target="Fuerza Pública">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nariño" target="Contraloría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nariño" target="Guajira">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Nariño" target="Putumayo">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Nariño" target="Amazonas">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Nariño" target="Chocó">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Nariño" target="Guaviare">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Nariño" target="Valle del Cauca">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Toronto" target="Miami">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Toronto" target="Montreal">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Toronto" target="Nueva York">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Toronto" target="Santiago de Chile">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Toronto" target="Aruba">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Toronto" target="Berlín">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ejecutivo" target="Congreso">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="KBPD" target="exploración y producción">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="CAMPETROL" target="Meta">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="CAMPETROL" target="Unidad de Planeación Minero Energética">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="CAMPETROL" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="CAMPETROL" target="Ministerio de Minas">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministro del Trabajo" target="Decreto 0649">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministro del Trabajo" target="Comfamiliar Atlántico">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministro del Trabajo" target="Decreto 0689">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministro del Trabajo" target="Resolución 0527">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministro del Trabajo" target="Sanguino">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="FONIGUALDAD" target="Contraloría General de la República">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="FONIGUALDAD" target="Estado Crítico">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="FONIGUALDAD" target="Equipo Élite">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Comfamiliar Atlántico" target="Decreto 0689">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Comfamiliar Atlántico" target="Resolución 0527">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Comfamiliar Atlántico" target="Sanguino">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Comfamiliar Atlántico" target="Decreto 0649">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fondo Nacional del Turismo" target="Contraloría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fondo Nacional del Turismo" target="Equipo Élite">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fondo Nacional del Turismo" target="Fontur">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministerio de Hacienda" target="Contraloría General de la República">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministerio de Hacienda" target="Air-e">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministerio de Hacienda" target="Ministerio de Minas">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Unidad de Planeación Minero Energética" target="Meta">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Colombia Mayor" target="Museo de Memoria">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Procuraduría" target="Contraloría">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Procuraduría" target="Fondo DIAN">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Procuraduría" target="Estudio de Impacto Ambiental">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Procuraduría" target="Sistema General de Regalías">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Amazonía" target="Pacífico">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Amazonía" target="Colombia">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Amazonía" target="IDEAM">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gobierno Petro" target="Guajira">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministerio de Salud" target="Equipos Básicos">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Ministerio de Salud" target="Superintendencia Nacional de Salud">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Superintendencia Nacional de Salud" target="Equipos Básicos">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Superintendencia Nacional de Salud" target="Contraloría General">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Superintendencia Nacional de Salud" target="Entidades Promotoras de Salud">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Sistema General de Regalías" target="IDEAM">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SUIT" target="Función Pública">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SUIT" target="FURAG">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Barranquilla" target="Itagüí">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Barranquilla" target="USPEC">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GBTUD" target="Costa Caribe">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="GBTUD" target="SPEC">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Superintendencia de Industria y Comercio" target="Superintendencia de Sociedades">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Superintendencia de Industria y Comercio" target="Unidad Nacional de Protección">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Portugal" target="Unidad Nacional de Protección">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministerio de Igualdad y Equidad" target="FonIgualdad">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ELN" target="Estado Mayor Central">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ELN" target="Fuerza Aeroespacial Colombiana">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="ELN" target="Fuerza Pública">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Unidad Nacional de Protección" target="Superintendencia de Sociedades">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Unidad Nacional de Protección" target="Colombia">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Unidad Nacional de Protección" target="Equipo Élite">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Congreso" target="Gobierno Nacional">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Congreso" target="MinCiencias">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gobierno Nacional" target="MinCiencias">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Fondo DIAN" target="Contraloría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fondo DIAN" target="DIAN">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Resolución 0527" target="Decreto 0689">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Resolución 0527" target="Sanguino">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Resolución 0527" target="Decreto 0649">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contratación Pública" target="Plataforma de Inteligencia Artificial">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Único Reglamentario del Sector Trabajo" target="Decreto 1072 de 2015">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="Único Reglamentario del Sector Trabajo" target="Decreto 720 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Único Reglamentario del Sector Trabajo" target="Decreto 581 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Superintendencia de Servicios Públicos Domiciliarios" target="Air-e">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Superintendencia de Servicios Públicos Domiciliarios" target="Costa Caribe">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Montreal" target="Miami">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Montreal" target="Nueva York">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Montreal" target="Santiago de Chile">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Montreal" target="Aruba">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Montreal" target="Berlín">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Gerente General" target="Equipo Élite">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Decreto 1072 de 2015" target="Decreto 581 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Fondo Rotatorio" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fondo Rotatorio" target="Contraloría">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Fondo Rotatorio" target="Resolución 10142 de 2025">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air-e" target="Atlántico">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Air-e" target="Guajira">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Air-e" target="Magdalena">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Air-e" target="Ministerio de Minas">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Air-e" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Función Pública" target="Defensa Nacional">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Autoridad Nacional de Licencias Ambientales" target="Estudio de Impacto Ambiental">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Sanguino" target="Decreto 0689">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Equipo Élite" target="Departamento Administrativo de la Presidencia de la República">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Equipo Élite" target="Procuraduría General de la Nación">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Equipo Élite" target="Agencia Nacional de Tierras">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Equipo Élite" target="Contraloría General de la República">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Equipo Élite" target="Sociedad de Activos Especiales">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Equipo Élite" target="Empalme Anticorrupción">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Equipo Élite" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Equipo Élite" target="Superintendencia de Sociedades">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría" target="Sociedad de Activos Especiales">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría" target="Ministerio de Vivienda">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría" target="Cauca">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría" target="Guajira">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría" target="Putumayo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría" target="Estado Crítico">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría" target="Universidad de Antioquia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría" target="Colombia">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Contraloría" target="Fuerza Pública">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría" target="Fondo de Financiamiento de la Infraestructura Educativa">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría" target="Corte Constitucional">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Contraloría" target="Resolución 10142 de 2025">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Departamento Administrativo de la Presidencia de la República" target="Estado colombiano">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Decreto 0689" target="Decreto 0649">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="SPEC" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ministerio de Vivienda" target="Contraloría General de la República">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Resolución 863 de 2026" target="Resolución 992 de 2026">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Resolución 863 de 2026" target="Corte Constitucional">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Resolución 863 de 2026" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agencia Nacional de Tierras" target="Contraloría General de la República">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Agencia Nacional de Tierras" target="Sociedad de Activos Especiales">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Ministerio de Minas" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Resolución 992 de 2026" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="UNGRD" target="Contraloría General de la República">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Constitución" target="Corte Constitucional">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Santander" target="Suratá">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Estado colombiano" target="Contraloría General de la República">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Estado colombiano" target="Ley de Garantías">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Ley de Garantías" target="Contraloría General de la República">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Costa Caribe" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="IDEAM" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Resolución 10142 de 2025" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Berlín" target="Aruba">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Berlín" target="Miami">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Berlín" target="Nueva York">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Berlín" target="Santiago de Chile">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cauca" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cauca" target="Fuerza Pública">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cauca" target="Guajira">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Cauca" target="Putumayo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Empalme Anticorrupción" target="Colombia">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="exploración y producción" target="Colombia">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Magdalena" target="Atlántico">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Magdalena" target="Guajira">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Santiago de Chile" target="Miami">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Santiago de Chile" target="Nueva York">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="Santiago de Chile" target="Aruba">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Estado Mayor Central" target="Fuerza Aeroespacial Colombiana">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Estado Mayor Central" target="Fuerza Pública">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Colombia" target="Fuerza Pública">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Colombia" target="Sector Defensa">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aruba" target="Miami">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Aruba" target="Nueva York">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Guajira" target="Putumayo">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Guajira" target="Atlántico">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Contraloría General" target="Entidades Promotoras de Salud">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Itagüí" target="USPEC">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría General de la República" target="Estado Crítico">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría General de la República" target="Fondo de Financiamiento de la Infraestructura Educativa">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría General de la República" target="Sociedad de Activos Especiales">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Contraloría General de la República" target="Procuraduría General de la Nación">
+      <data key="d3">1</data>
+    </edge>
+    <edge source="Miami" target="Nueva York">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Guaviare" target="Amazonas">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Guaviare" target="Chocó">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Guaviare" target="Putumayo">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Amazonas" target="Chocó">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Amazonas" target="Putumayo">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="Chocó" target="Putumayo">
+      <data key="d3">2</data>
+    </edge>
+  </graph>
+</graphml>

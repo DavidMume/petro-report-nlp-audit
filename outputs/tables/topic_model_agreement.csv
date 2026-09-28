@@ -1,0 +1,4 @@
+model_a,model_b,adjusted_rand_index,normalized_mutual_info
+embedding_kmeans,lda,0.0331,0.1215
+embedding_kmeans,tfidf_nmf,0.1136,0.2648
+lda,tfidf_nmf,0.0915,0.2122

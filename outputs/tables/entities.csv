@@ -1,1 +1,1319 @@
-entity,entity_type,count,pages,sections
+entity,entity_type,count,pages,sections,n_paragraphs,is_public_institution,surface_forms
+Estado,GENERIC,90,5;6;7;9;12;15;16;17;19;20;22;23;24;28;29;30;31;33;35;37;38;39;43;51;52;53;54;55;56;60;62;64;65;77;78;83;84;87;88;89;93;95;99;100;101;105;106;107;108;110;111;112;114;120;122;126;128;129;130;134,"9 comportamientos críticos | Carta de Presentación A los colombianos: | Caso 18. Agencia Nacional de Defensa Jurídica del Estado (ANDJE) — 48 procesos contractuales bajo vigilancia | Caso 20. Cancillería | Comportamiento 1. Destrucción del rigor técnico | Comportamiento 2. Colapso de la capacidad tecnológica | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Definición del comportamiento 01: Destrucción del rigor técnico | Definición del comportamiento 02: Colapso de la capacidad tecnológica | Definición del comportamiento 04: Parálisis operativa | Definición del comportamiento 05: Captura contractual y concentración del poder operativo | Definición del comportamiento 07: Pérdida de control territorial frente a economías criminales | Definición del comportamiento 08: Fragmentación del Estado y fracaso de la conducción estratégica | Definición del comportamiento 09: Capacidad fiscal restringida (comportamiento transversal) | Gente: La voluntad ciudadana que sostuvo el empalme | Introducción del capítulo | Los principios rectores frente a los comportamientos críticos | Notas aclaratorias: Los límites que le dan credibilidad al ejercicio | PRESENTACIÓN DEL LIBRO DE LA VERDAD | Proceso: La arquitectura metodológica | Sector Agricultura y desarrollo Rural | Sector Ambiente y Desarrollo Rural | Sector Ciencia, Tecnología e Innovación | Sector Comercio, Industria y Turismo | Sector Defensa Nacional | Sector Deporte | Sector Educación Nacional | Sector Hacienda y Crédito Público | Sector Interior | Sector Justicia y del Derecho | Sector Minas y Energía | Sector Presidencia de la República | Sector Tecnologías de la Información y las Comunicaciones | Sector Transporte | Sector Vivienda, Ciudad y Territorio | Síntesis: un gobierno que corrige desde sus principios",83,False,Estado
+2026,DATE,81,9;10;11;27;28;32;36;37;38;40;43;44;45;51;52;53;55;58;59;84;86;90;91;92;95;96;98;100;102;103;104;105;108;109;112;113;115;117;118;121;122;123;128,"Comportamiento 1. Destrucción del rigor técnico | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Gente: La voluntad ciudadana que sostuvo el empalme | Introducción del capítulo | Proceso: La arquitectura metodológica | Sector Ambiente y Desarrollo Rural | Sector Ciencia, Tecnología e Innovación | Sector Cultura | Sector Defensa Nacional | Sector Deporte | Sector Educación Nacional | Sector Hacienda y Crédito Público | Sector Inclusión Social y Reconciliación | Sector Interior | Sector Minas y Energía | Sector Presidencia de la República | Sector Relaciones Exteriores | Sector Salud y Protección Social | Sector Tecnologías de la Información y las Comunicaciones | Sector Trabajo | Sector Vivienda, Ciudad y Territorio",66,False,2026
+2025,DATE,81,27;30;34;35;36;37;38;39;40;42;44;45;46;47;48;50;51;52;54;55;57;58;72;84;90;91;92;93;98;100;101;102;103;110;111;114;116;118;122;123;124;126,Caso 8. Reforma agraria | Comportamiento 1. Destrucción del rigor técnico | Comportamiento 2. Colapso de la capacidad tecnológica | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural | Sector Cultura | Sector Defensa Nacional | Sector Educación Nacional | Sector Hacienda y Crédito Público | Sector Inclusión Social y Reconciliación | Sector Minas y Energía | Sector Presidencia de la República | Sector Relaciones Exteriores | Sector Salud y Protección Social | Sector Tecnologías de la Información y las Comunicaciones | Sector Trabajo | Sector Transporte,63,False,2025
+Gobierno,GENERIC,64,5;6;7;9;12;24;29;30;31;32;33;34;35;36;37;40;46;52;53;60;61;63;64;67;68;69;73;79;86;87;93;96;97;98;100;101;103;104;107;119;124;125;126;132;134,"Carta de Presentación A los colombianos: | Caso 1. ESSMAR E.S.P. | Caso 10. Servicios de ciberseguridad | Caso 11. Unidad Nacional de Protección (UNP) | Caso 2. DAPRE | Caso 23. Agencia de Desarrollo Rural (ADR) | Caso 3. OCAD de ciencia, tecnología e innovación | Comportamiento 2. Colapso de la capacidad tecnológica | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Definición del comportamiento 09: Capacidad fiscal restringida (comportamiento transversal) | Gente: La voluntad ciudadana que sostuvo el empalme | Introducción del capítulo | Los principios rectores frente a los comportamientos críticos | Notas aclaratorias: Los límites que le dan credibilidad al ejercicio | PRESENTACIÓN DEL LIBRO DE LA VERDAD | Proceso: La arquitectura metodológica | Sector Ciencia, Tecnología e Innovación | Sector Defensa Nacional | Sector Deporte | Sector Educación Nacional | Sector Hacienda y Crédito Público | Sector Inclusión Social y Reconciliación | Sector Interior | Sector Justicia y del Derecho | Sector Salud y Protección Social | Sector Trabajo | Sector Transporte",59,False,Gobierno
+Ministerio,GENERIC,50,27;32;33;38;44;47;48;49;53;54;58;59;64;79;84;86;88;89;90;91;95;96;100;104;112;116;118;122;123,"Caso 22. FONIGUALDAD | Comportamiento 1. Destrucción del rigor técnico | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Ambiente y Desarrollo Rural | Sector Ciencia, Tecnología e Innovación | Sector Comercio, Industria y Turismo | Sector Cultura | Sector Deporte | Sector Hacienda y Crédito Público | Sector Interior | Sector Minas y Energía | Sector Relaciones Exteriores | Sector Salud y Protección Social | Sector Tecnologías de la Información y las Comunicaciones | Sector Trabajo",43,False,Ministerio
+Colombia,GPE_LOC,44,5;9;30;38;43;55;57;59;64;73;77;81;84;88;93;94;96;104;108;109;110;111;114;116;119;120;121;126;132,"Carta de Presentación A los colombianos: | Caso 11. Unidad Nacional de Protección (UNP) | Caso 20. Cancillería | Comportamiento 2. Colapso de la capacidad tecnológica | Comportamiento 4. Parálisis operativa | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | De los valores presidenciales a los principios de gobierno | Gente: La voluntad ciudadana que sostuvo el empalme | Introducción del capítulo | Sector Agricultura y desarrollo Rural | Sector Ambiente y Desarrollo Rural | Sector Comercio, Industria y Turismo | Sector Defensa Nacional | Sector Deporte | Sector Interior | Sector Minas y Energía | Sector Presidencia de la República | Sector Relaciones Exteriores | Sector Salud y Protección Social | Sector Tecnologías de la Información y las Comunicaciones | Sector Transporte",41,False,Colombia
+Contraloría,ORG,39,29;30;31;33;34;36;37;40;42;44;45;49;50;60;88;90;91;93;97;98;100;101;103;106;114;116;117;118;124,"Comportamiento 2. Colapso de la capacidad tecnológica | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Comercio, Industria y Turismo | Sector Cultura | Sector Defensa Nacional | Sector Educación Nacional | Sector Hacienda y Crédito Público | Sector Inclusión Social y Reconciliación | Sector Justicia y del Derecho | Sector Presidencia de la República | Sector Relaciones Exteriores | Sector Salud y Protección Social | Sector Trabajo",37,True,Contraloría
+Equipo Élite,ORG,38,67;68;69;70;71;72;73;74;75;76;77;78;79,"Caso 1. ESSMAR E.S.P. | Caso 11. Unidad Nacional de Protección (UNP) | Caso 12. FONTUR | Caso 14. CODALTEC | Caso 15. C.I. MEPRECOL S.A.S. | Caso 16. Canal Trece | Caso 17. ICBF | Caso 19. Hospital San Juan de Dios | Caso 2. DAPRE | Caso 20. Cancillería | Caso 21. ASOMUFFAA | Caso 22. FONIGUALDAD | Caso 23. Agencia de Desarrollo Rural (ADR) | Caso 3. OCAD de ciencia, tecnología e innovación | Caso 4. CENIT | Caso 5. FENOGE | Caso 6. Electrohuila | Caso 7. Páramo de Santurbán | Caso 8. Reforma agraria | Caso 9. Caminos comunitarios para la paz | Introducción del capítulo",37,True,Equipo Élite
+2022,DATE,27,27;33;35;40;44;54;55;57;84;92;108;109;112;117;118,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural | Sector Defensa Nacional | Sector Minas y Energía | Sector Salud y Protección Social,20,False,2022
+2024,DATE,24,35;36;39;40;42;45;48;51;52;55;57;58;84;98;101;114;118;123,Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural | Sector Educación Nacional | Sector Hacienda y Crédito Público | Sector Presidencia de la República | Sector Salud y Protección Social | Sector Trabajo,23,False,2024
+2023,DATE,22,35;36;37;40;50;55;58;59;84;88;98;108;110;116;118;126,"Comportamiento 4. Parálisis operativa | Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural | Sector Comercio, Industria y Turismo | Sector Educación Nacional | Sector Minas y Energía | Sector Relaciones Exteriores | Sector Salud y Protección Social | Sector Transporte",21,False,2023
+junio de 2026,DATE,18,27;33;35;53;57;63;90;107;116;117;118;124,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Cultura | Sector Justicia y del Derecho | Sector Relaciones Exteriores | Sector Salud y Protección Social | Sector Trabajo,15,False,junio de 2026
+Contraloría General de la República,ORG,15,32;34;35;37;42;45;46;62;72;74;77;113,"Caso 13. Acuerdo marco para el suministro, adquisición y dispensación de medicamentos II — $3 billones en juego | Caso 19. Hospital San Juan de Dios | Caso 8. Reforma agraria | Caso 9. Caminos comunitarios para la paz | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Presidencia de la República",14,True,Contraloría General de la República
+2027,DATE,12,43;64;86;87;95;96;105;113,"Comportamiento 4. Parálisis operativa | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Ciencia, Tecnología e Innovación | Sector Deporte | Sector Interior | Sector Presidencia de la República",11,False,2027
+Niño,MISC,12,36;43;63;105;108;109;110;112;113,Comportamiento 4. Parálisis operativa | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Interior | Sector Minas y Energía | Sector Presidencia de la República,12,False,Niño
+Procuraduría,ORG,11,29;32;37;38;45;68;86;100;103;104,"Caso 1. ESSMAR E.S.P. | Comportamiento 2. Colapso de la capacidad tecnológica | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Ciencia, Tecnología e Innovación | Sector Hacienda y Crédito Público | Sector Inclusión Social y Reconciliación | Sector Interior",11,True,Procuraduría
+2015,DATE,11,28;52;53;123,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,7,False,2015
+Consejo de Estado,ORG,10,28;36;51;68;71;79;104;106;113,Caso 2. DAPRE | Caso 23. Agencia de Desarrollo Rural (ADR) | Caso 7. Páramo de Santurbán | Comportamiento 1. Destrucción del rigor técnico | Comportamiento 4. Parálisis operativa | Comportamiento 6. Expansión del riesgo litigioso | Sector Interior | Sector Justicia y del Derecho | Sector Presidencia de la República,10,True,Consejo de Estado
+Procuraduría General de la Nación,ORG,10,32;69;70;71;72;73;77;78;79,"Caso 11. Unidad Nacional de Protección (UNP) | Caso 19. Hospital San Juan de Dios | Caso 20. Cancillería | Caso 21. ASOMUFFAA | Caso 22. FONIGUALDAD | Caso 3. OCAD de ciencia, tecnología e innovación | Caso 5. FENOGE | Caso 6. Electrohuila | Caso 7. Páramo de Santurbán | Comportamiento 3. Opacidad y distorsión de la información pública",10,True,Procuraduría General de la Nación
+Unidad Nacional de Protección,ORG,9,28;73;74;104;105,Caso 11. Unidad Nacional de Protección (UNP) | Comportamiento 1. Destrucción del rigor técnico | Sector Interior,8,True,UNP | Unidad Nacional de Protección
+CAMPETROL,ORG,9,55;57,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,2,False,CAMPETROL
+Caribe,GPE_LOC,9,42;52;55;58;108;110,Comportamiento 4. Parálisis operativa | Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Minas y Energía,8,False,Caribe
+julio de 2026,DATE,8,62;65;70;102;104;109;117;121,Caso 5. FENOGE | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Inclusión Social y Reconciliación | Sector Interior | Sector Minas y Energía | Sector Salud y Protección Social | Sector Tecnologías de la Información y las Comunicaciones,8,False,julio de 2026
+SECOP,MISC,8,12;34;48;49;73;74,Caso 10. Servicios de ciberseguridad | Caso 12. FONTUR | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 5. Captura contractual y concentración del poder operativo | Proceso: La arquitectura metodológica,8,False,SECOP
+Air-e,ORG,8,58;63;108;110,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Minas y Energía,8,False,Air-e
+100%,PERCENT,8,32;39;43;49;52;54,Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 6. Expansión del riesgo litigioso,7,False,100%
+Único Reglamentario del Sector Trabajo,ORG,8,52;53;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,6,False,Único Reglamentario del Sector Trabajo
+Gobierno de la Patria Milagro,GPE_LOC,8,6;132;133;134,Introducción del capítulo | Los principios rectores frente a los comportamientos críticos | PRESENTACIÓN DEL LIBRO DE LA VERDAD | Síntesis: un gobierno que corrige desde sus principios,8,True,Gobierno de la Patria Milagro
+Energía,GENERIC,8,26;35;54;57;62;63;108,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 4. Parálisis operativa | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Minas y Energía,8,False,Energía
+Decreto 1072 de 2015,LAW,8,52;53;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,4,False,Decreto 1072 de 2015
+Nación,GENERIC,8,9;31;62;81;93;110;134,Comportamiento 2. Colapso de la capacidad tecnológica | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Introducción del capítulo | Los principios rectores frente a los comportamientos críticos | Sector Agricultura y desarrollo Rural | Sector Defensa Nacional | Sector Minas y Energía,8,False,Nación
+2036,DATE,7,46;47;97;115,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Educación Nacional | Sector Relaciones Exteriores,6,False,2036
+Superintendencia Nacional de Salud,ORG,7,27;33;40;117;118,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Sector Salud y Protección Social,7,True,Superintendencia Nacional de Salud
+Corte Constitucional,ORG,7,40;41;58;60;71;106;118,Caso 7. Páramo de Santurbán | Comportamiento 4. Parálisis operativa | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Justicia y del Derecho | Sector Salud y Protección Social,7,True,Corte Constitucional
+Sistema General de Regalías,GPE_LOC,7,47;58;65;84;86,"Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Ambiente y Desarrollo Rural | Sector Ciencia, Tecnología e Innovación",7,False,Sistema General de Regalías
+Sistema Educativo Indígena Propio,ORG,7,60;97;98,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Educación Nacional,6,False,SEIP
+Parte 2,MISC,6,52;53;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,4,False,Parte 2
+Guajira,GPE_LOC,6,36;44;58;110;126,Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Minas y Energía | Sector Transporte,6,False,Guajira
+Libro 2 del,MISC,6,52;53;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,4,False,Libro 2 del
+Entre 2022 y 2026,DATE,6,35;50;90;111;113;126,Comportamiento 4. Parálisis operativa | Comportamiento 6. Expansión del riesgo litigioso | Sector Cultura | Sector Minas y Energía | Sector Presidencia de la República | Sector Transporte,6,False,Entre 2022 y 2026
+Libro de la Verdad,MISC,6,5;6;7;11;12,Carta de Presentación A los colombianos: | PRESENTACIÓN DEL LIBRO DE LA VERDAD | Proceso: La arquitectura metodológica,6,False,Libro de la Verdad
+DIAN,ORG,6,29;75;100;101,Caso 15. C.I. MEPRECOL S.A.S. | Comportamiento 2. Colapso de la capacidad tecnológica | Sector Hacienda y Crédito Público,6,True,DIAN
+RTVC,MISC,6,34;35;121,Comportamiento 3. Opacidad y distorsión de la información pública | Sector Tecnologías de la Información y las Comunicaciones,6,True,RTVC
+Superintendencia de Servicios Públicos Domiciliarios,ORG,6,51;58;63,Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),3,True,SSPD | Superintendencia de Servicios Públicos Domiciliarios
+2028,DATE,6,29;95;100;101,Comportamiento 2. Colapso de la capacidad tecnológica | Sector Deporte | Sector Hacienda y Crédito Público,6,False,2028
+Congreso,ORG,6,33;52;53;64;87;125,"Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Ciencia, Tecnología e Innovación | Sector Trabajo",6,True,Congreso
+50%,PERCENT,6,32;34;35;38;40;117,Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Sector Salud y Protección Social,6,False,50%
+FINDETER,MISC,6,51;52;101,Comportamiento 6. Expansión del riesgo litigioso | Sector Hacienda y Crédito Público,6,False,FINDETER
+Empalme,GENERIC,6,3;7;9;10;11,Contenido | Gente: La voluntad ciudadana que sostuvo el empalme | Introducción del capítulo | PRESENTACIÓN DEL LIBRO DE LA VERDAD | Proceso: La arquitectura metodológica,6,False,Empalme
+Minas,GENERIC,6,26;35;54;57;62;108,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 4. Parálisis operativa | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Minas y Energía,6,False,Minas
+Nariño,GPE_LOC,6,30;36;46;49;103,Comportamiento 2. Colapso de la capacidad tecnológica | Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Inclusión Social y Reconciliación,6,False,Nariño
+Industria,GENERIC,6,31;50;57;88;89,"Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Comercio, Industria y Turismo",6,False,Industria
+Agencia Nacional de Infraestructura,ORG,5,42;50;126,Comportamiento 4. Parálisis operativa | Comportamiento 6. Expansión del riesgo litigioso | Sector Transporte,4,True,ANI | Agencia Nacional de Infraestructura
+Sociedad de Activos Especiales,ORG,5,31;72;75;81;82,Caso 15. C.I. MEPRECOL S.A.S. | Caso 8. Reforma agraria | Comportamiento 3. Opacidad y distorsión de la información pública | Sector Agricultura y desarrollo Rural,5,True,SAE | Sociedad de Activos Especiales
+Ley 2466 de 2025,LAW,5,52;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,5,False,Ley 2466 de 2025
+2017,DATE,5,44;58;71;84;124,Caso 7. Páramo de Santurbán | Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural | Sector Trabajo,5,False,2017
+Metodología Operativa,MISC,5,9;10;11,Gente: La voluntad ciudadana que sostuvo el empalme | Introducción del capítulo | Proceso: La arquitectura metodológica | Tecnología: La inteligencia artificial como garantía de escala y rigor,5,False,Metodología Operativa
+Tecnología e Innovación,MISC,5,35;57;62;69;86,"Caso 3. OCAD de ciencia, tecnología e innovación | Comportamiento 4. Parálisis operativa | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Ciencia, Tecnología e Innovación",5,False,Tecnología e Innovación
+Equipos Básicos,ORG,5,27;33;118,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 3. Opacidad y distorsión de la información pública | Sector Salud y Protección Social,5,False,Equipos Básicos
+Fiscalía,ORG,5,58;84;90;111,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural | Sector Cultura | Sector Minas y Energía,5,True,Fiscalía
+"$6,8 billones",MONEY,5,33;34;118,Comportamiento 3. Opacidad y distorsión de la información pública | Sector Salud y Protección Social,5,False,"$6,8 billones"
+Colombia Compra Eficiente,ORG,5,73;74,"Caso 10. Servicios de ciberseguridad | Caso 13. Acuerdo marco para el suministro, adquisición y dispensación de medicamentos II — $3 billones en juego",3,True,CCE | Colombia Compra Eficiente
+mayo de 2026,DATE,5,26;37;53;114;124,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 4. Parálisis operativa | Comportamiento 6. Expansión del riesgo litigioso | Sector Presidencia de la República | Sector Trabajo,5,False,mayo de 2026
+0%,PERCENT,5,26;39;59;86,"Comportamiento 1. Destrucción del rigor técnico | Comportamiento 4. Parálisis operativa | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ciencia, Tecnología e Innovación",5,False,0%
+Fondo Nacional del Ahorro,ORG,5,63;64;100,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Hacienda y Crédito Público,4,True,FNA | Fondo Nacional del Ahorro
+MinCiencias,ORG,5,39;64;86,"Comportamiento 4. Parálisis operativa | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Ciencia, Tecnología e Innovación",5,True,MinCiencias
+$122.000 millones,MONEY,4,59;60;88;89,"Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Comercio, Industria y Turismo",4,False,$122.000 millones
+Territorio,GENERIC,4,31;34;35;128,"Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Sector Vivienda, Ciudad y Territorio",4,False,Territorio
+diciembre de 2022,DATE,4,117;118,Sector Salud y Protección Social,2,False,diciembre de 2022
+Título 2 de la,MISC,4,52;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,Título 2 de la
+Procuraduría,MISC,4,32;51;69;70,"Caso 3. OCAD de ciencia, tecnología e innovación | Caso 5. FENOGE | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 6. Expansión del riesgo litigioso",4,True,Procuraduría
+Santiago de Chile,GPE_LOC,4,41;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,3,False,Santiago de Chile
+CoCrea,MISC,4,49;90;91,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Cultura,4,False,CoCrea
+Nueva York,GPE_LOC,4,41;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,3,False,Nueva York
+Patria,GENERIC,4,5;9;134,Carta de Presentación A los colombianos: | Gente: La voluntad ciudadana que sostuvo el empalme | Los principios rectores frente a los comportamientos críticos | Síntesis: un gobierno que corrige desde sus principios,4,False,Patria
+Decreto 234 de 2026,LAW,4,52;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,Decreto 234 de 2026
+Putumayo,GPE_LOC,4,36;46;103;121,Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Inclusión Social y Reconciliación | Sector Tecnologías de la Información y las Comunicaciones,4,False,Putumayo
+$55.142 millones,MONEY,4,26;27;114,Comportamiento 1. Destrucción del rigor técnico | Sector Presidencia de la República,4,False,$55.142 millones
+Unidad de Planeación Minero Energética,ORG,4,28;55,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 7. Pérdida de control territorial frente a economías criminales,3,True,UPME | Unidad de Planeación Minero Energética
+agosto de 2026,DATE,4,95;100;115,Sector Deporte | Sector Hacienda y Crédito Público | Sector Relaciones Exteriores,4,False,agosto de 2026
+60 %,PERCENT,4,84;102;108;109,Sector Ambiente y Desarrollo Rural | Sector Inclusión Social y Reconciliación | Sector Minas y Energía,4,False,60 %
+"$3,7 billones",MONEY,4,63;64;100,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Hacienda y Crédito Público,4,False,"$3,7 billones"
+Agencia Nacional de Hidrocarburos,ORG,4,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,2,True,ANH | Agencia Nacional de Hidrocarburos
+Ciudad,GENERIC,4,31;34;35;128,"Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Sector Vivienda, Ciudad y Territorio",4,False,Ciudad
+República,GENERIC,4,3;5;7,Carta de Presentación A los colombianos: | Contenido | PRESENTACIÓN DEL LIBRO DE LA VERDAD,4,False,República
+6 de agosto de 2026,DATE,4,35;69;79;121,"Caso 23. Agencia de Desarrollo Rural (ADR) | Caso 3. OCAD de ciencia, tecnología e innovación | Comportamiento 3. Opacidad y distorsión de la información pública | Sector Tecnologías de la Información y las Comunicaciones",4,False,6 de agosto de 2026
+7%,PERCENT,4,31;55;59;86,"Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ciencia, Tecnología e Innovación",4,False,7%
+Agencia Nacional de Tierras,ORG,4,31;72;76;81,Caso 16. Canal Trece | Caso 8. Reforma agraria | Comportamiento 3. Opacidad y distorsión de la información pública | Sector Agricultura y desarrollo Rural,4,True,Agencia Nacional de Tierras
+Autoridad Nacional de Licencias Ambientales,ORG,4,42;85,Comportamiento 4. Parálisis operativa | Sector Ambiente y Desarrollo Rural,3,True,ANLA | Autoridad Nacional de Licencias Ambientales
+entre 2022 y 2026,DATE,4,32;37;88;95,"Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Sector Comercio, Industria y Turismo | Sector Deporte",4,False,entre 2022 y 2026
+Fondo Nacional del Turismo,ORG,4,50;74;88,"Caso 12. FONTUR | Comportamiento 6. Expansión del riesgo litigioso | Sector Comercio, Industria y Turismo",4,True,Fondo Nacional del Turismo
+Libro,GENERIC,4,6;7;132;134,Introducción del capítulo | PRESENTACIÓN DEL LIBRO DE LA VERDAD | Síntesis: un gobierno que corrige desde sus principios,4,False,Libro
+Ministerio del Trabajo,GPE_LOC,4,52;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,True,Ministerio del Trabajo
+Ministerio de Hacienda,GPE_LOC,4,32;63;100;113,Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Hacienda y Crédito Público | Sector Presidencia de la República,4,True,Ministerio de Hacienda
+IDEAM,ORG,4,36;55;84,Comportamiento 4. Parálisis operativa | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Ambiente y Desarrollo Rural,3,True,IDEAM
+Fiscalía General de la Nación,ORG,4,70;75;76;79,Caso 15. C.I. MEPRECOL S.A.S. | Caso 16. Canal Trece | Caso 23. Agencia de Desarrollo Rural (ADR) | Caso 4. CENIT,4,True,Fiscalía General de la Nación
+FonIgualdad,ORG,4,39;40,Comportamiento 4. Parálisis operativa,4,True,FonIgualdad
+Fuerza Pública,ORG,4,30;92;93,Comportamiento 2. Colapso de la capacidad tecnológica | Sector Defensa Nacional,4,False,Fuerza Pública
+Equipo Élite Anticorrupción,MISC,4,3;6;10;67,Contenido | Gente: La voluntad ciudadana que sostuvo el empalme | Introducción del capítulo | PRESENTACIÓN DEL LIBRO DE LA VERDAD,4,True,Equipo Élite Anticorrupción
+DNP,ORG,4,38;86,"Comportamiento 4. Parálisis operativa | Sector Ciencia, Tecnología e Innovación",2,True,DNP
+Ministro,GENERIC,4,6;32;124,Comportamiento 3. Opacidad y distorsión de la información pública | PRESENTACIÓN DEL LIBRO DE LA VERDAD | Sector Trabajo,3,False,Ministro
+"$2,2 billones",MONEY,4,27;118,Comportamiento 1. Destrucción del rigor técnico | Sector Salud y Protección Social,4,False,"$2,2 billones"
+$33 mil millones,MONEY,4,45;46;103,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Inclusión Social y Reconciliación,4,False,$33 mil millones
+"$6,3 billones",MONEY,4,30;93,Comportamiento 2. Colapso de la capacidad tecnológica | Sector Defensa Nacional,4,False,"$6,3 billones"
+Escudo Nacional Antidrones,MISC,4,30;75;93,Caso 14. CODALTEC | Comportamiento 2. Colapso de la capacidad tecnológica | Sector Defensa Nacional,4,False,Escudo Nacional Antidrones
+Hacienda,GENERIC,4,29;31;62;115,Comportamiento 2. Colapso de la capacidad tecnológica | Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Relaciones Exteriores,4,False,Hacienda
+Equipo,GENERIC,4,67;69;70;78,"Caso 22. FONIGUALDAD | Caso 3. OCAD de ciencia, tecnología e innovación | Caso 4. CENIT | Introducción del capítulo",4,False,Equipo
+Comunicaciones,MISC,4,31;35;43;120,Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa | Sector Tecnologías de la Información y las Comunicaciones,4,False,Comunicaciones
+$20 billones,MONEY,4,50;51;126,Comportamiento 6. Expansión del riesgo litigioso | Sector Transporte,4,False,$20 billones
+"$1,69 billones",MONEY,3,46;47;97,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Educación Nacional,3,False,"$1,69 billones"
+"41,4%",PERCENT,3,41;106,Comportamiento 4. Parálisis operativa | Sector Justicia y del Derecho,3,False,"41,4%"
+"4,4%",PERCENT,3,35;43,Comportamiento 4. Parálisis operativa,3,False,"4,4%"
+29 de julio de 2026,DATE,3,36;68;113,Caso 1. ESSMAR E.S.P. | Comportamiento 4. Parálisis operativa | Sector Presidencia de la República,3,False,29 de julio de 2026
+60%,PERCENT,3,43;55;90,Comportamiento 4. Parálisis operativa | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Cultura,3,False,60%
+67%,PERCENT,3,27;118;119,Comportamiento 1. Destrucción del rigor técnico | Sector Salud y Protección Social,3,False,67%
+septiembre de 2024,DATE,3,51;58;63,Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),3,False,septiembre de 2024
+abril de 2026,DATE,3,39;44;121,Comportamiento 4. Parálisis operativa | Sector Tecnologías de la Información y las Comunicaciones,3,False,abril de 2026
+$43.435 millones,MONEY,3,48;84,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Ambiente y Desarrollo Rural,2,False,$43.435 millones
+$336 millones,MONEY,3,45;46;103,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Inclusión Social y Reconciliación,3,False,$336 millones
+PotencIA,MISC,3,43;121,Comportamiento 4. Parálisis operativa | Sector Tecnologías de la Información y las Comunicaciones,3,False,PotencIA
+OCAD Paz,MISC,3,47,Comportamiento 5. Captura contractual y concentración del poder operativo,2,True,OCAD Paz
+Comercio,GENERIC,3,88;89,"Sector Comercio, Industria y Turismo",3,False,Comercio
+Amazonía,GPE_LOC,3,38;55;84,Comportamiento 4. Parálisis operativa | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Ambiente y Desarrollo Rural,3,False,Amazonía
+Comfamiliar Atlántico,GPE_LOC,3,61;124,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Trabajo,2,False,Comfamiliar Atlántico
+"$3,8 billones",MONEY,3,38;86,"Comportamiento 4. Parálisis operativa | Sector Ciencia, Tecnología e Innovación",3,False,"$3,8 billones"
+28%,PERCENT,3,41;44,Comportamiento 4. Parálisis operativa,2,False,28%
+Cancillería,MISC,3,28;40;116,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,3,True,Cancillería
+Sistema,MISC,3,109;110,Sector Minas y Energía,2,False,Sistema
+Superintendencia,GENERIC,3,40;117,Comportamiento 4. Parálisis operativa | Sector Salud y Protección Social,3,False,Superintendencia
+$257.561 millones,MONEY,3,50;88,"Comportamiento 6. Expansión del riesgo litigioso | Sector Comercio, Industria y Turismo",3,False,$257.561 millones
+"55,7%",PERCENT,3,53;60;124,Comportamiento 6. Expansión del riesgo litigioso | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Trabajo,3,False,"55,7%"
+Autoridad,ORG,3,6;132;133,De los valores presidenciales a los principios de gobierno | Los principios rectores frente a los comportamientos críticos | PRESENTACIÓN DEL LIBRO DE LA VERDAD,3,False,Autoridad
+"48,5%",PERCENT,3,48;91,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Cultura,3,False,"48,5%"
+29 de diciembre de 2025,DATE,3,27;34;118,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 3. Opacidad y distorsión de la información pública | Sector Salud y Protección Social,3,False,29 de diciembre de 2025
+Cajas de Compensación Familiar,MISC,3,61,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,3,False,Cajas de Compensación Familiar
+Resolución 863 de 2026,LAW,3,58;84,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural,3,False,Resolución 863 de 2026
+Sistema General de Regalías,ORG,3,58;65,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),3,False,SGR
+$4 billones,MONEY,3,36;86;113,"Comportamiento 4. Parálisis operativa | Sector Ciencia, Tecnología e Innovación | Sector Presidencia de la República",3,False,$4 billones
+Canal del Dique,GPE_LOC,3,42;84,Comportamiento 4. Parálisis operativa | Sector Ambiente y Desarrollo Rural,3,False,Canal del Dique
+Dirección Ejecutiva,ORG,3,26;114,Comportamiento 1. Destrucción del rigor técnico | Sector Presidencia de la República,2,False,Dirección Ejecutiva
+Entre 2022 y 2025,DATE,3,55;84,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Ambiente y Desarrollo Rural,3,False,Entre 2022 y 2025
+Consejo Directivo,ORG,3,61;98;124,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Educación Nacional | Sector Trabajo,3,True,Consejo Directivo
+Costa Caribe,GPE_LOC,3,63;108;109,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Minas y Energía,3,False,Costa Caribe
+Casas Colombia,GPE_LOC,3,40;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,3,False,Casas Colombia
+Cajas,MISC,3,61;124,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Trabajo,3,False,Cajas
+"22,8%",PERCENT,3,59;88,"Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Comercio, Industria y Turismo",3,False,"22,8%"
+2021,DATE,3,40;55;118,Comportamiento 4. Parálisis operativa | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Salud y Protección Social,3,False,2021
+Patria Milagro,MISC,3,7;132;133,De los valores presidenciales a los principios de gobierno | Los principios rectores frente a los comportamientos críticos | PRESENTACIÓN DEL LIBRO DE LA VERDAD,3,False,Patria Milagro
+Santurbán,GPE_LOC,3,58;59;84,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural,3,False,Santurbán
+Imprenta Nacional,MISC,3,51;104;115,Comportamiento 6. Expansión del riesgo litigioso | Sector Interior | Sector Relaciones Exteriores,3,False,Imprenta Nacional
+Inclusión Social y Reconciliación,MISC,3,35;44;62,Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),3,False,Inclusión Social y Reconciliación
+Ministerio de Vivienda,GPE_LOC,3,34;129,"Comportamiento 3. Opacidad y distorsión de la información pública | Sector Vivienda, Ciudad y Territorio",3,True,Ministerio de Vivienda
+$7 billones,MONEY,3,46;97,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Educación Nacional,3,False,$7 billones
+Contraloría General,ORG,3,40;100;117,Comportamiento 4. Parálisis operativa | Sector Hacienda y Crédito Público | Sector Salud y Protección Social,3,True,Contraloría General
+Estado colombiano,GPE_LOC,3,62;113;132,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Introducción del capítulo | Sector Presidencia de la República,3,False,Estado colombiano
+Estudio de Impacto Ambiental,ORG,3,42,Comportamiento 4. Parálisis operativa,2,False,EIA
+Gobierno Nacional,GPE_LOC,3,14;64;86,"Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Introducción del capítulo | Sector Ciencia, Tecnología e Innovación",3,True,Gobierno Nacional
+FOMAG,GPE_LOC,3,36;98,Comportamiento 4. Parálisis operativa | Sector Educación Nacional,3,False,FOMAG
+$650.821 millones,MONEY,3,33;89,"Comportamiento 3. Opacidad y distorsión de la información pública | Sector Comercio, Industria y Turismo",3,False,$650.821 millones
+Norte de Santander,GPE_LOC,3,55;58;84,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural,3,False,Norte de Santander
+12 de febrero de 2026,DATE,3,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,12 de febrero de 2026
+Empalme Anticorrupción,GPE_LOC,3,9;77,Caso 19. Hospital San Juan de Dios | Gente: La voluntad ciudadana que sostuvo el empalme | Introducción del capítulo,3,False,Empalme Anticorrupción
+Fuerza Aeroespacial Colombiana,ORG,3,54;92,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Defensa Nacional,2,False,FAC | Fuerza Aeroespacial Colombiana
+Fuerzas Militares,MISC,3,54;93,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Defensa Nacional,3,True,Fuerzas Militares
+FONIGUALDAD,ORG,3,45;78,Caso 22. FONIGUALDAD | Comportamiento 5. Captura contractual y concentración del poder operativo,3,True,FONIGUALDAD
+$798.082 millones,MONEY,3,59;88,"Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Comercio, Industria y Turismo",3,False,$798.082 millones
+"$1,3 billones",MONEY,3,27;115;118,Comportamiento 1. Destrucción del rigor técnico | Sector Relaciones Exteriores | Sector Salud y Protección Social,3,False,"$1,3 billones"
+$109.000 millones,MONEY,3,59;86,"Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ciencia, Tecnología e Innovación",3,False,$109.000 millones
+$9 billones,MONEY,3,50;126,Comportamiento 6. Expansión del riesgo litigioso | Sector Transporte,3,False,$9 billones
+$766.813 millones,MONEY,3,33;88,"Comportamiento 3. Opacidad y distorsión de la información pública | Sector Comercio, Industria y Turismo",3,False,$766.813 millones
+Fondo de Tierras,ORG,3,31;72;81,Caso 8. Reforma agraria | Comportamiento 3. Opacidad y distorsión de la información pública | Sector Agricultura y desarrollo Rural,3,True,Fondo de Tierras
+"$1,2 billones",MONEY,3,36;61;98,Comportamiento 4. Parálisis operativa | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Educación Nacional,3,False,"$1,2 billones"
+noviembre de 2025,DATE,3,44;46;103,Comportamiento 4. Parálisis operativa | Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Inclusión Social y Reconciliación,3,False,noviembre de 2025
+Universidad de Antioquia,ORG,3,49,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,Universidad de Antioquia
+$19.228 millones,MONEY,3,50;88,"Comportamiento 6. Expansión del riesgo litigioso | Sector Comercio, Industria y Turismo",3,False,$19.228 millones
+"84,3%",PERCENT,3,59;88,"Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Comercio, Industria y Turismo",3,False,"84,3%"
+AIR-E,MISC,3,51;52,Comportamiento 6. Expansión del riesgo litigioso,3,False,AIR-E
+$0,MONEY,3,64;73;86,"Caso 10. Servicios de ciberseguridad | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Ciencia, Tecnología e Innovación",3,False,$0
+"$2,22 billones",MONEY,3,58;108;110,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Minas y Energía,3,False,"$2,22 billones"
+entre 2022 y 2025,DATE,3,33;55;88,"Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Comercio, Industria y Turismo",3,False,entre 2022 y 2025
+entre 2023 y 2025,DATE,3,63;84;95,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Ambiente y Desarrollo Rural | Sector Deporte,3,False,entre 2023 y 2025
+59%,PERCENT,2,55;65,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),2,False,59%
+entre 2024 y 2025,DATE,2,63;100,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Hacienda y Crédito Público,2,False,entre 2024 y 2025
+SENA,ORG,2,124;125,Sector Trabajo,2,True,SENA
+SPEC,ORG,2,109,Sector Minas y Energía,2,False,SPEC
+SUIT,GPE_LOC,2,30,Comportamiento 2. Colapso de la capacidad tecnológica,2,False,SUIT
+Salud,GENERIC,2,33;118,Comportamiento 3. Opacidad y distorsión de la información pública | Sector Salud y Protección Social,2,False,Salud
+Resolución 992 de 2026,LAW,2,58;84,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural,2,False,Resolución 992 de 2026
+Superintendencia de Industria y Comercio,ORG,2,28;56,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 7. Pérdida de control territorial frente a economías criminales,2,True,Superintendencia de Industria y Comercio
+$29.400 millones,MONEY,2,64;95,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Deporte,2,False,$29.400 millones
+$23.663 millones,MONEY,2,69,Caso 4. CENIT,2,False,$23.663 millones
+UNGRD,ORG,2,35;113,Comportamiento 4. Parálisis operativa | Sector Presidencia de la República,2,True,UNGRD
+UPC,ORG,2,118;119,Sector Salud y Protección Social,2,False,UPC
+USD 279.287,MONEY,2,41;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,2,False,USD 279.287
+USD 300.000,MONEY,2,41;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,2,False,USD 300.000
+$172 millones,MONEY,2,26;114,Comportamiento 1. Destrucción del rigor técnico | Sector Presidencia de la República,2,False,$172 millones
+"$3,2 billones",MONEY,2,62;102,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Inclusión Social y Reconciliación,2,False,"$3,2 billones"
+Resolución 10142 de 2025,LAW,2,27;116,Comportamiento 1. Destrucción del rigor técnico | Sector Relaciones Exteriores,2,False,Resolución 10142 de 2025
+Sanguino,PERSON,2,61,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Sanguino
+2026-2027,DATE,2,49;109,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Minas y Energía,2,False,2026-2027
+CENIT,ORG,2,69;70,Caso 4. CENIT,2,True,CENIT
+Barne,MISC,2,41;106,Comportamiento 4. Parálisis operativa | Sector Justicia y del Derecho,2,False,Barne
+Suratá,GPE_LOC,2,58;84,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural,2,False,Suratá
+Tribunal de Santander,GPE_LOC,2,58;84,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural,2,True,Tribunal de Santander
+Turismo,GENERIC,2,88;89,"Sector Comercio, Industria y Turismo",2,False,Turismo
+Territorios Campesinos Agroalimentarios,GPE_LOC,2,111,Sector Minas y Energía,2,False,Territorios Campesinos Agroalimentarios
+USD 400.000,MONEY,2,41;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,2,False,USD 400.000
+Arauca,GPE_LOC,2,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Arauca
+Asignación para la Paz,MISC,2,47,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,Asignación para la Paz
+30 de junio,DATE,2,59;102,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Inclusión Social y Reconciliación,2,False,30 de junio
+30 de junio de 2026,DATE,2,27;118,Comportamiento 1. Destrucción del rigor técnico | Sector Salud y Protección Social,2,False,30 de junio de 2026
+3 de agosto de 2026,DATE,2,57;70,Caso 5. FENOGE | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,2,False,3 de agosto de 2026
+31 de julio de 2026,DATE,2,97;113,Sector Educación Nacional | Sector Presidencia de la República,2,False,31 de julio de 2026
+31 de mayo de 2026,DATE,2,65;100,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Hacienda y Crédito Público,2,False,31 de mayo de 2026
+3.000 millones de dólares,MONEY,2,109;111,Sector Minas y Energía,2,False,3.000 millones de dólares
+$8.923 millones,MONEY,2,41;106,Comportamiento 4. Parálisis operativa | Sector Justicia y del Derecho,2,False,$8.923 millones
+$80.835 millones,MONEY,2,90;91,Sector Cultura,2,False,$80.835 millones
+$78.493 millones,MONEY,2,41,Comportamiento 4. Parálisis operativa,2,False,$78.493 millones
+$834 mil millones,MONEY,2,27;118,Comportamiento 1. Destrucción del rigor técnico | Sector Salud y Protección Social,2,False,$834 mil millones
+$84.509 millones,MONEY,2,53;54,Comportamiento 6. Expansión del riesgo litigioso,2,False,$84.509 millones
+$8.500 millones,MONEY,2,40;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,2,False,$8.500 millones
+$900.000 millones,MONEY,2,69,"Caso 3. OCAD de ciencia, tecnología e innovación",2,False,$900.000 millones
+GBTUD,GPE_LOC,2,109,Sector Minas y Energía,2,False,GBTUD
+Ministerio de Salud,GPE_LOC,2,27;33,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 3. Opacidad y distorsión de la información pública,2,True,Ministerio de Salud
+Ministerio de Tecnologías de la Información,GPE_LOC,2,43;120,Comportamiento 4. Parálisis operativa | Sector Tecnologías de la Información y las Comunicaciones,2,True,Ministerio de Tecnologías de la Información
+$979.003 millones,MONEY,2,31;81,Comportamiento 3. Opacidad y distorsión de la información pública | Sector Agricultura y desarrollo Rural,2,False,$979.003 millones
+$613.853 millones,MONEY,2,63;100,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Hacienda y Crédito Público,2,False,$613.853 millones
+Fondo de Financiamiento de la Infraestructura Educativa,ORG,2,46;97,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Educación Nacional,2,True,Fondo de Financiamiento de la Infraestructura Educativa
+Fondo de Investigación en Salud,ORG,2,59;86,"Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ciencia, Tecnología e Innovación",2,True,Fondo de Investigación en Salud
+Fondo DIAN,ORG,2,29;100,Comportamiento 2. Colapso de la capacidad tecnológica | Sector Hacienda y Crédito Público,2,True,Fondo DIAN
+Fonvivienda,GPE_LOC,2,128;129,"Sector Vivienda, Ciudad y Territorio",2,False,Fonvivienda
+marzo de 2026,DATE,2,33;82,Comportamiento 3. Opacidad y distorsión de la información pública | Sector Agricultura y desarrollo Rural,2,False,marzo de 2026
+marzo de 2027,DATE,2,42;84,Comportamiento 4. Parálisis operativa | Sector Ambiente y Desarrollo Rural,2,False,marzo de 2027
+Licencias Express,MISC,2,56,Comportamiento 7. Pérdida de control territorial frente a economías criminales,2,False,Licencias Express
+MI-17,MISC,2,54;92,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Defensa Nacional,2,False,MI-17
+KBPD,ORG,2,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,KBPD
+LABORANDO,MISC,2,45,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,LABORANDO
+Ministerio de Minas,GPE_LOC,2,57;63,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),2,True,Ministerio de Minas
+Jóvenes Por el Cambio,ORG,2,53;54,Comportamiento 6. Expansión del riesgo litigioso,2,False,Jóvenes Por el Cambio
+"$12,13 billones",MONEY,2,37;126,Comportamiento 4. Parálisis operativa | Sector Transporte,2,False,"$12,13 billones"
+$10 billones,MONEY,2,27;118,Comportamiento 1. Destrucción del rigor técnico | Sector Salud y Protección Social,2,False,$10 billones
+$1 billón,MONEY,2,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),2,False,$1 billón
+USD 380.869,MONEY,2,41;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,2,False,USD 380.869
+Vichada,GPE_LOC,2,46;103,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Inclusión Social y Reconciliación,2,False,Vichada
+"$1,8 billones",MONEY,2,40;63,Comportamiento 4. Parálisis operativa | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),2,False,"$1,8 billones"
+$1.164 millones,MONEY,2,41;106,Comportamiento 4. Parálisis operativa | Sector Justicia y del Derecho,2,False,$1.164 millones
+"$1,77 billones",MONEY,2,39,Comportamiento 4. Parálisis operativa,2,False,"$1,77 billones"
+Decreto 0689,LAW,2,61;124,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Trabajo,2,False,Decreto 0689
+Decreto 0905,LAW,2,61;124,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Trabajo,2,False,Decreto 0905
+DANE,ORG,2,53;124,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,True,DANE
+Ejecutivo,ORG,2,53;132,Comportamiento 6. Expansión del riesgo litigioso | Introducción del capítulo,2,False,Ejecutivo
+Ejército,MISC,2,54,Comportamiento 7. Pérdida de control territorial frente a economías criminales,2,True,Ejército
+Educación,GENERIC,2,44;57,Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,2,False,Educación
+"16,8%",PERCENT,2,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,2,False,"16,8%"
+13%,PERCENT,2,32;50,Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 6. Expansión del riesgo litigioso,2,False,13%
+Fondo Rotatorio,ORG,2,116,Sector Relaciones Exteriores,2,True,Fondo Rotatorio
+Función Pública,ORG,2,29;30,Comportamiento 2. Colapso de la capacidad tecnológica,2,False,Función Pública
+Fondos Mixtos,MISC,2,49,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,Fondos Mixtos
+"15,5%",PERCENT,2,43,Comportamiento 4. Parálisis operativa,2,False,"15,5%"
+2 %,PERCENT,2,108;109,Sector Minas y Energía,2,False,2 %
+"0,3%",PERCENT,2,26,Comportamiento 1. Destrucción del rigor técnico,2,False,"0,3%"
+"0,7%",PERCENT,2,48,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,"0,7%"
+Decreto 0649,LAW,2,61;124,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Trabajo,2,False,Decreto 0649
+119%,PERCENT,2,34;117,Comportamiento 3. Opacidad y distorsión de la información pública | Sector Salud y Protección Social,2,False,119%
+1 %,PERCENT,2,100;113,Sector Hacienda y Crédito Público | Sector Presidencia de la República,2,False,1 %
+1%,PERCENT,2,46,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,1%
+100 %,PERCENT,2,100;113,Sector Hacienda y Crédito Público | Sector Presidencia de la República,2,False,100 %
+FOMAG,ORG,2,37;101,Comportamiento 4. Parálisis operativa | Sector Hacienda y Crédito Público,2,False,FOMAG
+Fondo,GENERIC,2,50;98,Comportamiento 6. Expansión del riesgo litigioso | Sector Educación Nacional,2,False,Fondo
+FURAG,ORG,2,30;31,Comportamiento 2. Colapso de la capacidad tecnológica,2,False,FURAG
+Formación Integral,ORG,2,47;97,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Educación Nacional,2,False,Formación Integral
+INPEC,ORG,2,41;106,Comportamiento 4. Parálisis operativa | Sector Justicia y del Derecho,2,False,INPEC
+Guaviare,GPE_LOC,2,46;103,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Inclusión Social y Reconciliación,2,False,Guaviare
+$474.129 millones,MONEY,2,47;84,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Ambiente y Desarrollo Rural,2,False,$474.129 millones
+Ipiales,GPE_LOC,2,41;106,Comportamiento 4. Parálisis operativa | Sector Justicia y del Derecho,2,False,Ipiales
+Itagüí,GPE_LOC,2,41;106,Comportamiento 4. Parálisis operativa | Sector Justicia y del Derecho,2,False,Itagüí
+Grupos Armados Organizados,ORG,2,30,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,GAO | Grupos Armados Organizados
+$786.000 millones,MONEY,2,67,Caso 1. ESSMAR E.S.P.,2,False,$786.000 millones
+"0,2%",PERCENT,2,35;36,Comportamiento 4. Parálisis operativa,2,False,"0,2%"
+ELN,ORG,2,54;92,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Defensa Nacional,2,False,ELN
+Entidades Promotoras de Salud,GPE_LOC,2,40;117,Comportamiento 4. Parálisis operativa | Sector Salud y Protección Social,2,False,Entidades Promotoras de Salud
+Estado Social de Derecho,GPE_LOC,2,53;124,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,Estado Social de Derecho
+Equipo Transversal,MISC,2,10,Gente: La voluntad ciudadana que sostuvo el empalme | Tecnología: La inteligencia artificial como garantía de escala y rigor,2,False,Equipo Transversal
+Convocatoria 46,MISC,2,38;86,"Comportamiento 4. Parálisis operativa | Sector Ciencia, Tecnología e Innovación",2,False,Convocatoria 46
+Corpoelite,ORG,2,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Corpoelite
+Cultura,GENERIC,2,44;50,Comportamiento 5. Captura contractual y concentración del poder operativo | Comportamiento 6. Expansión del riesgo litigioso,2,False,Cultura
+Convenio Interadministrativo,MISC,2,46;103,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Inclusión Social y Reconciliación,2,False,Convenio Interadministrativo
+Meta,GPE_LOC,2,55;56,Comportamiento 7. Pérdida de control territorial frente a economías criminales,2,False,Meta
+Libro 2 del Decreto,MISC,2,52;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,Libro 2 del Decreto
+Incentivo a la Producción,MISC,2,47,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,Incentivo a la Producción
+Ley de Garantías,LAW,2,28;62,Comportamiento 1. Destrucción del rigor técnico | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),2,False,Ley de Garantías
+Libertad,GPE_LOC,2,132;133,De los valores presidenciales a los principios de gobierno | Los principios rectores frente a los comportamientos críticos,2,False,Libertad
+Director Nacional,ORG,2,3;7,Contenido | PRESENTACIÓN DEL LIBRO DE LA VERDAD,2,False,Director Nacional
+Departamento Administrativo de la Función Pública,ORG,2,30,Comportamiento 2. Colapso de la capacidad tecnológica,1,True,DAFP | Departamento Administrativo de la Función Pública
+Departamento Administrativo de la Presidencia de la República,ORG,2,68;113,Caso 2. DAPRE | Sector Presidencia de la República,2,True,Departamento Administrativo de la Presidencia de la República
+Pacífico,GPE_LOC,2,38;55,Comportamiento 4. Parálisis operativa | Comportamiento 7. Pérdida de control territorial frente a economías criminales,2,False,Pacífico
+Observación de la Contraloría,MISC,2,34;35,Comportamiento 3. Opacidad y distorsión de la información pública,2,True,Observación de la Contraloría
+Magdalena,GPE_LOC,2,58;110,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Minas y Energía,2,False,Magdalena
+$6.988 millones,MONEY,2,41;106,Comportamiento 4. Parálisis operativa | Sector Justicia y del Derecho,2,False,$6.988 millones
+"$7,6 billones",MONEY,2,37;126,Comportamiento 4. Parálisis operativa | Sector Transporte,2,False,"$7,6 billones"
+$630 mil millones,MONEY,2,62;102,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Inclusión Social y Reconciliación,2,False,$630 mil millones
+$630.000 millones,MONEY,2,38;86,"Comportamiento 4. Parálisis operativa | Sector Ciencia, Tecnología e Innovación",2,False,$630.000 millones
+$68.000 millones,MONEY,2,78,Caso 22. FONIGUALDAD,2,False,$68.000 millones
+"17,1%",PERCENT,2,55;57,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,2,False,"17,1%"
+"15,5 %",PERCENT,2,108;109,Sector Minas y Energía,2,False,"15,5 %"
+Estado Mayor Central,GPE_LOC,2,54;92,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Defensa Nacional,2,False,Estado Mayor Central
+Montreal,GPE_LOC,2,41;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,2,False,Montreal
+Ministro del Trabajo,GPE_LOC,2,61,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,2,True,Ministro del Trabajo
+No,MISC,2,47;69,"Caso 3. OCAD de ciencia, tecnología e innovación | Comportamiento 5. Captura contractual y concentración del poder operativo",2,False,No
+Nueva EPS,MISC,2,40;117,Comportamiento 4. Parálisis operativa | Sector Salud y Protección Social,2,False,Nueva EPS
+PTAFI,MISC,2,47;97,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Educación Nacional,2,False,PTAFI
+Decreto 581 de 2026,LAW,2,53;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,Decreto 581 de 2026
+Decreto 720 de 2026,LAW,2,52;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,Decreto 720 de 2026
+Decretos 0932,MISC,2,60;97,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Educación Nacional,2,False,Decretos 0932
+Defensa Nacional,ORG,2,29;54,Comportamiento 2. Colapso de la capacidad tecnológica | Comportamiento 7. Pérdida de control territorial frente a economías criminales,2,False,Defensa Nacional
+Decreto 0932,LAW,2,60;97,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Educación Nacional,2,False,Decreto 0932
+Capítulo 4,MISC,2,52;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,Capítulo 4
+Capítulo 7,MISC,2,52;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,Capítulo 7
+Casa de la Moneda de Portugal,GPE_LOC,2,51;104,Comportamiento 6. Expansión del riesgo litigioso | Sector Interior,2,False,Casa de la Moneda de Portugal
+Miami,GPE_LOC,2,41;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,2,False,Miami
+Museo de Memoria,GPE_LOC,2,103,Sector Inclusión Social y Reconciliación,2,False,Museo de Memoria
+"$5,81 billones",MONEY,2,32;88,"Comportamiento 3. Opacidad y distorsión de la información pública | Sector Comercio, Industria y Turismo",2,False,"$5,81 billones"
+$555.349 millones,MONEY,2,64;86,"Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Ciencia, Tecnología e Innovación",2,False,$555.349 millones
+PAC,ORG,2,101;114,Sector Hacienda y Crédito Público | Sector Presidencia de la República,2,False,PAC
+Decreto número 1072 de 2015,LAW,2,52;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,Decreto número 1072 de 2015
+2%,PERCENT,2,38;43,Comportamiento 4. Parálisis operativa,2,False,2%
+2020,DATE,2,95;100,Sector Deporte | Sector Hacienda y Crédito Público,2,False,2020
+Prosperidad,MISC,2,102,Sector Inclusión Social y Reconciliación,2,False,Prosperidad
+Resolución,GENERIC,2,128,"Sector Vivienda, Ciudad y Territorio",2,False,Resolución
+Resolución 0527,LAW,2,61;124,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Trabajo,2,False,Resolución 0527
+$6.233 millones,MONEY,2,41;106,Comportamiento 4. Parálisis operativa | Sector Justicia y del Derecho,2,False,$6.233 millones
+$548.120 millones,MONEY,2,36;98,Comportamiento 4. Parálisis operativa | Sector Educación Nacional,2,False,$548.120 millones
+$333.853 millones,MONEY,2,29;100,Comportamiento 2. Colapso de la capacidad tecnológica | Sector Hacienda y Crédito Público,2,False,$333.853 millones
+Ministerio de Ambiente,GPE_LOC,2,58;84,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural,2,True,Ministerio de Ambiente
+Ministerio de Igualdad y Equidad,GPE_LOC,2,39,Comportamiento 4. Parálisis operativa,2,True,Ministerio de Igualdad y Equidad
+Contratación Pública,ORG,2,12;34,Comportamiento 3. Opacidad y distorsión de la información pública | Proceso: La arquitectura metodológica,2,False,Contratación Pública
+Constitución,ORG,2,60;132,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | De los valores presidenciales a los principios de gobierno,2,False,Constitución
+Decreto Presidencial 243 de 2024 “Por,MISC,2,52;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,Decreto Presidencial 243 de 2024 “Por
+Presidente,GENERIC,2,10;132,De los valores presidenciales a los principios de gobierno | Gente: La voluntad ciudadana que sostuvo el empalme,2,False,Presidente
+Presupuesto General de la Nación,ORG,2,64;97,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Educación Nacional,2,False,Presupuesto General de la Nación
+Plataforma de Inteligencia Artificial,ORG,2,11;12,Proceso: La arquitectura metodológica | Tecnología: La inteligencia artificial como garantía de escala y rigor,2,False,Plataforma de Inteligencia Artificial
+Programa de Tutorías para el Aprendizaje,MISC,2,47;97,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Educación Nacional,2,False,Programa de Tutorías para el Aprendizaje
+Santander,GPE_LOC,2,58;84,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural,2,False,Santander
+Comfaguajira,GPE_LOC,2,61;124,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Trabajo,2,False,Comfaguajira
+Corte,ORG,2,58;60,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,2,True,Corte
+Colombia Mayor,GPE_LOC,2,102;103,Sector Inclusión Social y Reconciliación,2,False,Colombia Mayor
+Colombia Mayor,MISC,2,62,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),2,False,Colombia Mayor
+Colombia Mayor,PERSON,2,63;102,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Sector Inclusión Social y Reconciliación,2,False,Colombia Mayor
+Clan del Golfo,MISC,2,54;92,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Defensa Nacional,2,False,Clan del Golfo
+Comfenalco Antioquia,GPE_LOC,2,61;124,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Trabajo,2,False,Comfenalco Antioquia
+Amazonas,GPE_LOC,2,46;103,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Inclusión Social y Reconciliación,2,False,Amazonas
+$240.766 millones,MONEY,2,35;113,Comportamiento 4. Parálisis operativa | Sector Presidencia de la República,2,False,$240.766 millones
+Procuraduría,PERSON,2,42,Comportamiento 4. Parálisis operativa,2,True,Procuraduría
+Portugal,GPE_LOC,2,51;105,Comportamiento 6. Expansión del riesgo litigioso | Sector Interior,2,False,Portugal
+OCAD,MISC,2,38;86,"Comportamiento 4. Parálisis operativa | Sector Ciencia, Tecnología e Innovación",2,True,OCAD
+$353.878 millones,MONEY,2,49,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,$353.878 millones
+$367.256 millones,MONEY,2,52;101,Comportamiento 6. Expansión del riesgo litigioso | Sector Hacienda y Crédito Público,2,False,$367.256 millones
+$325.216 millones,MONEY,2,39;86,"Comportamiento 4. Parálisis operativa | Sector Ciencia, Tecnología e Innovación",2,False,$325.216 millones
+Comunitarios para la Paz,GPE_LOC,2,37;126,Comportamiento 4. Parálisis operativa | Sector Transporte,2,False,Comunitarios para la Paz
+Sistema Educativo Indígena Propio,GPE_LOC,2,60;97,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Educación Nacional,2,False,Sistema Educativo Indígena Propio
+Sistema Electrónico,GPE_LOC,2,12;34,Comportamiento 3. Opacidad y distorsión de la información pública | Proceso: La arquitectura metodológica,2,False,Sistema Electrónico
+Sistema General de Participaciones,GPE_LOC,2,99;129,"Sector Educación Nacional | Sector Vivienda, Ciudad y Territorio",2,False,Sistema General de Participaciones
+Subsidio Familiar,MISC,2,61;124,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Trabajo,2,False,Subsidio Familiar
+$328.000 millones,MONEY,2,51;101,Comportamiento 6. Expansión del riesgo litigioso | Sector Hacienda y Crédito Público,2,False,$328.000 millones
+"$4,05 billones",MONEY,2,32;88,"Comportamiento 3. Opacidad y distorsión de la información pública | Sector Comercio, Industria y Turismo",2,False,"$4,05 billones"
+"$4,52 billones",MONEY,2,37;126,Comportamiento 4. Parálisis operativa | Sector Transporte,2,False,"$4,52 billones"
+$39.385 millones,MONEY,2,41;106,Comportamiento 4. Parálisis operativa | Sector Justicia y del Derecho,2,False,$39.385 millones
+Cauca,GPE_LOC,2,30;36,Comportamiento 2. Colapso de la capacidad tecnológica | Comportamiento 4. Parálisis operativa,2,False,Cauca
+2029,DATE,2,32;100,Comportamiento 3. Opacidad y distorsión de la información pública | Sector Hacienda y Crédito Público,2,False,2029
+2030,DATE,2,32;100,Comportamiento 3. Opacidad y distorsión de la información pública | Sector Hacienda y Crédito Público,2,False,2030
+26 de junio de 2026,DATE,2,61;124,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Trabajo,2,False,26 de junio de 2026
+Comité Nacional del Empalme Anticorrupción,ORG,2,6;10,Gente: La voluntad ciudadana que sostuvo el empalme | PRESENTACIÓN DEL LIBRO DE LA VERDAD,2,False,Comité Nacional del Empalme Anticorrupción
+Superintendencia de Sociedades,ORG,2,28;78,Caso 21. ASOMUFFAA | Comportamiento 1. Destrucción del rigor técnico,2,True,Superintendencia de Sociedades
+Superintendente,MISC,2,61;124,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Trabajo,2,False,Superintendente
+$140.910.903.849,MONEY,2,45,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$140.910.903.849
+Valle del Cauca,GPE_LOC,2,49,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,Valle del Cauca
+febrero de 2027,DATE,2,108;109,Sector Minas y Energía,2,False,febrero de 2027
+55%,PERCENT,2,36;63,Comportamiento 4. Parálisis operativa | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),2,False,55%
+7 de agosto,DATE,2,102;124,Sector Inclusión Social y Reconciliación | Sector Trabajo,2,False,7 de agosto
+7 de agosto de 2026,DATE,2,11;61,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Proceso: La arquitectura metodológica,2,False,7 de agosto de 2026
+$113 billones,MONEY,2,32;100,Comportamiento 3. Opacidad y distorsión de la información pública | Sector Hacienda y Crédito Público,2,False,$113 billones
+USD 341.436,MONEY,2,41;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,2,False,USD 341.436
+diciembre de 2025,DATE,2,90;102,Sector Cultura | Sector Inclusión Social y Reconciliación,2,False,diciembre de 2025
+"76,5%",PERCENT,2,37,Comportamiento 4. Parálisis operativa,2,False,"76,5%"
+Acuerdo Marco,MISC,2,74,"Caso 13. Acuerdo marco para el suministro, adquisición y dispensación de medicamentos II — $3 billones en juego",2,False,Acuerdo Marco
+80%,PERCENT,2,57;104,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Interior,2,False,80%
+exploración y producción,ORG,2,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,2,False,E&P
+enero de 2026,DATE,2,44;62,Comportamiento 4. Parálisis operativa | Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),2,False,enero de 2026
+septiembre de 2025,DATE,2,38;126,Comportamiento 4. Parálisis operativa | Sector Transporte,2,False,septiembre de 2025
+diciembre de 2026,DATE,2,16;62,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal) | Definición del comportamiento 01: Destrucción del rigor técnico,2,False,diciembre de 2026
+Áreas de Protección para la Producción de Alimentos,MISC,2,111,Sector Minas y Energía,2,False,Áreas de Protección para la Producción de Alimentos
+4 de agosto de 2026,DATE,2,70;122,Caso 4. CENIT | Sector Tecnologías de la Información y las Comunicaciones,2,False,4 de agosto de 2026
+40%,PERCENT,2,47,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,40%
+"28,3%",PERCENT,2,27;118,Comportamiento 1. Destrucción del rigor técnico | Sector Salud y Protección Social,2,False,"28,3%"
+"9,8%",PERCENT,2,35;37,Comportamiento 4. Parálisis operativa,2,False,"9,8%"
+52%,PERCENT,2,54;92,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Defensa Nacional,2,False,52%
+9 de julio de 2026,DATE,2,44;68,Caso 2. DAPRE | Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,9 de julio de 2026
+"4,4 %",PERCENT,2,108;109,Sector Minas y Energía,2,False,"4,4 %"
+"37,3%",PERCENT,2,37,Comportamiento 4. Parálisis operativa,2,False,"37,3%"
+Barranquilla,GPE_LOC,2,41;106,Comportamiento 4. Parálisis operativa | Sector Justicia y del Derecho,2,False,Barranquilla
+Berlín,GPE_LOC,2,41;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,2,False,Berlín
+Buga,GPE_LOC,2,41;106,Comportamiento 4. Parálisis operativa | Sector Justicia y del Derecho,2,False,Buga
+Chocó,GPE_LOC,2,46;103,Comportamiento 5. Captura contractual y concentración del poder operativo | Sector Inclusión Social y Reconciliación,2,False,Chocó
+Casa Milagro,GPE_LOC,2,128;129,"Sector Vivienda, Ciudad y Territorio",2,False,Casa Milagro
+Centro,GPE_LOC,2,95;96,Sector Deporte,2,False,Centro
+Centros PotencIA,MISC,2,44,Comportamiento 4. Parálisis operativa,2,False,Centros PotencIA
+Atlántico,GPE_LOC,2,58;110,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Minas y Energía,2,False,Atlántico
+95%,PERCENT,2,29,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,95%
+Aruba,GPE_LOC,2,41;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,2,False,Aruba
+ACP,ORG,2,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,ACP
+Administración,ORG,2,29;67,Comportamiento 2. Colapso de la capacidad tecnológica | Introducción del capítulo,2,False,Administración
+APPA,ORG,2,111,Sector Minas y Energía,2,False,APPA
+75 %,PERCENT,2,37;98,Comportamiento 4. Parálisis operativa | Sector Educación Nacional,2,False,75 %
+$117 millones,MONEY,2,69,Caso 4. CENIT,2,False,$117 millones
+$119.725 millones,MONEY,2,33;88,"Comportamiento 3. Opacidad y distorsión de la información pública | Sector Comercio, Industria y Turismo",2,False,$119.725 millones
+"$2,65 billones",MONEY,2,42,Comportamiento 4. Parálisis operativa,2,False,"$2,65 billones"
+$2.119 millones,MONEY,2,52;101,Comportamiento 6. Expansión del riesgo litigioso | Sector Hacienda y Crédito Público,2,False,$2.119 millones
+Tecnologías de la Información,MISC,2,31;35,Comportamiento 3. Opacidad y distorsión de la información pública | Comportamiento 4. Parálisis operativa,2,False,Tecnologías de la Información
+81%,PERCENT,2,36;43,Comportamiento 4. Parálisis operativa,2,False,81%
+70%,PERCENT,2,32;88,"Comportamiento 3. Opacidad y distorsión de la información pública | Sector Comercio, Industria y Turismo",2,False,70%
+8 de mayo de 2026,DATE,2,40;117,Comportamiento 4. Parálisis operativa | Sector Salud y Protección Social,2,False,8 de mayo de 2026
+8%,PERCENT,2,53;124,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,8%
+Asociación Shaquiñán,ORG,2,45;46,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,Asociación Shaquiñán
+"$2,8 billones",MONEY,2,63;65,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),2,False,"$2,8 billones"
+"$2,9 billones",MONEY,2,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),2,False,"$2,9 billones"
+$14 billones,MONEY,2,54;92,Comportamiento 7. Pérdida de control territorial frente a economías criminales | Sector Defensa Nacional,2,False,$14 billones
+$140.910 millones,MONEY,2,45,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,$140.910 millones
+Toronto,GPE_LOC,2,41;115,Comportamiento 4. Parálisis operativa | Sector Relaciones Exteriores,2,False,Toronto
+Sentencia T-361 de 2017,LAW,2,58;84,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica | Sector Ambiente y Desarrollo Rural,2,False,Sentencia T-361 de 2017
+Título 3 de la,MISC,2,53;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,Título 3 de la
+Título 3 de la Parte,MISC,2,52;123,Comportamiento 6. Expansión del riesgo litigioso | Sector Trabajo,2,False,Título 3 de la Parte
+"$15,3 billones",MONEY,2,35;113,Comportamiento 4. Parálisis operativa | Sector Presidencia de la República,2,False,"$15,3 billones"
+"$16,1 billones",MONEY,2,27;118,Comportamiento 1. Destrucción del rigor técnico | Sector Salud y Protección Social,2,False,"$16,1 billones"
+$127.700 millones,MONEY,2,74,Caso 12. FONTUR,2,False,$127.700 millones
+$133.255 millones,MONEY,2,36;98,Comportamiento 4. Parálisis operativa | Sector Educación Nacional,2,False,$133.255 millones
+$168.827 millones,MONEY,2,49,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,$168.827 millones
+$160.000 millones,MONEY,2,78,Caso 21. ASOMUFFAA,2,False,$160.000 millones
+"$2,1 billones",MONEY,2,47,Comportamiento 5. Captura contractual y concentración del poder operativo,2,False,"$2,1 billones"
+$23.006 millones,MONEY,2,50;88,"Comportamiento 6. Expansión del riesgo litigioso | Sector Comercio, Industria y Turismo",2,False,$23.006 millones
+estadio Marino Klinger de Buenaventura,GPE_LOC,1,95,Sector Deporte,1,False,estadio Marino Klinger de Buenaventura
+"$0,7 billones",MONEY,1,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,"$0,7 billones"
+$11.665 millones,MONEY,1,34,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,$11.665 millones
+$11.665.154.195,MONEY,1,35,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,$11.665.154.195
+$111.507 millones,MONEY,1,104,Sector Interior,1,False,$111.507 millones
+$121.307 millones,MONEY,1,50,Comportamiento 6. Expansión del riesgo litigioso,1,False,$121.307 millones
+$1.902 millones,MONEY,1,114,Sector Presidencia de la República,1,False,$1.902 millones
+"$10,54 billones",MONEY,1,117,Sector Salud y Protección Social,1,False,"$10,54 billones"
+$100.267 millones,MONEY,1,96,Sector Deporte,1,False,$100.267 millones
+$101.822 millones,MONEY,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$101.822 millones
+$106.000 millones,MONEY,1,103,Sector Inclusión Social y Reconciliación,1,False,$106.000 millones
+"$108,9 millones",MONEY,1,46,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,"$108,9 millones"
+"$1,7 billones de pesos",MONEY,1,92,Sector Defensa Nacional,1,False,"$1,7 billones de pesos"
+"$1,714 billones",MONEY,1,113,Sector Presidencia de la República,1,False,"$1,714 billones"
+"$1,78 billones",MONEY,1,44,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,"$1,78 billones"
+"$18,11 billones",MONEY,1,117,Sector Salud y Protección Social,1,False,"$18,11 billones"
+"$18,49 billones",MONEY,1,113,Sector Presidencia de la República,1,False,"$18,49 billones"
+$160.397 millones,MONEY,1,124,Sector Trabajo,1,False,$160.397 millones
+$165.492 MILLONES,MONEY,1,70,Caso 5. FENOGE,1,False,$165.492 MILLONES
+$165.492 millones,MONEY,1,70,Caso 5. FENOGE,1,False,$165.492 millones
+$166.578 millones,MONEY,1,114,Sector Presidencia de la República,1,False,$166.578 millones
+$168.425 millones,MONEY,1,115,Sector Relaciones Exteriores,1,False,$168.425 millones
+$169.401 millones,MONEY,1,54,Comportamiento 6. Expansión del riesgo litigioso,1,False,$169.401 millones
+"$1,438 billones de pesos",MONEY,1,128,"Sector Vivienda, Ciudad y Territorio",1,False,"$1,438 billones de pesos"
+"$1,68 billones",MONEY,1,44,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,"$1,68 billones"
+"$1,15 billones",MONEY,1,110,Sector Minas y Energía,1,False,"$1,15 billones"
+"$17,27 billones",MONEY,1,106,Sector Justicia y del Derecho,1,False,"$17,27 billones"
+$17.003 millones,MONEY,1,76,Caso 16. Canal Trece,1,False,$17.003 millones
+$17.287 millones,MONEY,1,100,Sector Hacienda y Crédito Público,1,False,$17.287 millones
+"$173,5 millones",MONEY,1,124,Sector Trabajo,1,False,"$173,5 millones"
+$176.795 millones,MONEY,1,101,Sector Hacienda y Crédito Público,1,False,$176.795 millones
+USPEC,ORG,1,106,Sector Justicia y del Derecho,1,False,USPEC
+UVR,MISC,1,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,UVR
+Unidad de Planeación Minero Energética,GPE_LOC,1,109,Sector Minas y Energía,1,True,UPME
+USD 29 millones,MONEY,1,29,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,USD 29 millones
+USD 4.060 millones,MONEY,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,USD 4.060 millones
+USD 4.330 millones,MONEY,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,USD 4.330 millones
+UPC,GPE_LOC,1,40,Comportamiento 4. Parálisis operativa,1,False,UPC
+UPC de 2024,ORG,1,40,Comportamiento 4. Parálisis operativa,1,False,UPC de 2024
+Universidad de Caldas,ORG,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Universidad de Caldas
+Universidad del Cauca,GPE_LOC,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Universidad del Cauca
+VICEPRESIDENTE DE LA REPÚBLICA,MISC,1,135,Firmas,1,False,VICEPRESIDENTE DE LA REPÚBLICA
+VITAL,MISC,1,85,Sector Ambiente y Desarrollo Rural,1,False,VITAL
+Valle Medio del Magdalena,GPE_LOC,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Valle Medio del Magdalena
+USD 45 millones,MONEY,1,29,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,USD 45 millones
+USD 8.390 millones,MONEY,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,USD 8.390 millones
+USPEC,GPE_LOC,1,41,Comportamiento 4. Parálisis operativa,1,False,USPEC
+40 %,PERCENT,1,58,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,40 %
+"41,4 %",PERCENT,1,106,Sector Justicia y del Derecho,1,False,"41,4 %"
+"42,4%",PERCENT,1,105,Sector Interior,1,False,"42,4%"
+"43,4 %",PERCENT,1,84,Sector Ambiente y Desarrollo Rural,1,False,"43,4 %"
+434 %,PERCENT,1,100,Sector Hacienda y Crédito Público,1,False,434 %
+39%,PERCENT,1,50,Comportamiento 6. Expansión del riesgo litigioso,1,False,39%
+"39,96 %",PERCENT,1,103,Sector Inclusión Social y Reconciliación,1,False,"39,96 %"
+"4,3 %",PERCENT,1,113,Sector Presidencia de la República,1,False,"4,3 %"
+434%,PERCENT,1,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,434%
+"45,5 %",PERCENT,1,102,Sector Inclusión Social y Reconciliación,1,False,"45,5 %"
+475 %,PERCENT,1,82,Sector Agricultura y desarrollo Rural,1,False,475 %
+48%,PERCENT,1,40,Comportamiento 4. Parálisis operativa,1,False,48%
+"48,3%",PERCENT,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,"48,3%"
+"48,4%",PERCENT,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,"48,4%"
+"48,9%",PERCENT,1,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,"48,9%"
+4.000 millones de pesos,MONEY,1,77,Caso 18. Agencia Nacional de Defensa Jurídica del Estado (ANDJE) — 48 procesos contractuales bajo vigilancia,1,False,4.000 millones de pesos
+"54,4 %",PERCENT,1,107,Sector Justicia y del Derecho,1,False,"54,4 %"
+"58,5 %",PERCENT,1,53,Comportamiento 6. Expansión del riesgo litigioso,1,False,"58,5 %"
+"59,9%",PERCENT,1,90,Sector Cultura,1,False,"59,9%"
+5 %,PERCENT,1,113,Sector Presidencia de la República,1,False,5 %
+5 de agosto de 2026,DATE,1,69,"Caso 3. OCAD de ciencia, tecnología e innovación",1,False,5 de agosto de 2026
+"5,2%",PERCENT,1,39,Comportamiento 4. Parálisis operativa,1,False,"5,2%"
+"5,8%",PERCENT,1,35,Comportamiento 4. Parálisis operativa,1,False,"5,8%"
+29%,PERCENT,1,118,Sector Salud y Protección Social,1,False,29%
+"7,9%",PERCENT,1,39,Comportamiento 4. Parálisis operativa,1,False,"7,9%"
+6 de julio,DATE,1,61,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,6 de julio
+6 de julio de 2026,DATE,1,68,Caso 2. DAPRE,1,False,6 de julio de 2026
+"6,1 billones de pesos",MONEY,1,111,Sector Minas y Energía,1,False,"6,1 billones de pesos"
+"6,4 %",PERCENT,1,100,Sector Hacienda y Crédito Público,1,False,"6,4 %"
+6.02 billones de pesos,MONEY,1,111,Sector Minas y Energía,1,False,6.02 billones de pesos
+"52,6 %",PERCENT,1,128,"Sector Vivienda, Ciudad y Territorio",1,False,"52,6 %"
+53 %,PERCENT,1,113,Sector Presidencia de la República,1,False,53 %
+70 millones de pesos,MONEY,1,111,Sector Minas y Energía,1,False,70 millones de pesos
+734%,PERCENT,1,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,734%
+744 %,PERCENT,1,84,Sector Ambiente y Desarrollo Rural,1,False,744 %
+"76,5 %",PERCENT,1,126,Sector Transporte,1,False,"76,5 %"
+78%,PERCENT,1,90,Sector Cultura,1,False,78%
+Acción Comunal,ORG,1,72,Caso 9. Caminos comunitarios para la paz,1,False,Acción Comunal
+Actores Diferenciales,ORG,1,39,Comportamiento 4. Parálisis operativa,1,False,Actores Diferenciales
+Actualización,MISC,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Actualización
+"83,7 %",PERCENT,1,95,Sector Deporte,1,False,"83,7 %"
+84%,PERCENT,1,65,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,84%
+86 %,PERCENT,1,100,Sector Hacienda y Crédito Público,1,False,86 %
+"86,8%",PERCENT,1,90,Sector Cultura,1,False,"86,8%"
+8 de agosto,DATE,1,79,Caso 23. Agencia de Desarrollo Rural (ADR),1,False,8 de agosto
+8 de julio de 2026,DATE,1,76,Caso 17. ICBF,1,False,8 de julio de 2026
+"8,8%",PERCENT,1,43,Comportamiento 4. Parálisis operativa,1,False,"8,8%"
+"82,55 %",PERCENT,1,128,"Sector Vivienda, Ciudad y Territorio",1,False,"82,55 %"
+9 %,PERCENT,1,84,Sector Ambiente y Desarrollo Rural,1,False,9 %
+9 de enero de 2025,DATE,1,51,Comportamiento 6. Expansión del riesgo litigioso,1,False,9 de enero de 2025
+9%,PERCENT,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,9%
+"9,4%",PERCENT,1,35,Comportamiento 4. Parálisis operativa,1,False,"9,4%"
+90 %,PERCENT,1,106,Sector Justicia y del Derecho,1,False,90 %
+"82,6%",PERCENT,1,74,Caso 12. FONTUR,1,False,"82,6%"
+"82,8 %",PERCENT,1,113,Sector Presidencia de la República,1,False,"82,8 %"
+"82,8%",PERCENT,1,35,Comportamiento 4. Parálisis operativa,1,False,"82,8%"
+"4,3%",PERCENT,1,35,Comportamiento 4. Parálisis operativa,1,False,"4,3%"
+32%,PERCENT,1,45,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,32%
+"32,0%",PERCENT,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,"32,0%"
+33%,PERCENT,1,42,Comportamiento 4. Parálisis operativa,1,False,33%
+"33,31 %",PERCENT,1,42,Comportamiento 4. Parálisis operativa,1,False,"33,31 %"
+50 %,PERCENT,1,100,Sector Hacienda y Crédito Público,1,False,50 %
+"51,34 %",PERCENT,1,116,Sector Relaciones Exteriores,1,False,"51,34 %"
+"87,8%",PERCENT,1,39,Comportamiento 4. Parálisis operativa,1,False,"87,8%"
+Arca de la Patria,MISC,1,9,Introducción del capítulo,1,False,Arca de la Patria
+Asamblea General de Accionistas,ORG,1,71,Caso 6. Electrohuila,1,False,Asamblea General de Accionistas
+Asignación de Capacidad de Conexión,MISC,1,28,Comportamiento 1. Destrucción del rigor técnico,1,False,Asignación de Capacidad de Conexión
+Atleta Excelencia,MISC,1,95,Sector Deporte,1,False,Atleta Excelencia
+Amerita,ORG,1,121,Sector Tecnologías de la Información y las Comunicaciones,1,False,Amerita
+Ana María Vesga Gaviria,PERSON,1,117,Sector Salud y Protección Social,1,False,Ana María Vesga Gaviria
+Anexo General,MISC,1,11,Proceso: La arquitectura metodológica,1,False,Anexo General
+Antioquia,GPE_LOC,1,72,Caso 9. Caminos comunitarios para la paz,1,False,Antioquia
+"93,4 %",PERCENT,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,"93,4 %"
+"93,4%",PERCENT,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,"93,4%"
+94%,PERCENT,1,50,Comportamiento 6. Expansión del riesgo litigioso,1,False,94%
+"94,3 %",PERCENT,1,44,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,"94,3 %"
+"94,4%",PERCENT,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,"94,4%"
+95 %,PERCENT,1,100,Sector Hacienda y Crédito Público,1,False,95 %
+"95,5%",PERCENT,1,106,Sector Justicia y del Derecho,1,False,"95,5%"
+Arca de Noé,MISC,1,9,Gente: La voluntad ciudadana que sostuvo el empalme,1,False,Arca de Noé
+Abelardo de la Espriella,PERSON,1,132,De los valores presidenciales a los principios de gobierno,1,False,Abelardo de la Espriella
+95.5%,PERCENT,1,41,Comportamiento 4. Parálisis operativa,1,False,95.5%
+97 %,PERCENT,1,125,Sector Trabajo,1,False,97 %
+"98,1 %",PERCENT,1,103,Sector Inclusión Social y Reconciliación,1,False,"98,1 %"
+99%,PERCENT,1,90,Sector Cultura,1,False,99%
+"99,56 %",PERCENT,1,119,Sector Salud y Protección Social,1,False,"99,56 %"
+"99,7%",PERCENT,1,27,Comportamiento 1. Destrucción del rigor técnico,1,False,"99,7%"
+ABELARDO DE LA ESPRIELLA,PERSON,1,5,Carta de Presentación A los colombianos:,1,False,ABELARDO DE LA ESPRIELLA
+Aeropuertos para los Servicios Aéreos Esenciales,MISC,1,38,Comportamiento 4. Parálisis operativa,1,False,Aeropuertos para los Servicios Aéreos Esenciales
+Afinia,GPE_LOC,1,110,Sector Minas y Energía,1,False,Afinia
+Agencia,GENERIC,1,79,Caso 23. Agencia de Desarrollo Rural (ADR),1,False,Agencia
+AIR-E S.A.S. E.S.P,MISC,1,51,Comportamiento 6. Expansión del riesgo litigioso,1,True,AIR-E S.A.S. E.S.P
+AREMCA,MISC,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,AREMCA
+ART,MISC,1,114,Sector Presidencia de la República,1,False,ART
+ASAES,MISC,1,38,Comportamiento 4. Parálisis operativa,1,False,ASAES
+ASOMUFFAA,ORG,1,78,Caso 21. ASOMUFFAA,1,False,ASOMUFFAA
+3 de julio de 2026,DATE,1,61,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,3 de julio de 2026
+3 de junio de 2025,DATE,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,3 de junio de 2025
+"3,0 %",PERCENT,1,113,Sector Presidencia de la República,1,False,"3,0 %"
+"3,2 billones de pesos",MONEY,1,42,Comportamiento 4. Parálisis operativa,1,False,"3,2 billones de pesos"
+"3,28 %",PERCENT,1,102,Sector Inclusión Social y Reconciliación,1,False,"3,28 %"
+28 de julio de 2026,DATE,1,68,Caso 2. DAPRE,1,False,28 de julio de 2026
+"28,01%",PERCENT,1,106,Sector Justicia y del Derecho,1,False,"28,01%"
+"28,2%",PERCENT,1,90,Sector Cultura,1,False,"28,2%"
+312%,PERCENT,1,118,Sector Salud y Protección Social,1,False,312%
+"3,5 %",PERCENT,1,100,Sector Hacienda y Crédito Público,1,False,"3,5 %"
+30 %,PERCENT,1,109,Sector Minas y Energía,1,False,30 %
+30 de agosto,DATE,1,104,Sector Interior,1,False,30 de agosto
+30 de julio,DATE,1,61,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,30 de julio
+30 de julio de 2026,DATE,1,64,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,30 de julio de 2026
+"29,5 %",PERCENT,1,128,"Sector Vivienda, Ciudad y Territorio",1,False,"29,5 %"
+3 billones de pesos,MONEY,1,43,Comportamiento 4. Parálisis operativa,1,False,3 billones de pesos
+Agencia Nacional de Defensa Jurídica del Estado,ORG,1,77,Caso 18. Agencia Nacional de Defensa Jurídica del Estado (ANDJE) — 48 procesos contractuales bajo vigilancia,1,True,Agencia Nacional de Defensa Jurídica del Estado
+Agencia Nacional de Minería,ORG,1,111,Sector Minas y Energía,1,True,Agencia Nacional de Minería
+2026–2030,DATE,1,14,Introducción del capítulo,1,False,2026–2030
+30 de septiembre de 2026,DATE,1,104,Sector Interior,1,False,30 de septiembre de 2026
+30%,PERCENT,1,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,30%
+"30,8%",PERCENT,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,"30,8%"
+31 de diciembre,DATE,1,59,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,31 de diciembre
+31 de diciembre de 2025,DATE,1,106,Sector Justicia y del Derecho,1,False,31 de diciembre de 2025
+Antonio Eresmid Sanguino Páez,PERSON,1,61,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Antonio Eresmid Sanguino Páez
+Antonio Sanguino,PERSON,1,124,Sector Trabajo,1,False,Antonio Sanguino
+Aprovechamiento de Tecnología,PERSON,1,10,Tecnología: La inteligencia artificial como garantía de escala y rigor,1,False,Aprovechamiento de Tecnología
+Aire,GPE_LOC,1,110,Sector Minas y Energía,1,False,Aire
+Alexandra Falla Zerrate,PERSON,1,120,Sector Tecnologías de la Información y las Comunicaciones,1,False,Alexandra Falla Zerrate
+Alto Rendimiento de,GPE_LOC,1,96,Sector Deporte,1,False,Alto Rendimiento de
+Alto Rendimiento de Urabá,GPE_LOC,1,95,Sector Deporte,1,False,Alto Rendimiento de Urabá
+Ambiente,GENERIC,1,72,Caso 7. Páramo de Santurbán,1,False,Ambiente
+Banco Estratégico,ORG,1,11,Proceso: La arquitectura metodológica,1,False,Banco Estratégico
+Banco Estratégico de Decisiones de Gobierno,ORG,1,11,Proceso: La arquitectura metodológica,1,True,Banco Estratégico de Decisiones de Gobierno
+Centro Nacional de Memoria Histórica,GPE_LOC,1,103,Sector Inclusión Social y Reconciliación,1,False,Centro Nacional de Memoria Histórica
+Centros PotencIA,GPE_LOC,1,121,Sector Tecnologías de la Información y las Comunicaciones,1,False,Centros PotencIA
+Cesar,GPE_LOC,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Cesar
+Chivor,GPE_LOC,1,43,Comportamiento 4. Parálisis operativa,1,False,Chivor
+Ciencia y Salud,ORG,1,86,"Sector Ciencia, Tecnología e Innovación",1,False,Ciencia y Salud
+Carlos Andrés Ríos Puerta,PERSON,1,113,Sector Presidencia de la República,1,False,Carlos Andrés Ríos Puerta
+Barrancabermeja,GPE_LOC,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Barrancabermeja
+Biblioteca Nacional,GPE_LOC,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Biblioteca Nacional
+Bien común; Familia,MISC,1,132,De los valores presidenciales a los principios de gobierno,1,False,Bien común; Familia
+Bogotá,GPE_LOC,1,96,Sector Deporte,1,False,Bogotá
+Boyacá,GPE_LOC,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Boyacá
+Auditoría Financiera,ORG,1,42,Comportamiento 4. Parálisis operativa,1,False,Auditoría Financiera
+Auto 007,MISC,1,40,Comportamiento 4. Parálisis operativa,1,False,Auto 007
+Autonomía Económica y Desarrollo Empresarial,ORG,1,26,Comportamiento 1. Destrucción del rigor técnico,1,False,Autonomía Económica y Desarrollo Empresarial
+CONPES 4089,LAW,1,106,Sector Justicia y del Derecho,1,False,CONPES 4089
+CONPES 4167,LAW,1,122,Sector Tecnologías de la Información y las Comunicaciones,1,False,CONPES 4167
+CONPES 4195,LAW,1,122,Sector Tecnologías de la Información y las Comunicaciones,1,False,CONPES 4195
+C-130 Hércules,MISC,1,93,Sector Defensa Nacional,1,False,C-130 Hércules
+C-4603,MISC,1,39,Comportamiento 4. Parálisis operativa,1,False,C-4603
+C.I. MEPRECOL S.A.S,ORG,1,75,Caso 15. C.I. MEPRECOL S.A.S.,1,False,C.I. MEPRECOL S.A.S
+CENIT Transporte y Logística de Hidrocarburos S.A.S,ORG,1,69,Caso 4. CENIT,1,True,CENIT Transporte y Logística de Hidrocarburos S.A.S
+CERT,ORG,1,88,"Sector Comercio, Industria y Turismo",1,False,CERT
+Agencia de Desarrollo Rural,ORG,1,79,Caso 23. Agencia de Desarrollo Rural (ADR),1,True,Agencia de Desarrollo Rural
+Agencia de Renovación del Territorio,ORG,1,113,Sector Presidencia de la República,1,True,Agencia de Renovación del Territorio
+Agricultura y Desarrollo Rural,GPE_LOC,1,31,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,Agricultura y Desarrollo Rural
+CODALTEC,MISC,1,75,Caso 14. CODALTEC,1,True,CODALTEC
+COLOMBIA,GPE_LOC,1,135,Firmas,1,False,COLOMBIA
+CONFIS,ORG,1,90,Sector Cultura,1,False,CONFIS
+CONPES,MISC,1,62,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,CONPES
+CONPES,ORG,1,68,Caso 1. ESSMAR E.S.P.,1,False,CONPES
+24 de abril,DATE,1,114,Sector Presidencia de la República,1,False,24 de abril
+24 de abril de 2026,DATE,1,26,Comportamiento 1. Destrucción del rigor técnico,1,False,24 de abril de 2026
+25 de julio de 2026,DATE,1,68,Caso 1. ESSMAR E.S.P.,1,False,25 de julio de 2026
+21 de julio de 2026,DATE,1,70,Caso 5. FENOGE,1,False,21 de julio de 2026
+2169-2024,DATE,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,2169-2024
+22 de junio de 2026,DATE,1,31,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,22 de junio de 2026
+22 de mayo de 2026,DATE,1,106,Sector Justicia y del Derecho,1,False,22 de mayo de 2026
+22%,PERCENT,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,22%
+26 de junio,DATE,1,61,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,26 de junio
+"260,9 %",PERCENT,1,100,Sector Hacienda y Crédito Público,1,False,"260,9 %"
+"260,9%",PERCENT,1,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,"260,9%"
+27 de agosto,DATE,1,59,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,27 de agosto
+"22,3%",PERCENT,1,44,Comportamiento 4. Parálisis operativa,1,False,"22,3%"
+23 %,PERCENT,1,109,Sector Minas y Energía,1,False,23 %
+23 de junio de 2026,DATE,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,23 de junio de 2026
+"237,6 %",PERCENT,1,112,Sector Minas y Energía,1,False,"237,6 %"
+Caja Honor,ORG,1,93,Sector Defensa Nacional,1,False,Caja Honor
+"2,6 %",PERCENT,1,58,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,"2,6 %"
+20 de marzo de 2026,DATE,1,71,Caso 6. Electrohuila,1,False,20 de marzo de 2026
+20 de octubre,DATE,1,64,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,20 de octubre
+20%,PERCENT,1,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,20%
+"25,4%",PERCENT,1,106,Sector Justicia y del Derecho,1,False,"25,4%"
+25.4%,PERCENT,1,41,Comportamiento 4. Parálisis operativa,1,False,25.4%
+26 de julio,DATE,1,68,Caso 2. DAPRE,1,False,26 de julio
+Carrera Diplomática y Consular,MISC,1,27,Comportamiento 1. Destrucción del rigor técnico,1,False,Carrera Diplomática y Consular
+Cartagena,GPE_LOC,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Cartagena
+Casanare,GPE_LOC,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Casanare
+Canal Trece,GPE_LOC,1,76,Caso 16. Canal Trece,1,True,Canal Trece
+Cancillería del Gobierno,GPE_LOC,1,77,Caso 20. Cancillería,1,True,Cancillería del Gobierno
+Carcelarios,MISC,1,41,Comportamiento 4. Parálisis operativa,1,False,Carcelarios
+CRA,GPE_LOC,1,129,"Sector Vivienda, Ciudad y Territorio",1,False,CRA
+Caen,GPE_LOC,1,65,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,Caen
+Crédito Agropecuario,PERSON,1,82,Sector Agricultura y desarrollo Rural,1,False,Crédito Agropecuario
+Cusiana,GPE_LOC,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Cusiana
+Contratos de Exploración y Producción,ORG,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Contratos de Exploración y Producción
+Convenio 169 de la,MISC,1,60,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Convenio 169 de la
+Convenio Marco,MISC,1,72,Caso 8. Reforma agraria,1,False,Convenio Marco
+Corabastos,PERSON,1,82,Sector Agricultura y desarrollo Rural,1,False,Corabastos
+Corporación Nasa Kiwe,ORG,1,104,Sector Interior,1,False,Corporación Nasa Kiwe
+Contraloría 39,ORG,1,93,Sector Defensa Nacional,1,True,Contraloría 39
+Colombia Inteligente: Infraestructura para el Desarrollo de la Inteligencia Artificial,MISC,1,86,"Sector Ciencia, Tecnología e Innovación",1,False,Colombia Inteligente: Infraestructura para el Desarrollo de la Inteligencia Artificial
+Circuito de Pereira,GPE_LOC,1,74,Caso 11. Unidad Nacional de Protección (UNP),1,False,Circuito de Pereira
+Ciudad de Bogotá,GPE_LOC,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Ciudad de Bogotá
+Clarinete,GPE_LOC,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Clarinete
+Claudia Benavides Salazar,PERSON,1,86,"Sector Ciencia, Tecnología e Innovación",1,False,Claudia Benavides Salazar
+Coello,GPE_LOC,1,56,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Coello
+Corporación Prosperitas,ORG,1,79,Caso 22. FONIGUALDAD,1,False,Corporación Prosperitas
+Corporación de Alta Tecnología para la Defensa,ORG,1,75,Caso 14. CODALTEC,1,False,Corporación de Alta Tecnología para la Defensa
+Comunicaciones transformación digital real sin industria,MISC,1,120,Sector Tecnologías de la Información y las Comunicaciones,1,False,Comunicaciones transformación digital real sin industria
+Concertación Cultural,ORG,1,53,Comportamiento 6. Expansión del riesgo litigioso,1,False,Concertación Cultural
+Congreso aprobó la Ley,ORG,1,52,Comportamiento 6. Expansión del riesgo litigioso,1,True,Congreso aprobó la Ley
+Colpensiones,ORG,1,124,Sector Trabajo,1,True,Colpensiones
+Comisión Nacional,ORG,1,82,Sector Agricultura y desarrollo Rural,1,True,Comisión Nacional
+Comité Intersectorial de Empalme,ORG,1,10,Gente: La voluntad ciudadana que sostuvo el empalme,1,False,Comité Intersectorial de Empalme
+Coljuegos,PERSON,1,101,Sector Hacienda y Crédito Público,1,False,Coljuegos
+Colombia Compra Eficiente,PERSON,1,73,Caso 10. Servicios de ciberseguridad,1,True,Colombia Compra Eficiente
+2025- 2026,DATE,1,86,"Sector Ciencia, Tecnología e Innovación",1,False,2025- 2026
+2025-2027,DATE,1,100,Sector Hacienda y Crédito Público,1,False,2025-2027
+2026 Colombia,GPE_LOC,1,109,Sector Minas y Energía,1,False,2026 Colombia
+Caldas,GPE_LOC,1,44,Comportamiento 4. Parálisis operativa,1,False,Caldas
+Cambio,ORG,1,44,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Cambio
+Canacol,ORG,1,109,Sector Minas y Energía,1,False,Canacol
+Comité de Contratación,ORG,1,77,Caso 18. Agencia Nacional de Defensa Jurídica del Estado (ANDJE) — 48 procesos contractuales bajo vigilancia,1,False,Comité de Contratación
+Competencias Laborales,MISC,1,27,Comportamiento 1. Destrucción del rigor técnico,1,False,Competencias Laborales
+2013,DATE,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,2013
+2014,DATE,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,2014
+2 de junio,DATE,1,26,Comportamiento 1. Destrucción del rigor técnico,1,False,2 de junio
+"2,1 billones de pesos",MONEY,1,47,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,"2,1 billones de pesos"
+"2,1%",PERCENT,1,44,Comportamiento 4. Parálisis operativa,1,False,"2,1%"
+Consulado,GPE_LOC,1,116,Sector Relaciones Exteriores,1,False,Consulado
+Contraloría,GPE_LOC,1,88,"Sector Comercio, Industria y Turismo",1,True,Contraloría
+Decreto Ley,MISC,1,27,Comportamiento 1. Destrucción del rigor técnico,1,False,Decreto Ley
+2019-2024,DATE,1,29,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,2019-2024
+2020-2031,DATE,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,2020-2031
+2000,DATE,1,27,Comportamiento 1. Destrucción del rigor técnico,1,False,2000
+2001,DATE,1,59,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,2001
+2005,DATE,1,8,Portadilla del capítulo,1,False,2005
+2007,DATE,1,60,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,2007
+2010-2026,DATE,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,2010-2026
+2012,DATE,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,2012
+15 de julio de 2026,DATE,1,44,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,15 de julio de 2026
+15%,PERCENT,1,32,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,15%
+2022 – 2026,DATE,1,92,Sector Defensa Nacional,1,False,2022 – 2026
+2022-2026,DATE,1,31,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,2022-2026
+2023-2024,DATE,1,38,Comportamiento 4. Parálisis operativa,1,False,2023-2024
+2023-2025,DATE,1,39,Comportamiento 4. Parálisis operativa,1,False,2023-2025
+2018,DATE,1,104,Sector Interior,1,False,2018
+2019,DATE,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,2019
+Contraloría General de la epblica,ORG,1,8,Portadilla del capítulo,1,True,Contraloría General de la epblica
+Contrato CMA,MISC,1,68,Caso 1. ESSMAR E.S.P.,1,False,Contrato CMA
+Contrato Interadministrativo No,MISC,1,44,Comportamiento 4. Parálisis operativa,1,False,Contrato Interadministrativo No
+Contrato No,MISC,1,69,Caso 4. CENIT,1,False,Contrato No
+Consorcio Constructor,ORG,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Consorcio Constructor
+Consorcio H.M.I,MISC,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Consorcio H.M.I
+15 %,PERCENT,1,100,Sector Hacienda y Crédito Público,1,False,15 %
+15 de julio,DATE,1,59,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,15 de julio
+17 de julio,DATE,1,61,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,17 de julio
+17 de julio de 2026,DATE,1,47,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,17 de julio de 2026
+"17,71%",PERCENT,1,44,Comportamiento 4. Parálisis operativa,1,False,"17,71%"
+172%,PERCENT,1,118,Sector Salud y Protección Social,1,False,172%
+"18,2%",PERCENT,1,105,Sector Interior,1,False,"18,2%"
+"15,1 %",PERCENT,1,113,Sector Presidencia de la República,1,False,"15,1 %"
+"15,11 %",PERCENT,1,128,"Sector Vivienda, Ciudad y Territorio",1,False,"15,11 %"
+150%,PERCENT,1,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,150%
+19 de julio,DATE,1,71,Caso 7. Páramo de Santurbán,1,False,19 de julio
+19 de junio de 2026,DATE,1,67,Caso 1. ESSMAR E.S.P.,1,False,19 de junio de 2026
+19%,PERCENT,1,93,Sector Defensa Nacional,1,False,19%
+"19,6 %",PERCENT,1,113,Sector Presidencia de la República,1,False,"19,6 %"
+1º de julio de 2026,DATE,1,26,Comportamiento 1. Destrucción del rigor técnico,1,False,1º de julio de 2026
+2 de agosto de 2026,DATE,1,68,Caso 2. DAPRE,1,False,2 de agosto de 2026
+164%,PERCENT,1,117,Sector Salud y Protección Social,1,False,164%
+1661-2025,DATE,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,1661-2025
+Decreto 0226 de 2026,LAW,1,28,Comportamiento 1. Destrucción del rigor técnico,1,False,Decreto 0226 de 2026
+Decreto 0626 de 2026,LAW,1,104,Sector Interior,1,False,Decreto 0626 de 2026
+Decreto 0670 de 2026,LAW,1,28,Comportamiento 1. Destrucción del rigor técnico,1,False,Decreto 0670 de 2026
+Córdoba,GPE_LOC,1,56,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Córdoba
+DAPRE,MISC,1,79,Caso 23. Agencia de Desarrollo Rural (ADR),1,True,DAPRE
+"0,82%",PERCENT,1,36,Comportamiento 4. Parálisis operativa,1,False,"0,82%"
+"0,991 %",PERCENT,1,103,Sector Inclusión Social y Reconciliación,1,False,"0,991 %"
+182 %,PERCENT,1,50,Comportamiento 6. Expansión del riesgo litigioso,1,False,182 %
+Decretos 0241,MISC,1,102,Sector Inclusión Social y Reconciliación,1,False,Decretos 0241
+"Defensa, Interior",MISC,1,111,Sector Minas y Energía,1,False,"Defensa, Interior"
+Defensoría del Pueblo,MISC,1,92,Sector Defensa Nacional,1,True,Defensoría del Pueblo
+Decreto 1083 de 2015,LAW,1,28,Comportamiento 1. Destrucción del rigor técnico,1,False,Decreto 1083 de 2015
+Decreto 1099,LAW,1,51,Comportamiento 6. Expansión del riesgo litigioso,1,False,Decreto 1099
+Decreto 802 de 2026,LAW,1,113,Sector Presidencia de la República,1,False,Decreto 802 de 2026
+Decisión de Ciencia,MISC,1,69,"Caso 3. OCAD de ciencia, tecnología e innovación",1,False,Decisión de Ciencia
+Decreto 020 de 2026,LAW,1,28,Comportamiento 1. Destrucción del rigor técnico,1,False,Decreto 020 de 2026
+Dirección del Empalme,GPE_LOC,1,10,Gente: La voluntad ciudadana que sostuvo el empalme,1,False,Dirección del Empalme
+Director Ejecutivo de FENOGE,ORG,1,70,Caso 5. FENOGE,1,True,Director Ejecutivo de FENOGE
+Departamento Administrativo de la Función Pública,MISC,1,30,Comportamiento 2. Colapso de la capacidad tecnológica,1,True,DAFP
+Departamento Administrativo de la Presidencia,ORG,1,114,Sector Presidencia de la República,1,True,Departamento Administrativo de la Presidencia
+Departamento Administrativo para la Prosperidad,ORG,1,46,Comportamiento 5. Captura contractual y concentración del poder operativo,1,True,Departamento Administrativo para la Prosperidad
+Departamento Administrativo para la Prosperidad Social,ORG,1,102,Sector Inclusión Social y Reconciliación,1,True,Departamento Administrativo para la Prosperidad Social
+Desarrollo Sostenible,GPE_LOC,1,44,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Desarrollo Sostenible
+Desarrollo Sostenible; Ciencia,GPE_LOC,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Desarrollo Sostenible; Ciencia
+EGA-001-2025,MISC,1,45,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,EGA-001-2025
+EGA-002-2025,MISC,1,45,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,EGA-002-2025
+EGA-003-2025,MISC,1,45,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,EGA-003-2025
+ELECTROHUILA,ORG,1,71,Caso 6. Electrohuila,1,True,ELECTROHUILA
+Dignidad,MISC,1,132,De los valores presidenciales a los principios de gobierno,1,False,Dignidad
+Dirección General de Presupuesto Público Nacional,ORG,1,39,Comportamiento 4. Parálisis operativa,1,False,Dirección General de Presupuesto Público Nacional
+Dirección Nacional de Bomberos,ORG,1,105,Sector Interior,1,False,Dirección Nacional de Bomberos
+Dirección Nacional del Empalme,ORG,1,7,PRESENTACIÓN DEL LIBRO DE LA VERDAD,1,False,Dirección Nacional del Empalme
+ESSMAR E.S.P,MISC,1,68,Caso 1. ESSMAR E.S.P.,1,True,ESSMAR E.S.P
+Ecopetrol S.A,ORG,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,True,Ecopetrol S.A
+Edición N°,MISC,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Edición N°
+Ejército Nacional,ORG,1,92,Sector Defensa Nacional,1,True,Ejército Nacional
+Elsa Margarita Noguera,PERSON,1,126,Sector Transporte,1,False,Elsa Margarita Noguera
+Director de la,MISC,1,74,Caso 11. Unidad Nacional de Protección (UNP),1,False,Director de la
+Directora General,ORG,1,102,Sector Inclusión Social y Reconciliación,1,False,Directora General
+Discrecionalidad,GPE_LOC,1,17,Definición del comportamiento 02: Colapso de la capacidad tecnológica,1,False,Discrecionalidad
+151%,PERCENT,1,117,Sector Salud y Protección Social,1,False,151%
+"16,5 %",PERCENT,1,84,Sector Ambiente y Desarrollo Rural,1,False,"16,5 %"
+13 de septiembre de 2024,DATE,1,44,Comportamiento 4. Parálisis operativa,1,False,13 de septiembre de 2024
+"13,1%",PERCENT,1,39,Comportamiento 4. Parálisis operativa,1,False,"13,1%"
+"14,1%",PERCENT,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,"14,1%"
+DNPPN,MISC,1,39,Comportamiento 4. Parálisis operativa,1,False,DNPPN
+DPS,ORG,1,46,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,DPS
+Datos Abiertos,MISC,1,30,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,Datos Abiertos
+11%,PERCENT,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,11%
+"11,55 %",PERCENT,1,102,Sector Inclusión Social y Reconciliación,1,False,"11,55 %"
+"110,19 %",PERCENT,1,34,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,"110,19 %"
+1 de diciembre de 2024,DATE,1,42,Comportamiento 4. Parálisis operativa,1,False,1 de diciembre de 2024
+1 de julio de 2026,DATE,1,114,Sector Presidencia de la República,1,False,1 de julio de 2026
+"1,5 billones de pesos",MONEY,1,101,Sector Hacienda y Crédito Público,1,False,"1,5 billones de pesos"
+"1,8 billones de pesos",MONEY,1,84,Sector Ambiente y Desarrollo Rural,1,False,"1,8 billones de pesos"
+10 %,PERCENT,1,109,Sector Minas y Energía,1,False,10 %
+12 de julio de 2026,DATE,1,70,Caso 4. CENIT,1,False,12 de julio de 2026
+12%,PERCENT,1,88,"Sector Comercio, Industria y Turismo",1,False,12%
+"12,35 %",PERCENT,1,37,Comportamiento 4. Parálisis operativa,1,False,"12,35 %"
+"12,5 %",PERCENT,1,88,"Sector Comercio, Industria y Turismo",1,False,"12,5 %"
+13 %,PERCENT,1,100,Sector Hacienda y Crédito Público,1,False,13 %
+13 de julio de 2026,DATE,1,71,Caso 6. Electrohuila,1,False,13 de julio de 2026
+"10,8%",PERCENT,1,58,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,"10,8%"
+11 de febrero de 2026,DATE,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,11 de febrero de 2026
+Entre 2024 y 2026,DATE,1,81,Sector Agricultura y desarrollo Rural,1,False,Entre 2024 y 2026
+Entre abril de 2024 y noviembre de 2025,DATE,1,30,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,Entre abril de 2024 y noviembre de 2025
+Entre agosto de 2022 y julio de 2026,DATE,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Entre agosto de 2022 y julio de 2026
+Embajada,GPE_LOC,1,116,Sector Relaciones Exteriores,1,False,Embajada
+Empalme 2026,GPE_LOC,1,9,Gente: La voluntad ciudadana que sostuvo el empalme,1,False,Empalme 2026
+$79.110 millones,MONEY,1,59,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,$79.110 millones
+$793.600 millones,MONEY,1,91,Sector Cultura,1,False,$793.600 millones
+"119,73 %",PERCENT,1,34,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,"119,73 %"
+Estado Crítico,GPE_LOC,1,45,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Estado Crítico
+Estado Crítico,ORG,1,45,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Estado Crítico
+Estado Mayor Central,ORG,1,54,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,EMC
+Estado colapsan,GPE_LOC,1,31,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,Estado colapsan
+Estado de,GPE_LOC,1,114,Sector Presidencia de la República,1,False,Estado de
+Equipo Élite Anticorrupción,ORG,1,6,PRESENTACIÓN DEL LIBRO DE LA VERDAD,1,True,Equipo Élite Anticorrupción
+Energía Recibimos,ORG,1,108,Sector Minas y Energía,1,False,Energía Recibimos
+Entre 2024 y 2025,DATE,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Entre 2024 y 2025
+Estado: SIGEP II,GPE_LOC,1,30,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,Estado: SIGEP II
+Estados Unidos,GPE_LOC,1,88,"Sector Comercio, Industria y Turismo",1,False,Estados Unidos
+Estambul,GPE_LOC,1,78,Caso 20. Cancillería,1,False,Estambul
+Estratégica,MISC,1,9,Gente: La voluntad ciudadana que sostuvo el empalme,1,False,Estratégica
+Fortalecer a nuestra Fuerza Pública,MISC,1,94,Sector Defensa Nacional,1,False,Fortalecer a nuestra Fuerza Pública
+Fuerza Aeroespacial,ORG,1,93,Sector Defensa Nacional,1,False,Fuerza Aeroespacial
+Fuerza que la Patria Milagro,ORG,1,93,Sector Defensa Nacional,1,False,Fuerza que la Patria Milagro
+Fundación Ideas para la Paz,ORG,1,92,Sector Defensa Nacional,1,False,Fundación Ideas para la Paz
+Financiera de Desarrollo Territorial,ORG,1,44,Comportamiento 4. Parálisis operativa,1,False,Financiera de Desarrollo Territorial
+Estudio de Impacto Ambiental,MISC,1,42,Comportamiento 4. Parálisis operativa,1,False,Estudio de Impacto Ambiental
+FENOGE,MISC,1,70,Caso 5. FENOGE,1,True,FENOGE
+FONTUR,ORG,1,74,Caso 12. FONTUR,1,True,FONTUR
+Estado de Cosas Inconstitucional,GPE_LOC,1,106,Sector Justicia y del Derecho,1,False,Estado de Cosas Inconstitucional
+Estado de Derecho,GPE_LOC,1,53,Comportamiento 6. Expansión del riesgo litigioso,1,False,Estado de Derecho
+Estado en Cifras,MISC,1,30,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,Estado en Cifras
+Estado fracasan,GPE_LOC,1,28,Comportamiento 1. Destrucción del rigor técnico,1,False,Estado fracasan
+FonIgualdad,GPE_LOC,1,39,Comportamiento 4. Parálisis operativa,1,True,FonIgualdad
+Fondo Adaptación,ORG,1,36,Comportamiento 4. Parálisis operativa,1,True,Fondo Adaptación
+FRISCO,MISC,1,75,Caso 15. C.I. MEPRECOL S.A.S.,1,False,FRISCO
+FURAG,MISC,1,30,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,FURAG
+Fabio Alberto Arjona Hincapié,PERSON,1,84,Sector Ambiente y Desarrollo Rural,1,False,Fabio Alberto Arjona Hincapié
+Falta,GPE_LOC,1,75,Caso 14. CODALTEC,1,False,Falta
+Familia,GPE_LOC,1,134,Los principios rectores frente a los comportamientos críticos,1,False,Familia
+Fibra Óptica para la Amazonía,ORG,1,121,Sector Tecnologías de la Información y las Comunicaciones,1,False,Fibra Óptica para la Amazonía
+"10,3%",PERCENT,1,105,Sector Interior,1,False,"10,3%"
+0 %,PERCENT,1,102,Sector Inclusión Social y Reconciliación,1,False,0 %
+"0,3 %",PERCENT,1,114,Sector Presidencia de la República,1,False,"0,3 %"
+Empalme Anticorrupción 2026,GPE_LOC,1,9,Gente: La voluntad ciudadana que sostuvo el empalme,1,False,Empalme Anticorrupción 2026
+Empresa de Servicios Públicos de Santa Marta,ORG,1,67,Caso 1. ESSMAR E.S.P.,1,False,Empresa de Servicios Públicos de Santa Marta
+Empresas Sociales del Estado,ORG,1,33,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,Empresas Sociales del Estado
+Findeter,GPE_LOC,1,44,Comportamiento 4. Parálisis operativa,1,False,Findeter
+Flores,GPE_LOC,1,45,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Flores
+$845.453 millones,MONEY,1,95,Sector Deporte,1,False,$845.453 millones
+$856.289 millones,MONEY,1,113,Sector Presidencia de la República,1,False,$856.289 millones
+"$8,31 billones",MONEY,1,118,Sector Salud y Protección Social,1,False,"$8,31 billones"
+"$8,35 billones",MONEY,1,102,Sector Inclusión Social y Reconciliación,1,False,"$8,35 billones"
+$8.127 millones,MONEY,1,106,Sector Justicia y del Derecho,1,False,$8.127 millones
+"$807,55 billones",MONEY,1,106,Sector Justicia y del Derecho,1,False,"$807,55 billones"
+$81.593 millones,MONEY,1,101,Sector Hacienda y Crédito Público,1,False,$81.593 millones
+"$76,5 millones",MONEY,1,46,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,"$76,5 millones"
+$876.845 millones,MONEY,1,33,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,$876.845 millones
+$9.000 millones,MONEY,1,54,Comportamiento 6. Expansión del riesgo litigioso,1,False,$9.000 millones
+$90 millones,MONEY,1,46,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$90 millones
+$998.594 millones,MONEY,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$998.594 millones
+$82.700 millones,MONEY,1,106,Sector Justicia y del Derecho,1,False,$82.700 millones
+$83.144 millones,MONEY,1,90,Sector Cultura,1,False,$83.144 millones
+$83.583 millones,MONEY,1,84,Sector Ambiente y Desarrollo Rural,1,False,$83.583 millones
+$83.742 millones,MONEY,1,28,Comportamiento 1. Destrucción del rigor técnico,1,False,$83.742 millones
+Fondo mujer,ORG,1,26,Comportamiento 1. Destrucción del rigor técnico,1,True,Fondo mujer
+Fondo Mixto de Boyacá,ORG,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,True,Fondo Mixto de Boyacá
+Fondo Mujer Libre y Productiva,ORG,1,114,Sector Presidencia de la República,1,True,Fondo Mujer Libre y Productiva
+Fondo Nacional de Prestaciones Sociales del Magisterio,ORG,1,98,Sector Educación Nacional,1,True,Fondo Nacional de Prestaciones Sociales del Magisterio
+$612.000 millones,MONEY,1,72,Caso 9. Caminos comunitarios para la paz,1,False,$612.000 millones
+$612.350 millones,MONEY,1,114,Sector Presidencia de la República,1,False,$612.350 millones
+$63.767 millones,MONEY,1,42,Comportamiento 4. Parálisis operativa,1,False,$63.767 millones
+$868.694 millones,MONEY,1,84,Sector Ambiente y Desarrollo Rural,1,False,$868.694 millones
+Fondo mujer libre y productiva,ORG,1,26,Comportamiento 1. Destrucción del rigor técnico,1,True,Fondo mujer libre y productiva
+Fondo para la Vida y la Biodiversidad,ORG,1,84,Sector Ambiente y Desarrollo Rural,1,True,Fondo para la Vida y la Biodiversidad
+Fondos Mixtos de Cultura y las Artes de Boyacá,MISC,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Fondos Mixtos de Cultura y las Artes de Boyacá
+Fontur,GPE_LOC,1,88,"Sector Comercio, Industria y Turismo",1,True,Fontur
+Fontur,PERSON,1,89,"Sector Comercio, Industria y Turismo",1,True,Fontur
+Fondo Rotatorio del Ministerio,ORG,1,115,Sector Relaciones Exteriores,1,True,Fondo Rotatorio del Ministerio
+Fondo de Energías No Convencionales y Gestión Eficiente de la Energía,ORG,1,70,Caso 5. FENOGE,1,True,Fondo de Energías No Convencionales y Gestión Eficiente de la Energía
+Fondo de Financiamiento de la Infraestructura Educativa,GPE_LOC,1,97,Sector Educación Nacional,1,True,FFIE
+Glorias del Deporte,MISC,1,95,Sector Deporte,1,False,Glorias del Deporte
+Iván Alfonso Cancino González,PERSON,1,106,Sector Justicia y del Derecho,1,False,Iván Alfonso Cancino González
+Jaime Andrés Beltrán Martínez,PERSON,1,128,"Sector Vivienda, Ciudad y Territorio",1,False,Jaime Andrés Beltrán Martínez
+Jefe de Estado,PERSON,1,5,Carta de Presentación A los colombianos:,1,False,Jefe de Estado
+Jorge Eduardo Mora López,PERSON,1,92,Sector Defensa Nacional,1,False,Jorge Eduardo Mora López
+José Manuel Restrepo Abondano,PERSON,1,7,PRESENTACIÓN DEL LIBRO DE LA VERDAD,1,False,José Manuel Restrepo Abondano
+Juegos Intercolegiados,MISC,1,96,Sector Deporte,1,False,Juegos Intercolegiados
+Juegos Nacionales 2027,MISC,1,96,Sector Deporte,1,False,Juegos Nacionales 2027
+Gobierno Petro,GPE_LOC,1,44,Comportamiento 5. Captura contractual y concentración del poder operativo,1,True,Gobierno Petro
+Gobierno Petro,ORG,1,29,Comportamiento 2. Colapso de la capacidad tecnológica,1,True,Gobierno Petro
+Gobierno nacional,GPE_LOC,1,79,Caso 22. FONIGUALDAD,1,True,Gobierno nacional
+Grupo Bancolombia,ORG,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Grupo Bancolombia
+Galeón San José,MISC,1,91,Sector Cultura,1,False,Galeón San José
+Gerente General,ORG,1,71,Caso 6. Electrohuila,1,False,Gerente General
+Gerente General,PERSON,1,71,Caso 6. Electrohuila,1,False,Gerente General
+Ghana,GPE_LOC,1,116,Sector Relaciones Exteriores,1,False,Ghana
+INRAVISIÓN,MISC,1,121,Sector Tecnologías de la Información y las Comunicaciones,1,False,INRAVISIÓN
+Guavio,GPE_LOC,1,43,Comportamiento 4. Parálisis operativa,1,False,Guavio
+Haití,GPE_LOC,1,116,Sector Relaciones Exteriores,1,False,Haití
+Hiladoras,PERSON,1,26,Comportamiento 1. Destrucción del rigor técnico,1,False,Hiladoras
+Hospital San Juan de Dios,GPE_LOC,1,77,Caso 19. Hospital San Juan de Dios,1,True,Hospital San Juan de Dios
+Hoy Colombia,GPE_LOC,1,128,"Sector Vivienda, Ciudad y Territorio",1,False,Hoy Colombia
+IA,ORG,1,121,Sector Tecnologías de la Información y las Comunicaciones,1,False,IA
+Gobierno Nacional Central,GPE_LOC,1,100,Sector Hacienda y Crédito Público,1,True,Gobierno Nacional Central
+$78.000 millones,MONEY,1,73,Caso 11. Unidad Nacional de Protección (UNP),1,False,$78.000 millones
+Fondo Nacional de Vivienda,ORG,1,42,Comportamiento 4. Parálisis operativa,1,True,Fondo Nacional de Vivienda
+Fondo No Es Hora de Callar,ORG,1,39,Comportamiento 4. Parálisis operativa,1,True,Fondo No Es Hora de Callar
+ICBF,ORG,1,45,Comportamiento 5. Captura contractual y concentración del poder operativo,1,True,ICBF
+ICBF Regional La Guajira,ORG,1,44,Comportamiento 5. Captura contractual y concentración del poder operativo,1,True,ICBF Regional La Guajira
+ICETEX,ORG,1,99,Sector Educación Nacional,1,False,ICETEX
+IGAC,ORG,1,35,Comportamiento 4. Parálisis operativa,1,False,IGAC
+INCM,ORG,1,51,Comportamiento 6. Expansión del riesgo litigioso,1,False,INCM
+$7.835 millones,MONEY,1,50,Comportamiento 6. Expansión del riesgo litigioso,1,False,$7.835 millones
+$712.700 millones,MONEY,1,91,Sector Cultura,1,False,$712.700 millones
+$713.350 millones,MONEY,1,91,Sector Cultura,1,False,$713.350 millones
+$714.000 millones,MONEY,1,37,Comportamiento 4. Parálisis operativa,1,False,$714.000 millones
+"$73,8 billones",MONEY,1,114,Sector Presidencia de la República,1,False,"$73,8 billones"
+$68.500,MONEY,1,74,Caso 12. FONTUR,1,False,$68.500
+$68.500 millones,MONEY,1,74,Caso 12. FONTUR,1,False,$68.500 millones
+$683.000 millones,MONEY,1,122,Sector Tecnologías de la Información y las Comunicaciones,1,False,$683.000 millones
+IRR,ORG,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,IRR
+IVÁN CANCINO GONZÁLEZ,PERSON,1,77,Caso 18. Agencia Nacional de Defensa Jurídica del Estado (ANDJE) — 48 procesos contractuales bajo vigilancia,1,False,IVÁN CANCINO GONZÁLEZ
+$46.339 millones,MONEY,1,64,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,$46.339 millones
+$463 millones,MONEY,1,44,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$463 millones
+$48.000 millones,MONEY,1,51,Comportamiento 6. Expansión del riesgo litigioso,1,False,$48.000 millones
+$7.248.725.386,MONEY,1,34,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,$7.248.725.386
+$7.642 millones,MONEY,1,84,Sector Ambiente y Desarrollo Rural,1,False,$7.642 millones
+$7.665 millones,MONEY,1,124,Sector Trabajo,1,False,$7.665 millones
+Informe de Recursos,ORG,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Informe de Recursos
+Instituciones Prestadoras de Servicios de Salud,MISC,1,117,Sector Salud y Protección Social,1,False,Instituciones Prestadoras de Servicios de Salud
+Instituto Colombiano Agropecuario,GPE_LOC,1,82,Sector Agricultura y desarrollo Rural,1,True,Instituto Colombiano Agropecuario
+Instituto Colombiano de Bienestar Familiar,ORG,1,76,Caso 17. ICBF,1,True,Instituto Colombiano de Bienestar Familiar
+Instituto Nacional Penitenciario y Carcelario,ORG,1,41,Comportamiento 4. Parálisis operativa,1,True,Instituto Nacional Penitenciario y Carcelario
+Instrumentos Públicos,GPE_LOC,1,31,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,Instrumentos Públicos
+INVIMA,ORG,1,118,Sector Salud y Protección Social,1,False,INVIMA
+INVÍAS,ORG,1,126,Sector Transporte,1,True,INVÍAS
+Inteligencia Artificial,MISC,1,38,Comportamiento 4. Parálisis operativa,1,False,Inteligencia Artificial
+Interior y,GPE_LOC,1,104,Sector Interior,1,False,Interior y
+Interior y Gobierno,MISC,1,50,Comportamiento 6. Expansión del riesgo litigioso,1,True,Interior y Gobierno
+Inventario de Compromisos,MISC,1,11,Proceso: La arquitectura metodológica,1,False,Inventario de Compromisos
+Irene Vélez,PERSON,1,72,Caso 7. Páramo de Santurbán,1,False,Irene Vélez
+Irene Vélez Torres,PERSON,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Irene Vélez Torres
+Israel,GPE_LOC,1,88,"Sector Comercio, Industria y Turismo",1,False,Israel
+Industria y,ORG,1,88,"Sector Comercio, Industria y Turismo",1,False,Industria y
+Juntas,MISC,1,72,Caso 9. Caminos comunitarios para la paz,1,False,Juntas
+Juntas de Acción Comunal,ORG,1,72,Caso 9. Caminos comunitarios para la paz,1,False,JAC
+Jurisdicción de lo Contencioso,ORG,1,53,Comportamiento 6. Expansión del riesgo litigioso,1,False,Jurisdicción de lo Contencioso
+Justicia y Derecho,MISC,1,54,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Justicia y Derecho
+Juzgado Quinto Penal,ORG,1,74,Caso 11. Unidad Nacional de Protección (UNP),1,True,Juzgado Quinto Penal
+Ministerio de la Igualdad,GPE_LOC,1,104,Sector Interior,1,True,Ministerio de la Igualdad
+Ministra de Ciencia,GPE_LOC,1,86,"Sector Ciencia, Tecnología e Innovación",1,True,Ministra de Ciencia
+Ministra de Cultura,GPE_LOC,1,90,Sector Cultura,1,True,Ministra de Cultura
+Metodología Estratégica,MISC,1,11,Proceso: La arquitectura metodológica,1,False,Metodología Estratégica
+Libro de aquello que,MISC,1,7,PRESENTACIÓN DEL LIBRO DE LA VERDAD,1,False,Libro de aquello que
+Lilia Tatiana Roa,PERSON,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Lilia Tatiana Roa
+Lima,GPE_LOC,1,95,Sector Deporte,1,False,Lima
+Ley 274 de 2000,LAW,1,27,Comportamiento 1. Destrucción del rigor técnico,1,False,Ley 274 de 2000
+Ley 643 de 2001,LAW,1,59,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Ley 643 de 2001
+Juliana Gutiérrez Zuluaga,PERSON,1,95,Sector Deporte,1,False,Juliana Gutiérrez Zuluaga
+Junta Directiva,ORG,1,71,Caso 6. Electrohuila,1,False,Junta Directiva
+$60.300 millones,MONEY,1,75,Caso 14. CODALTEC,1,False,$60.300 millones
+"$61,1 millones",MONEY,1,46,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,"$61,1 millones"
+Indalecio Dangond Baquero,PERSON,1,81,Sector Agricultura y desarrollo Rural,1,False,Indalecio Dangond Baquero
+Manual de Funciones,MISC,1,27,Comportamiento 1. Destrucción del rigor técnico,1,False,Manual de Funciones
+María Nohemí Arboleda Arango,PERSON,1,108,Sector Minas y Energía,1,False,María Nohemí Arboleda Arango
+Mauricio Gómez Amín,PERSON,1,88,"Sector Comercio, Industria y Turismo",1,False,Mauricio Gómez Amín
+Mayor General,GPE_LOC,1,92,Sector Defensa Nacional,1,False,Mayor General
+Medicamentos,MISC,1,74,"Caso 13. Acuerdo marco para el suministro, adquisición y dispensación de medicamentos II — $3 billones en juego",1,False,Medicamentos
+"$7,04 billones",MONEY,1,113,Sector Presidencia de la República,1,False,"$7,04 billones"
+"$7,22 billones",MONEY,1,117,Sector Salud y Protección Social,1,False,"$7,22 billones"
+$637.035 millones,MONEY,1,95,Sector Deporte,1,False,$637.035 millones
+$641.828 millones,MONEY,1,40,Comportamiento 4. Parálisis operativa,1,False,$641.828 millones
+$653.133 millones,MONEY,1,40,Comportamiento 4. Parálisis operativa,1,False,$653.133 millones
+$669.000 millones,MONEY,1,39,Comportamiento 4. Parálisis operativa,1,False,$669.000 millones
+$669.053 millones,MONEY,1,39,Comportamiento 4. Parálisis operativa,1,False,$669.053 millones
+$6.759 millones,MONEY,1,36,Comportamiento 4. Parálisis operativa,1,False,$6.759 millones
+$557 mil millones,MONEY,1,44,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$557 mil millones
+$56.164 millones,MONEY,1,115,Sector Relaciones Exteriores,1,False,$56.164 millones
+$490.820,MONEY,1,88,"Sector Comercio, Industria y Turismo",1,False,$490.820
+$5 billones,MONEY,1,62,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,$5 billones
+"$5,79 billones",MONEY,1,102,Sector Inclusión Social y Reconciliación,1,False,"$5,79 billones"
+"$5,8 billones",MONEY,1,32,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,"$5,8 billones"
+$5.146.864.213,MONEY,1,34,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,$5.146.864.213
+$5.479 millones,MONEY,1,99,Sector Educación Nacional,1,False,$5.479 millones
+$56.531 millones,MONEY,1,95,Sector Deporte,1,False,$56.531 millones
+"$560,6 millones",MONEY,1,54,Comportamiento 6. Expansión del riesgo litigioso,1,False,"$560,6 millones"
+$568.453 millones,MONEY,1,36,Comportamiento 4. Parálisis operativa,1,False,$568.453 millones
+"$58,7 billones",MONEY,1,125,Sector Trabajo,1,False,"$58,7 billones"
+"$6,39 billones",MONEY,1,124,Sector Trabajo,1,False,"$6,39 billones"
+$50.000 millones,MONEY,1,104,Sector Interior,1,False,$50.000 millones
+$54,MONEY,1,50,Comportamiento 6. Expansión del riesgo litigioso,1,False,$54
+$548.000 millones,MONEY,1,36,Comportamiento 4. Parálisis operativa,1,False,$548.000 millones
+Ministerio de Agricultura,GPE_LOC,1,82,Sector Agricultura y desarrollo Rural,1,True,Ministerio de Agricultura
+Ministerio de Ambiente y Desarrollo Sostenible,GPE_LOC,1,47,Comportamiento 5. Captura contractual y concentración del poder operativo,1,True,Ministerio de Ambiente y Desarrollo Sostenible
+Ministerio de Ciencia,GPE_LOC,1,86,"Sector Ciencia, Tecnología e Innovación",1,True,Ministerio de Ciencia
+Metodología Nacional de Delimitación Progresiva para los Páramos de Colombia,MISC,1,58,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Metodología Nacional de Delimitación Progresiva para los Páramos de Colombia
+Metodologías Operativa,MISC,1,9,Gente: La voluntad ciudadana que sostuvo el empalme,1,False,Metodologías Operativa
+Mi Casa Ya,MISC,1,129,"Sector Vivienda, Ciudad y Territorio",1,False,Mi Casa Ya
+$328.000 millones de pesos,MONEY,1,51,Comportamiento 6. Expansión del riesgo litigioso,1,False,$328.000 millones de pesos
+$33.470 millones,MONEY,1,84,Sector Ambiente y Desarrollo Rural,1,False,$33.470 millones
+Ministra de Minas,GPE_LOC,1,108,Sector Minas y Energía,1,True,Ministra de Minas
+Ministerio de Cultura,GPE_LOC,1,90,Sector Cultura,1,True,Ministerio de Cultura
+Ministerio de Educación,GPE_LOC,1,97,Sector Educación Nacional,1,True,Ministerio de Educación
+Ministerio de Educación Nacional,GPE_LOC,1,46,Comportamiento 5. Captura contractual y concentración del poder operativo,1,True,Ministerio de Educación Nacional
+Ministerio de Igualdad,GPE_LOC,1,78,Caso 22. FONIGUALDAD,1,True,Ministerio de Igualdad
+Ministerio de Relaciones Exteriores,GPE_LOC,1,27,Comportamiento 1. Destrucción del rigor técnico,1,True,Ministerio de Relaciones Exteriores
+MinTIC,MISC,1,43,Comportamiento 4. Parálisis operativa,1,True,MinTIC
+MinVivienda,PERSON,1,35,Comportamiento 4. Parálisis operativa,1,False,MinVivienda
+Ministro del Interior,GPE_LOC,1,104,Sector Interior,1,True,Ministro del Interior
+Ministra de Salud y,GPE_LOC,1,117,Sector Salud y Protección Social,1,True,Ministra de Salud y
+Ministra de Tecnologías de la Información,GPE_LOC,1,120,Sector Tecnologías de la Información y las Comunicaciones,1,True,Ministra de Tecnologías de la Información
+Ministra del Trabajo El Congreso,GPE_LOC,1,123,Sector Trabajo,1,True,Ministra del Trabajo El Congreso
+Ministro de Agricultura,GPE_LOC,1,79,Caso 23. Agencia de Desarrollo Rural (ADR),1,True,Ministro de Agricultura
+Ministro de Agricultura y Desarrollo Rural Protección para la Producción de Alimentos,GPE_LOC,1,81,Sector Agricultura y desarrollo Rural,1,True,Ministro de Agricultura y Desarrollo Rural Protección para la Producción de Alimentos
+Ministro de Ambiente y Desarrollo Sostenible,GPE_LOC,1,84,Sector Ambiente y Desarrollo Rural,1,True,Ministro de Ambiente y Desarrollo Sostenible
+Ministro de Comercio,GPE_LOC,1,88,"Sector Comercio, Industria y Turismo",1,True,Ministro de Comercio
+Mundo Fase 2,MISC,1,54,Comportamiento 6. Expansión del riesgo litigioso,1,False,Mundo Fase 2
+Ministro de Defensa,ORG,1,94,Sector Defensa Nacional,1,True,Ministro de Defensa
+Ministro de Defensa Nacional,ORG,1,92,Sector Defensa Nacional,1,True,Ministro de Defensa Nacional
+Ministro de Hacienda,GPE_LOC,1,100,Sector Hacienda y Crédito Público,1,True,Ministro de Hacienda
+Ministro de Justicia,GPE_LOC,1,77,Caso 18. Agencia Nacional de Defensa Jurídica del Estado (ANDJE) — 48 procesos contractuales bajo vigilancia,1,True,Ministro de Justicia
+Ministro de Justicia y del Derecho,GPE_LOC,1,106,Sector Justicia y del Derecho,1,True,Ministro de Justicia y del Derecho
+Ministro de Relaciones Exteriores nuevo Gobierno,GPE_LOC,1,115,Sector Relaciones Exteriores,1,True,Ministro de Relaciones Exteriores nuevo Gobierno
+Ministro de Vivienda,GPE_LOC,1,128,"Sector Vivienda, Ciudad y Territorio",1,True,Ministro de Vivienda
+México,GPE_LOC,1,28,Comportamiento 1. Destrucción del rigor técnico,1,False,México
+Natalia Eugenia López Fuentes,PERSON,1,123,Sector Trabajo,1,False,Natalia Eugenia López Fuentes
+Nivel 3,MISC,1,88,"Sector Comercio, Industria y Turismo",1,False,Nivel 3
+Ministro del Trabajo,ORG,1,61,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,True,Ministro del Trabajo
+Ministros de este Gobierno,GPE_LOC,1,6,PRESENTACIÓN DEL LIBRO DE LA VERDAD,1,True,Ministros de este Gobierno
+Mojana,GPE_LOC,1,36,Comportamiento 4. Parálisis operativa,1,False,Mojana
+Monterrey,GPE_LOC,1,78,Caso 20. Cancillería,1,False,Monterrey
+Mundo,MISC,1,53,Comportamiento 6. Expansión del riesgo litigioso,1,False,Mundo
+$5.839.396.974,MONEY,1,34,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,$5.839.396.974
+$45.034 millones,MONEY,1,115,Sector Relaciones Exteriores,1,False,$45.034 millones
+$45.060 millones,MONEY,1,104,Sector Interior,1,False,$45.060 millones
+$45.206 millones,MONEY,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$45.206 millones
+$45.770 millones,MONEY,1,114,Sector Presidencia de la República,1,False,$45.770 millones
+Mi Gobierno,PERSON,1,5,Carta de Presentación A los colombianos:,1,True,Mi Gobierno
+Miguel Gómez Martínez,PERSON,1,100,Sector Hacienda y Crédito Público,1,False,Miguel Gómez Martínez
+Museo Nacional,GPE_LOC,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Museo Nacional
+$408.359 millones,MONEY,1,33,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,$408.359 millones
+$408.560 millones,MONEY,1,102,Sector Inclusión Social y Reconciliación,1,False,$408.560 millones
+$43.304 millones,MONEY,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$43.304 millones
+$37.583 millones,MONEY,1,103,Sector Inclusión Social y Reconciliación,1,False,$37.583 millones
+$377.019 millones,MONEY,1,38,Comportamiento 4. Parálisis operativa,1,False,$377.019 millones
+$377.662 millones,MONEY,1,58,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,$377.662 millones
+"$4,41 billones",MONEY,1,102,Sector Inclusión Social y Reconciliación,1,False,"$4,41 billones"
+$34.023 millones,MONEY,1,101,Sector Hacienda y Crédito Público,1,False,$34.023 millones
+Orinoquía,GPE_LOC,1,38,Comportamiento 4. Parálisis operativa,1,False,Orinoquía
+$24.175 millones,MONEY,1,95,Sector Deporte,1,False,$24.175 millones
+$24.240 millones,MONEY,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$24.240 millones
+$245.889 millones,MONEY,1,39,Comportamiento 4. Parálisis operativa,1,False,$245.889 millones
+"$4,81 billones",MONEY,1,117,Sector Salud y Protección Social,1,False,"$4,81 billones"
+$4.000 millones,MONEY,1,44,Comportamiento 4. Parálisis operativa,1,False,$4.000 millones
+"$40,20 billones",MONEY,1,117,Sector Salud y Protección Social,1,False,"$40,20 billones"
+$404 mil millones,MONEY,1,47,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$404 mil millones
+PRESIDENTE DE LA,MISC,1,135,Firmas,1,False,PRESIDENTE DE LA
+Paloma Valencia,PERSON,1,45,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Paloma Valencia
+OIT,ORG,1,60,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,OIT
+Observación Administrativa No,MISC,1,34,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,Observación Administrativa No
+Oficial de Protección,MISC,1,28,Comportamiento 1. Destrucción del rigor técnico,1,False,Oficial de Protección
+Oficina de Instrumentos Públicos,ORG,1,81,Sector Agricultura y desarrollo Rural,1,False,Oficina de Instrumentos Públicos
+Oil & Gas,ORG,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Oil & Gas
+Omar Nicolás Bula Escobar,PERSON,1,115,Sector Relaciones Exteriores,1,False,Omar Nicolás Bula Escobar
+Panamá,GPE_LOC,1,96,Sector Deporte,1,False,Panamá
+Paola Holguín,PERSON,1,90,Sector Cultura,1,False,Paola Holguín
+Parque del Jazz de Mompox,GPE_LOC,1,91,Sector Cultura,1,False,Parque del Jazz de Mompox
+Patria; Extrema Coherencia,MISC,1,132,De los valores presidenciales a los principios de gobierno,1,False,Patria; Extrema Coherencia
+Patrimonio Autónomo del,ORG,1,46,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Patrimonio Autónomo del
+PA-,GPE_LOC,1,46,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,PA-
+PDET,GPE_LOC,1,113,Sector Presidencia de la República,1,False,PDET
+PLENO PROCESO CONTRACTUAL DE,MISC,1,70,Caso 5. FENOGE,1,False,PLENO PROCESO CONTRACTUAL DE
+Plan Bienal de Caja,ORG,1,65,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,PBC
+Plan Hidrosedimentológico,MISC,1,42,Comportamiento 4. Parálisis operativa,1,False,Plan Hidrosedimentológico
+Plan Nacional de Desarrollo,MISC,1,37,Comportamiento 4. Parálisis operativa,1,False,Plan Nacional de Desarrollo
+Plan Nacional de Formación Integral,MISC,1,47,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Plan Nacional de Formación Integral
+Plan Nacional de Formación Integral,ORG,1,47,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,PNFI
+Plan Nacional de Música,MISC,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Plan Nacional de Música
+Plan de Modernización,MISC,1,100,Sector Hacienda y Crédito Público,1,False,Plan de Modernización
+RenHacemos,GPE_LOC,1,113,Sector Presidencia de la República,1,False,RenHacemos
+Plan de Modernización Tecnológica,MISC,1,29,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,Plan de Modernización Tecnológica
+Planeación,MISC,1,44,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Planeación
+Planta de Personal,MISC,1,28,Comportamiento 1. Destrucción del rigor técnico,1,False,Planta de Personal
+Policía,ORG,1,93,Sector Defensa Nacional,1,True,Policía
+Policía Nacional,ORG,1,92,Sector Defensa Nacional,1,True,Policía Nacional
+Portafolio Cultural Internacional Colombia,MISC,1,54,Comportamiento 6. Expansión del riesgo litigioso,1,False,Portafolio Cultural Internacional Colombia
+Portafolio Cultural Internacional Colombia,ORG,1,53,Comportamiento 6. Expansión del riesgo litigioso,1,False,Portafolio Cultural Internacional Colombia
+Plan Bienal de Caja,MISC,1,65,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,Plan Bienal de Caja
+Primero,PERSON,1,132,De los valores presidenciales a los principios de gobierno,1,False,Primero
+Priorizadas,GPE_LOC,1,73,Caso 11. Unidad Nacional de Protección (UNP),1,False,Priorizadas
+Pro- curaduría General de la Nación,ORG,1,68,Caso 1. ESSMAR E.S.P.,1,False,Pro- curaduría General de la Nación
+Procuraduría,GPE_LOC,1,45,Comportamiento 5. Captura contractual y concentración del poder operativo,1,True,Procuraduría
+Portafolio Nacional de Estímulos,MISC,1,53,Comportamiento 6. Expansión del riesgo litigioso,1,False,Portafolio Nacional de Estímulos
+Portafolio de Estímulos y,PERSON,1,53,Comportamiento 6. Expansión del riesgo litigioso,1,False,Portafolio de Estímulos y
+Portafolio para la Dinamización de los Espacios Culturales,MISC,1,53,Comportamiento 6. Expansión del riesgo litigioso,1,False,Portafolio para la Dinamización de los Espacios Culturales
+Presidencia,GENERIC,1,113,Sector Presidencia de la República,1,False,Presidencia
+$343 millones,MONEY,1,77,Caso 19. Hospital San Juan de Dios,1,False,$343 millones
+$346.320 millones,MONEY,1,90,Sector Cultura,1,False,$346.320 millones
+$348.000 millones,MONEY,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$348.000 millones
+$35.810 millones,MONEY,1,90,Sector Cultura,1,False,$35.810 millones
+$328 mil millones,MONEY,1,51,Comportamiento 6. Expansión del riesgo litigioso,1,False,$328 mil millones
+$328 mil millones de pesos,MONEY,1,52,Comportamiento 6. Expansión del riesgo litigioso,1,False,$328 mil millones de pesos
+OCAD de CTeI,GPE_LOC,1,69,"Caso 3. OCAD de ciencia, tecnología e innovación",1,True,OCAD de CTeI
+OCAD-FCTeI,MISC,1,87,"Sector Ciencia, Tecnología e Innovación",1,True,OCAD-FCTeI
+Santanderes,GPE_LOC,1,59,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Santanderes
+Sección,ORG,1,88,"Sector Comercio, Industria y Turismo",1,False,Sección
+Secretaría General,ORG,1,76,Caso 17. ICBF,1,False,Secretaría General
+Sector,GENERIC,1,91,Sector Cultura,1,False,Sector
+Sector Defensa,GPE_LOC,1,93,Sector Defensa Nacional,1,False,Sector Defensa
+Sacyr,ORG,1,42,Comportamiento 4. Parálisis operativa,1,False,Sacyr
+Salud y Protección Social; Relaciones Exteriores; Justicia y Derecho; Ambiente y Desarrollo Sostenible; Vivienda,MISC,1,35,Comportamiento 4. Parálisis operativa,1,False,Salud y Protección Social; Relaciones Exteriores; Justicia y Derecho; Ambiente y Desarrollo Sostenible; Vivienda
+Sandra Suárez Pérez,PERSON,1,102,Sector Inclusión Social y Reconciliación,1,False,Sandra Suárez Pérez
+Puerto Leguízamo,GPE_LOC,1,93,Sector Defensa Nacional,1,False,Puerto Leguízamo
+Procuraduría Regional del Huila,GPE_LOC,1,71,Caso 6. Electrohuila,1,True,Procuraduría Regional del Huila
+Programa Anual,MISC,1,102,Sector Inclusión Social y Reconciliación,1,False,Programa Anual
+Programa Colombia Solar,ORG,1,70,Caso 5. FENOGE,1,False,Programa Colombia Solar
+Programa Nacional Integral de Sustitución de Cultivos Ilícitos,MISC,1,113,Sector Presidencia de la República,1,False,Programa Nacional Integral de Sustitución de Cultivos Ilícitos
+Programa Nacional de Estímulos,MISC,1,90,Sector Cultura,1,False,Programa Nacional de Estímulos
+Programa de Alimentación Escolar,MISC,1,98,Sector Educación Nacional,1,False,Programa de Alimentación Escolar
+Programa de Desarrollo con Enfoque Territorial,MISC,1,113,Sector Presidencia de la República,1,False,Programa de Desarrollo con Enfoque Territorial
+Registro Único de Víctimas,ORG,1,102,Sector Inclusión Social y Reconciliación,1,False,Registro Único de Víctimas
+Región Caribe,GPE_LOC,1,36,Comportamiento 4. Parálisis operativa,1,False,Región Caribe
+Prosperidad Social,ORG,1,102,Sector Inclusión Social y Reconciliación,1,True,Prosperidad Social
+Prosperidad Social,PERSON,1,103,Sector Inclusión Social y Reconciliación,1,True,Prosperidad Social
+Protección Social,ORG,1,117,Sector Salud y Protección Social,1,False,Protección Social
+Proyectos de Inversión Social,MISC,1,40,Comportamiento 4. Parálisis operativa,1,False,Proyectos de Inversión Social
+Pueblo Nuevo,GPE_LOC,1,56,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Pueblo Nuevo
+Puerto Gaitán,GPE_LOC,1,56,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Puerto Gaitán
+República de Colombia Gobernar,GPE_LOC,1,5,Carta de Presentación A los colombianos:,1,False,República de Colombia Gobernar
+Reservas 2025,GPE_LOC,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Reservas 2025
+Resolución 0341 de 2026,LAW,1,27,Comportamiento 1. Destrucción del rigor técnico,1,False,Resolución 0341 de 2026
+Resolución 0478,LAW,1,68,Caso 2. DAPRE,1,False,Resolución 0478
+Páramo de Santurbán,GPE_LOC,1,58,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Páramo de Santurbán
+Radio Televisión Nacional de Colombia,ORG,1,34,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,Radio Televisión Nacional de Colombia
+Recuperarla,GPE_LOC,1,126,Sector Transporte,1,False,Recuperarla
+Reforma Agraria,MISC,1,72,Caso 8. Reforma agraria,1,False,Reforma Agraria
+"$3,65 billones",MONEY,1,102,Sector Inclusión Social y Reconciliación,1,False,"$3,65 billones"
+$3.448.725.386,MONEY,1,34,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,$3.448.725.386
+$3.800.000.000,MONEY,1,34,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,$3.800.000.000
+$25.016 millones,MONEY,1,60,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,$25.016 millones
+$250.000 millones,MONEY,1,58,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,$250.000 millones
+$265.487 millones,MONEY,1,90,Sector Cultura,1,False,$265.487 millones
+$280.000 millones,MONEY,1,51,Comportamiento 6. Expansión del riesgo litigioso,1,False,$280.000 millones
+$282.990 millones,MONEY,1,113,Sector Presidencia de la República,1,False,$282.990 millones
+$310 mil millones,MONEY,1,29,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,$310 mil millones
+$310 mil millones de pesos,MONEY,1,29,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,$310 mil millones de pesos
+$310.000 millones,MONEY,1,100,Sector Hacienda y Crédito Público,1,False,$310.000 millones
+$310.000 millones de pesos,MONEY,1,30,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,$310.000 millones de pesos
+"$32,88 billones",MONEY,1,62,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,"$32,88 billones"
+$324.829 millones,MONEY,1,124,Sector Trabajo,1,False,$324.829 millones
+"$294,5 billones",MONEY,1,100,Sector Hacienda y Crédito Público,1,False,"$294,5 billones"
+"$3,23 billones",MONEY,1,118,Sector Salud y Protección Social,1,False,"$3,23 billones"
+Resolución 1866,LAW,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Resolución 1866
+Resolución 407,LAW,1,79,Caso 23. Agencia de Desarrollo Rural (ADR),1,False,Resolución 407
+$2 billones,MONEY,1,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,$2 billones
+"$2,01 billones",MONEY,1,39,Comportamiento 4. Parálisis operativa,1,False,"$2,01 billones"
+"$2,02 billones",MONEY,1,118,Sector Salud y Protección Social,1,False,"$2,02 billones"
+"$2,05 billones",MONEY,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,"$2,05 billones"
+$30.000 millones,MONEY,1,64,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,$30.000 millones
+$300.000 millones,MONEY,1,73,Caso 10. Servicios de ciberseguridad,1,False,$300.000 millones
+Santa Marta,GPE_LOC,1,68,Caso 1. ESSMAR E.S.P.,1,False,Santa Marta
+Rosario,GPE_LOC,1,84,Sector Ambiente y Desarrollo Rural,1,False,Rosario
+S.A.S,ORG,1,69,Caso 4. CENIT,1,False,S.A.S
+SIGEP,ORG,1,31,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,SIGEP
+SIGEP II,MISC,1,30,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,SIGEP II
+SIIF,MISC,1,39,Comportamiento 4. Parálisis operativa,1,False,SIIF
+SIIF Nación II,MISC,1,35,Comportamiento 4. Parálisis operativa,1,False,SIIF Nación II
+Resolución 1339,LAW,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Resolución 1339
+$219.859 millones,MONEY,1,124,Sector Trabajo,1,False,$219.859 millones
+$223.988 millones,MONEY,1,36,Comportamiento 4. Parálisis operativa,1,False,$223.988 millones
+"$2,79 billones",MONEY,1,113,Sector Presidencia de la República,1,False,"$2,79 billones"
+$2.051 millones,MONEY,1,39,Comportamiento 4. Parálisis operativa,1,False,$2.051 millones
+$2.121 millones,MONEY,1,84,Sector Ambiente y Desarrollo Rural,1,False,$2.121 millones
+$2.289 millones,MONEY,1,72,Caso 9. Caminos comunitarios para la paz,1,False,$2.289 millones
+$2.342.334.238,MONEY,1,34,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,$2.342.334.238
+"$2,33 billones",MONEY,1,103,Sector Inclusión Social y Reconciliación,1,False,"$2,33 billones"
+Sector Presidencia,GPE_LOC,1,35,Comportamiento 4. Parálisis operativa,1,True,Sector Presidencia
+Sector TIC,GPE_LOC,1,121,Sector Tecnologías de la Información y las Comunicaciones,1,False,Sector TIC
+Sector de la Inclusión Social y Reconciliación,GPE_LOC,1,102,Sector Inclusión Social y Reconciliación,1,False,Sector de la Inclusión Social y Reconciliación
+"$14,87 billones",MONEY,1,62,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,"$14,87 billones"
+$20.000 millones,MONEY,1,93,Sector Defensa Nacional,1,False,$20.000 millones
+$208.417 millones,MONEY,1,95,Sector Deporte,1,False,$208.417 millones
+$21.000 millones,MONEY,1,95,Sector Deporte,1,False,$21.000 millones
+$213.460 millones,MONEY,1,115,Sector Relaciones Exteriores,1,False,$213.460 millones
+Superintendencia del Subsidio Familiar,ORG,1,61,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,True,Superintendencia del Subsidio Familiar
+Superintendentes de la Superintendencia Financiera,GPE_LOC,1,28,Comportamiento 1. Destrucción del rigor técnico,1,True,Superintendentes de la Superintendencia Financiera
+Sistema Nacional del Deporte,GPE_LOC,1,64,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,Sistema Nacional del Deporte
+Sistema de Parques Nacionales,GPE_LOC,1,84,Sector Ambiente y Desarrollo Rural,1,True,Sistema de Parques Nacionales
+Servicio Público de Empleo,ORG,1,124,Sector Trabajo,1,False,Servicio Público de Empleo
+Servicios Aéreos Esenciales,MISC,1,126,Sector Transporte,1,False,Servicios Aéreos Esenciales
+Servicios Postales Nacionales S.A,MISC,1,121,Sector Tecnologías de la Información y las Comunicaciones,1,False,Servicios Postales Nacionales S.A
+Sector Defensa,ORG,1,92,Sector Defensa Nacional,1,False,Sector Defensa
+"$292,9 billones",MONEY,1,100,Sector Hacienda y Crédito Público,1,False,"$292,9 billones"
+$23.701 millones,MONEY,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$23.701 millones
+$234.399 millones,MONEY,1,43,Comportamiento 4. Parálisis operativa,1,False,$234.399 millones
+$238.000 millones,MONEY,1,50,Comportamiento 6. Expansión del riesgo litigioso,1,False,$238.000 millones
+Rigor y,MISC,1,3,Contenido,1,False,Rigor y
+Rodrigo Lara Restrepo,PERSON,1,104,Sector Interior,1,False,Rodrigo Lara Restrepo
+Superintendencia de Servicios Públicos,ORG,1,129,"Sector Vivienda, Ciudad y Territorio",1,True,Superintendencia de Servicios Públicos
+Superintendencia de Servicios Públicos Domiciliarios-,ORG,1,67,Caso 1. ESSMAR E.S.P.,1,True,Superintendencia de Servicios Públicos Domiciliarios-
+Transferencias,PERSON,1,39,Comportamiento 4. Parálisis operativa,1,False,Transferencias
+Transporte,GENERIC,1,126,Sector Transporte,1,False,Transporte
+Susana Muhamad,PERSON,1,72,Caso 7. Páramo de Santurbán,1,False,Susana Muhamad
+TSG The IT Experts,ORG,1,79,Caso 22. FONIGUALDAD,1,False,TSG The IT Experts
+Tecnología e Innovación Solo,MISC,1,86,"Sector Ciencia, Tecnología e Innovación",1,False,Tecnología e Innovación Solo
+Territorios,MISC,1,26,Comportamiento 1. Destrucción del rigor técnico,1,False,Territorios
+Unidad de Servicios Penitenciarios,ORG,1,41,Comportamiento 4. Parálisis operativa,1,True,Unidad de Servicios Penitenciarios
+Unidad para las Víctimas,ORG,1,102,Sector Inclusión Social y Reconciliación,1,True,Unidad para las Víctimas
+Travel Advisory,ORG,1,88,"Sector Comercio, Industria y Turismo",1,False,Travel Advisory
+Trazabilidad del mineral,MISC,1,111,Sector Minas y Energía,1,False,Trazabilidad del mineral
+Turismo; Cultura,GPE_LOC,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Turismo; Cultura
+Turismo; Salud y Protección Social,GPE_LOC,1,31,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,Turismo; Salud y Protección Social
+Teveandina Ltda,GPE_LOC,1,76,Caso 16. Canal Trece,1,False,Teveandina Ltda
+Tolima,GPE_LOC,1,56,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,Tolima
+Total,MISC,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Total
+Transferencia Estratégica,ORG,1,3,Contenido,1,False,Transferencia Estratégica
+Servicio,MISC,1,132,De los valores presidenciales a los principios de gobierno,1,False,Servicio
+UAS,ORG,1,30,Comportamiento 2. Colapso de la capacidad tecnológica,1,False,UAS
+UH-,GPE_LOC,1,92,Sector Defensa Nacional,1,False,UH-
+UH-60,MISC,1,54,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,UH-60
+UIS,ORG,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,UIS
+UNGRD,MISC,1,35,Comportamiento 4. Parálisis operativa,1,True,UNGRD
+Transporte e Infraestructura,MISC,1,50,Comportamiento 6. Expansión del riesgo litigioso,1,False,Transporte e Infraestructura
+Transporte e Infraestructura; Ciencia,GPE_LOC,1,35,Comportamiento 4. Parálisis operativa,1,False,Transporte e Infraestructura; Ciencia
+"$2,59 billones",MONEY,1,58,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,"$2,59 billones"
+"$2,69 billones",MONEY,1,58,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,"$2,69 billones"
+"$2,7 billones de pesos",MONEY,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,"$2,7 billones de pesos"
+$189.535 millones,MONEY,1,124,Sector Trabajo,1,False,$189.535 millones
+$19.195 millones,MONEY,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,$19.195 millones
+$19.996 millones,MONEY,1,100,Sector Hacienda y Crédito Público,1,False,$19.996 millones
+Sentencia C-208 de 2007,LAW,1,60,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,Sentencia C-208 de 2007
+Sentencia T-302 de 2017,LAW,1,44,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Sentencia T-302 de 2017
+com,ORG,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,com
+Verdad y transparencia,MISC,1,132,De los valores presidenciales a los principios de gobierno,1,False,Verdad y transparencia
+Vicepresidencia,GPE_LOC,1,26,Comportamiento 1. Destrucción del rigor técnico,1,True,Vicepresidencia
+Vicepresidencia Jurídica,ORG,1,70,Caso 4. CENIT,1,True,Vicepresidencia Jurídica
+https://blog.bancolombia,MISC,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,https://blog.bancolombia
+https://www.anh.gov.co/es/noticias/colombia-mantiene-estables-sus-reservas-de-petroleo-y-gas-y-fortalece-su-seguridad-energetica/,GPE_LOC,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,True,https://www.anh.gov.co/es/noticias/colombia-mantiene-estables-sus-reservas-de-petroleo-y-gas-y-fortalece-su-seguridad-energetica/
+juegopierden,GPE_LOC,1,51,Comportamiento 6. Expansión del riesgo litigioso,1,False,juegopierden
+"$1,95 billones",MONEY,1,98,Sector Educación Nacional,1,False,"$1,95 billones"
+decreto 1099,LAW,1,104,Sector Interior,1,False,decreto 1099
+entre 2019 y 2024,DATE,1,100,Sector Hacienda y Crédito Público,1,False,entre 2019 y 2024
+entre 2020 y 2025,DATE,1,63,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,entre 2020 y 2025
+XM,ORG,1,43,Comportamiento 4. Parálisis operativa,1,False,XM
+ZOMAC,GPE_LOC,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,ZOMAC
+Zipaquirá,GPE_LOC,1,44,Comportamiento 4. Parálisis operativa,1,False,Zipaquirá
+abril de 2025,DATE,1,118,Sector Salud y Protección Social,1,False,abril de 2025
+capítulos precedentes de este,MISC,1,132,Introducción del capítulo,1,False,capítulos precedentes de este
+UPTC,GPE_LOC,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,UPTC
+US$660 millones,MONEY,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,US$660 millones
+USD 100.385,MONEY,1,116,Sector Relaciones Exteriores,1,False,USD 100.385
+entre 2022 y 2023,DATE,1,55,Comportamiento 7. Pérdida de control territorial frente a economías criminales,1,False,entre 2022 y 2023
+entre agosto de 2025 y enero de 2026,DATE,1,28,Comportamiento 1. Destrucción del rigor técnico,1,False,entre agosto de 2025 y enero de 2026
+entre diciembre de 2022 y junio de 2026,DATE,1,117,Sector Salud y Protección Social,1,False,entre diciembre de 2022 y junio de 2026
+$1 billón de pesos,MONEY,1,72,Caso 8. Reforma agraria,1,False,$1 billón de pesos
+contratos de prestación de servicios,MISC,1,62,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,CPS
+$146.449 millones,MONEY,1,124,Sector Trabajo,1,False,$146.449 millones
+$148.013 millones,MONEY,1,114,Sector Presidencia de la República,1,False,$148.013 millones
+$148.530 millones,MONEY,1,58,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,$148.530 millones
+"$15,1 billones",MONEY,1,65,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),1,False,"$15,1 billones"
+"$15,24 billones",MONEY,1,117,Sector Salud y Protección Social,1,False,"$15,24 billones"
+$150.000.000.000,MONEY,1,51,Comportamiento 6. Expansión del riesgo litigioso,1,False,$150.000.000.000
+$123 mil millones de pesos,MONEY,1,39,Comportamiento 4. Parálisis operativa,1,False,$123 mil millones de pesos
+UPC del 2024,ORG,1,118,Sector Salud y Protección Social,1,False,UPC del 2024
+"$1,7 billones",MONEY,1,47,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,"$1,7 billones"
+3316-2025,DATE,1,34,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,3316-2025
+"34,5 %",PERCENT,1,107,Sector Justicia y del Derecho,1,False,"34,5 %"
+36 %,PERCENT,1,124,Sector Trabajo,1,False,36 %
+"37,3 %",PERCENT,1,126,Sector Transporte,1,False,"37,3 %"
+62%,PERCENT,1,49,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,62%
+"65,6%",PERCENT,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,"65,6%"
+"67,1%",PERCENT,1,122,Sector Tecnologías de la Información y las Comunicaciones,1,False,"67,1%"
+santa marta,GPE_LOC,1,67,Caso 1. ESSMAR E.S.P.,1,False,santa marta
+septiembre de 2026,DATE,1,104,Sector Interior,1,False,septiembre de 2026
+junio de 2023,DATE,1,42,Comportamiento 4. Parálisis operativa,1,False,junio de 2023
+lascomunidades,PERSON,1,47,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,lascomunidades
+ley 2466 de 2025,LAW,1,123,Sector Trabajo,1,False,ley 2466 de 2025
+noviembre de 2022,DATE,1,57,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,1,False,noviembre de 2022
+estadio de Neiva,GPE_LOC,1,95,Sector Deporte,1,False,estadio de Neiva
+exigencia de cuentas claras,MISC,1,112,Sector Minas y Energía,1,False,exigencia de cuentas claras
+¿Por,MISC,1,84,Sector Ambiente y Desarrollo Rural,1,False,¿Por
+Ángeles,GPE_LOC,1,95,Sector Deporte,1,False,Ángeles
+Áreas,MISC,1,81,Sector Agricultura y desarrollo Rural,1,False,Áreas
+Órgano Colegiado de Administración,ORG,1,69,"Caso 3. OCAD de ciencia, tecnología e innovación",1,False,Órgano Colegiado de Administración
+"$1,19 billones",MONEY,1,118,Sector Salud y Protección Social,1,False,"$1,19 billones"
+octubre de 2026,DATE,1,42,Comportamiento 4. Parálisis operativa,1,False,octubre de 2026
+páramo de Santurbán,GPE_LOC,1,71,Caso 7. Páramo de Santurbán,1,False,páramo de Santurbán
+regalías ambientales son plata,MISC,1,48,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,regalías ambientales son plata
+$1.000 millones,MONEY,1,106,Sector Justicia y del Derecho,1,False,$1.000 millones
+"$1,29 billones",MONEY,1,36,Comportamiento 4. Parálisis operativa,1,False,"$1,29 billones"
+"$1,37 billones",MONEY,1,90,Sector Cultura,1,False,"$1,37 billones"
+Viviane Aleyda Morales Hoyos,PERSON,1,97,Sector Educación Nacional,1,False,Viviane Aleyda Morales Hoyos
+Vivienda,GENERIC,1,31,Comportamiento 3. Opacidad y distorsión de la información pública,1,False,Vivienda
+Wayúu,MISC,1,45,Comportamiento 5. Captura contractual y concentración del poder operativo,1,False,Wayúu
+tierra,GPE_LOC,1,83,Sector Agricultura y desarrollo Rural,1,False,tierra
+zaherida,PERSON,1,5,Carta de Presentación A los colombianos:,1,False,zaherida

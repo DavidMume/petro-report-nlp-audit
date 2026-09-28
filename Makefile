@@ -1,29 +1,32 @@
-.PHONY: help venv install extract corpus nlp claims validation charts report all clean test
+.PHONY: help venv install extract corpus nlp claims validation authorship charts web-data report web all clean test lock
 
 PYTHON := .venv/bin/python
 PIP := .venv/bin/pip
 
 help:
 	@echo "Targets:"
-	@echo "  venv        - create virtual environment"
-	@echo "  install     - install dependencies into .venv"
-	@echo "  extract     - extract raw PDF into paragraph/sentence-level text"
-	@echo "  corpus      - build the structured corpus (parquet/csv)"
-	@echo "  nlp         - run exploratory NLP (frequencies, TF-IDF, NER, topics)"
-	@echo "  claims      - run claim extraction"
-	@echo "  validation  - run claim validation against external evidence"
-	@echo "  charts      - regenerate all visualisations from outputs"
-	@echo "  report      - assemble final output tables/reports"
-	@echo "  all         - run the full pipeline end-to-end"
+	@echo "  install     - create .venv, install pinned dependencies + Spanish spaCy model"
+	@echo "  extract     - PDF -> block-level pages (PyMuPDF -> pdfplumber -> OCR), verifies SHA-256"
+	@echo "  corpus      - structured corpus (sentences/paragraphs/sections)"
+	@echo "  nlp         - frequencies, TF-IDF, n-grams, NER, networks, topics, embeddings, framing"
+	@echo "  claims      - rule-assisted claim candidates + numeric claims + causal review table"
+	@echo "  validation  - integrity checks on curated evidence/assessments + merged views"
+	@echo "  authorship  - exploratory stylometry / linguistic provenance"
+	@echo "  charts      - regenerate outputs/charts/*.png and outputs/data_manifest.json"
+	@echo "  web-data    - export JSON for the web app (web/public/data)"
+	@echo "  web         - build the web app (needs node)"
+	@echo "  all         - full pipeline, extract -> web-data"
 	@echo "  test        - run the test suite"
-	@echo "  clean       - remove interim/processed derived files (not data/raw)"
 
 venv:
 	python3 -m venv .venv
 
 install: venv
 	$(PIP) install --upgrade pip
-	$(PIP) install -r requirements.txt
+	$(PIP) install -r requirements.lock   # includes es_core_news_lg by URL
+
+lock:
+	$(PIP) freeze --exclude-editable > requirements.lock
 
 extract:
 	$(PYTHON) scripts/extract_document.py
@@ -40,17 +43,25 @@ claims:
 validation:
 	$(PYTHON) scripts/validate_claims.py
 
+authorship:
+	$(PYTHON) scripts/run_authorship.py
+
 charts:
 	$(PYTHON) scripts/build_outputs.py
 
-report: charts
+web-data:
+	$(PYTHON) scripts/export_web_data.py
 
-all: extract corpus nlp claims validation charts report
+report: charts web-data
+
+web: web-data
+	cd web && npm install && npm run build
+
+all: extract corpus nlp claims validation authorship charts web-data
 
 test:
-	$(PYTHON) -m pytest -v
+	$(PYTHON) -m pytest -q
 
 clean:
-	rm -rf data/interim/* data/processed/*
-	rm -rf outputs/tables/* outputs/charts/* outputs/networks/* outputs/reports/*
+	rm -rf data/interim/*.jsonl data/interim/*.npy data/interim/tables
 	find . -name "__pycache__" -not -path "./.venv/*" -exec rm -rf {} +

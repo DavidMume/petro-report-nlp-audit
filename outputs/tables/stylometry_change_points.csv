@@ -1,0 +1,7 @@
+break_before_segment,pages,chapter,section,coincides_with_chapter_boundary,n_configs_detected,n_configs,robust
+G004,14-20,II. Comportamientos críticos nocivos para el Estado,Introducción del capítulo,True,2,12,False
+G006,26-27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,False,1,12,False
+G007,28-29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,False,1,12,False
+G030,67-68,III. Hallazgos en materia de corrupción y balance de acciones,Introducción del capítulo,True,4,12,False
+G037,81-82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,True,4,12,False
+G056,118-121,IV. Balance sectorial,Sector Salud y Protección Social,False,1,12,False

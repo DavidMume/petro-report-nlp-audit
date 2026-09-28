@@ -1,0 +1,11 @@
+# Conda alternative to `make install`. Exact Python-package pins live in requirements.lock.
+name: petro-report-nlp-audit
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - tesseract          # OCR for image-only pages / figures (install Spanish traineddata: tesseract-ocr-spa)
+  - nodejs=22          # web app build
+  - pip
+  - pip:
+      - -r requirements.lock

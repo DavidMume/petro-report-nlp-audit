@@ -1,0 +1,73 @@
+chapter,term,tfidf
+0. Preliminares,gobernar,0.1122
+0. Preliminares,verdad,0.1085
+0. Preliminares,cuerpo,0.1052
+0. Preliminares,lesionar,0.1052
+0. Preliminares,hecho,0.1029
+0. Preliminares,capítulo,0.0937
+0. Preliminares,libro,0.0937
+0. Preliminares,gobierno,0.091
+0. Preliminares,república,0.0888
+0. Preliminares,estado,0.0881
+0. Preliminares,anticorrupción,0.0879
+0. Preliminares,manejar,0.0862
+I. Proceso metodológico del empalme,voluntario,0.148
+I. Proceso metodológico del empalme,consolidación,0.1254
+I. Proceso metodológico del empalme,comprensión,0.1254
+I. Proceso metodológico del empalme,metodología,0.113
+I. Proceso metodológico del empalme,especializado,0.1028
+I. Proceso metodológico del empalme,funcional,0.1028
+I. Proceso metodológico del empalme,inteligencia,0.1024
+I. Proceso metodológico del empalme,explícito,0.1008
+I. Proceso metodológico del empalme,lineamiento,0.1008
+I. Proceso metodológico del empalme,artificial,0.098
+I. Proceso metodológico del empalme,plataforma,0.0929
+I. Proceso metodológico del empalme,empalme,0.083
+II. Comportamientos críticos nocivos para el Estado,billón,0.0593
+II. Comportamientos críticos nocivos para el Estado,millón,0.0565
+II. Comportamientos críticos nocivos para el Estado,salud,0.0502
+II. Comportamientos críticos nocivos para el Estado,decreto,0.0483
+II. Comportamientos críticos nocivos para el Estado,cerca,0.0475
+II. Comportamientos críticos nocivos para el Estado,total,0.0471
+II. Comportamientos críticos nocivos para el Estado,ministerio,0.0457
+II. Comportamientos críticos nocivos para el Estado,dejar,0.0451
+II. Comportamientos críticos nocivos para el Estado,campetrol,0.0435
+II. Comportamientos críticos nocivos para el Estado,financiar,0.0434
+II. Comportamientos críticos nocivos para el Estado,programa,0.0423
+II. Comportamientos críticos nocivos para el Estado,patrón,0.0421
+III. Hallazgos en materia de corrupción y balance de acciones,millón,0.0788
+III. Hallazgos en materia de corrupción y balance de acciones,actuación,0.0764
+III. Hallazgos en materia de corrupción y balance de acciones,élite,0.0747
+III. Hallazgos en materia de corrupción y balance de acciones,relacionado,0.0737
+III. Hallazgos en materia de corrupción y balance de acciones,disciplinario,0.0737
+III. Hallazgos en materia de corrupción y balance de acciones,circunstancia,0.0708
+III. Hallazgos en materia de corrupción y balance de acciones,objeto,0.0681
+III. Hallazgos en materia de corrupción y balance de acciones,correspondiente,0.068
+III. Hallazgos en materia de corrupción y balance de acciones,procuraduría,0.068
+III. Hallazgos en materia de corrupción y balance de acciones,presentar,0.0655
+III. Hallazgos en materia de corrupción y balance de acciones,adquisición,0.0652
+III. Hallazgos en materia de corrupción y balance de acciones,julio,0.0651
+IV. Balance sectorial,billón,0.0601
+IV. Balance sectorial,millón,0.0562
+IV. Balance sectorial,cerca,0.0503
+IV. Balance sectorial,salud,0.0503
+IV. Balance sectorial,decreto,0.047
+IV. Balance sectorial,problema,0.0458
+IV. Balance sectorial,ministerio,0.0455
+IV. Balance sectorial,dejar,0.0452
+IV. Balance sectorial,vivienda,0.0452
+IV. Balance sectorial,enfrentar,0.0445
+IV. Balance sectorial,extracción,0.0436
+IV. Balance sectorial,proyecto,0.0428
+V. Principios de Gobierno de la Patria Milagro,gobernar,0.1344
+V. Principios de Gobierno de la Patria Milagro,milagro,0.1344
+V. Principios de Gobierno de la Patria Milagro,libertad,0.1299
+V. Principios de Gobierno de la Patria Milagro,rector,0.1299
+V. Principios de Gobierno de la Patria Milagro,patria,0.1284
+V. Principios de Gobierno de la Patria Milagro,dignidad,0.1045
+V. Principios de Gobierno de la Patria Milagro,común,0.1045
+V. Principios de Gobierno de la Patria Milagro,fundamento,0.1045
+V. Principios de Gobierno de la Patria Milagro,cohesión,0.1028
+V. Principios de Gobierno de la Patria Milagro,núcleo,0.1028
+V. Principios de Gobierno de la Patria Milagro,extrema,0.1028
+V. Principios de Gobierno de la Patria Milagro,familia,0.1006

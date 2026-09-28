@@ -1,0 +1,7 @@
+chapter,sentences,lexicon_pos,lexicon_neg,mean_model_score,lexicon_neg_share,model_lexicon_spearman
+0. Preliminares,50,13,8,0.097,0.381,-0.033
+I. Proceso metodológico del empalme,51,2,9,0.147,0.818,-0.033
+II. Comportamientos críticos nocivos para el Estado,653,89,159,0.119,0.641,-0.033
+III. Hallazgos en materia de corrupción y balance de acciones,171,21,9,0.103,0.3,-0.033
+IV. Balance sectorial,698,109,91,0.116,0.455,-0.033
+V. Principios de Gobierno de la Patria Milagro,47,16,15,0.26,0.484,-0.033

@@ -1,1 +1,5 @@
 claim_id,variable,source_a,source_a_value,source_b,source_b_value,source_c,source_c_value,common_origin,notes
+C0312,Contratación directa enero 2026 (COP billones),Portafolio (S005),32.88,El Espectador (S006),32.88,,,CGR (single origin; not independent),Two outlets reproduce the same CGR summary; counted as one piece of evidence.
+C0465,Recaudo bruto 2025 (COP billones),DIAN Informe de Gestión (S003),296.0,La República (S004),296,Libro de la Verdad,294.5,DIAN (single origin),Official source and press agree with each other and differ from the report by 0.5%.
+C0127,Km intervenidos Caminos Comunitarios,Invías 27-mar-2026 (S012),3876,Invías via Semana 15-jul-2026 (S013),4087,El Espectador (S014),4087,"Invías (single origin, two dates)","Values differ by date of cut-off, not by source disagreement."
+C0303,Informalidad 2025 (%),DANE (S001),55.7,Portafolio (S002),55.7,,,DANE (single origin),Press reproduces DANE.

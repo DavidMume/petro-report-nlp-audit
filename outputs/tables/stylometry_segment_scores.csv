@@ -1,0 +1,62 @@
+segment_id,pages,chapter,section,mahalanobis_sq,chi2_975_threshold,flag_stylistic_outlier,mean_js_to_others,pc1,pc2,style_cluster
+G001,3-7,0. Preliminares,Contenido,26.873,17.535,True,0.0867,-3.3454,-8.5137,0
+G002,8-10,I. Proceso metodológico del empalme,Portadilla del capítulo,8.148,17.535,False,0.08855,3.7381,-0.8962,1
+G003,10-12,I. Proceso metodológico del empalme,Tecnología: La inteligencia artificial como garantía de escala y rigor,16.397,17.535,False,0.08246,8.6531,-0.8174,1
+G004,14-20,II. Comportamientos críticos nocivos para el Estado,Introducción del capítulo,9.329,17.535,False,0.09008,5.5588,-2.5778,1
+G005,20-26,II. Comportamientos críticos nocivos para el Estado,Definición del comportamiento 05: Captura contractual y concentración del poder operativo,12.364,17.535,False,0.10915,7.0984,-1.4935,1
+G006,26-27,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,2.89,17.535,False,0.07748,0.7435,2.9515,2
+G007,28-29,II. Comportamientos críticos nocivos para el Estado,Comportamiento 1. Destrucción del rigor técnico,11.247,17.535,False,0.07895,1.4283,4.3406,4
+G008,29-31,II. Comportamientos críticos nocivos para el Estado,Comportamiento 2. Colapso de la capacidad tecnológica,2.749,17.535,False,0.07291,0.8408,0.5711,2
+G009,31-32,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,7.218,17.535,False,0.08279,-3.6732,-0.4361,0
+G010,33-34,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,5.952,17.535,False,0.07851,-2.9698,0.5002,0
+G011,34-36,II. Comportamientos críticos nocivos para el Estado,Comportamiento 3. Opacidad y distorsión de la información pública,5.021,17.535,False,0.07441,0.1244,1.7333,2
+G012,36-37,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,9.647,17.535,False,0.09377,-5.4622,-1.2611,0
+G013,37-39,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,8.147,17.535,False,0.08787,1.0086,2.3818,2
+G014,39-41,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,6.249,17.535,False,0.07321,-2.5459,2.2103,2
+G015,41-42,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,2.945,17.535,False,0.07129,-1.4412,1.0236,2
+G016,42-44,II. Comportamientos críticos nocivos para el Estado,Comportamiento 4. Parálisis operativa,1.94,17.535,False,0.08013,-0.54,1.7793,2
+G017,44-46,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,7.431,17.535,False,0.07989,-1.7118,2.7528,2
+G018,46-47,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,1.01,17.535,False,0.07253,1.1986,1.7921,2
+G019,48-49,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,7.049,17.535,False,0.0903,0.5732,4.0616,2
+G020,49-51,II. Comportamientos críticos nocivos para el Estado,Comportamiento 5. Captura contractual y concentración del poder operativo,2.04,17.535,False,0.08019,-1.9972,-0.8977,2
+G021,51-53,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,19.863,17.535,True,0.08936,-5.0661,4.7177,4
+G022,53-54,II. Comportamientos críticos nocivos para el Estado,Comportamiento 6. Expansión del riesgo litigioso,4.267,17.535,False,0.07933,-0.6773,2.7713,2
+G023,54-56,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,4.882,17.535,False,0.09,0.882,1.5191,2
+G024,56-57,II. Comportamientos críticos nocivos para el Estado,Comportamiento 7. Pérdida de control territorial frente a economías criminales,4.815,17.535,False,0.07654,0.4329,1.4004,2
+G025,57-59,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,11.526,17.535,False,0.08737,-1.1469,4.4009,2
+G026,59-60,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,2.286,17.535,False,0.07933,1.4197,-1.2878,2
+G027,61-62,II. Comportamientos críticos nocivos para el Estado,Comportamiento 8. Fragmentación del Estado y fracaso de la conducción estratégica,2.884,17.535,False,0.07929,3.2294,0.9904,1
+G028,62-64,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),8.009,17.535,False,0.0881,-5.0317,2.0869,0
+G029,64-65,II. Comportamientos críticos nocivos para el Estado,Comportamiento 9. Capacidad fiscal restringida (comportamiento transversal),10.103,17.535,False,0.08869,2.5733,-1.869,1
+G030,67-68,III. Hallazgos en materia de corrupción y balance de acciones,Introducción del capítulo,3.378,17.535,False,0.07731,4.2332,0.7787,3
+G031,69-70,III. Hallazgos en materia de corrupción y balance de acciones,"Caso 3. OCAD de ciencia, tecnología e innovación",4.148,17.535,False,0.075,4.2112,0.4583,3
+G032,70-72,III. Hallazgos en materia de corrupción y balance de acciones,Caso 5. FENOGE,9.509,17.535,False,0.09461,5.1642,2.9612,3
+G033,72-74,III. Hallazgos en materia de corrupción y balance de acciones,Caso 8. Reforma agraria,7.727,17.535,False,0.09398,5.1204,1.6429,3
+G034,74-76,III. Hallazgos en materia de corrupción y balance de acciones,Caso 12. FONTUR,9.975,17.535,False,0.09226,8.5704,1.8259,3
+G035,76-77,III. Hallazgos en materia de corrupción y balance de acciones,Caso 16. Canal Trece,8.353,17.535,False,0.081,5.2126,0.5221,3
+G036,78-79,III. Hallazgos en materia de corrupción y balance de acciones,Caso 20. Cancillería,15.364,17.535,False,0.10357,6.2847,2.8061,3
+G037,81-82,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,10.301,17.535,False,0.08683,1.4578,-3.8517,2
+G038,82-84,IV. Balance sectorial,Sector Agricultura y desarrollo Rural,3.869,17.535,False,0.07603,-3.928,-1.4179,2
+G039,85-87,IV. Balance sectorial,Sector Ambiente y Desarrollo Rural,2.373,17.535,False,0.06812,0.7393,-0.2797,2
+G040,87-89,IV. Balance sectorial,"Sector Ciencia, Tecnología e Innovación",7.855,17.535,False,0.09562,-4.971,-4.5435,0
+G041,89-91,IV. Balance sectorial,"Sector Comercio, Industria y Turismo",4.919,17.535,False,0.08339,-5.4975,-0.9053,2
+G042,91-93,IV. Balance sectorial,Sector Cultura,4.741,17.535,False,0.07824,-5.023,-0.4687,0
+G043,93-95,IV. Balance sectorial,Sector Defensa Nacional,9.341,17.535,False,0.08822,-3.5036,-3.7468,0
+G044,95-97,IV. Balance sectorial,Sector Deporte,11.287,17.535,False,0.09134,-5.0014,-2.2781,2
+G045,97-99,IV. Balance sectorial,Sector Educación Nacional,4.514,17.535,False,0.0768,-0.2088,-0.2107,2
+G046,99-101,IV. Balance sectorial,Sector Educación Nacional,6.743,17.535,False,0.08375,-6.6979,1.0373,0
+G047,101-103,IV. Balance sectorial,Sector Hacienda y Crédito Público,7.526,17.535,False,0.07514,-3.7948,-0.9397,2
+G048,103-104,IV. Balance sectorial,Sector Inclusión Social y Reconciliación,1.511,17.535,False,0.08326,-2.2264,-0.5877,2
+G049,105-107,IV. Balance sectorial,Sector Interior,4.338,17.535,False,0.07425,-4.4763,1.3255,2
+G050,107-109,IV. Balance sectorial,Sector Justicia y del Derecho,5.555,17.535,False,0.09277,-2.3501,1.5201,2
+G051,109-111,IV. Balance sectorial,Sector Minas y Energía,6.709,17.535,False,0.09069,3.5319,-3.316,1
+G052,111-113,IV. Balance sectorial,Sector Minas y Energía,4.295,17.535,False,0.07181,2.2061,-1.7326,2
+G053,113-115,IV. Balance sectorial,Sector Presidencia de la República,2.144,17.535,False,0.07266,0.0677,1.8301,2
+G054,115-117,IV. Balance sectorial,Sector Relaciones Exteriores,6.239,17.535,False,0.07429,-1.7309,-0.7556,2
+G055,117-118,IV. Balance sectorial,Sector Salud y Protección Social,13.183,17.535,False,0.09381,-5.2023,6.7943,4
+G056,118-121,IV. Balance sectorial,Sector Salud y Protección Social,8.713,17.535,False,0.08855,3.6499,-5.9408,1
+G057,121-123,IV. Balance sectorial,Sector Tecnologías de la Información y las Comunicaciones,14.316,17.535,False,0.08176,-0.4414,0.5671,4
+G058,123-125,IV. Balance sectorial,Sector Trabajo,4.776,17.535,False,0.07252,-0.8876,-0.4391,2
+G059,125-128,IV. Balance sectorial,Sector Trabajo,6.943,17.535,False,0.08206,-2.2599,-6.3008,0
+G060,128-130,IV. Balance sectorial,"Sector Vivienda, Ciudad y Territorio",14.468,17.535,False,0.09343,0.9408,-8.5414,0
+G061,132-135,V. Principios de Gobierno de la Patria Milagro,Introducción del capítulo,10.781,17.535,False,0.09189,2.9162,-1.748,1

@@ -1,0 +1,1 @@
+spaCy core_news_lg averaged static word vectors (fallback)
