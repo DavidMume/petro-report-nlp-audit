@@ -1,13 +1,20 @@
 {
-  "title": null,
-  "publisher": null,
-  "authors": [],
+  "title": "El Libro de la Verdad",
+  "subtitle": "Empalme Anticorrupción 2026",
+  "publisher": "Gobierno de Colombia — Comité Nacional del Empalme Anticorrupción (Dirección Nacional del Empalme, Vicepresidencia de la República)",
+  "authors": [
+    "Abelardo De La Espriella (Presidente de la República de Colombia) — carta de apertura",
+    "José Manuel Restrepo Abondano (Vicepresidente de la República y Director Nacional del Empalme) — presentación",
+    "Equipo Élite Anticorrupción — autoría del capítulo de hallazgos de corrupción",
+    "Ministros del Gobierno (balance sectorial, cada uno bajo su propia firma, según la presentación)"
+  ],
   "publication_date": null,
-  "download_date": null,
+  "pdf_creation_date": "2026-08-17T21:24:09-05:00",
+  "download_date": "2026-09-28",
   "original_url": null,
-  "filename": null,
-  "sha256": null,
-  "pages": null,
+  "filename": "Libro-De-La-Verdad.pdf",
+  "sha256": "e76e0f4288a2c6c650d5f1b6ee953ab33232b72f293acf4d908e61b88a71a839",
+  "pages": 135,
   "language": "es",
-  "notes": "PLACEHOLDER. Do not fill in publisher/organisation acronyms (e.g. 'ADLA') until the authoring entity has been verified directly against the source document's own title page, colophon, or metadata. This file is intentionally left null until the source PDF is placed in data/raw/ and its provenance is confirmed."
+  "notes": "Filename, sha256, pages and PDF-internal creation date computed directly from the uploaded file. Title, subtitle, publisher and authors transcribed from the document's own cover, table of contents and presentation-letter pages (pp. 1, 3, 5, 7), not assumed. The PDF's embedded XMP metadata (title/author fields) is blank; 'pdf_creation_date' is the Adobe InDesign export timestamp, not necessarily the official publication date. 'publication_date' and 'original_url' remain null: no publication date or source URL has been confirmed yet (the user provided the file directly rather than a link) — do not infer a publication date from pdf_creation_date without corroboration. The acronym 'ADLA' has NOT been used anywhere; per the user's explicit instruction it must not be adopted as a shorthand for the organisation or author without their confirmation."
 }

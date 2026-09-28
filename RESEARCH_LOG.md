@@ -96,3 +96,72 @@ confirm (a) whether this is indeed the document to be audited, and (b)
 how to obtain its original PDF bytes (vs. the already-extracted text
 rendering available via the Project) so that a provenance-grade SHA-256
 hash and complete `source_metadata.json` can be produced.
+
+---
+
+## 2026-09-28 — Source document confirmed and ingested into `data/raw/`
+
+**Decision:** Place the user-provided `Libro-De-La-Verdad.pdf` (135 pages,
+6.7MB) in `data/raw/` as the immutable source file, compute its SHA-256,
+and populate the confirmable fields of `documents/source_metadata.json`
+directly from the document's own front matter, rather than from any
+external assumption.
+
+**Reason:** The project owner uploaded the original PDF in response to the
+prior session's request. Its embedded PDF metadata (via PyMuPDF) has blank
+title/author XMP fields but a creation timestamp of `2026-08-17T21:24:09-05:00`
+(Adobe InDesign export). Reading pages 1, 3, 5 and 7 directly (not the rest
+of the document — no content analysis performed) shows: cover title "El
+Libro de la Verdad", subtitle "Empalme Anticorrupción 2026", "Gobierno de
+Colombia" branding; a "Carta de Presentación" signed by Abelardo De La
+Espriella, identified in the document as "Presidente de la República de
+Colombia"; and a "Presentación del Libro de la Verdad" signed by José
+Manuel Restrepo Abondano, identified as "Vicepresidente de la República y
+Director Nacional del Empalme". The corruption-findings chapter is
+attributed to an "Equipo Élite Anticorrupción", and the sectoral-balance
+chapter is described as being signed individually by each minister. These
+are transcriptions of what the document states about itself, not verified
+external facts — the assistant's knowledge cutoff (January 2026) predates
+this document's apparent context (a mid-2026 Colombian government
+transition), so no claim about real-world officeholders is being made
+here, consistent with the project's verification-before-assertion
+principle. The acronym "ADLA" was still not used anywhere.
+
+**Alternative considered:** Waiting for a source URL before ingesting the
+file. Rejected — the user provided the file directly rather than a link,
+which is an acceptable provenance path; `original_url` and
+`publication_date` are left `null` in the metadata rather than guessed
+(e.g., from the PDF's InDesign export date, which reflects file production,
+not necessarily official publication).
+
+**Impact:** `data/raw/Libro-De-La-Verdad.pdf` now exists and is treated as
+immutable going forward. `documents/source_metadata.json` is populated
+except `publication_date` and `original_url`. The project can now proceed
+to `make extract` / corpus construction once that work is explicitly
+requested — this entry does not itself authorise running the full NLP
+pipeline, which remains a separate decision per the project's phased
+approach.
+
+---
+
+## 2026-09-28 — `gh auth login` device-code flow not usable from this sandbox
+
+**Decision:** Do not pursue the browser/device-code `gh auth login --web`
+flow from this cloud environment; recommend a Personal Access Token (PAT)
+pasted by the user instead.
+
+**Reason:** The environment's pre-set `GH_TOKEN`/`GITHUB_TOKEN` variables
+are invalid and shadow any interactive login attempt (`gh` refuses to
+proceed while they're set). After unsetting them, `gh auth login --web`
+failed immediately with `HTTP 415` when requesting a device code — most
+likely the sandbox's egress proxy interfering with that specific GitHub
+API call. This is a cloud sandbox with no local browser to open on the
+user's behalf regardless, unlike a local Claude Code session.
+
+**Alternative considered:** Retrying the device-code flow with different
+flags. Not pursued given the proxy-level failure suggests it isn't a
+one-off; a PAT avoids the interactive flow entirely and is the standard
+non-interactive `gh auth login --with-token` path.
+
+**Impact:** GitHub remote creation remains pending on the user supplying a
+valid PAT (or authenticating some other way outside this session).

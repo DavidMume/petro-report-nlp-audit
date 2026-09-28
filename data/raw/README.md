@@ -28,9 +28,14 @@ This folder holds the **original, unmodified** source document(s) under audit.
 
 ## Status
 
-This folder is currently empty. The source PDF has not yet been placed here
-as of this scaffolding commit. See `RESEARCH_LOG.md` for the decision to
-scaffold the project ahead of receiving the final, confirmed source file.
+`Libro-De-La-Verdad.pdf` (135 pages, SHA-256
+`e76e0f4288a2c6c650d5f1b6ee953ab33232b72f293acf4d908e61b88a71a839`) was
+placed here on 2026-09-28, provided directly by the project owner as an
+upload (not downloaded from a URL — `original_url` in
+`documents/source_metadata.json` is therefore still null). Title, publisher
+and authorship fields in that file were transcribed from the document's own
+cover/presentation pages, not assumed. See `RESEARCH_LOG.md` for the full
+provenance decision trail.
 
 ## How to add the source document
 
