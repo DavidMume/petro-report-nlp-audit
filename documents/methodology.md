@@ -134,7 +134,10 @@ auxiliary, probabilistic signal only, is calibrated first on a
 Spanish-language control corpus (human / AI-generated / hybrid) before
 being applied to the report, and is reported with its measured
 false-positive/false-negative rates alongside the finding — never as a
-standalone "X% AI-generated" claim. Strong evidence of AI use would require
+standalone "X% AI-generated" claim. The calibration design (corpora,
+detectors, gate, reporting rule) is documented in
+`sources/calibration/README.md`; the code is `src/calibration.py`,
+`src/detectors.py` and `scripts/run_detectors_mac.sh`. Strong evidence of AI use would require
 independent provenance (metadata, version history, prompt logs, author
 acknowledgement) which stylometry and detectors alone cannot supply.
 
@@ -156,6 +159,6 @@ support).
 Every section above has a working implementation in `src/`, with results in `outputs/` and
 the decisions behind them in `RESEARCH_LOG.md`. Not yet done: human review of claim candidates,
 verification beyond the 10-claim pilot, reconstruction from raw datasets (SIIF, SECOP, GEIH
-microdata), the AI-detector calibration experiment (§23.5), the historical comparison corpus of
+microdata), running the AI-detector calibration experiment (§23.5; prepared, runs on the maintainer's machine), the historical comparison corpus of
 the same authors (§23.10), and the editorial article (the portfolio project page is in PR #2). Known limitations are listed in
 `documents/limitations.md`.

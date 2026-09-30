@@ -2,7 +2,7 @@
 
 A reproducible NLP, data-analysis and claim-verification audit of **"El Libro de la Verdad — Empalme Anticorrupción 2026"**, a 135-page report published by the Government of Colombia about the 2022–2026 administration.
 
-> **Status (2026-09-30): phase 2.** The whole pipeline runs end to end (`make all`) over the confirmed source PDF: extraction, corpus, exploratory NLP, rule-assisted claim candidates, exploratory stylometry, a **10-claim verification pilot**, 26 charts and an interactive web app. Not done yet: human review of the claim candidates, full-scale verification, reconstructions from raw datasets, AI-detector calibration and the article for juandamunoz.com (the project page is in portfolio PR #2). See `RESEARCH_LOG.md` and `documents/limitations.md`.
+> **Status (2026-09-30): phase 2.** The whole pipeline runs end to end (`make all`) over the confirmed source PDF: extraction, corpus, exploratory NLP, rule-assisted claim candidates, exploratory stylometry, a **10-claim verification pilot**, 26 charts and an interactive web app. Not done yet: human review of the claim candidates, full-scale verification, reconstructions from raw datasets, running the AI-detector calibration (prepared; runs on the maintainer's machine) and the article for juandamunoz.com (the project page is in portfolio PR #2). See `RESEARCH_LOG.md` and `documents/limitations.md`.
 
 ## Research question
 
@@ -32,7 +32,7 @@ All fields are transcribed from the document itself (`documents/source_metadata.
 | Claims | 635 rule-based candidates (513 factual, 122 evaluative), none human-reviewed yet |
 | Verification pilot | 10 claims: 1 supported · 7 mostly supported · 1 not independently verifiable · 1 opinion. Figures usually match official or cited sources (0 to −0.5%); the recurring issue is omitted context (baseline year, metric choice, source type) |
 | Stylometry | No robust within-document change point; the weaker signals coincide with chapter boundaries (genre shifts) |
-| AI provenance | The document itself says AI tools supported information processing and the organisation of inputs for the final products (ch. I). No detector was run (no calibrated Spanish detector) |
+| AI provenance | The document itself says AI tools supported information processing and the organisation of inputs for the final products (ch. I). No detector result yet: a calibration experiment is prepared (16 pre-ChatGPT government reports as human controls, 72 passages from 3 models, 128 report passages) and runs with `bash scripts/run_detectors_mac.sh` |
 | Negative findings | Topic models disagree (ARI 0.03–0.11, negative NPMI); the two sentiment methods do not correlate (ρ ≈ −0.03) |
 
 The pilot is **not a random sample**. Its proportions do not describe the report. Pilot assessments were prepared by an AI assistant from the cited sources and are pending human review.
@@ -44,7 +44,7 @@ The pilot is **not a random sample**. Its proportions do not describe the report
 - **NLP is descriptive.** Frequencies, TF-IDF, n-grams, NER, co-occurrence networks, three topic models, embeddings and transparent framing lexicons characterise the text. None of them measure truth or bias.
 - **Verification needs explicit evidence.** Eight non-binary outcomes. `scripts/validate_claims.py` fails if an assessment lacks external evidence, cites a source missing from the ledger, relies on press coverage of the report itself (circular), or has drifted from the sentence it was written about.
 - **Causality.** Causal language is tagged for separate review (`causal_sentences.csv`, `causal_claims_review.csv`). A change during an administration's term is not evidence that the administration caused it.
-- **Stylometry is gated.** Detectors refuse to run without Spanish calibration; outputs are reported as linguistic patterns only.
+- **Stylometry and detectors are gated.** Detectors are applied only after passing a calibration gate on Spanish controls (`sources/calibration/README.md`), and their output is a count of passages next to the expected false positives, never a share of the document written by AI.
 
 Full methodology: `documents/methodology.md`. Limitations: `documents/limitations.md`.
 
@@ -73,6 +73,7 @@ sudo apt-get install tesseract-ocr tesseract-ocr-spa   # OCR for image-only page
 make all            # extract → corpus → nlp → claims → validation → authorship → charts → web-data
 make test
 make web            # builds web/dist (needs Node 22)
+bash scripts/run_detectors_mac.sh   # detector calibration (needs internet + ~6 GB for models; see sources/calibration/)
 ```
 
 Stages: `extract`, `corpus`, `nlp`, `claims`, `validation`, `authorship`, `charts`, `web-data`. `environment.yml` is a conda alternative. Optional `sentence-transformers` / `bertopic` are picked up automatically if installed, and results will then differ from the committed ones (see limitations).

@@ -365,43 +365,36 @@ def analyse_internal_consistency(features_df: pd.DataFrame, segments_df: pd.Data
 
 DETECTOR_STATUS = {
     "status": "not_run",
-    "reason": ("No AI-text detector with convincing Spanish-language validation was available in the "
-               "execution environment (huggingface.co blocked; no commercial detector APIs used), and the "
-               "calibration corpora A (human, 2015-2021), B (AI-generated) and C (hybrid) required by "
-               "methodology §23.5 have not been assembled. Per §23.4-23.6, no detector output is produced."),
-    "next_step": "Assemble corpora A/B/C (see sources/calibration/README.md), then run run_detector_calibration_experiment().",
+    "reason": ("La calibración está preparada pero todavía no se ha ejecutado. Los corpus de control están listos "
+               "(72 textos generados por tres modelos y 128 pasajes del informe); los documentos humanos de control "
+               "y los modelos de puntuación se descargan en la máquina del autor, porque el entorno de construcción "
+               "no puede conectarse a huggingface.co ni a los sitios .gov.co. Hasta entonces no se produce ningún "
+               "resultado de detector (metodología §23.4–23.6)."),
+    "next_step": "bash scripts/run_detectors_mac.sh (ver sources/calibration/README.md).",
 }
 
 
-def run_detector_calibration_experiment(corpus_a_human, corpus_b_ai, corpus_c_hybrid, detector=None) -> dict:
-    """Mandatory calibration before any detector is used on the report
-    (§23.5): precision, recall, specificity, FPR, FNR, F1 and ROC-AUC on
-    Spanish control corpora. `detector` is a callable text -> score in [0,1]."""
-    if detector is None or not (len(corpus_a_human) and len(corpus_b_ai)):
-        raise ValueError("Calibration needs a detector callable and non-empty corpora A and B.")
-    from sklearn.metrics import f1_score, precision_score, recall_score, roc_auc_score
-
-    texts = list(corpus_a_human) + list(corpus_b_ai) + list(corpus_c_hybrid)
-    y = [0] * len(corpus_a_human) + [1] * len(corpus_b_ai) + [1] * len(corpus_c_hybrid)
-    scores = [float(detector(t)) for t in texts]
-    pred = [int(s >= 0.5) for s in scores]
-    tn = sum(1 for a, b in zip(y, pred) if a == 0 and b == 0)
-    fp = sum(1 for a, b in zip(y, pred) if a == 0 and b == 1)
-    fn = sum(1 for a, b in zip(y, pred) if a == 1 and b == 0)
-    tp = sum(1 for a, b in zip(y, pred) if a == 1 and b == 1)
-    return {"precision": precision_score(y, pred, zero_division=0), "recall": recall_score(y, pred, zero_division=0),
-            "specificity": tn / max(tn + fp, 1), "false_positive_rate": fp / max(fp + tn, 1),
-            "false_negative_rate": fn / max(fn + tp, 1), "f1": f1_score(y, pred, zero_division=0),
-            "roc_auc": roc_auc_score(y, scores) if len(set(y)) > 1 else None, "n": len(y)}
+def run_detector_calibration_experiment(scores):
+    """Calibration of the zero-shot detectors on Spanish control corpora
+    (§23.5). `scores` is outputs/tables/detector_scores.csv. See
+    `src.calibration.run_analysis` for the metrics, the gate and the
+    application to the report."""
+    from src.calibration import run_analysis
+    return run_analysis(scores)
 
 
 def apply_calibrated_detector(segments_df: pd.DataFrame, detector_name: str,
                               calibration_metrics: dict) -> pd.DataFrame:
-    """Refuses to run without calibration metrics for this detector."""
+    """Refuses to run without calibration metrics for this detector; with
+    them, only detectors whose gate status allows it are applied."""
     if not calibration_metrics:
         raise ValueError(
-            "Refusing to apply an uncalibrated detector. Run run_detector_calibration_experiment() first — "
-            "see documents/methodology.md §23.5."
+            "Refusing to apply an uncalibrated detector. Run the calibration experiment first — "
+            "see documents/methodology.md §23.5 and scripts/run_detectors_mac.sh."
         )
-    raise NotImplementedError("Wire a calibrated detector here once one exists (record detector, version, "
-                              "date, segment, score, language, limitations).")
+    g = calibration_metrics.get(detector_name)
+    if not g or g.get("status") not in ("calibrated", "preliminary"):
+        raise ValueError(f"Detector {detector_name!r} did not pass the calibration gate; it is not applied.")
+    from src.calibration import apply_to_target
+    flags, _ = apply_to_target(segments_df, {detector_name: g})
+    return flags

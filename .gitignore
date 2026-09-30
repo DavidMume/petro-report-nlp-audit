@@ -59,3 +59,10 @@ web/.vite/
 .pytest_cache/
 .coverage
 htmlcov/
+
+# --- Detector calibration: downloaded control PDFs are not redistributed
+#     (URLs + SHA-256 are in sources/calibration/A_human/downloads.csv) ---
+sources/calibration/A_human/pdf/
+.venv-detectors/
+outputs/tables/*_dryrun*
+outputs/charts/*_dryrun*

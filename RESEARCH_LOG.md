@@ -239,4 +239,19 @@ Each item: **decision — reason — alternative — impact.**
 
 **Stable claim IDs.** Claim IDs are sequential, so an extraction change can renumber them. Assessments are pinned to sentence_id + text prefix, the validator fails on drift, and `scripts/repin_assessments.py` re-attaches records only on an unambiguous match.
 
-**Not done.** Portfolio integration (handbook unreadable from here; no push access) — see `documents/portfolio_integration.md`. Raw-dataset reconstructions (SIIF, SECOP, GEIH microdata). Human review of candidates. Detector calibration.
+**Not done.** Portfolio integration (handbook unreadable from here; no push access) — see `documents/portfolio_integration.md`. Raw-dataset reconstructions (SIIF, SECOP, GEIH microdata). Human review of candidates. Detector calibration (prepared 2026-09-30, see below).
+
+## 2026-09-30 — Detector calibration experiment prepared (§23.5)
+
+**Request.** The maintainer asked whether a test could show how much of the report was AI-generated. Answer given: no method can establish a share of a text written by AI; what can be done is a calibration experiment that measures how often detectors are wrong on Spanish institutional text, and only then applies them, reporting counts next to expected false positives.
+
+**Design decisions.**
+- *Human controls (A).* Same genres as the report (sector balances, empalme reports, presidential reports, management reports), Colombian government, written before ChatGPT's public release (2022-11-30): 6 documents from 2015–2018 and 10 from 2022 (`sources/calibration/A_human/sources.csv`). Documents from 2022 widen genre coverage (the DNP 2018–2022 closing balances are the closest match to chapter IV) but postdate GPT-3, so the 2015–2018 subset is analysed separately. A file whose PDF creation date is on or after 2022-11-30 is excluded automatically.
+- *Generated controls (B).* 24 prompts across four genres that mirror the report's parts, in two styles (free drafting; expanding fictional notes), answered by three models (claude-haiku-4-5, claude-sonnet-5-5, claude-opus-5-5): 72 passages. Limitation logged: a single model family, and generation ran in agent sessions rather than bare API calls.
+- *Comparability.* The report and the human controls go through the same extraction function; generated text is normalised the same way; passages of 220–400 words; ≤ 12 passages per human document; an `artifact_rate` confound check.
+- *Detectors.* Binoculars, analytic Fast-DetectGPT and log-perplexity from one open pair (Qwen2.5-1.5B / -Instruct, shared tokenizer, multilingual, Apache-2.0). No commercial detector APIs.
+- *Analysis.* Cluster-bootstrap AUC; threshold at 5% FPR with source-grouped cross-validation; gate (AUC CI lower bound ≥ 0.80, held-out FPR ≤ 10%, ≥ 30/30 passages, ≥ 5 documents, ≥ 3 generators); application only for detectors that pass, as counts per chapter against a binomial range that includes the uncertainty of the FPR (Clopper–Pearson).
+
+**Why it is not run here.** The build environment cannot reach huggingface.co or the `.gov.co` hosts (proxy 403), and neither can the desktop VM. The experiment runs on the maintainer's machine with `bash scripts/run_detectors_mac.sh`. The whole chain was exercised with tiny random models (`make detectors-dryrun`) and unit tests on synthetic scores (`tests/test_calibration.py`).
+
+**Next.** Run on the maintainer's machine. Then build corpus C (human passages from A rewritten by the three models), score it, and write up the results, including any negative result (a detector that does not separate the controls is reported as such and not applied).

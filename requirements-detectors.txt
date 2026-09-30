@@ -1,0 +1,13 @@
+# Detector calibration (methodology §23.5). Separate from requirements.txt
+# because torch is large and only this step needs it. Lower bounds only: the
+# exact versions used are recorded in outputs/tables/detector_scores.csv.
+torch>=2.2
+transformers>=4.44,<6
+safetensors>=0.4
+huggingface_hub>=0.23
+certifi
+pymupdf>=1.24
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7

@@ -32,9 +32,21 @@ export function ProvenancePage({ d }: { d: DataBundle }) {
       <div className="grid grid-2" style={{ marginTop: 16 }}>
         <div className="card">
           <h3>Detectores de IA</h3>
-          <p className="small"><strong>No ejecutados.</strong> {d.meta.ai_detectors.reason}</p>
-          <p className="small muted">Antes de usar cualquier detector sobre el informe hace falta un experimento de calibración en
-            español con corpus humano (2015–2021), generado y híbrido, que reporte falsos positivos y negativos.</p>
+          {d.meta.ai_detectors.status === "not_run" ? (<>
+            <p className="small"><strong>Preparados, todavía sin ejecutar.</strong> {d.meta.ai_detectors.reason}</p>
+            <p className="small muted">Diseño: tres puntajes de ceros disparos (Binoculars, Fast-DetectGPT y log-perplejidad con
+              Qwen2.5) calibrados sobre informes gubernamentales colombianos escritos antes de ChatGPT (2015–2022) y textos
+              generados por tres modelos. Un detector solo se aplica al informe si separa bien ambos grupos y mantiene los
+              falsos positivos bajo control; sus marcas se informan como conteos junto a los falsos positivos esperados.</p>
+          </>) : (<>
+            <p className="small"><strong>Calibración ejecutada</strong> · modelos {d.meta.ai_detectors.model_pair} ·{" "}
+              {d.meta.ai_detectors.passages?.A_human ?? 0} pasajes humanos de {d.meta.ai_detectors.human_sources} documentos ·{" "}
+              {d.meta.ai_detectors.passages?.B_ai ?? 0} generados por {(d.meta.ai_detectors.generators || []).length} modelos.</p>
+            <ul className="small">
+              {(d.meta.ai_detectors.statements_es || []).map((t: string, i: number) => <li key={i}>{t}</li>)}
+            </ul>
+            <p className="small muted">{d.meta.ai_detectors.reason}</p>
+          </>)}
         </div>
         <div className="card">
           <h3>Conclusiones permitidas y no permitidas</h3>

@@ -32,7 +32,8 @@ Este documento enumera lo que el proyecto **no** puede establecer con los datos 
 
 ## Procedencia lingüística
 
-- No se ejecutó ningún detector de IA: no hay uno validado para español disponible, ni el corpus de calibración (§23.5).
+- Los detectores de IA están preparados pero todavía no se han ejecutado: los documentos humanos de control y los modelos se descargan en la máquina del autor (`scripts/run_detectors_mac.sh`). Hasta entonces no hay resultado de detector.
+- Cuando se ejecuten: los textos generados de control vienen de una sola familia de modelos (Claude); los controles humanos son de 2015–2022 y de otro gobierno, así que un detector puede reaccionar a la época, al estilo editorial o al tema y no a la generación; los pasajes cortos (≤ 400 palabras) hacen ruidosos a todos los detectores de ceros disparos. Un detector que pase la calibración solo produce conteos de pasajes por encima de un umbral, junto al número esperado de falsos positivos; nunca un porcentaje del informe escrito por IA.
 - 61 segmentos es poco para métodos multivariados. Los puntos de cambio dependen mucho del modelo de costo y de la penalización, y ninguno resulta robusto.
 - Los cambios de estilo coinciden con cambios de género (cartas, casos, balances firmados por cada ministro), que explican diferencias sin necesidad de suponer procesos de redacción distintos.
 

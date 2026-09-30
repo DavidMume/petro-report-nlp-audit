@@ -44,7 +44,10 @@ def main() -> None:
     res["js_divergence"].to_csv(TABLES_DIR / "stylometry_js_divergence.csv")
     res["pca_variance"].to_csv(TABLES_DIR / "stylometry_pca_variance.csv", index=False)
     res["pca_loadings"].to_csv(TABLES_DIR / "stylometry_pca_loadings.csv", index=False)
-    (TABLES_DIR / "ai_detector_status.json").write_text(json.dumps(au.DETECTOR_STATUS, indent=2, ensure_ascii=False) + "\n")
+    # Detector results come from scripts/analyse_detector_calibration.py once it has run.
+    if not (TABLES_DIR / "detector_calibration_status.json").exists():
+        (TABLES_DIR / "ai_detector_status.json").write_text(
+            json.dumps(au.DETECTOR_STATUS, indent=2, ensure_ascii=False) + "\n")
 
     # What the document itself states about AI use (author acknowledgement, §33).
     p = paragraphs
