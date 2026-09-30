@@ -1,194 +1,105 @@
 # petro-report-nlp-audit
 
-Reproducible NLP, data analysis and claim-verification audit of a published
-report about a Colombian presidential administration.
+A reproducible NLP, data-analysis and claim-verification audit of **"El Libro de la Verdad — Empalme Anticorrupción 2026"**, a 135-page report published by the Government of Colombia about the 2022–2026 administration.
 
-> **Status: scaffolding stage.** No source document has been formally
-> ingested yet, and no substantive NLP, entity, topic, or claim-verification
-> results exist. This repository currently contains project structure,
-> schemas, stub modules, and an initial test suite only. See
-> `RESEARCH_LOG.md` for what has and hasn't been done and why.
+> **Status (2026-09-30): phase 2.** The whole pipeline runs end to end (`make all`) over the confirmed source PDF: extraction, corpus, exploratory NLP, rule-assisted claim candidates, exploratory stylometry, a **10-claim verification pilot**, 26 charts and an interactive web app. Not done yet: human review of the claim candidates, full-scale verification, reconstructions from raw datasets, AI-detector calibration and portfolio integration. See `RESEARCH_LOG.md` and `documents/limitations.md`.
 
 ## Research question
 
-This project does not start from, and does not produce, a verdict on
-whether the report is "true," "false," or favourable/unfavourable to any
-government or political figure. It separates three distinct questions:
+> ¿Qué afirma el informe, cómo construye esas afirmaciones y qué tan bien se sostienen cuando se contrastan sistemáticamente con evidencia externa?
 
-1. **What does the report claim?** (descriptive extraction)
-2. **How does it construct its argument?** (structure, framing, language)
-3. **How well do its verifiable claims hold up against external evidence?**
-   (claim-by-claim verification, non-binary outcomes)
-
-> ¿Qué afirma el informe, cómo construye esas afirmaciones y qué tan bien se
-> sostienen cuando se contrastan sistemáticamente con evidencia externa?
-
-Seven research questions (RQ1–RQ7) guide the work; RQ7 (linguistic
-provenance / possible AI assistance in drafting) is explicitly exploratory
-and is never framed as "what percentage was AI-written." Full methodology,
-including the causality rule, the source-quality hierarchy, and the
-AI-authorship-analysis guardrails, is in `documents/methodology.md`.
+Three questions are kept separate throughout — what the report says, how it builds its argument, and how well its verifiable claims hold up — and they are never collapsed into a score. The project produces **no overall rating** of the report, its authors or any government. RQ1–RQ7 are in `documents/methodology.md`; RQ7 (possible AI assistance in drafting) is exploratory only.
 
 ## Source document
 
-Not yet confirmed/ingested. `data/raw/` is empty and
-`documents/source_metadata.json` is a null-valued placeholder by design —
-this project does not assume a title, publisher, or organisation name
-(including any acronym) before verifying it directly against the source
-PDF. See `data/raw/README.md` for the ingestion procedure and immutability
-rule, and `RESEARCH_LOG.md` for the current status of a candidate document.
+| | |
+|---|---|
+| Title | El Libro de la Verdad — Empalme Anticorrupción 2026 |
+| Publisher | Gobierno de Colombia — Comité Nacional del Empalme Anticorrupción |
+| Signatories | Presidential letter (Abelardo De La Espriella); presentation (José Manuel Restrepo Abondano, Vice-President and Director Nacional del Empalme) |
+| File | `data/raw/Libro-De-La-Verdad.pdf` · 135 pages · SHA-256 `e76e0f42…a71a839` |
+| Publication date / URL | not confirmed (file supplied directly); PDF created 2026-08-17 |
+
+All fields are transcribed from the document itself (`documents/source_metadata.json`). The acronym "ADLA" is not used: the document never uses it to identify its author.
+
+## Results so far (descriptive)
+
+| Area | Result |
+|---|---|
+| Corpus | 1,670 analytic sentences · 44,566 words · 85 sections · 655 sentences contain figures |
+| Structure | Chapter II (9 critical behaviours, 59 cases) and Chapter IV (20 sectoral balances) hold most of the text |
+| Language | The prefatory letters and Chapter V concentrate evaluative, adversarial and restoration vocabulary; Chapter III (corruption findings) is the most attributive and least evaluative |
+| Claims | 635 rule-based candidates (513 factual, 122 evaluative), none human-reviewed yet |
+| Verification pilot | 10 claims: 1 supported · 7 mostly supported · 1 not independently verifiable · 1 opinion. Figures usually match official or cited sources (0 to −0.5%); the recurring issue is omitted context (baseline year, metric choice, source type) |
+| Stylometry | No robust within-document change point; the weaker signals coincide with chapter boundaries (genre shifts) |
+| AI provenance | The document itself says AI tools supported information processing and the organisation of inputs for the final products (ch. I). No detector was run (no calibrated Spanish detector) |
+| Negative findings | Topic models disagree (ARI 0.03–0.11, negative NPMI); the two sentiment methods do not correlate (ρ ≈ −0.03) |
+
+The pilot is **not a random sample**. Its proportions do not describe the report. Pilot assessments were prepared by an AI assistant from the cited sources and are pending human review.
 
 ## Methodology (summary)
 
-- **Provenance first.** Every source file is hashed (SHA-256), dated, and
-  recorded before analysis; `data/raw/` is treated as immutable.
-- **Traceability.** Every corpus row and every claim traces back to a
-  specific page/section of the original document.
-- **NLP is descriptive, not adjudicative.** Frequency, TF-IDF, NER, topic
-  modelling, embeddings, and sentiment/framing analysis characterise the
-  text; none of them are used to declare the document biased or accurate.
-- **Claims are verified against explicit external evidence**, never
-  classified from model judgement alone, using eight non-binary outcome
-  categories (`supported` → `opinion_or_interpretation`; see
-  `src/config.py::VERIFICATION_STATUSES`).
-- **Causality is treated carefully.** An indicator moving during an
-  administration's term does not by itself establish that the
-  administration caused the movement; causal language in the source is
-  tagged and reviewed separately from descriptive language.
-- **AI-authorship analysis is exploratory and evidence-gated.** Stylometry
-  and AI detectors are calibrated on a Spanish-language control corpus
-  before ever being applied to the report, and are reported as
-  probabilistic linguistic patterns — never as a definitive "X% AI-written"
-  claim. Full detail in `documents/methodology.md` §23 and `src/authorship.py`.
-- **Reproducibility.** Every table and chart regenerates via `make <target>`
-  from pinned dependencies; methodological decisions (including negative
-  findings) are logged in `RESEARCH_LOG.md`.
+- **Provenance first.** `data/raw/` is immutable; extraction refuses to run if the file's SHA-256 does not match the metadata.
+- **Traceability.** Every sentence carries `document_id, page, section, paragraph_id, sentence_id`; every claim points to a sentence; tests enforce both.
+- **NLP is descriptive.** Frequencies, TF-IDF, n-grams, NER, co-occurrence networks, three topic models, embeddings and transparent framing lexicons characterise the text. None of them measure truth or bias.
+- **Verification needs explicit evidence.** Eight non-binary outcomes. `scripts/validate_claims.py` fails if an assessment lacks external evidence, cites a source missing from the ledger, relies on press coverage of the report itself (circular), or has drifted from the sentence it was written about.
+- **Causality.** Causal language is tagged for separate review (`causal_sentences.csv`, `causal_claims_review.csv`). A change during an administration's term is not evidence that the administration caused it.
+- **Stylometry is gated.** Detectors refuse to run without Spanish calibration; outputs are reported as linguistic patterns only.
 
-Full methodology: [`documents/methodology.md`](documents/methodology.md).
+Full methodology: `documents/methodology.md`. Limitations: `documents/limitations.md`.
 
 ## Project structure
 
 ```
-petro-report-nlp-audit/
-├── data/               raw (immutable) / interim / processed / external data
-├── documents/          source provenance metadata + full methodology
-├── notebooks/          01-08, exploratory notebooks mirroring the pipeline
-├── src/                pipeline modules (extraction, NLP, claims, validation, …)
-├── scripts/            CLI entry points wired to `make` targets
-├── outputs/            tables, charts, network exports, data manifest
-├── sources/            source registry + evidence ledger
-├── web/                planned interactive React/Vite data app
-└── tests/              pytest suite
+data/raw/            immutable source PDF
+data/processed/      corpus.csv, paragraphs.csv, sections.csv, claims.csv, numeric_claims.csv,
+                     claim_evidence.csv, claim_assessments.csv, stylometry_segments.csv
+documents/           source_metadata.json, methodology.md, limitations.md, portfolio_integration.md
+src/                 extract, preprocess, corpus, nlp, lexicons, entities, topics, embeddings,
+                     claims, validation, sources, authorship, visualisations
+scripts/             one CLI per make target (+ repin_assessments.py, export_web_data.py)
+outputs/tables/      every derived table (the accessible "table view" of each chart)
+outputs/charts/      26 PNG charts          outputs/networks/  GraphML + JSON networks
+sources/             evidence_ledger.csv, source_registry.csv, numeric_reconstructions.csv, calibration/
+web/                 React + Vite + TypeScript app (reads web/public/data/*.json)
+tests/               47 pytest tests
 ```
 
-## Reproducibility / installation
+## Installation and usage
 
 ```bash
-git clone https://github.com/DavidMume/petro-report-nlp-audit.git
-cd petro-report-nlp-audit
-make install          # creates .venv and installs pinned dependencies
-python -m spacy download es_core_news_lg   # Spanish NLP model (not on PyPI by name)
+make install        # .venv + exact pins from requirements.lock (incl. es_core_news_lg)
+sudo apt-get install tesseract-ocr tesseract-ocr-spa   # OCR for image-only pages/figures
+make all            # extract → corpus → nlp → claims → validation → authorship → charts → web-data
+make test
+make web            # builds web/dist (needs Node 22)
 ```
 
-## Usage (pipeline, once the source document is confirmed)
-
-```bash
-# 1. Place the confirmed, original PDF in data/raw/ and fill in
-#    documents/source_metadata.json's known fields (title, publisher, etc.)
-make extract      # PDF -> page-level text (PyMuPDF -> pdfplumber -> OCR)
-make corpus       # -> data/processed/corpus.{parquet,csv}
-make nlp          # frequencies, TF-IDF, NER, topics, embeddings
-make claims       # candidate claim extraction (requires human review before use)
-make validation   # evidence gathering + assessment against sources/evidence_ledger.csv
-make charts       # regenerate outputs/charts and outputs/networks
-make test         # run the test suite
-```
-
-Each stage is a script in `scripts/` calling into `src/`; see
-`documents/methodology.md` for what each stage does and does not claim.
-
-## Data provenance
-
-- `documents/source_metadata.json` — title, publisher, authors, dates, URL,
-  filename, SHA-256, page count for the source document.
-- `outputs/data_manifest.json` — filename, source, download date, hash,
-  row/column counts, and producing script for every derived dataset.
-- `sources/evidence_ledger.csv` — every external source consulted during
-  claim verification, with URL, type, access date, and which claims it
-  bears on.
-- `RESEARCH_LOG.md` — dated methodological decisions and their rationale,
-  including negative findings.
-
-## Caveats and limitations
-
-- This is a single-document audit; findings describe this report, not a
-  general assessment of any administration's performance.
-- NLP outputs (topics, sentiment/framing, embeddings) are exploratory and
-  descriptive; they characterise language use, not truth or bias.
-- Claim verification depends on the availability and quality of public,
-  citable evidence; "not independently verifiable" is a valid, expected
-  outcome for some claims, not a failure of the method.
-- AI-authorship signals (RQ6/RQ7) are probabilistic and calibrated on a
-  necessarily limited control corpus; they cannot establish direct AI
-  authorship without independent provenance evidence (see
-  `documents/methodology.md` §33).
-- The web application (`web/`) does not exist yet; it is built only once
-  real pipeline outputs exist, to avoid designing an interface around
-  placeholder data.
-
-## Outputs
-
-Once the pipeline has run: tables in `outputs/tables/`, charts in
-`outputs/charts/`, network exports (`.graphml`) in `outputs/networks/`, and
-assembled reports in `outputs/reports/`. Chart inventory is defined in
-`src/visualisations.py::CHART_REGISTRY` and documented in
-`documents/methodology.md` §15.
+Stages: `extract`, `corpus`, `nlp`, `claims`, `validation`, `authorship`, `charts`, `web-data`. `environment.yml` is a conda alternative. Optional `sentence-transformers` / `bertopic` are picked up automatically if installed, and results will then differ from the committed ones (see limitations).
 
 ## Website
 
-Planned integration:
+`web/` holds an independent, data-oriented web app (Spanish UI). Sections: overview, document, NLP, topics, entities, claim explorer, verification, linguistic provenance, data, methodology and sources. Selecting a claim shows **claim → original passage → page → source cited by the report → external evidence → assessment → confidence**.
 
-- A standalone interactive data app in `web/` (React + Vite + TypeScript),
-  independent of the portfolio site, letting readers trace
-  Claim → Original passage → Page → Report source → External evidence →
-  Assessment → Confidence.
-- A project page and an independent editorial article added later to
-  [`DavidMume/juan-david-portfolio`](https://github.com/DavidMume/juan-david-portfolio)
-  (published at [juandamunoz.com](https://juandamunoz.com)), on a feature
-  branch (`feature/petro-report-nlp-audit`), never committed directly to
-  `main`. See `documents/methodology.md` §17-18 for the required content
-  and cross-linking rules, and that repo's `ARTICLE_INTEGRATION_HANDBOOK.md`
-  before writing the article.
+```bash
+cd web && npm install && npm run dev      # or: npm run build → web/dist (relative paths, any static host)
+```
+
+Integration with [juandamunoz.com](https://juandamunoz.com) (project page + separate article, on branch `feature/petro-report-nlp-audit`) is planned in `documents/portfolio_integration.md`. The article waits until verification goes beyond the pilot.
 
 ## Repository status
 
-- **Local repo:** initialised, `main` branch, first commit made (see git
-  log).
-- **GitHub remote:** not yet created. `gh auth status` reported no valid
-  GitHub authentication in this environment (`GH_TOKEN` was present but
-  invalid). To publish once authenticated as `DavidMume`:
+This repository was built in a sandbox that cannot push to GitHub. Publish from a machine with GitHub access:
 
-  ```bash
-  gh auth login
-  gh repo create DavidMume/petro-report-nlp-audit \
-    --public \
-    --source=. \
-    --remote=origin \
-    --description "Reproducible NLP, data analysis and claim verification of a political report about Colombia."
-  git push -u origin main
-  ```
+```bash
+gh repo create DavidMume/petro-report-nlp-audit --public --source=. --remote=origin --push \
+  --description "Reproducible NLP, data analysis and claim verification of a political report about Colombia."
+```
 
 ## Citation
 
-If referencing this work before a formal citation format is established,
-cite as:
-
-> Mume, J.D. (2026). *petro-report-nlp-audit*: Reproducible NLP, data
-> analysis and claim-verification audit of a political report about
-> Colombia. https://github.com/DavidMume/petro-report-nlp-audit
+> Mume, J. D. (2026). *petro-report-nlp-audit: reproducible NLP, data analysis and claim verification of "El Libro de la Verdad" (Colombia, 2026)*. https://github.com/DavidMume/petro-report-nlp-audit
 
 ## License
 
-Code is MIT-licensed (see `LICENSE`). The source PDF under audit is used
-for research, criticism and commentary under its own rights holder's terms
-and is not relicensed by this repository.
+Code: MIT (`LICENSE`). The source PDF is a public government document, included for research, criticism and commentary; it is not relicensed here.

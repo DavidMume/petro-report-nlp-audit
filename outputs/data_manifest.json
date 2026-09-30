@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:30:36+00:00",
+  "generated_at": "2026-09-30T03:25:42+00:00",
   "source_document": {
     "title": "El Libro de la Verdad",
     "filename": "Libro-De-La-Verdad.pdf",
@@ -10,7 +10,7 @@
   "datasets": [
     {
       "filename": "data/interim/pages.jsonl",
-      "sha256": "608e49ec49fadb2d372a6bd3b9b5407bbdfc798d168a728a8830a38ee8e60b0d",
+      "sha256": "aa4dac863d13ff1868e4f8c1c03ddf0c5e13a6d5d35bbc139a7b400f15978b3e",
       "processing_script": "scripts/extract_document.py",
       "rows": null,
       "columns": null,
@@ -65,7 +65,7 @@
     },
     {
       "filename": "data/processed/claims.csv",
-      "sha256": "6c3d4614178f500e8d71f42c559b510b21d002ed67d8f606bd8482168a0a5457",
+      "sha256": "56a887d00f4684fb139f65837e91d6d8ff516f223b29d47e4081b597e4dc3de7",
       "processing_script": "scripts/extract_claims.py",
       "rows": 635,
       "columns": [
@@ -103,7 +103,7 @@
     },
     {
       "filename": "data/processed/corpus.csv",
-      "sha256": "adaf393ace83808580c5f227884b0d7abe0483f2f7f1e51269b9eeaf40399e26",
+      "sha256": "51d1026798905a73bff5769ca648a87eeb34a20fced78b53f27713cdfa967132",
       "processing_script": "scripts/build_corpus.py",
       "rows": 1712,
       "columns": [
@@ -129,7 +129,7 @@
     },
     {
       "filename": "data/processed/corpus.parquet",
-      "sha256": "a1ffc05980a26957ee8c687acd210a628ed5fcdb2760a11bba349f69bc55986c",
+      "sha256": "9681d8fd96d05026350b912458786b3cfabab9b23c3c58524fc65bfb37bf32f9",
       "processing_script": "scripts/build_corpus.py",
       "rows": 1712,
       "columns": [
@@ -155,9 +155,9 @@
     },
     {
       "filename": "data/processed/numeric_claims.csv",
-      "sha256": "b51ceb2aed049259f3dce8382bb0916d2ddc712bb33c4cefb672d1356ef5a8a0",
+      "sha256": "c294694b8610bee992fd83f84864b40463d32d0b45367f76b10314e181916d41",
       "processing_script": "scripts/extract_claims.py + scripts/validate_claims.py",
-      "rows": 500,
+      "rows": 499,
       "columns": [
         "claim_id",
         "variable",
@@ -179,7 +179,7 @@
     },
     {
       "filename": "data/processed/paragraphs.csv",
-      "sha256": "9b94695bf5d55925cee99e99e6fecba98d6088872ba652ced70dfdd9cc4f0ecc",
+      "sha256": "8f8f734c7911dff4a21abaaffe520d1ed2a7c08d6dfea36f10ce95484c473d59",
       "processing_script": "scripts/build_corpus.py",
       "rows": 1056,
       "columns": [
@@ -203,7 +203,7 @@
     },
     {
       "filename": "data/processed/paragraphs.parquet",
-      "sha256": "638c947a519710f3e848e2a8bd32d92aac1749219630bd16969dfcdd7eca4579",
+      "sha256": "d6348616d5c6c68ea8815414248cc34c8d910cb2ee66a48bab3d094e1a82ad35",
       "processing_script": "scripts/build_corpus.py",
       "rows": 1056,
       "columns": [
@@ -227,7 +227,7 @@
     },
     {
       "filename": "data/processed/sections.csv",
-      "sha256": "748b9a00349f9cb4c542e18fa6bd1464e351669f2f015749ce8eeed61e1b126e",
+      "sha256": "89b264c29163994a509c9d21c4538d5a31f7802c1dd63adee83bf8d6ee4ec4f7",
       "processing_script": "scripts/build_corpus.py",
       "rows": 85,
       "columns": [
@@ -243,7 +243,7 @@
     },
     {
       "filename": "data/processed/stylometry_segments.csv",
-      "sha256": "ff47ae1a2f9107ddb88e8d05d8bf57e4ecabc9a1d9f040091b879f0728c8604a",
+      "sha256": "a93e8c214f0a312ffc0eda51c78d6e8899b6308a62214e59fe139cd6809cbe6e",
       "processing_script": "scripts/run_authorship.py",
       "rows": 61,
       "columns": [
@@ -272,7 +272,7 @@
     },
     {
       "filename": "outputs/tables/bigrams.csv",
-      "sha256": "b1a8d93b2dc50c07eaeaed602c5fb7ab8d1de26b4415767c21395b4a3e02014e",
+      "sha256": "94209f9dd8fca6fbd74800983c811023f8dbd30849c0e9013fe4e3c63a59cc42",
       "processing_script": "scripts/run_nlp.py",
       "rows": 500,
       "columns": [
@@ -338,7 +338,7 @@
     },
     {
       "filename": "outputs/tables/claims_with_assessments.csv",
-      "sha256": "4fc587aa9f511a341c2dd87ffcad444fcca357081835cf7e196fa1f8a655d412",
+      "sha256": "d161cc8a42cb91d8f25ec2ad419867b57aff25a1401d7194c4ba59cc19209ae2",
       "processing_script": "scripts/validate_claims.py",
       "rows": 635,
       "columns": [
@@ -382,7 +382,7 @@
     },
     {
       "filename": "outputs/tables/corpus_stats.csv",
-      "sha256": "113feec52a1a173b053aa5c6cffef91f6a13cc3d0a3f5be1cfc19dc2911c300e",
+      "sha256": "3a8aa9027a29fbad0eb83f24193459abce411ea47903f5556c8f8bf021154718",
       "processing_script": "scripts/build_corpus.py",
       "rows": 18,
       "columns": [
@@ -394,7 +394,7 @@
     },
     {
       "filename": "outputs/tables/corpus_stats.json",
-      "sha256": "9c1dd8da5dfa2cd04d89d90185225255881c602ae3c72532af2da745446d147d",
+      "sha256": "7c12db460be57f53e1e2f4346d5d40559384b9eafb3982c0dd2e13934bfc1384",
       "processing_script": "scripts/build_corpus.py",
       "rows": null,
       "columns": null,
@@ -403,7 +403,7 @@
     },
     {
       "filename": "outputs/tables/doc_topics.csv",
-      "sha256": "295fe2d2eacd4cb7e69a47432e2564061715a66e0d4571a5c379852ff863d1eb",
+      "sha256": "32ae985aa93b833206434ecdcd23f2464194c698d3e68c1d1f6a3f71ba373eb8",
       "processing_script": "scripts/run_nlp.py",
       "rows": 2001,
       "columns": [
@@ -417,7 +417,7 @@
     },
     {
       "filename": "outputs/tables/embedding_map.csv",
-      "sha256": "90eb72a5ba2a9defaf00db771e53ce5925f24dca1eb83255515b1c6d168d3eed",
+      "sha256": "f13f4326621e4c8f1a6b5cd9a7929a90bd4368fce0afc923f18f2e0e0138ebe0",
       "processing_script": "scripts/run_nlp.py",
       "rows": 667,
       "columns": [
@@ -437,9 +437,9 @@
     },
     {
       "filename": "outputs/tables/entities.csv",
-      "sha256": "3196e6371a52528aeb238c3b167d892420a54830b3956dc0f05b9f020e16fcb0",
+      "sha256": "1c0f276e83e9b76cde4b4e4d4a13e68d7014947bf27a83d148a11989cb0a3974",
       "processing_script": "scripts/run_nlp.py",
-      "rows": 1318,
+      "rows": 1319,
       "columns": [
         "entity",
         "entity_type",
@@ -481,9 +481,9 @@
     },
     {
       "filename": "outputs/tables/entity_mentions.csv",
-      "sha256": "f64421665504f0f0dc8f6cd7b1cd068299446c9ef0167a47c423dbd3cdd9946d",
+      "sha256": "7df9b93565d37e3bb3b2be8bf570f306aa46a46de8cd0bfbc64e2d9847ae54ee",
       "processing_script": "scripts/run_nlp.py",
-      "rows": 2742,
+      "rows": 2744,
       "columns": [
         "entity",
         "entity_type",
@@ -520,7 +520,7 @@
     },
     {
       "filename": "outputs/tables/framing_by_chapter.csv",
-      "sha256": "3210dba618bf458cce5fa53f9f23049b8467ba88bb6744b496fefa34f8816add",
+      "sha256": "9000aa247917e9bd0a12fd5b953fe535ef839042d4aeb8739254012274628f29",
       "processing_script": "scripts/run_nlp.py",
       "rows": 6,
       "columns": [
@@ -550,7 +550,7 @@
     },
     {
       "filename": "outputs/tables/framing_sentences.csv",
-      "sha256": "7825481def48cbc623d22b8dd6336bcc96e2e2105b7105fd71749591488b06e7",
+      "sha256": "0bfe7314c781406cab18cfb2c4736d18b353ff7e5c42e49978bd8f21cd1bb9dc",
       "processing_script": "scripts/run_nlp.py",
       "rows": 1670,
       "columns": [
@@ -590,6 +590,20 @@
       "download_date": "2026-09-28"
     },
     {
+      "filename": "outputs/tables/ocr_repaired_blocks.csv",
+      "sha256": "1bad2080fd5a53566bcad0d68281564a8f9a98feff1895328c75710dd25d1a35",
+      "processing_script": "scripts/run_nlp.py",
+      "rows": 1,
+      "columns": [
+        "page",
+        "block_id",
+        "original_text",
+        "ocr_text"
+      ],
+      "source": "derived from data/raw/Libro-De-La-Verdad.pdf (sha256 e76e0f4288a2c6c650d5f1b6ee953ab33232b72f293acf4d908e61b88a71a839)",
+      "download_date": "2026-09-28"
+    },
+    {
       "filename": "outputs/tables/provenance_statements.csv",
       "sha256": "81831f5ec5906cfc5bfc976d29d29588384c69b6958e21df79aa11c6031f65f2",
       "processing_script": "scripts/run_authorship.py",
@@ -622,7 +636,7 @@
     },
     {
       "filename": "outputs/tables/section_similarity.csv",
-      "sha256": "471cfe26e58ebf2da53f42241b95e910cf94852bd113c47e4ccd31b77abf2f29",
+      "sha256": "15b9cee108278345c1208a2a297b0a80e367e186c5c29ddc87050db492c2d528",
       "processing_script": "scripts/run_nlp.py",
       "rows": 77,
       "columns": [
@@ -711,7 +725,7 @@
     },
     {
       "filename": "outputs/tables/sentiment_by_chapter.csv",
-      "sha256": "1f429a6be3bdfb167296a1777bead2ba573694722507a1cfdde4405fd5f60483",
+      "sha256": "a0195e949cf9d3c632e09753f5dc35e6b193b3b8d8ec983be83339229d7817c3",
       "processing_script": "scripts/run_nlp.py",
       "rows": 6,
       "columns": [
@@ -728,7 +742,7 @@
     },
     {
       "filename": "outputs/tables/sentiment_sentences.csv",
-      "sha256": "08efd95a8e16fd1bbe10e20dedba518e3d4e9adffa20f4529536b980e83d586c",
+      "sha256": "2d4e5a6f3c4f00f65d4d067bfa009a7d2c7e4bb2826a8dfd9571f5d07e22b616",
       "processing_script": "scripts/run_nlp.py",
       "rows": 1670,
       "columns": [
@@ -766,7 +780,7 @@
     },
     {
       "filename": "outputs/tables/sources_cited_by_report.csv",
-      "sha256": "e535bf9fce9cba0b87a8c347c6b04a936eb968437443d32d53dcb5bc82dfb50e",
+      "sha256": "a3c0c8e4d4c4305bbef0c144715662276aae8328b9041e34f08a8604c1998585",
       "processing_script": "scripts/run_nlp.py",
       "rows": 13,
       "columns": [
@@ -810,7 +824,7 @@
     },
     {
       "filename": "outputs/tables/stylometry_clustering.csv",
-      "sha256": "fd3282dd7764d81184136bf47c3727f9b85c3aa76f0317c2245a1518e5f2561c",
+      "sha256": "18794fb60b7e395b6b767ea01629a71aa41f1bbf709ba59a8a745d4acc69f10e",
       "processing_script": "scripts/run_authorship.py",
       "rows": 4,
       "columns": [
@@ -823,7 +837,7 @@
     },
     {
       "filename": "outputs/tables/stylometry_features.csv",
-      "sha256": "5fc369c6fcf17392ebf8d3a5d36f04ad6937e6d3a308dc41c2918d548019c6a2",
+      "sha256": "bb49b5d720d21184d638d302682140b113b7d18a149b5b1fe5716949b96c5bbd",
       "processing_script": "scripts/run_authorship.py",
       "rows": 61,
       "columns": [
@@ -946,7 +960,7 @@
     },
     {
       "filename": "outputs/tables/stylometry_js_divergence.csv",
-      "sha256": "b6dae307d878c8285e764d454478dd94faad855a947c14c42407435b5fd0c104",
+      "sha256": "8a999beddb76fbc27ae0b994180d1f91abe42b6d4c4355b71864c52e61fcd77a",
       "processing_script": "scripts/run_authorship.py",
       "rows": 61,
       "columns": [
@@ -1018,7 +1032,7 @@
     },
     {
       "filename": "outputs/tables/stylometry_pca_loadings.csv",
-      "sha256": "0bee26fa475f0038576d9755eefab99d34c756913cda60fe54379c1aa2308633",
+      "sha256": "5dd70d49625c0c019d294a795624e484a689a892f2963d096a9bb6967ecd0e3d",
       "processing_script": "scripts/run_authorship.py",
       "rows": 25,
       "columns": [
@@ -1033,7 +1047,7 @@
     },
     {
       "filename": "outputs/tables/stylometry_pca_variance.csv",
-      "sha256": "0f40c824d6d858f490621fe83dde557bdca6230a2c1039447693496c2f5e840c",
+      "sha256": "2de0b0c523c09f675cdee434fa32cc4f08aed3a1227b704b9cb690d49285347a",
       "processing_script": "scripts/run_authorship.py",
       "rows": 8,
       "columns": [
@@ -1045,7 +1059,7 @@
     },
     {
       "filename": "outputs/tables/stylometry_segment_scores.csv",
-      "sha256": "4d7388665f221d8ed0458db78b781d3e3e63648ca8df851a452aa1e5218de022",
+      "sha256": "1b668c73d924f8a88fb0e39cdfb8e7ca1679aeadea95d323c226a39186d13cbd",
       "processing_script": "scripts/run_authorship.py",
       "rows": 61,
       "columns": [
@@ -1066,7 +1080,7 @@
     },
     {
       "filename": "outputs/tables/stylometry_similarity_cosine.csv",
-      "sha256": "fa18ae0d4c9c5a9fee6b3d091ce85ce21d9f45cd1d70d3a4d0a33bf60845b02a",
+      "sha256": "60e7d4aa05651ee18e8622f6df2e5e7d3ebe20a07a283f353b0292cb93df8756",
       "processing_script": "scripts/run_authorship.py",
       "rows": 61,
       "columns": [
@@ -1138,7 +1152,7 @@
     },
     {
       "filename": "outputs/tables/term_frequencies.csv",
-      "sha256": "66c4bae041f493dfb8d3b8658ae9e611eea9868a2121b54f52e877d64366ce09",
+      "sha256": "3d6259c35b358768ef1923d0a037faab9c44de78cc4edf2572f3eadbec2c24dd",
       "processing_script": "scripts/run_nlp.py",
       "rows": 1000,
       "columns": [
@@ -1152,7 +1166,7 @@
     },
     {
       "filename": "outputs/tables/tfidf_by_chapter.csv",
-      "sha256": "78024c8214ea8d4783cf331642ca0a6b63a84faf528bd91ef1b41bb3ea6ffc61",
+      "sha256": "c6ef7d0dec0acc0e9a5fee96d9000cd9abb38a194232771d3fd62d3a78b5f465",
       "processing_script": "scripts/run_nlp.py",
       "rows": 72,
       "columns": [
@@ -1165,7 +1179,7 @@
     },
     {
       "filename": "outputs/tables/tfidf_by_section.csv",
-      "sha256": "857f396f1c0b2756cffea8bd678494f48cfc45d69b30e97fe809a9bb7cb7cc94",
+      "sha256": "0dae3e502b1e59caa3dee50214dcbacd6a63a52f3a146eaeb0a541919ce2244f",
       "processing_script": "scripts/run_nlp.py",
       "rows": 1140,
       "columns": [
@@ -1179,7 +1193,7 @@
     },
     {
       "filename": "outputs/tables/tfidf_global.csv",
-      "sha256": "bd2fd17fe8c3c70c92b159525149edec421111bb9a025505580b4fb86a4cbb0f",
+      "sha256": "bd9e716b5da1b4c4c3147c306ad04c7442b1ba18a00e935143b14c35e8012cce",
       "processing_script": "scripts/run_nlp.py",
       "rows": 500,
       "columns": [
@@ -1192,7 +1206,7 @@
     },
     {
       "filename": "outputs/tables/topic_examples.csv",
-      "sha256": "8f440400959a318edcc53291e6ad6b07a3ef9dea152b6b82c1a749dd2817decb",
+      "sha256": "70d0fe703f2af82d7fa07b67bf15dbcc8c6ea616c2be04e15eae9ff5e0dca31d",
       "processing_script": "scripts/run_nlp.py",
       "rows": 117,
       "columns": [
@@ -1210,7 +1224,7 @@
     },
     {
       "filename": "outputs/tables/topic_k_sweep.csv",
-      "sha256": "6833628dc5fd708502c7d75fa6ae6a9ddf3e90a73c45b53a1edec337b8f011d9",
+      "sha256": "ba245cf9891d70afdd83233e38ae12bf92ab4fe25358bef9b2fa8776c6e38c00",
       "processing_script": "scripts/run_nlp.py",
       "rows": 18,
       "columns": [
@@ -1223,7 +1237,7 @@
     },
     {
       "filename": "outputs/tables/topic_model_agreement.csv",
-      "sha256": "12a06e96df6973a9f3dd57fb2edccc6d51b2cbf5081538309727d7a7174c989a",
+      "sha256": "d5a74547009e7e9de68c346426d80ec5b56f427a629a438c3fb71cc6422b7e80",
       "processing_script": "scripts/run_nlp.py",
       "rows": 3,
       "columns": [
@@ -1246,9 +1260,9 @@
     },
     {
       "filename": "outputs/tables/topics_by_chapter.csv",
-      "sha256": "3915f3d80276cc127c079df75c4339b35b2b50df98b3ed3999dec30af337ce40",
+      "sha256": "253f87cde5c5328904e2b242b8643d3ea1ea2aa0527994917a70cb878be8c482",
       "processing_script": "scripts/run_nlp.py",
-      "rows": 149,
+      "rows": 154,
       "columns": [
         "model",
         "chapter",
@@ -1261,7 +1275,7 @@
     },
     {
       "filename": "outputs/tables/topics_summary.csv",
-      "sha256": "2215523430915cac402e80bbfd705acefd7a90c4d53f81d00fdbf7e7d686eefd",
+      "sha256": "34a0e48c4287b19e8e491edcca61b5222e54a47af1f6e3cdb1fa0ccaf9771437",
       "processing_script": "scripts/run_nlp.py",
       "rows": 39,
       "columns": [
@@ -1278,7 +1292,7 @@
     },
     {
       "filename": "outputs/tables/trigrams.csv",
-      "sha256": "7708dacda481a3153a8badbb971fff340de52b44234845108fcd2874b1d7b8df",
+      "sha256": "54f33e2da4dbb3d9ae71848be7eb1a6df4aaf67fb72fafeda9c8bf7933b9d1d6",
       "processing_script": "scripts/run_nlp.py",
       "rows": 500,
       "columns": [
@@ -1290,7 +1304,7 @@
     },
     {
       "filename": "outputs/tables/verification_coverage.csv",
-      "sha256": "7fc65ae24bd833bde4a952830aac63c85b5c2aa24c06b4f804dcbbc1a582c267",
+      "sha256": "202c9e67eacd6b0be75e85f4328f22fcef022e8e345d02eaacf17df2a3360d80",
       "processing_script": "scripts/validate_claims.py",
       "rows": 14,
       "columns": [
@@ -1302,7 +1316,7 @@
     },
     {
       "filename": "outputs/tables/words_per_section.csv",
-      "sha256": "62002dc04116c29c6267afdcb348444a5ed10dce0f0eacb851301b1b266ca50c",
+      "sha256": "715fd767432204d9d330feaea2d56bbf29611b2de68d6fd46706002150198e5c",
       "processing_script": "scripts/run_nlp.py",
       "rows": 80,
       "columns": [

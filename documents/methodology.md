@@ -151,9 +151,11 @@ definitions, and model choices — are logged with rationale in
 verified, models that performed poorly, hypotheses the data did not
 support).
 
-## What this document does not yet contain
+## Implementation status (2026-09-30)
 
-This is the scaffolding version of the methodology, written before the
-source document has been placed in `data/raw/` and before any substantive
-NLP or verification work has begun. It will be extended (not replaced) as
-concrete methodological choices are made during analysis.
+Every section above has a working implementation in `src/`, with results in `outputs/` and
+the decisions behind them in `RESEARCH_LOG.md`. Not yet done: human review of claim candidates,
+verification beyond the 10-claim pilot, reconstruction from raw datasets (SIIF, SECOP, GEIH
+microdata), the AI-detector calibration experiment (§23.5), the historical comparison corpus of
+the same authors (§23.10), and portfolio integration. Known limitations are listed in
+`documents/limitations.md`.

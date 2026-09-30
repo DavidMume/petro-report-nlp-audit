@@ -2,7 +2,7 @@ metric,value
 claim_candidates_total,635.0
 factual_candidates,513.0
 evaluative_candidates,122.0
-factual_candidates_verifiable_yes_candidate,295.0
+factual_candidates_verifiable_yes_candidate,294.0
 assessed_total,10.0
 assessed_share_of_factual_candidates_pct,1.56
 assessed_supported,1.0

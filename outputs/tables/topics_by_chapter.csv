@@ -1,107 +1,112 @@
 model,chapter,dominant_topic,n,share
-embedding_kmeans,0. Preliminares,0,3,0.1875
-embedding_kmeans,0. Preliminares,8,1,0.0625
-embedding_kmeans,0. Preliminares,10,2,0.125
-embedding_kmeans,0. Preliminares,11,9,0.5625
-embedding_kmeans,0. Preliminares,12,1,0.0625
-embedding_kmeans,I. Proceso metodológico del empalme,0,14,0.5385
-embedding_kmeans,I. Proceso metodológico del empalme,8,1,0.0385
-embedding_kmeans,I. Proceso metodológico del empalme,10,1,0.0385
-embedding_kmeans,I. Proceso metodológico del empalme,11,2,0.0769
-embedding_kmeans,I. Proceso metodológico del empalme,12,8,0.3077
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,0,28,0.1041
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,1,30,0.1115
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,2,15,0.0558
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,3,28,0.1041
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,4,31,0.1152
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,5,9,0.0335
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,6,8,0.0297
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,7,39,0.145
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,8,12,0.0446
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,9,24,0.0892
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,10,10,0.0372
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,11,8,0.0297
-embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,12,27,0.1004
-embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,0,10,0.119
+embedding_kmeans,0. Preliminares,2,1,0.0625
+embedding_kmeans,0. Preliminares,3,2,0.125
+embedding_kmeans,0. Preliminares,6,10,0.625
+embedding_kmeans,0. Preliminares,8,3,0.1875
+embedding_kmeans,I. Proceso metodológico del empalme,0,2,0.0769
+embedding_kmeans,I. Proceso metodológico del empalme,2,1,0.0385
+embedding_kmeans,I. Proceso metodológico del empalme,3,6,0.2308
+embedding_kmeans,I. Proceso metodológico del empalme,6,5,0.1923
+embedding_kmeans,I. Proceso metodológico del empalme,8,12,0.4615
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,0,18,0.0669
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,1,24,0.0892
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,2,8,0.0297
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,3,46,0.171
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,4,32,0.119
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,5,1,0.0037
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,6,18,0.0669
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,7,30,0.1115
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,8,20,0.0743
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,9,38,0.1413
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,10,9,0.0335
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,11,16,0.0595
+embedding_kmeans,II. Comportamientos críticos nocivos para el Estado,12,9,0.0335
+embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,0,33,0.3929
 embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,1,2,0.0238
-embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,3,13,0.1548
-embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,5,1,0.0119
-embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,8,19,0.2262
-embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,10,18,0.2143
-embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,12,21,0.25
-embedding_kmeans,IV. Balance sectorial,0,17,0.0664
-embedding_kmeans,IV. Balance sectorial,1,25,0.0977
-embedding_kmeans,IV. Balance sectorial,2,56,0.2188
-embedding_kmeans,IV. Balance sectorial,3,23,0.0898
-embedding_kmeans,IV. Balance sectorial,4,22,0.0859
-embedding_kmeans,IV. Balance sectorial,6,5,0.0195
-embedding_kmeans,IV. Balance sectorial,7,28,0.1094
-embedding_kmeans,IV. Balance sectorial,8,10,0.0391
-embedding_kmeans,IV. Balance sectorial,9,18,0.0703
-embedding_kmeans,IV. Balance sectorial,10,12,0.0469
-embedding_kmeans,IV. Balance sectorial,11,6,0.0234
-embedding_kmeans,IV. Balance sectorial,12,34,0.1328
-embedding_kmeans,V. Principios de Gobierno de la Patria Milagro,0,4,0.25
+embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,3,20,0.2381
+embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,8,15,0.1786
+embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,9,4,0.0476
+embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,10,1,0.0119
+embedding_kmeans,III. Hallazgos en materia de corrupción y balance de acciones,11,9,0.1071
+embedding_kmeans,IV. Balance sectorial,0,9,0.0352
+embedding_kmeans,IV. Balance sectorial,1,22,0.0859
+embedding_kmeans,IV. Balance sectorial,2,10,0.0391
+embedding_kmeans,IV. Balance sectorial,3,28,0.1094
+embedding_kmeans,IV. Balance sectorial,4,20,0.0781
+embedding_kmeans,IV. Balance sectorial,5,8,0.0312
+embedding_kmeans,IV. Balance sectorial,6,32,0.125
+embedding_kmeans,IV. Balance sectorial,7,53,0.207
+embedding_kmeans,IV. Balance sectorial,8,34,0.1328
+embedding_kmeans,IV. Balance sectorial,9,24,0.0938
+embedding_kmeans,IV. Balance sectorial,11,8,0.0312
+embedding_kmeans,IV. Balance sectorial,12,8,0.0312
 embedding_kmeans,V. Principios de Gobierno de la Patria Milagro,2,1,0.0625
-embedding_kmeans,V. Principios de Gobierno de la Patria Milagro,10,4,0.25
-embedding_kmeans,V. Principios de Gobierno de la Patria Milagro,11,7,0.4375
-lda,0. Preliminares,1,6,0.375
-lda,0. Preliminares,2,1,0.0625
-lda,0. Preliminares,5,1,0.0625
+embedding_kmeans,V. Principios de Gobierno de la Patria Milagro,3,2,0.125
+embedding_kmeans,V. Principios de Gobierno de la Patria Milagro,6,9,0.5625
+embedding_kmeans,V. Principios de Gobierno de la Patria Milagro,8,4,0.25
+lda,0. Preliminares,0,1,0.0625
+lda,0. Preliminares,3,4,0.25
+lda,0. Preliminares,4,2,0.125
+lda,0. Preliminares,5,2,0.125
 lda,0. Preliminares,6,1,0.0625
-lda,0. Preliminares,8,3,0.1875
-lda,0. Preliminares,9,2,0.125
+lda,0. Preliminares,8,1,0.0625
+lda,0. Preliminares,9,1,0.0625
 lda,0. Preliminares,10,1,0.0625
-lda,0. Preliminares,11,1,0.0625
-lda,I. Proceso metodológico del empalme,1,10,0.3846
-lda,I. Proceso metodológico del empalme,4,1,0.0385
-lda,I. Proceso metodológico del empalme,5,7,0.2692
-lda,I. Proceso metodológico del empalme,6,1,0.0385
-lda,I. Proceso metodológico del empalme,7,4,0.1538
-lda,I. Proceso metodológico del empalme,9,1,0.0385
-lda,I. Proceso metodológico del empalme,12,2,0.0769
-lda,II. Comportamientos críticos nocivos para el Estado,0,10,0.0372
-lda,II. Comportamientos críticos nocivos para el Estado,1,22,0.0818
-lda,II. Comportamientos críticos nocivos para el Estado,2,30,0.1115
-lda,II. Comportamientos críticos nocivos para el Estado,3,20,0.0743
+lda,0. Preliminares,12,3,0.1875
+lda,I. Proceso metodológico del empalme,1,2,0.0769
+lda,I. Proceso metodológico del empalme,3,5,0.1923
+lda,I. Proceso metodológico del empalme,4,4,0.1538
+lda,I. Proceso metodológico del empalme,5,1,0.0385
+lda,I. Proceso metodológico del empalme,11,7,0.2692
+lda,I. Proceso metodológico del empalme,12,7,0.2692
+lda,II. Comportamientos críticos nocivos para el Estado,0,23,0.0855
+lda,II. Comportamientos críticos nocivos para el Estado,1,8,0.0297
+lda,II. Comportamientos críticos nocivos para el Estado,2,75,0.2788
+lda,II. Comportamientos críticos nocivos para el Estado,3,14,0.052
 lda,II. Comportamientos críticos nocivos para el Estado,4,18,0.0669
-lda,II. Comportamientos críticos nocivos para el Estado,5,14,0.052
+lda,II. Comportamientos críticos nocivos para el Estado,5,13,0.0483
 lda,II. Comportamientos críticos nocivos para el Estado,6,19,0.0706
-lda,II. Comportamientos críticos nocivos para el Estado,7,27,0.1004
-lda,II. Comportamientos críticos nocivos para el Estado,8,16,0.0595
-lda,II. Comportamientos críticos nocivos para el Estado,9,31,0.1152
-lda,II. Comportamientos críticos nocivos para el Estado,10,32,0.119
-lda,II. Comportamientos críticos nocivos para el Estado,11,21,0.0781
-lda,II. Comportamientos críticos nocivos para el Estado,12,9,0.0335
-lda,III. Hallazgos en materia de corrupción y balance de acciones,0,7,0.0833
-lda,III. Hallazgos en materia de corrupción y balance de acciones,1,6,0.0714
-lda,III. Hallazgos en materia de corrupción y balance de acciones,2,1,0.0119
-lda,III. Hallazgos en materia de corrupción y balance de acciones,4,2,0.0238
-lda,III. Hallazgos en materia de corrupción y balance de acciones,6,11,0.131
-lda,III. Hallazgos en materia de corrupción y balance de acciones,7,4,0.0476
-lda,III. Hallazgos en materia de corrupción y balance de acciones,8,23,0.2738
+lda,II. Comportamientos críticos nocivos para el Estado,7,25,0.0929
+lda,II. Comportamientos críticos nocivos para el Estado,8,14,0.052
+lda,II. Comportamientos críticos nocivos para el Estado,9,14,0.052
+lda,II. Comportamientos críticos nocivos para el Estado,10,20,0.0743
+lda,II. Comportamientos críticos nocivos para el Estado,11,14,0.052
+lda,II. Comportamientos críticos nocivos para el Estado,12,12,0.0446
+lda,III. Hallazgos en materia de corrupción y balance de acciones,0,4,0.0476
+lda,III. Hallazgos en materia de corrupción y balance de acciones,1,29,0.3452
+lda,III. Hallazgos en materia de corrupción y balance de acciones,2,2,0.0238
+lda,III. Hallazgos en materia de corrupción y balance de acciones,3,15,0.1786
+lda,III. Hallazgos en materia de corrupción y balance de acciones,4,1,0.0119
+lda,III. Hallazgos en materia de corrupción y balance de acciones,5,1,0.0119
+lda,III. Hallazgos en materia de corrupción y balance de acciones,6,1,0.0119
+lda,III. Hallazgos en materia de corrupción y balance de acciones,7,12,0.1429
+lda,III. Hallazgos en materia de corrupción y balance de acciones,8,3,0.0357
 lda,III. Hallazgos en materia de corrupción y balance de acciones,9,5,0.0595
-lda,III. Hallazgos en materia de corrupción y balance de acciones,11,3,0.0357
-lda,III. Hallazgos en materia de corrupción y balance de acciones,12,22,0.2619
-lda,IV. Balance sectorial,0,13,0.0508
-lda,IV. Balance sectorial,1,11,0.043
-lda,IV. Balance sectorial,2,21,0.082
-lda,IV. Balance sectorial,3,31,0.1211
-lda,IV. Balance sectorial,4,23,0.0898
-lda,IV. Balance sectorial,5,18,0.0703
-lda,IV. Balance sectorial,6,22,0.0859
-lda,IV. Balance sectorial,7,25,0.0977
-lda,IV. Balance sectorial,8,17,0.0664
-lda,IV. Balance sectorial,9,15,0.0586
-lda,IV. Balance sectorial,10,21,0.082
-lda,IV. Balance sectorial,11,29,0.1133
-lda,IV. Balance sectorial,12,10,0.0391
-lda,V. Principios de Gobierno de la Patria Milagro,1,8,0.5
+lda,III. Hallazgos en materia de corrupción y balance de acciones,10,4,0.0476
+lda,III. Hallazgos en materia de corrupción y balance de acciones,11,5,0.0595
+lda,III. Hallazgos en materia de corrupción y balance de acciones,12,2,0.0238
+lda,IV. Balance sectorial,0,14,0.0547
+lda,IV. Balance sectorial,1,7,0.0273
+lda,IV. Balance sectorial,2,56,0.2188
+lda,IV. Balance sectorial,3,23,0.0898
+lda,IV. Balance sectorial,4,10,0.0391
+lda,IV. Balance sectorial,5,14,0.0547
+lda,IV. Balance sectorial,6,35,0.1367
+lda,IV. Balance sectorial,7,12,0.0469
+lda,IV. Balance sectorial,8,21,0.082
+lda,IV. Balance sectorial,9,19,0.0742
+lda,IV. Balance sectorial,10,16,0.0625
+lda,IV. Balance sectorial,11,11,0.043
+lda,IV. Balance sectorial,12,18,0.0703
+lda,V. Principios de Gobierno de la Patria Milagro,0,1,0.0625
+lda,V. Principios de Gobierno de la Patria Milagro,3,1,0.0625
+lda,V. Principios de Gobierno de la Patria Milagro,4,1,0.0625
+lda,V. Principios de Gobierno de la Patria Milagro,5,1,0.0625
 lda,V. Principios de Gobierno de la Patria Milagro,6,1,0.0625
 lda,V. Principios de Gobierno de la Patria Milagro,7,1,0.0625
-lda,V. Principios de Gobierno de la Patria Milagro,9,1,0.0625
-lda,V. Principios de Gobierno de la Patria Milagro,10,4,0.25
-lda,V. Principios de Gobierno de la Patria Milagro,11,1,0.0625
+lda,V. Principios de Gobierno de la Patria Milagro,8,2,0.125
+lda,V. Principios de Gobierno de la Patria Milagro,10,1,0.0625
+lda,V. Principios de Gobierno de la Patria Milagro,12,7,0.4375
 tfidf_nmf,0. Preliminares,2,10,0.625
 tfidf_nmf,0. Preliminares,7,2,0.125
 tfidf_nmf,0. Preliminares,11,1,0.0625
@@ -142,9 +147,9 @@ tfidf_nmf,IV. Balance sectorial,9,20,0.0781
 tfidf_nmf,IV. Balance sectorial,10,21,0.082
 tfidf_nmf,IV. Balance sectorial,11,26,0.1016
 tfidf_nmf,IV. Balance sectorial,12,24,0.0938
-tfidf_nmf,V. Principios de Gobierno de la Patria Milagro,2,7,0.4375
+tfidf_nmf,V. Principios de Gobierno de la Patria Milagro,2,8,0.5
 tfidf_nmf,V. Principios de Gobierno de la Patria Milagro,6,1,0.0625
 tfidf_nmf,V. Principios de Gobierno de la Patria Milagro,7,2,0.125
 tfidf_nmf,V. Principios de Gobierno de la Patria Milagro,10,1,0.0625
 tfidf_nmf,V. Principios de Gobierno de la Patria Milagro,11,1,0.0625
-tfidf_nmf,V. Principios de Gobierno de la Patria Milagro,12,4,0.25
+tfidf_nmf,V. Principios de Gobierno de la Patria Milagro,12,3,0.1875

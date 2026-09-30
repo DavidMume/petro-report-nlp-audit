@@ -30,11 +30,11 @@
     <node id="empalme">
       <data key="d0">59</data>
     </node>
-    <node id="entidad">
-      <data key="d0">98</data>
-    </node>
     <node id="control">
       <data key="d0">81</data>
+    </node>
+    <node id="entidad">
+      <data key="d0">98</data>
     </node>
     <node id="institucional">
       <data key="d0">59</data>
@@ -66,23 +66,23 @@
     <node id="información">
       <data key="d0">54</data>
     </node>
+    <node id="ejecución">
+      <data key="d0">80</data>
+    </node>
     <node id="técnico">
       <data key="d0">60</data>
     </node>
     <node id="contratación">
       <data key="d0">63</data>
     </node>
-    <node id="gestión">
-      <data key="d0">53</data>
-    </node>
     <node id="fiscal">
       <data key="d0">63</data>
     </node>
+    <node id="gestión">
+      <data key="d0">53</data>
+    </node>
     <node id="proyecto">
       <data key="d0">109</data>
-    </node>
-    <node id="ejecución">
-      <data key="d0">79</data>
     </node>
     <node id="actuación">
       <data key="d0">28</data>
@@ -105,11 +105,11 @@
     <node id="recibir">
       <data key="d0">56</data>
     </node>
-    <node id="autoridad">
-      <data key="d0">32</data>
-    </node>
     <node id="relacionado">
       <data key="d0">31</data>
+    </node>
+    <node id="autoridad">
+      <data key="d0">32</data>
     </node>
     <node id="administrativo">
       <data key="d0">47</data>
@@ -144,11 +144,11 @@
     <node id="colombiano">
       <data key="d0">61</data>
     </node>
-    <node id="responsabilidad">
-      <data key="d0">29</data>
-    </node>
     <node id="resultado">
       <data key="d0">53</data>
+    </node>
+    <node id="responsabilidad">
+      <data key="d0">29</data>
     </node>
     <node id="análisis">
       <data key="d0">22</data>
@@ -216,14 +216,14 @@
     <node id="mecanismo">
       <data key="d0">24</data>
     </node>
+    <node id="judicial">
+      <data key="d0">25</data>
+    </node>
     <node id="solicitar">
       <data key="d0">15</data>
     </node>
     <node id="administración">
       <data key="d0">22</data>
-    </node>
-    <node id="transparencia">
-      <data key="d0">31</data>
     </node>
     <edge source="proceso" target="información">
       <data key="d1">11</data>
@@ -246,11 +246,17 @@
     <edge source="proceso" target="caso">
       <data key="d1">7</data>
     </edge>
+    <edge source="proceso" target="ejecución">
+      <data key="d1">8</data>
+    </edge>
     <edge source="proceso" target="entidad">
       <data key="d1">12</data>
     </edge>
     <edge source="proceso" target="gestión">
       <data key="d1">6</data>
+    </edge>
+    <edge source="proceso" target="judicial">
+      <data key="d1">7</data>
     </edge>
     <edge source="proceso" target="presentar">
       <data key="d1">9</data>
@@ -357,9 +363,6 @@
     <edge source="proceso" target="relacionado">
       <data key="d1">7</data>
     </edge>
-    <edge source="proceso" target="transparencia">
-      <data key="d1">5</data>
-    </edge>
     <edge source="proceso" target="contrato">
       <data key="d1">3</data>
     </edge>
@@ -368,9 +371,6 @@
     </edge>
     <edge source="proceso" target="fiscal">
       <data key="d1">5</data>
-    </edge>
-    <edge source="proceso" target="ejecución">
-      <data key="d1">7</data>
     </edge>
     <edge source="proceso" target="comprometer">
       <data key="d1">8</data>
@@ -534,6 +534,9 @@
     <edge source="millón" target="nacional">
       <data key="d1">4</data>
     </edge>
+    <edge source="millón" target="judicial">
+      <data key="d1">4</data>
+    </edge>
     <edge source="millón" target="persona">
       <data key="d1">9</data>
     </edge>
@@ -666,9 +669,6 @@
     <edge source="público" target="responsabilidad">
       <data key="d1">3</data>
     </edge>
-    <edge source="público" target="transparencia">
-      <data key="d1">9</data>
-    </edge>
     <edge source="público" target="estratégico">
       <data key="d1">4</data>
     </edge>
@@ -713,6 +713,9 @@
     </edge>
     <edge source="público" target="hallazgo">
       <data key="d1">6</data>
+    </edge>
+    <edge source="público" target="judicial">
+      <data key="d1">3</data>
     </edge>
     <edge source="público" target="proyecto">
       <data key="d1">10</data>
@@ -834,9 +837,6 @@
     <edge source="recurso" target="gobierno">
       <data key="d1">5</data>
     </edge>
-    <edge source="recurso" target="transparencia">
-      <data key="d1">8</data>
-    </edge>
     <edge source="recurso" target="financiero">
       <data key="d1">3</data>
     </edge>
@@ -896,6 +896,9 @@
     </edge>
     <edge source="recurso" target="hallazgo">
       <data key="d1">6</data>
+    </edge>
+    <edge source="recurso" target="judicial">
+      <data key="d1">3</data>
     </edge>
     <edge source="recurso" target="mayor">
       <data key="d1">5</data>
@@ -984,6 +987,9 @@
     <edge source="decisión" target="contratación">
       <data key="d1">4</data>
     </edge>
+    <edge source="decisión" target="judicial">
+      <data key="d1">9</data>
+    </edge>
     <edge source="decisión" target="riesgo">
       <data key="d1">6</data>
     </edge>
@@ -1001,9 +1007,6 @@
     </edge>
     <edge source="decisión" target="gobierno">
       <data key="d1">6</data>
-    </edge>
-    <edge source="decisión" target="transparencia">
-      <data key="d1">7</data>
     </edge>
     <edge source="decisión" target="ejecución">
       <data key="d1">3</data>
@@ -1128,9 +1131,6 @@
     <edge source="empalme" target="institucional">
       <data key="d1">10</data>
     </edge>
-    <edge source="empalme" target="transparencia">
-      <data key="d1">3</data>
-    </edge>
     <edge source="empalme" target="entidad">
       <data key="d1">4</data>
     </edge>
@@ -1188,116 +1188,11 @@
     <edge source="empalme" target="encontrar">
       <data key="d1">3</data>
     </edge>
-    <edge source="entidad" target="control">
-      <data key="d1">7</data>
-    </edge>
-    <edge source="entidad" target="parte">
-      <data key="d1">7</data>
-    </edge>
-    <edge source="entidad" target="gestión">
-      <data key="d1">8</data>
-    </edge>
-    <edge source="entidad" target="hallazgo">
-      <data key="d1">7</data>
-    </edge>
-    <edge source="entidad" target="presentar">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="entidad" target="información">
-      <data key="d1">9</data>
-    </edge>
-    <edge source="entidad" target="riesgo">
-      <data key="d1">7</data>
-    </edge>
-    <edge source="entidad" target="sector">
-      <data key="d1">9</data>
-    </edge>
-    <edge source="entidad" target="análisis">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="entidad" target="exigir">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="entidad" target="institucional">
-      <data key="d1">10</data>
-    </edge>
-    <edge source="entidad" target="recibir">
-      <data key="d1">7</data>
-    </edge>
-    <edge source="entidad" target="persona">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="entidad" target="servicio">
-      <data key="d1">9</data>
-    </edge>
-    <edge source="entidad" target="tiempo">
-      <data key="d1">6</data>
-    </edge>
-    <edge source="entidad" target="estratégico">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="entidad" target="fiscal">
-      <data key="d1">6</data>
-    </edge>
-    <edge source="entidad" target="capacidad">
-      <data key="d1">7</data>
-    </edge>
-    <edge source="entidad" target="ciudadano">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="entidad" target="mayor">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="entidad" target="julio">
-      <data key="d1">7</data>
-    </edge>
-    <edge source="entidad" target="programa">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="entidad" target="administrativo">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="entidad" target="ejecución">
-      <data key="d1">7</data>
-    </edge>
-    <edge source="entidad" target="frente">
-      <data key="d1">6</data>
-    </edge>
-    <edge source="entidad" target="sistema">
-      <data key="d1">5</data>
-    </edge>
-    <edge source="entidad" target="contrato">
-      <data key="d1">5</data>
-    </edge>
-    <edge source="entidad" target="nuevo">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="entidad" target="nacional">
-      <data key="d1">5</data>
-    </edge>
-    <edge source="entidad" target="comprometer">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="entidad" target="año">
-      <data key="d1">6</data>
-    </edge>
-    <edge source="entidad" target="billón">
-      <data key="d1">8</data>
-    </edge>
-    <edge source="entidad" target="financiero">
-      <data key="d1">7</data>
-    </edge>
-    <edge source="entidad" target="proyecto">
-      <data key="d1">5</data>
-    </edge>
-    <edge source="entidad" target="colombiano">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="entidad" target="contratación">
-      <data key="d1">4</data>
-    </edge>
     <edge source="control" target="encontrar">
       <data key="d1">4</data>
+    </edge>
+    <edge source="control" target="entidad">
+      <data key="d1">7</data>
     </edge>
     <edge source="control" target="parte">
       <data key="d1">4</data>
@@ -1359,9 +1254,6 @@
     <edge source="control" target="fiscal">
       <data key="d1">13</data>
     </edge>
-    <edge source="control" target="transparencia">
-      <data key="d1">5</data>
-    </edge>
     <edge source="control" target="nuevo">
       <data key="d1">4</data>
     </edge>
@@ -1385,6 +1277,9 @@
     </edge>
     <edge source="control" target="hallazgo">
       <data key="d1">6</data>
+    </edge>
+    <edge source="control" target="judicial">
+      <data key="d1">3</data>
     </edge>
     <edge source="control" target="presentar">
       <data key="d1">4</data>
@@ -1413,6 +1308,114 @@
     <edge source="control" target="solicitar">
       <data key="d1">3</data>
     </edge>
+    <edge source="entidad" target="parte">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="entidad" target="ejecución">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="entidad" target="gestión">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="entidad" target="hallazgo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="entidad" target="judicial">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="entidad" target="presentar">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="entidad" target="información">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="entidad" target="riesgo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="entidad" target="sector">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="entidad" target="análisis">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="entidad" target="exigir">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="entidad" target="institucional">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="entidad" target="recibir">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="entidad" target="persona">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="entidad" target="servicio">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="entidad" target="tiempo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="entidad" target="estratégico">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="entidad" target="fiscal">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="entidad" target="capacidad">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="entidad" target="ciudadano">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="entidad" target="mayor">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="entidad" target="julio">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="entidad" target="programa">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="entidad" target="administrativo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="entidad" target="frente">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="entidad" target="sistema">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="entidad" target="contrato">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="entidad" target="nuevo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="entidad" target="nacional">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="entidad" target="comprometer">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="entidad" target="año">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="entidad" target="billón">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="entidad" target="financiero">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="entidad" target="proyecto">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="entidad" target="colombiano">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="entidad" target="contratación">
+      <data key="d1">4</data>
+    </edge>
     <edge source="institucional" target="autoridad">
       <data key="d1">3</data>
     </edge>
@@ -1421,9 +1424,6 @@
     </edge>
     <edge source="institucional" target="exigir">
       <data key="d1">5</data>
-    </edge>
-    <edge source="institucional" target="transparencia">
-      <data key="d1">4</data>
     </edge>
     <edge source="institucional" target="ejercicio">
       <data key="d1">3</data>
@@ -1546,9 +1546,6 @@
       <data key="d1">3</data>
     </edge>
     <edge source="capacidad" target="billón">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="capacidad" target="transparencia">
       <data key="d1">3</data>
     </edge>
     <edge source="capacidad" target="ejecución">
@@ -1716,6 +1713,9 @@
     <edge source="contractual" target="actuación">
       <data key="d1">8</data>
     </edge>
+    <edge source="contractual" target="judicial">
+      <data key="d1">3</data>
+    </edge>
     <edge source="contractual" target="ejecución">
       <data key="d1">6</data>
     </edge>
@@ -1736,9 +1736,6 @@
     </edge>
     <edge source="contractual" target="hallazgo">
       <data key="d1">5</data>
-    </edge>
-    <edge source="contractual" target="transparencia">
-      <data key="d1">3</data>
     </edge>
     <edge source="contractual" target="relacionado">
       <data key="d1">3</data>
@@ -1765,6 +1762,9 @@
       <data key="d1">3</data>
     </edge>
     <edge source="caso" target="riesgo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="caso" target="ejecución">
       <data key="d1">3</data>
     </edge>
     <edge source="caso" target="gestión">
@@ -1809,17 +1809,20 @@
     <edge source="caso" target="relacionado">
       <data key="d1">3</data>
     </edge>
+    <edge source="presentar" target="ejecución">
+      <data key="d1">5</data>
+    </edge>
     <edge source="presentar" target="gestión">
       <data key="d1">3</data>
     </edge>
     <edge source="presentar" target="hallazgo">
       <data key="d1">8</data>
     </edge>
+    <edge source="presentar" target="judicial">
+      <data key="d1">3</data>
+    </edge>
     <edge source="presentar" target="proyecto">
       <data key="d1">7</data>
-    </edge>
-    <edge source="presentar" target="ejecución">
-      <data key="d1">4</data>
     </edge>
     <edge source="presentar" target="fiscal">
       <data key="d1">6</data>
@@ -1914,11 +1917,68 @@
     <edge source="información" target="disciplinario">
       <data key="d1">3</data>
     </edge>
-    <edge source="información" target="transparencia">
-      <data key="d1">4</data>
-    </edge>
     <edge source="información" target="ciudadano">
       <data key="d1">4</data>
+    </edge>
+    <edge source="ejecución" target="hallazgo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="ejecución" target="judicial">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="ejecución" target="fiscal">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ejecución" target="técnico">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="ejecución" target="programa">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="ejecución" target="frente">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="ejecución" target="sistema">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="ejecución" target="billón">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="ejecución" target="financiero">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="ejecución" target="presupuestal">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="ejecución" target="país">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="ejecución" target="colombiano">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="ejecución" target="parte">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="ejecución" target="proyecto">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="ejecución" target="autoridad">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="ejecución" target="julio">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="ejecución" target="recibir">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="ejecución" target="año">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="ejecución" target="sector">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ejecución" target="valor">
+      <data key="d1">3</data>
     </edge>
     <edge source="técnico" target="sistema">
       <data key="d1">4</data>
@@ -1931,9 +1991,6 @@
     </edge>
     <edge source="técnico" target="julio">
       <data key="d1">3</data>
-    </edge>
-    <edge source="técnico" target="ejecución">
-      <data key="d1">4</data>
     </edge>
     <edge source="técnico" target="fiscal">
       <data key="d1">6</data>
@@ -1957,9 +2014,6 @@
       <data key="d1">3</data>
     </edge>
     <edge source="técnico" target="comprometer">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="técnico" target="transparencia">
       <data key="d1">3</data>
     </edge>
     <edge source="técnico" target="proyecto">
@@ -2016,9 +2070,6 @@
     <edge source="contratación" target="riesgo">
       <data key="d1">4</data>
     </edge>
-    <edge source="contratación" target="transparencia">
-      <data key="d1">3</data>
-    </edge>
     <edge source="contratación" target="billón">
       <data key="d1">4</data>
     </edge>
@@ -2043,8 +2094,80 @@
     <edge source="contratación" target="proyecto">
       <data key="d1">3</data>
     </edge>
+    <edge source="fiscal" target="sector">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="fiscal" target="financiero">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="fiscal" target="presupuestal">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="fiscal" target="riesgo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="fiscal" target="tiempo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="fiscal" target="año">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="fiscal" target="país">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="fiscal" target="exigir">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="fiscal" target="nuevo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="fiscal" target="hallazgo">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="fiscal" target="disciplinario">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="fiscal" target="parte">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="fiscal" target="proyecto">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="fiscal" target="autoridad">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="fiscal" target="billón">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="fiscal" target="judicial">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="fiscal" target="administrativo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="fiscal" target="auditoría">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="fiscal" target="programa">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="fiscal" target="responsabilidad">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="fiscal" target="acción">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="fiscal" target="mecanismo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="fiscal" target="correspondiente">
+      <data key="d1">4</data>
+    </edge>
     <edge source="gestión" target="hallazgo">
       <data key="d1">6</data>
+    </edge>
+    <edge source="gestión" target="judicial">
+      <data key="d1">4</data>
     </edge>
     <edge source="gestión" target="financiero">
       <data key="d1">3</data>
@@ -2079,78 +2202,6 @@
     <edge source="gestión" target="relacionado">
       <data key="d1">3</data>
     </edge>
-    <edge source="fiscal" target="sector">
-      <data key="d1">5</data>
-    </edge>
-    <edge source="fiscal" target="financiero">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="fiscal" target="presupuestal">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="fiscal" target="ejecución">
-      <data key="d1">7</data>
-    </edge>
-    <edge source="fiscal" target="riesgo">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="fiscal" target="tiempo">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="fiscal" target="año">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="fiscal" target="país">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="fiscal" target="transparencia">
-      <data key="d1">5</data>
-    </edge>
-    <edge source="fiscal" target="exigir">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="fiscal" target="nuevo">
-      <data key="d1">8</data>
-    </edge>
-    <edge source="fiscal" target="hallazgo">
-      <data key="d1">18</data>
-    </edge>
-    <edge source="fiscal" target="disciplinario">
-      <data key="d1">13</data>
-    </edge>
-    <edge source="fiscal" target="parte">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="fiscal" target="proyecto">
-      <data key="d1">7</data>
-    </edge>
-    <edge source="fiscal" target="autoridad">
-      <data key="d1">6</data>
-    </edge>
-    <edge source="fiscal" target="billón">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="fiscal" target="administrativo">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="fiscal" target="auditoría">
-      <data key="d1">6</data>
-    </edge>
-    <edge source="fiscal" target="programa">
-      <data key="d1">5</data>
-    </edge>
-    <edge source="fiscal" target="responsabilidad">
-      <data key="d1">5</data>
-    </edge>
-    <edge source="fiscal" target="acción">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="fiscal" target="mecanismo">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="fiscal" target="correspondiente">
-      <data key="d1">4</data>
-    </edge>
     <edge source="proyecto" target="billón">
       <data key="d1">10</data>
     </edge>
@@ -2168,9 +2219,6 @@
     </edge>
     <edge source="proyecto" target="parte">
       <data key="d1">5</data>
-    </edge>
-    <edge source="proyecto" target="ejecución">
-      <data key="d1">11</data>
     </edge>
     <edge source="proyecto" target="hallazgo">
       <data key="d1">5</data>
@@ -2211,54 +2259,6 @@
     <edge source="proyecto" target="programa">
       <data key="d1">3</data>
     </edge>
-    <edge source="ejecución" target="programa">
-      <data key="d1">5</data>
-    </edge>
-    <edge source="ejecución" target="frente">
-      <data key="d1">5</data>
-    </edge>
-    <edge source="ejecución" target="sistema">
-      <data key="d1">5</data>
-    </edge>
-    <edge source="ejecución" target="billón">
-      <data key="d1">13</data>
-    </edge>
-    <edge source="ejecución" target="financiero">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="ejecución" target="presupuestal">
-      <data key="d1">10</data>
-    </edge>
-    <edge source="ejecución" target="país">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="ejecución" target="colombiano">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="ejecución" target="hallazgo">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="ejecución" target="parte">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="ejecución" target="autoridad">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="ejecución" target="julio">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="ejecución" target="recibir">
-      <data key="d1">3</data>
-    </edge>
-    <edge source="ejecución" target="año">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="ejecución" target="sector">
-      <data key="d1">6</data>
-    </edge>
-    <edge source="ejecución" target="valor">
-      <data key="d1">3</data>
-    </edge>
     <edge source="actuación" target="billón">
       <data key="d1">3</data>
     </edge>
@@ -2281,6 +2281,9 @@
       <data key="d1">3</data>
     </edge>
     <edge source="actuación" target="solicitar">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hallazgo" target="judicial">
       <data key="d1">3</data>
     </edge>
     <edge source="hallazgo" target="administrativo">
@@ -2371,6 +2374,9 @@
       <data key="d1">3</data>
     </edge>
     <edge source="billón" target="programa">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="billón" target="judicial">
       <data key="d1">4</data>
     </edge>
     <edge source="billón" target="julio">
@@ -2466,18 +2472,6 @@
     <edge source="recibir" target="año">
       <data key="d1">5</data>
     </edge>
-    <edge source="autoridad" target="responsabilidad">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="autoridad" target="acción">
-      <data key="d1">4</data>
-    </edge>
-    <edge source="autoridad" target="disciplinario">
-      <data key="d1">6</data>
-    </edge>
-    <edge source="autoridad" target="parte">
-      <data key="d1">4</data>
-    </edge>
     <edge source="relacionado" target="sistema">
       <data key="d1">4</data>
     </edge>
@@ -2496,8 +2490,23 @@
     <edge source="relacionado" target="encontrar">
       <data key="d1">3</data>
     </edge>
+    <edge source="autoridad" target="responsabilidad">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="autoridad" target="acción">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="autoridad" target="disciplinario">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="autoridad" target="parte">
+      <data key="d1">4</data>
+    </edge>
     <edge source="administrativo" target="presupuestal">
       <data key="d1">8</data>
+    </edge>
+    <edge source="administrativo" target="judicial">
+      <data key="d1">3</data>
     </edge>
     <edge source="administrativo" target="riesgo">
       <data key="d1">4</data>
@@ -2513,6 +2522,9 @@
     </edge>
     <edge source="administrativo" target="julio">
       <data key="d1">5</data>
+    </edge>
+    <edge source="disciplinario" target="judicial">
+      <data key="d1">3</data>
     </edge>
     <edge source="disciplinario" target="acción">
       <data key="d1">4</data>
@@ -2537,9 +2549,6 @@
     </edge>
     <edge source="comprometer" target="programa">
       <data key="d1">4</data>
-    </edge>
-    <edge source="comprometer" target="transparencia">
-      <data key="d1">3</data>
     </edge>
     <edge source="comprometer" target="colombiano">
       <data key="d1">3</data>
@@ -2592,6 +2601,9 @@
     <edge source="riesgo" target="administración">
       <data key="d1">4</data>
     </edge>
+    <edge source="riesgo" target="judicial">
+      <data key="d1">5</data>
+    </edge>
     <edge source="riesgo" target="colombiano">
       <data key="d1">6</data>
     </edge>
@@ -2600,9 +2612,6 @@
     </edge>
     <edge source="riesgo" target="sistema">
       <data key="d1">3</data>
-    </edge>
-    <edge source="riesgo" target="transparencia">
-      <data key="d1">5</data>
     </edge>
     <edge source="riesgo" target="nuevo">
       <data key="d1">5</data>
@@ -2667,16 +2676,13 @@
     <edge source="colombiano" target="resultado">
       <data key="d1">5</data>
     </edge>
-    <edge source="colombiano" target="transparencia">
-      <data key="d1">3</data>
-    </edge>
     <edge source="colombiano" target="sistema">
       <data key="d1">3</data>
     </edge>
-    <edge source="responsabilidad" target="exigir">
+    <edge source="resultado" target="ciudadano">
       <data key="d1">3</data>
     </edge>
-    <edge source="responsabilidad" target="transparencia">
+    <edge source="responsabilidad" target="exigir">
       <data key="d1">3</data>
     </edge>
     <edge source="responsabilidad" target="acción">
@@ -2684,9 +2690,6 @@
     </edge>
     <edge source="responsabilidad" target="correspondiente">
       <data key="d1">4</data>
-    </edge>
-    <edge source="resultado" target="ciudadano">
-      <data key="d1">3</data>
     </edge>
     <edge source="julio" target="correspondiente">
       <data key="d1">5</data>
@@ -2720,9 +2723,6 @@
     </edge>
     <edge source="mayor" target="desarrollo">
       <data key="d1">3</data>
-    </edge>
-    <edge source="exigir" target="transparencia">
-      <data key="d1">5</data>
     </edge>
     <edge source="exigir" target="financiero">
       <data key="d1">5</data>

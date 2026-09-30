@@ -79,6 +79,13 @@ def main() -> None:
             w.writerow([p.page_number, p.extraction_method, p.used_ocr, len(p.text.split()),
                         len(p.blocks), p.n_images, len(p.tables), len(p.figures), sum(len(f["ocr_text"].split()) for f in p.figures)])
 
+    repairs = [r for p in pages for r in p.repair_log]
+    with open(TABLES_DIR / "ocr_repaired_blocks.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=["page", "block_id", "original_text", "ocr_text"])
+        w.writeheader()
+        w.writerows(repairs)
+    print(f"[extract] blocks with corrupted glyph encoding re-read by OCR: {len(repairs)}")
+
     methods = {}
     for p in pages:
         methods[p.extraction_method] = methods.get(p.extraction_method, 0) + 1

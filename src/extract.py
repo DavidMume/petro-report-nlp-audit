@@ -36,6 +36,7 @@ class Block:
     block_id: int
     bbox: tuple
     lines: list[Line]
+    ocr_repaired: bool = False
 
     @property
     def text(self) -> str:
@@ -57,6 +58,7 @@ class PageExtraction:
     blocks: list = field(default_factory=list)
     tables: list = field(default_factory=list)
     figures: list = field(default_factory=list)  # OCR of large raster figures
+    repair_log: list = field(default_factory=list)  # blocks re-read by OCR (corrupted glyph encoding)
     used_ocr: bool = False
     extraction_method: str = "pymupdf"  # "pymupdf" | "pdfplumber" | "ocr" | "none"
     n_images: int = 0
@@ -210,6 +212,36 @@ def ocr_large_figures(pdf_path: Path, pages: list[PageExtraction], min_area_frac
                 p.figures.append({"bbox": [round(v, 1) for v in (x0, y0, x1, y1)], "ocr_text": text})
 
 
+CONTROL_CHARS_RE = __import__("re").compile(r"[\x00-\x08\x0b-\x1f]")
+
+
+def repair_corrupted_blocks(pdf_path: Path, pages: list[PageExtraction], lang: str = "spa", dpi: int = 300) -> list[dict]:
+    """Some text spans use a font whose glyph encoding maps letters to control
+    characters (e.g. 'identi\x17icados' for 'identificados' on p. 8). Such
+    blocks are re-read with OCR over their own bounding box; the original
+    text is kept in the returned log (outputs/tables/ocr_repaired_blocks.csv)."""
+    import pymupdf
+    import pytesseract
+    from PIL import Image
+
+    log = []
+    with pymupdf.open(pdf_path) as doc:
+        for p in pages:
+            for b in p.blocks:
+                if not any(CONTROL_CHARS_RE.search(ln.text) for ln in b.lines):
+                    continue
+                x0, y0, x1, y1 = b.bbox
+                pix = doc[p.page_number - 1].get_pixmap(dpi=dpi, clip=pymupdf.Rect(x0 - 2, y0 - 2, x1 + 2, y1 + 2))
+                im = Image.frombytes("RGB", (pix.width, pix.height), pix.samples)
+                ocr = " ".join(pytesseract.image_to_string(im, lang=lang).split())
+                original = " ".join(ln.text for ln in b.lines)
+                size, bold = b.lines[0].size, b.lines[0].bold
+                b.lines = [Line(text=ocr, size=size, bold=bold, bbox=b.bbox)]
+                b.ocr_repaired = True
+                log.append({"page": p.page_number, "block_id": b.block_id, "original_text": original, "ocr_text": ocr})
+    return log
+
+
 def extract_document(pdf_path: Path, run_ocr: bool = True) -> list[PageExtraction]:
     """Full extraction chain: PyMuPDF for all pages, pdfplumber fallback for
     pages PyMuPDF returns (near-)empty, OCR for pages where both are empty,
@@ -237,6 +269,13 @@ def extract_document(pdf_path: Path, run_ocr: bool = True) -> list[PageExtractio
                 p.extraction_method = "none"
 
     if run_ocr:
+        try:
+            pages_repair_log = repair_corrupted_blocks(pdf_path, pages)
+        except Exception as exc:  # pragma: no cover
+            pages_repair_log = []
+            print(f"[extract] block repair skipped: {type(exc).__name__}: {exc}")
+        for p in pages:
+            p.repair_log = [r for r in pages_repair_log if r["page"] == p.page_number]
         try:
             ocr_large_figures(pdf_path, pages)
         except Exception as exc:  # pragma: no cover - tesseract unavailable

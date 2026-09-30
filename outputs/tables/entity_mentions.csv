@@ -44,8 +44,10 @@ José Manuel Restrepo Abondano,PERSON,spacy,P0041-S01,P0041,7,0. Preliminares > 
 República,GENERIC,spacy,P0042-S01,P0042,7,0. Preliminares > PRESENTACIÓN DEL LIBRO DE LA VERDAD > Vicepresidente de la República y Director Nacional del Empalme,PRESENTACIÓN DEL LIBRO DE LA VERDAD,República,False
 Director Nacional,ORG,spacy,P0042-S01,P0042,7,0. Preliminares > PRESENTACIÓN DEL LIBRO DE LA VERDAD > Vicepresidente de la República y Director Nacional del Empalme,PRESENTACIÓN DEL LIBRO DE LA VERDAD,Director Nacional,False
 Empalme,GENERIC,spacy+override,P0042-S01,P0042,7,0. Preliminares > PRESENTACIÓN DEL LIBRO DE LA VERDAD > Vicepresidente de la República y Director Nacional del Empalme,PRESENTACIÓN DEL LIBRO DE LA VERDAD,Empalme,False
-Contraloría General de la epblica,ORG,spacy,P0047-S01,P0047,8,I. Proceso metodológico del empalme > Portadilla del capítulo,Portadilla del capítulo,Contraloría General de la epblica,True
+Contraloría General de la República,ORG,spacy,P0047-S01,P0047,8,I. Proceso metodológico del empalme > Portadilla del capítulo,Portadilla del capítulo,Contraloría General de la República,True
+SIIF Nación,MISC,spacy,P0047-S01,P0047,8,I. Proceso metodológico del empalme > Portadilla del capítulo,Portadilla del capítulo,SIIF Nación,False
 2005,DATE,regex,P0047-S02,P0047,8,I. Proceso metodológico del empalme > Portadilla del capítulo,Portadilla del capítulo,2005,False
+Ley 951 de 2005,LAW,regex,P0047-S02,P0047,8,I. Proceso metodológico del empalme > Portadilla del capítulo,Portadilla del capítulo,Ley 951 de 2005,False
 Arca de la Patria,MISC,spacy,P0049-S01,P0049,9,I. Proceso metodológico del empalme > Introducción del capítulo,Introducción del capítulo,Arca de la Patria,False
 Nación,GENERIC,spacy,P0049-S01,P0049,9,I. Proceso metodológico del empalme > Introducción del capítulo,Introducción del capítulo,Nación,False
 2026,DATE,regex,P0050-S01,P0050,9,I. Proceso metodológico del empalme > Introducción del capítulo,Introducción del capítulo,2026,False

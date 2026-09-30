@@ -1,41 +1,20 @@
-# Web application (planned)
+# Web app
 
-This folder will hold the independent, data-analysis–oriented interactive
-web application described in `documents/methodology.md` and the project
-brief — **not** the portfolio site itself (`juan-david-portfolio`), which
-will only link to and summarise this project.
+An independent, data-oriented app for exploring the audit (Spanish UI). It is **not** the portfolio
+site; the portfolio will link to it.
 
-## Planned stack
+- Stack: React 19 + Vite 8 + TypeScript + Recharts, with d3-force for the networks. Versions are pinned in `package.json`.
+- Data: `public/data/*.json`, written by `python scripts/export_web_data.py` (`make web-data`). The app
+  reads those files and computes nothing analytical itself.
+- Routes (hash-based, so it works on any static host): `#/`, `#/documento`, `#/nlp`, `#/temas`,
+  `#/entidades`, `#/afirmaciones[/<claim_id>]`, `#/verificacion`, `#/procedencia`, `#/datos`,
+  `#/metodologia`, `#/fuentes`.
+- Claim drill-down: claim → original passage → page → source cited by the report → external evidence →
+  assessment → confidence.
+- Light and dark themes (token-based; follows the OS setting, with a manual toggle).
 
-- React + Vite + TypeScript
-- Recharts or D3 for charts
-- Visual language inspired by `DavidMume/juan-david-portfolio`'s editorial
-  design, implemented independently in this repository
-
-## Planned sections
-
+```bash
+npm install
+npm run dev        # local
+npm run build      # → dist/ (relative asset paths)
 ```
-/            overview
-/document    the source document, provenance, page browser
-/nlp         exploratory NLP results
-/topics      topic modelling outputs
-/entities    entities and co-occurrence/concept networks
-/claims      searchable claim database
-/verification the fact-checking matrix
-/data        downloadable tables and manifest
-/methodology full methodology writeup
-/sources     evidence ledger / bibliography
-```
-
-Selecting a claim must let the reader follow:
-
-```
-Claim → Original passage → Page → Report source → External evidence → Assessment → Confidence
-```
-
-## Status
-
-Not started. This app is built **after** real NLP, claim-extraction and
-verification outputs exist — building it against placeholder data would
-risk baking in a UI shaped around assumptions rather than actual results.
-See `RESEARCH_LOG.md`.

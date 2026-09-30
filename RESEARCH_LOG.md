@@ -208,3 +208,35 @@ repository-scoped `git push` to it, which the error message's own wording
 suggests should be treated differently from account-level endpoints. If
 that also fails, the fallback is delivering the repository as a
 downloadable archive for the user to push from their own machine.
+
+---
+
+## 2026-09-28/30 — Phase 2: full pipeline over the confirmed PDF
+
+Each item: **decision — reason — alternative — impact.**
+
+**Extraction.** PyMuPDF block/line extraction with font size and bold kept per line. Pages 1, 2 and 4 have no text layer and were OCR'd (Tesseract `spa`), then excluded from the analytic corpus (cover, photos, logo). Raster figures covering ≥10% of a page (pp. 14, 25) were OCR'd separately; stacked image layers were de-duplicated. One footnote block on p. 8 used a font whose glyphs map to control characters (`identi\x17icados`); it was re-read by OCR over its own bounding box and the original is logged in `ocr_repaired_blocks.csv`. pdfplumber found no ruled tables. *Alternative:* whole-document OCR, rejected because it lowers fidelity everywhere to fix five pages. *Impact:* 1,670 analytic sentences; OCR text is flagged throughout.
+
+**Structure.** Headings are lines ≥12pt; chapters come from the divider pages (170pt numerals); chapter titles are transcribed from the table of contents. Some pages put their main heading late in the PDF content stream (behaviour-definition pages in ch. II, sector openings in ch. IV), so a per-page prescan assigns the whole page to that heading. Ch. IV sector names are matched against a list transcribed from the headings, because a few headings run the sector name and the headline together in one span. *Impact:* 85 sections, all traceable to page ranges (`sections.csv`).
+
+**Stopwords.** spaCy's Spanish list contains domain content words ("estado", "verdad", "poder", "mayor", "nuevo", "total"…). They were removed from the stopword list (`STOPWORD_KEEP`). *Alternative:* keep the default list; rejected because "Estado" would disappear from every frequency table.
+
+**Embeddings (negative constraint).** huggingface.co is blocked by the environment's egress policy, so no sentence-transformer and no BERTopic. Fallback: averaged spaCy `es_core_news_lg` static vectors, with the method recorded in every output. *Impact:* embedding-based clusters and the UMAP map are weaker than planned. Re-run with sentence-transformers where it is available.
+
+**Topic k.** Swept k = 6–14; picked k = 13 by the best NMF NPMI and used it for all models so they are comparable. **Negative finding:** NPMI is negative for every configuration and cross-model agreement is low (ARI 0.03–0.11), so topics are model-dependent and are reported without labels.
+
+**Entities.** Two recurrent spaCy errors: ministry-name fragments tagged as places, and generic nouns ("Estado", "Gobierno") tagged as entities. These are typed `GENERIC` and a small reviewed override list is applied (`TYPE_OVERRIDES`). Acronyms are merged only when the document defines them itself (28 definitions found); ambiguous short forms such as "Contraloría" are never merged.
+
+**Sentiment (negative finding).** The transparent lexicon and the pretrained `sentiment-analysis-spanish` classifier do not agree (Spearman ρ ≈ −0.03 per sentence). No sentiment score is used as a finding.
+
+**Claims.** Rule-assisted scoring: money 3, percent 3, other number 2 (years excluded), date / comparative / ranking / causal / institution / attribution / law 1 each. Threshold ≥3 for a factual candidate; evaluative sentences without quantities are kept separately. Dates and legal references are masked before parsing quantities, after "Ley 951 de 2005" was first read as the quantity "951". *Impact:* 635 candidates (513 factual, 122 evaluative), all `auto_candidate`, none human-reviewed.
+
+**Stylometry — an artefact caught.** The first change-point run found breaks at exactly every 5th segment. Cause: `ruptures.Pelt` defaults to `jump=5`. Fixed with `jump=1`, a standardised signal and BIC-scaled penalties over 12 configurations (2 cost models × 6 penalties). **Negative finding:** no change point is robust (≥ 2/3 of configurations); the most frequent (4/12) sit at the start of chapters III and IV, i.e. genre changes. Two Mahalanobis outliers: the front-matter letters (G001) and a dense legal passage (G021, pp. 51-53).
+
+**AI provenance.** The document itself states that "instrumentos auxiliares de inteligencia artificial" supported document organisation, consolidation, prioritisation, traceability and "organización de los insumos de los productos finales" (ch. I, pp. 10-11). That is an author acknowledgement (§33) that AI was used in the process; it does not say whether AI drafted text. No detector was run (no calibrated Spanish detector; corpora A/B/C not assembled).
+
+**Verification pilot.** 10 claims: 8 with checkable figures from different sectors and source types, plus one opinion and one non-verifiable example to exercise those categories. Evidence was gathered on 2026-09-28 by the AI assistant and is **pending human review**. Outcome: 1 supported, 7 mostly supported, 1 not independently verifiable, 1 opinion. The recurring pattern: figures match official or cited sources closely (0 to −0.5% difference), but context is omitted — the 2022 pre-electoral baseline (C0312), a 2014 commodity-peak base year for a decline that mostly predates 2022 (C0280), commitments vs obligations as the execution metric (C0108), an opinion column described as an "investigación" (C0184), a fiscal warning described as an "auditoría" (C0463). Press coverage *of the report* is registered in the ledger as `coverage_of_audited_document` and rejected as evidence by the validator (circularity).
+
+**Stable claim IDs.** Claim IDs are sequential, so an extraction change can renumber them. Assessments are pinned to sentence_id + text prefix, the validator fails on drift, and `scripts/repin_assessments.py` re-attaches records only on an unambiguous match.
+
+**Not done.** Portfolio integration (handbook unreadable from here; no push access) — see `documents/portfolio_integration.md`. Raw-dataset reconstructions (SIIF, SECOP, GEIH microdata). Human review of candidates. Detector calibration.

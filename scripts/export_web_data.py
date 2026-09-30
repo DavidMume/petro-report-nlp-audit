@@ -47,7 +47,16 @@ def main() -> None:
     evidence = pd.read_csv(PROCESSED_DIR / "claim_evidence.csv")
     ledger = pd.read_csv(SOURCES_DIR / "evidence_ledger.csv")
 
+    log = pd.read_csv(T / "extraction_log.csv")
+    extraction = {
+        "pymupdf_pages": int((log.extraction_method == "pymupdf").sum()),
+        "ocr_pages": int(log.used_ocr.sum()),
+        "ocr_page_numbers": log[log.used_ocr].page.astype(int).tolist(),
+        "figure_ocr_pages": log[log.ocr_figures > 0].page.astype(int).tolist(),
+        "removed_header_footer_lines": int(len(pd.read_csv(T / "removed_headers_footers.csv"))),
+    }
     dump("meta.json", {
+        "extraction": extraction,
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "source": meta, "stats": stats, "topics": topics_status, "ai_detectors": detector,
         "embedding_method": (T / "embedding_method.txt").read_text().strip(),
