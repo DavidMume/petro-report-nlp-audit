@@ -26,7 +26,7 @@ All fields are transcribed from the document itself (`documents/source_metadata.
 
 | Area | Result |
 |---|---|
-| Corpus | 1,670 analytic sentences · 44,566 words · 85 sections · 655 sentences contain figures |
+| Corpus | 1,670 analytic sentences · 44,564 words · 85 sections · 655 sentences contain figures |
 | Structure | Chapter II (9 critical behaviours, 59 cases) and Chapter IV (20 sectoral balances) hold most of the text |
 | Language | The prefatory letters and Chapter V concentrate evaluative, adversarial and restoration vocabulary; Chapter III (corruption findings) is the most attributive and least evaluative |
 | Claims | 635 rule-based candidates (513 factual, 122 evaluative), none human-reviewed yet |
@@ -89,12 +89,9 @@ Integration with [juandamunoz.com](https://juandamunoz.com) (project page + sepa
 
 ## Repository status
 
-This repository was built in a sandbox that cannot push to GitHub. Publish from a machine with GitHub access:
-
-```bash
-gh repo create DavidMume/petro-report-nlp-audit --public --source=. --remote=origin --push \
-  --description "Reproducible NLP, data analysis and claim verification of a political report about Colombia."
-```
+Published at https://github.com/DavidMume/petro-report-nlp-audit. The portfolio integration is on
+branch `feature/petro-report-nlp-audit` of `DavidMume/juan-david-portfolio` (pull request). After
+merge, the interactive audit will be served at https://juandamunoz.com/libro-de-la-verdad/.
 
 ## Citation
 

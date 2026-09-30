@@ -74,7 +74,8 @@ export default function App() {
       <main className="shell">
         {page}
         <footer className="footer">
-          Proyecto independiente de análisis de datos de Juan David Mume ·{" "}
+          Proyecto independiente de análisis de datos de{" "}
+          <a href="https://juandamunoz.com/#projects">Juan David Mume</a> ·{" "}
           <a href={REPO_URL} target="_blank" rel="noreferrer">código y datos</a> · Este sitio no emite una calificación global del
           informe ni de ningún gobierno. Las evaluaciones del piloto están pendientes de revisión humana.
         </footer>
