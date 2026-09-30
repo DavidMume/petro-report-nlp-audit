@@ -2,7 +2,7 @@
 
 A reproducible NLP, data-analysis and claim-verification audit of **"El Libro de la Verdad — Empalme Anticorrupción 2026"**, a 135-page report published by the Government of Colombia about the 2022–2026 administration.
 
-> **Status (2026-09-30): phase 2.** The whole pipeline runs end to end (`make all`) over the confirmed source PDF: extraction, corpus, exploratory NLP, rule-assisted claim candidates, exploratory stylometry, a **10-claim verification pilot**, 26 charts and an interactive web app. Not done yet: human review of the claim candidates, full-scale verification, reconstructions from raw datasets, AI-detector calibration and portfolio integration. See `RESEARCH_LOG.md` and `documents/limitations.md`.
+> **Status (2026-09-30): phase 2.** The whole pipeline runs end to end (`make all`) over the confirmed source PDF: extraction, corpus, exploratory NLP, rule-assisted claim candidates, exploratory stylometry, a **10-claim verification pilot**, 26 charts and an interactive web app. Not done yet: human review of the claim candidates, full-scale verification, reconstructions from raw datasets, AI-detector calibration and the article for juandamunoz.com (the project page is in portfolio PR #2). See `RESEARCH_LOG.md` and `documents/limitations.md`.
 
 ## Research question
 
@@ -85,7 +85,7 @@ Stages: `extract`, `corpus`, `nlp`, `claims`, `validation`, `authorship`, `chart
 cd web && npm install && npm run dev      # or: npm run build → web/dist (relative paths, any static host)
 ```
 
-Integration with [juandamunoz.com](https://juandamunoz.com) (project page + separate article, on branch `feature/petro-report-nlp-audit`) is planned in `documents/portfolio_integration.md`. The article waits until verification goes beyond the pilot.
+Integration with [juandamunoz.com](https://juandamunoz.com): the project page and the static bundle at `/libro-de-la-verdad/` are in PR #2 of the portfolio repo (branch `feature/petro-report-nlp-audit`). The article is not integrated yet: it needs the author's confirmed text and human review of the pilot. See `documents/portfolio_integration.md`.
 
 ## Repository status
 
