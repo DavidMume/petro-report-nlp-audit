@@ -156,9 +156,9 @@ support).
 
 ## Implementation status (2026-09-30)
 
-Every section above has a working implementation in `src/`, with results in `outputs/` and
+The AI-detector calibration (§23.5) ran on 2026-09-30; no detector passed (see `RESEARCH_LOG.md`). Every section above has a working implementation in `src/`, with results in `outputs/` and
 the decisions behind them in `RESEARCH_LOG.md`. Not yet done: human review of claim candidates,
 verification beyond the 10-claim pilot, reconstruction from raw datasets (SIIF, SECOP, GEIH
-microdata), running the AI-detector calibration experiment (§23.5; prepared, runs on the maintainer's machine), the historical comparison corpus of
+microdata), the historical comparison corpus of
 the same authors (§23.10), and the editorial article (the portfolio project page is in PR #2). Known limitations are listed in
 `documents/limitations.md`.

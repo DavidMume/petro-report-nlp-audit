@@ -8,6 +8,7 @@ Writes outputs/tables/detector_calibration_metrics.csv   AUC (cluster bootstrap 
        outputs/tables/detector_libro_summary.csv         counts per chapter next to the expected false positives
        outputs/charts/27_detector_calibration_roc.png
        outputs/charts/28_detector_score_distributions.png
+       outputs/charts/29_detector_auc_by_comparison.png
 
 No output of this script is a percentage of the report written by AI.
 """
@@ -16,6 +17,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -29,6 +31,12 @@ from src.config import CHARTS_DIR, TABLES_DIR
 
 CORPUS_LABELS = {"A_human": "Humanos (control, 2015–2022)", "B_ai": "Generados por IA (control)",
                  "C_hybrid": "Híbridos (control)", "target_libro": "El Libro de la Verdad"}
+STATUS_ES = {"calibrated": "calibrado", "preliminary": "preliminar", "not_informative": "no informativo",
+             "not_run": "sin ejecutar"}
+
+
+def _status(gate: dict, d: str) -> str:
+    return STATUS_ES.get(gate.get(d, {}).get("status", ""), "")
 
 
 def charts(scores: pd.DataFrame, gate: dict, suffix: str = "") -> None:
@@ -38,7 +46,8 @@ def charts(scores: pd.DataFrame, gate: dict, suffix: str = "") -> None:
     vz.setup_style()
     s = cal.oriented_scores(scores)
     dets = [d for d in cal.DETECTORS if f"ai_score__{d}" in s]
-    note = "Fuente: corpus de control A/B/C y El Libro de la Verdad (2026); cálculos propios — petro-report-nlp-audit"
+    corpora = "A/B/C" if (s.corpus == "C_hybrid").any() else "A/B"
+    note = f"Fuente: corpus de control {corpora} y El Libro de la Verdad (2026); cálculos propios — petro-report-nlp-audit"
 
     # ROC curves, primary comparison (A vs B)
     fig, ax = plt.subplots(figsize=(6.2, 5.2))
@@ -52,7 +61,7 @@ def charts(scores: pd.DataFrame, gate: dict, suffix: str = "") -> None:
         fpr = [((sc >= t) & (y == 0)).sum() / max((y == 0).sum(), 1) for t in thr]
         auc = cal.auc(y, sc)
         ax.plot([0] + fpr, [0] + tpr, color=vz.CATEGORICAL[k], lw=1.8,
-                label=f"{cal.DETECTORS[d]['label']} · AUC {auc:.2f} · {gate.get(d, {}).get('status', '')}")
+                label=f"{cal.DETECTORS[d]['label']} · AUC {auc:.2f} · {_status(gate, d)}")
     ax.plot([0, 1], [0, 1], color=vz.DEEMPH, lw=1, ls="--")
     ax.axvline(cal.GATE["target_fpr"], color=vz.MUTED, lw=0.8)
     ax.set_xlabel("Tasa de falsos positivos (textos humanos marcados)")
@@ -61,11 +70,11 @@ def charts(scores: pd.DataFrame, gate: dict, suffix: str = "") -> None:
     ax.legend(loc="lower right", fontsize=7)
     ax.set_xlim(0, 1), ax.set_ylim(0, 1.01)
     vz._finish(fig, ax, CHARTS_DIR / f"27_detector_calibration_roc{suffix}.png",
-               subtitle="Curvas ROC sobre el corpus de control. La línea vertical marca la tasa de falsos positivos "
-                        "objetivo (5%). Un detector sin capacidad de separar sigue la diagonal.", note=note)
+               subtitle="Corpus de control. Línea vertical: 5% de falsos positivos. Diagonal: azar.", note=note)
 
     # Score distributions by corpus, one panel per detector
-    fig, axes = plt.subplots(len(dets), 1, figsize=(7.2, 2.2 * len(dets) + 0.6), squeeze=False)
+    fig, axes = plt.subplots(len(dets), 1, figsize=(7.2, 2.4 * len(dets) + 0.6), squeeze=False,
+                             gridspec_kw={"hspace": 0.75})
     order = [c for c in CORPUS_LABELS if c in set(s.corpus)]
     for ax, d in zip(axes[:, 0], dets):
         col = f"ai_score__{d}"
@@ -83,14 +92,85 @@ def charts(scores: pd.DataFrame, gate: dict, suffix: str = "") -> None:
         g = gate.get(d, {})
         if "threshold" in g:
             ax.axvline(g["threshold"], color=vz.CATEGORICAL[1], lw=1)
-        ax.set_title(f"{cal.DETECTORS[d]['label']} — {g.get('status', '')}", fontsize=9.5)
+        ax.set_title(f"{cal.DETECTORS[d]['label']} — {_status(gate, d)}", fontsize=9.5)
         ax.xaxis.grid(True)
         ax.set_axisbelow(True)
         ax.invert_yaxis()
     axes[-1, 0].set_xlabel("Puntaje orientado (más a la derecha = más parecido a los textos generados)")
     vz._finish(fig, None, CHARTS_DIR / f"28_detector_score_distributions{suffix}.png",
-               subtitle="La línea naranja es el umbral que el 95% de los textos humanos de control no supera. "
-                        "Un pasaje a la derecha del umbral no está probado como escrito por IA.", note=note)
+               subtitle="Línea naranja: umbral que el 95% de los textos humanos de control no supera.", note=note)
+
+    # AUC by comparison, with cluster-bootstrap intervals
+    m = cal.calibrate(scores)
+    m = m[m.detector.isin(["binoculars", "fast_detectgpt"])]
+    comps = [c for c in m.comparison.unique() if not c.startswith("confound")]
+    nice = {"primary: A vs B": "Todos los humanos vs todos los generados",
+            "A[pre_llm_2015_2018] vs B": "Solo humanos 2015–2018", "A[pre_chatgpt_2022] vs B": "Solo humanos 2022",
+            "A vs C (hybrid)": "Humanos vs híbridos"}
+
+    def lab(c):
+        if c in nice:
+            return nice[c]
+        mm = re.match(r"A vs B\[(?:genre=)?(.+)\]", c)
+        return ("Generados por " if "claude" in c else "Género: ") + (mm.group(1) if mm else c).replace("_", " ")
+    fig, ax = plt.subplots(figsize=(7.4, 0.36 * len(comps) + 1.4))
+    y = np.arange(len(comps))[::-1]
+    for k, d in enumerate(["binoculars", "fast_detectgpt"]):
+        sub = m[m.detector == d].set_index("comparison").reindex(comps)
+        off = 0.14 if k == 0 else -0.14
+        ax.hlines(y + off, sub.auc_ci_low, sub.auc_ci_high, color=vz.CATEGORICAL[k], lw=1.6)
+        ax.plot(sub.roc_auc, y + off, "o", color=vz.CATEGORICAL[k], ms=4.5, label=cal.DETECTORS[d]["label"])
+    ax.axvline(0.5, color=vz.DEEMPH, lw=1, ls="--")
+    ax.axvline(cal.GATE["min_auc_ci_low"], color=vz.MUTED, lw=0.8)
+    ax.set_yticks(y, [lab(c) for c in comps])
+    ax.set_xlim(0, 1)
+    ax.set_xlabel("ROC-AUC (0,5 = azar; la compuerta exige que el límite inferior supere 0,8)")
+    ax.set_title("¿Dónde separan los detectores y dónde no?")
+    ax.xaxis.grid(True)
+    ax.set_axisbelow(True)
+    ax.legend(loc="lower left", fontsize=7.5)
+    vz._finish(fig, ax, CHARTS_DIR / f"29_detector_auc_by_comparison{suffix}.png",
+               subtitle="Punto: AUC; línea: intervalo de 95% (bootstrap por documento y por instrucción).", note=note)
+
+
+def findings(scores: pd.DataFrame, res) -> list[str]:
+    """Data-driven descriptive findings for the write-up (no attribution)."""
+    m = res.metrics.set_index(["detector", "comparison"])
+    out = []
+
+    def a(det, comp):
+        return m.loc[(det, comp), "roc_auc"] if (det, comp) in m.index else float("nan")
+    gens = sorted(scores[scores.corpus == "B_ai"].generator.dropna().unique())
+    if gens:
+        per = ", ".join(f"{g} {a('binoculars', f'A vs B[{g}]'):.2f}" for g in gens)
+        out.append(f"La capacidad de separar depende del modelo que generó el texto (AUC de Binoculars: {per}). "
+                   "Un detector que funciona con un generador puede fallar por completo con otro.")
+    bs = a("binoculars", "A vs B[genre=balance_sectorial]")
+    if bs == bs:
+        out.append(f"En el género más parecido al capítulo IV del informe (balance sectorial), los detectores casi no "
+                   f"separan los textos humanos de los generados (AUC de Binoculars {bs:.2f}; 0,5 es azar).")
+    lp = a("log_perplexity", "primary: A vs B")
+    if lp == lp and lp < 0.5:
+        out.append(f"La perplejidad sola apunta al revés (AUC {lp:.2f}): los informes gubernamentales humanos son tan "
+                   "formulaicos que resultan más predecibles para el modelo que los textos generados. Un detector "
+                   "basado en perplejidad marcaría como 'IA' a textos burocráticos escritos por personas.")
+    conf = a("artifact_rate", "confound: A vs B")
+    if conf == conf:
+        out.append(f"Los restos de extracción del PDF separan parcialmente los corpus (AUC {conf:.2f}), aunque son "
+                   "escasos; es una fuente de sesgo que se controla usando la misma extracción para el informe.")
+    sc = cal.oriented_scores(scores)
+    A, T = sc[sc.corpus == "A_human"], sc[sc.corpus == "target_libro"]
+    if len(A) and len(T):
+        parts = []
+        for d in ("binoculars", "fast_detectgpt"):
+            col = f"ai_score__{d}"
+            thr = np.quantile(A[col], 1 - cal.GATE["target_fpr"])
+            parts.append(f"{cal.DETECTORS[d]['label']}: {int((T[col] > thr).sum())} de {len(T)}")
+        out.append("Solo como descripción (los detectores no pasaron la calibración y no se aplican): los pasajes del "
+                   "informe quedan del lado humano de las distribuciones; pasajes por encima del umbral de los "
+                   f"controles humanos: {'; '.join(parts)}. Como esos detectores dejan pasar la mayoría de los textos "
+                   "generados de control, esto tampoco demuestra que el informe haya sido escrito sin IA.")
+    return out
 
 
 def main() -> None:
@@ -128,6 +208,7 @@ def main() -> None:
                    "aplica al informe si pasa la compuerta; sus marcas se informan como conteos junto al número "
                    "esperado de falsos positivos, nunca como porcentaje del documento escrito por IA."),
     }
+    status["findings_es"] = findings(scores, res)
     if a.dry_run:
         status["warning"] = "DRY RUN with tiny random models: the numbers are meaningless."
     payload = json.dumps(status, indent=2, ensure_ascii=False) + "\n"

@@ -67,7 +67,7 @@
       "threshold": -1.6041393876075747,
       "cv_fpr": 0.0625,
       "cv_fpr_ci": [
-        0.028974531647761512,
+        0.02897453164776151,
         0.11532775635159213
       ],
       "cv_tpr": 0.0,
@@ -83,5 +83,12 @@
     "Fast-DetectGPT analítico (Qwen2.5 base): no separó de forma fiable los textos humanos de los generados en el corpus de control (límite inferior del IC 95% del AUC 0.55 < 0.8). No se aplicó al informe.",
     "Log-perplejidad (línea base): no separó de forma fiable los textos humanos de los generados en el corpus de control (límite inferior del IC 95% del AUC 0.21 < 0.8). No se aplicó al informe."
   ],
-  "reason": "Detectores de ceros disparos calibrados sobre textos de control en español. Un detector solo se aplica al informe si pasa la compuerta; sus marcas se informan como conteos junto al número esperado de falsos positivos, nunca como porcentaje del documento escrito por IA."
+  "reason": "Detectores de ceros disparos calibrados sobre textos de control en español. Un detector solo se aplica al informe si pasa la compuerta; sus marcas se informan como conteos junto al número esperado de falsos positivos, nunca como porcentaje del documento escrito por IA.",
+  "findings_es": [
+    "La capacidad de separar depende del modelo que generó el texto (AUC de Binoculars: claude-haiku 0.35, claude-opus 0.82, claude-sonnet 0.83). Un detector que funciona con un generador puede fallar por completo con otro.",
+    "En el género más parecido al capítulo IV del informe (balance sectorial), los detectores casi no separan los textos humanos de los generados (AUC de Binoculars 0.56; 0,5 es azar).",
+    "La perplejidad sola apunta al revés (AUC 0.31): los informes gubernamentales humanos son tan formulaicos que resultan más predecibles para el modelo que los textos generados. Un detector basado en perplejidad marcaría como 'IA' a textos burocráticos escritos por personas.",
+    "Los restos de extracción del PDF separan parcialmente los corpus (AUC 0.66), aunque son escasos; es una fuente de sesgo que se controla usando la misma extracción para el informe.",
+    "Solo como descripción (los detectores no pasaron la calibración y no se aplican): los pasajes del informe quedan del lado humano de las distribuciones; pasajes por encima del umbral de los controles humanos: Binoculars (Qwen2.5 base/instruct): 0 de 128; Fast-DetectGPT analítico (Qwen2.5 base): 0 de 128. Como esos detectores dejan pasar la mayoría de los textos generados de control, esto tampoco demuestra que el informe haya sido escrito sin IA."
+  ]
 }

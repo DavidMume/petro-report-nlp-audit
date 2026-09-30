@@ -255,3 +255,30 @@ Each item: **decision — reason — alternative — impact.**
 **Why it is not run here.** The build environment cannot reach huggingface.co or the `.gov.co` hosts (proxy 403), and neither can the desktop VM. The experiment runs on the maintainer's machine with `bash scripts/run_detectors_mac.sh`. The whole chain was exercised with tiny random models (`make detectors-dryrun`) and unit tests on synthetic scores (`tests/test_calibration.py`).
 
 **Next.** Run on the maintainer's machine. Then build corpus C (human passages from A rewritten by the three models), score it, and write up the results, including any negative result (a detector that does not separate the controls is reported as such and not applied).
+
+## 2026-09-30 — Detector calibration run: no detector passes (negative finding)
+
+**Run.** Maintainer's MacBook Pro, `bash scripts/run_detectors_mac.sh`, Qwen2.5-1.5B + Qwen2.5-1.5B-Instruct on Apple MPS in bfloat16 (torch 2.14.0, transformers 5.17.0). 0 non-finite scores. Downloads (`sources/calibration/A_human/downloads.csv`): 12 of 16 human documents; H13–H15 (hosted on a party website) returned 403 and H16 (mineducacion.gov.co) reset the connection. All 12 have PDF creation dates before 2022-11-30 (H04 has none; its cover dates it to July 2016). Scored: 144 human passages (12 per document; 72 from 2015–2018, 72 from 2022), 72 generated, 128 from the report.
+
+**Result.** No detector reaches the gate; none is applied to the report (`outputs/tables/detector_calibration_metrics.csv`, charts 27–29).
+
+| Detector | AUC (95% cluster-bootstrap CI) | Held-out FPR | Held-out TPR | Gate |
+|---|---|---|---|---|
+| Binoculars | 0.67 (0.59–0.75) | 4.9% | 26% | not informative |
+| Fast-DetectGPT (analytic) | 0.63 (0.55–0.71) | 5.6% | 29% | not informative |
+| Log-perplexity | 0.31 (0.21–0.42) | 6.2% | 0% | not informative |
+
+**What the controls show.**
+- *Generator dependence.* Binoculars AUC 0.82 for claude-opus and 0.83 for claude-sonnet, but 0.35 for claude-haiku, whose texts look *less* machine-like than the human reports. A detector tuned to one generator can fail completely on another, and the report's drafters, if they used AI, used unknown tools.
+- *Genre.* On generated sector balances (the genre of chapter IV) AUC is 0.56 (Binoculars) and 0.51 (Fast-DetectGPT): chance level. Separation is better for letters (0.79) and principles (0.87), which are small subsets (9 and 15 passages).
+- *Perplexity is inverted.* Human government reports are more predictable to the model than the generated texts (AUC 0.31). Formulaic bureaucratic Spanish would be flagged as "AI" by a perplexity rule: the classic false-positive mechanism, observed here directly.
+- *Period.* Results are similar with only 2015–2018 controls (0.65) and only 2022 controls (0.68), so the 2022 documents are not driving the result.
+- *Confound.* `artifact_rate` alone gives AUC 0.66: human PDF passages carry a little extraction debris that typed text does not. Small in absolute terms (0.17% of tokens), but a reminder that corpus construction can leak into detector scores.
+
+**Descriptive only.** The report's passages fall on the human side of every distribution. None of its 128 passages exceeds the 95th percentile of the human controls for Binoculars or Fast-DetectGPT, and its perplexity is *higher* than both control groups. A likely reason is that the report is dense in proper names, figures, contract numbers and acronyms, which raise perplexity. This is **not** evidence that the report was written without AI: the same detectors missed about 70% of the generated controls.
+
+**Corpus C not built.** Hybrids (human text rewritten by a model) are harder to detect than fully generated text, and no detector passed on A vs B, so C could not change the conclusion. The code path remains (`C_hybrid/raw_*.jsonl`) should a stronger detector be tried.
+
+**What could change the result.** Larger scoring models (the Binoculars paper uses a 7B pair; that needs about 32 GB of RAM), longer passages, and generated controls from other model families (GPT, Gemini, Llama), because the drafting tool is unknown. None of these would license a percentage claim; they could at most make a count-based statement possible.
+
+**Conclusion for publication.** The strongest evidence about AI use remains the report's own statement (ch. I) that AI tools supported information processing and the organisation of inputs. Open zero-shot detectors cannot reliably tell human from generated Spanish institutional text in this setting, so they provide no evidence in either direction about who drafted the report.

@@ -45,6 +45,12 @@ export function ProvenancePage({ d }: { d: DataBundle }) {
             <ul className="small">
               {(d.meta.ai_detectors.statements_es || []).map((t: string, i: number) => <li key={i}>{t}</li>)}
             </ul>
+            {(d.meta.ai_detectors.findings_es || []).length > 0 && <>
+              <p className="small"><strong>Qué mostró el experimento</strong></p>
+              <ul className="small ink2">
+                {d.meta.ai_detectors.findings_es.map((t: string, i: number) => <li key={i}>{t}</li>)}
+              </ul>
+            </>}
             <p className="small muted">{d.meta.ai_detectors.reason}</p>
           </>)}
         </div>
@@ -76,8 +82,8 @@ export function ProvenancePage({ d }: { d: DataBundle }) {
       <div className="card" style={{ marginTop: 16 }}>
         <h3>Segmentos atípicos</h3>
         <p className="small muted">Distancia de Mahalanobis &gt; χ² al 97,5 %. Un segmento atípico es distinto en estilo; eso no dice nada de quién lo escribió.</p>
-        <table><thead><tr><th>Segmento</th><th>Páginas</th><th>Sección</th><th className="num">Mahalanobis²</th></tr></thead>
-          <tbody>{outliers.map((s: any) => <tr key={s.segment_id}><td>{s.segment_id}</td><td>{s.pages}</td><td className="small">{s.section}</td><td className="num">{fmt(s.mahalanobis_sq, 1)}</td></tr>)}</tbody></table>
+        <div className="table-wrap"><table><thead><tr><th>Segmento</th><th>Páginas</th><th>Sección</th><th className="num">Mahalanobis²</th></tr></thead>
+          <tbody>{outliers.map((s: any) => <tr key={s.segment_id}><td>{s.segment_id}</td><td>{s.pages}</td><td className="small">{s.section}</td><td className="num">{fmt(s.mahalanobis_sq, 1)}</td></tr>)}</tbody></table></div>
         <p className="small ink2">El segmento de preliminares reúne el índice y las cartas firmadas (un género distinto); el de
           las pp. 51–53 contiene casos de riesgo litigioso con citas normativas densas.</p>
       </div>
